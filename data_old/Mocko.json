@@ -1,0 +1,960 @@
+[
+    {
+        "title": "A Case Study in Challenging Engineering Requirements",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:3s1wT3WcHBgC"
+    },
+    {
+        "title": "A Combined Multi‐Material Euler/Lagrange Computational Analysis of Blast Loading Resulting from Detonation of Buried Landmines",
+        "pub_year": "2008",
+        "citation": "Multidiscipline Modeling in Materials and Structures 4 (2), 105-124, 2008",
+        "num_citations": 36,
+        "author_pub_id": "a0IJVCQAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "A Representation of Artefacts and Interactions to Supplement Function",
+        "pub_year": "2010",
+        "citation": "International Symposium on Tools and Methods of Competitive Engineering …, 2010",
+        "num_citations": 3,
+        "author_pub_id": "a0IJVCQAAAAJ:q7LczdTNAjsC"
+    },
+    {
+        "title": "A Scientific Formalism for Product Realization in a Global Manufacturing Enterprise",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+        "title": "A User Study to Evaluate the Function Model and Function Interaction Model for Concept Generation",
+        "pub_year": "2011",
+        "citation": "International design engineering technical conferences and computers and …, 2011",
+        "num_citations": 20,
+        "author_pub_id": "a0IJVCQAAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "A critical analysis of description logics for engineering information management",
+        "pub_year": "2006",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
+        "num_citations": 10,
+        "author_pub_id": "a0IJVCQAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+        "title": "A finite element simulation model of convective heat-assisted single-point incremental forming of thermoplastics",
+        "pub_year": "2020",
+        "citation": "The International Journal of Advanced Manufacturing Technology 111, 3305-3317, 2020",
+        "num_citations": 8,
+        "author_pub_id": "a0IJVCQAAAAJ:qQc65DSaYXMC"
+    },
+    {
+        "title": "A formal representation of function structure graphs for physics-based reasoning",
+        "pub_year": "2013",
+        "citation": "Journal of Computing and Information Science in Engineering 13 (2), 021001, 2013",
+        "num_citations": 48,
+        "author_pub_id": "a0IJVCQAAAAJ:BqipwSGYUEgC"
+    },
+    {
+        "title": "A hierarchical requirements modeling scheme to support engineering innovation",
+        "pub_year": "2007",
+        "citation": "DS 42: Proceedings of ICED 2007, the 16th International Conference on …, 2007",
+        "num_citations": 26,
+        "author_pub_id": "a0IJVCQAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+        "title": "A knowledge based FMEA to support identification and management of vehicle flexible component issues",
+        "pub_year": "2016",
+        "citation": "Procedia Cirp 44, 157-162, 2016",
+        "num_citations": 56,
+        "author_pub_id": "a0IJVCQAAAAJ:dT4-KZ621vcC"
+    },
+    {
+        "title": "A knowledge framework for integrating multiple perspectives in decision-centric design",
+        "pub_year": "2006",
+        "citation": "Georgia Institute of Technology, 2006",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "A knowledge repository for behavioral models in engineering design",
+        "pub_year": "2004",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
+        "num_citations": 87,
+        "author_pub_id": "a0IJVCQAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "A method for evaluating manufacturing change in engineering design",
+        "pub_year": "2011",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+        "title": "A method for identifying requirements critical to mass reduction using DSMs and DMMs",
+        "pub_year": "2009",
+        "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
+        "num_citations": 8,
+        "author_pub_id": "a0IJVCQAAAAJ:0EnyYjriUFMC"
+    },
+    {
+        "title": "A modeling scheme for capturing and analyzing conceptual design information: An application to the hair dryer example and comparison to existing literature",
+        "pub_year": "2007",
+        "citation": "International Conference of Engineering Design, Paris, France, 2007",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:yL7DKRohVA8C"
+    },
+    {
+        "title": "A modelling scheme for capturing and analyzing multi-domain design information: a hair dryer design example",
+        "pub_year": "2007",
+        "citation": "DS 42: Proceedings of ICED 2007, the 16th International Conference on …, 2007",
+        "num_citations": 23,
+        "author_pub_id": "a0IJVCQAAAAJ:4WewbtJKmRkC"
+    },
+    {
+        "title": "A protocol to formalise function verbs to support conservation-based model checking",
+        "pub_year": "2011",
+        "citation": "Journal of Engineering Design 22 (11-12), 765-788, 2011",
+        "num_citations": 41,
+        "author_pub_id": "a0IJVCQAAAAJ:dhFuZR0502QC"
+    },
+    {
+        "title": "A survey of design-analysis integration issues",
+        "pub_year": "2003",
+        "citation": "US Department of Commerce, Technology Administration, National Institute of …, 2003",
+        "num_citations": 24,
+        "author_pub_id": "a0IJVCQAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "A survey of mathematical models of human performance using power and energy",
+        "pub_year": "2019",
+        "citation": "Sports medicine-open 5 (1), 54, 2019",
+        "num_citations": 25,
+        "author_pub_id": "a0IJVCQAAAAJ:KPAPMsW7zc0C"
+    },
+    {
+        "title": "A survey of mathematical models of human performance using power and energy",
+        "pub_year": "2019",
+        "citation": "figshare Academic Research System, 2019",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:PPrs6GlykQcC"
+    },
+    {
+        "title": "A systematic method for modelling and analysing conceptual design information",
+        "pub_year": "2007",
+        "citation": "DSM 2007: Proceedings of the 9th International DSM Conference, Munich …, 2007",
+        "num_citations": 7,
+        "author_pub_id": "a0IJVCQAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+        "title": "An empirical study of the expressiveness of the functional basis",
+        "pub_year": "2011",
+        "citation": "AI EDAM 25 (3), 273-287, 2011",
+        "num_citations": 47,
+        "author_pub_id": "a0IJVCQAAAAJ:8k81kl-MbHgC"
+    },
+    {
+        "title": "An experimental protocol to model recovery of anaerobic work capacity",
+        "pub_year": "2018",
+        "citation": "Proceedings 2 (6), 2018",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:bFuYayV9R1gC"
+    },
+    {
+        "title": "Application of a lightweight engineering tool: lazy parts analysis and redesign of a remote controlled car",
+        "pub_year": "2011",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
+        "num_citations": 7,
+        "author_pub_id": "a0IJVCQAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "Approaches for simulation model reuse in systems design—A review",
+        "pub_year": "2022",
+        "citation": "SAE International Journal of Advances and Current Practices in Mobility 4 …, 2022",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:2u1QkWOsl3MC"
+    },
+    {
+        "title": "Assessing the use of function models and interaction models through concept sketching",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:ZHo1McVdvXMC"
+    },
+    {
+        "title": "Automated Navigation of Method Time Measurement Tables for Automotive Assembly Line Planning",
+        "pub_year": "2013",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
+        "num_citations": 13,
+        "author_pub_id": "a0IJVCQAAAAJ:fPk4N6BV_jEC"
+    },
+    {
+        "title": "Automotive lightweight engineering: a method for identifying lazy parts",
+        "pub_year": "2013",
+        "citation": "International journal of vehicle design 63 (4), 364-386, 2013",
+        "num_citations": 19,
+        "author_pub_id": "a0IJVCQAAAAJ:RGFaLdJalmkC"
+    },
+    {
+        "title": "Can design evaluation tools predict/prevent change propagation",
+        "pub_year": "2012",
+        "citation": "Proceedings of Tools and Methods of Competitive Engineering, Karlsruhe, Germany, 2012",
+        "num_citations": 7,
+        "author_pub_id": "a0IJVCQAAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "Capturing Design Process Information and Rationale to",
+        "pub_year": "2004",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+        "title": "Capturing Design Process Information and Rationale to Support Knowledge-Based Design and Analysis Integration",
+        "pub_year": "2004",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:PcT55Ow6fAIC"
+    },
+    {
+        "title": "Capturing design process information and rationale to support knowledge-based design and analysis integration",
+        "pub_year": "2004",
+        "citation": "Georgia Institute of Technology, 2004",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:URGbnSt0D2cC"
+    },
+    {
+        "title": "Case study method for design research: A justification",
+        "pub_year": "2008",
+        "citation": "International design engineering technical conferences and computers and …, 2008",
+        "num_citations": 294,
+        "author_pub_id": "a0IJVCQAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+        "title": "Challenges in Designing and Manufacturing Fully Optimized Functional Gradient Material Objects",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:P2d6BWbXU0IC"
+    },
+    {
+        "title": "Characterizing and Managing Knowledge about Behavioral Models",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:BKYZGPsuSFYC"
+    },
+    {
+        "title": "Clemson Engineering Design—Applications and Research (CEDAR) Group—Clemson University, Clemson, SC, USA",
+        "pub_year": "2015",
+        "citation": "Impact of Design Research on Industrial Practice: Tools, Technology, and …, 2015",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:mnAcAzq93VMC"
+    },
+    {
+        "title": "Comparison Of Ventilatory Thresholds Via V-slope Method To Lactate Thresholds With NIRS: 395 Board# 232 June 1, 11: 00 AM-12: 30 PM",
+        "pub_year": "2016",
+        "citation": "Medicine & Science in Sports & Exercise 48 (5S), 107-108, 2016",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:ZJ-noXUx9mkC"
+    },
+    {
+        "title": "Comparison of Threshold Determinations between Blood Lactate Samples and Near Infrared Spectroscopy: 1580 Board# 233 June 2, 9: 00 AM-10: 30 AM",
+        "pub_year": "2016",
+        "citation": "Medicine & Science in Sports & Exercise 48 (5S), 434, 2016",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:dj1AAMDQi3QC"
+    },
+    {
+        "title": "Comparison of Threshold Determinations between Blood Lactate/Ventilatory and Near Infrared Spectroscopy",
+        "pub_year": "2016",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:S_fw-_riRmcC"
+    },
+    {
+        "title": "Comparison of room temperature and heat assisted single point incremental forming of thermoplastics",
+        "pub_year": "2019",
+        "citation": "Adv Manuf Technol 33, 346-351, 2019",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:2mikiJ1VBVsC"
+    },
+    {
+        "title": "Computationally Assisted Retrieval and Reuse of 3D Solid Models and Assembly Work Instructions",
+        "pub_year": "2021",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:Gs1AF5H0x94C"
+    },
+    {
+        "title": "Computing similarity of text-based assembly processes for knowledge retrieval and reuse",
+        "pub_year": "2016",
+        "citation": "Journal of Manufacturing Systems 39, 101-110, 2016",
+        "num_citations": 41,
+        "author_pub_id": "a0IJVCQAAAAJ:pe4chHNxNLUC"
+    },
+    {
+        "title": "Concept exploration through morphological charts: an experimental study",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 63,
+        "author_pub_id": "a0IJVCQAAAAJ:qUcmZB5y_30C"
+    },
+    {
+        "title": "Concept generation through morphological and options matrices",
+        "pub_year": "2013",
+        "citation": "ICoRD'13: Global Product Development, 199-210, 2013",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+        "title": "Concept generation using morphological and options matrices",
+        "pub_year": "2012",
+        "citation": "Clemson University, 2012",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:zA6iFVUQeVQC"
+    },
+    {
+        "title": "Control of thermoforming process parameters to increase quality of surfaces using pin-based tooling",
+        "pub_year": "2015",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
+        "num_citations": 10,
+        "author_pub_id": "a0IJVCQAAAAJ:ZYLUaBFA95QC"
+    },
+    {
+        "title": "Database support for reverse engineering, product teardown, and redesign as integrated into a mechanical engineering course",
+        "pub_year": "2008",
+        "citation": "Comput. Educ. J 18 (4), 9-21, 2008",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:ns9cj8rnVeAC"
+    },
+    {
+        "title": "Decision Support Development for Product-Process Coupling in Mass Customized Automotive Assembly",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:uoeYKOKFegwC"
+    },
+    {
+        "title": "Decision retrieval and storage enabled through description logic",
+        "pub_year": "2007",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
+        "num_citations": 21,
+        "author_pub_id": "a0IJVCQAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+        "title": "Decision support systems for assembly line planning: Modular subsystems for a large-scale production management system",
+        "pub_year": "2013",
+        "citation": "Clemson University, 2013",
+        "num_citations": 12,
+        "author_pub_id": "a0IJVCQAAAAJ:2P1L_qKh6hAC"
+    },
+    {
+        "title": "Design and implementation of a line balance visualization and editing tool",
+        "pub_year": "2015",
+        "citation": "ICoRD’15–Research into Design Across Boundaries Volume 2: Creativity …, 2015",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:pYRxIbzCxX0C"
+    },
+    {
+        "title": "Design method development: A case study and survey",
+        "pub_year": "2008",
+        "citation": "Tools and Methods of Competitive Engineering, 2008",
+        "num_citations": 10,
+        "author_pub_id": "a0IJVCQAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+        "title": "Design problems as potential moderators in creativity studies",
+        "pub_year": "2016",
+        "citation": "DS86: Proceedings of The Fourth International Conference on Design …, 2016",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:P-MJmu9ZMwQC"
+    },
+    {
+        "title": "Developing Domain Ontologies and an Integration Ontology to Support Modeling and Simulation of Next-Generation Ground Vehicle Systems",
+        "pub_year": "2022",
+        "citation": "SAE Technical Paper, 2022",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:KYgttONoxcsC"
+    },
+    {
+        "title": "Diagnosing Engineering Information Interoperability: Recognizing the Value of Standards-Based PLM—Part 1",
+        "pub_year": "2005",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:Zph67rFs4hoC"
+    },
+    {
+        "title": "Effects Of w’Depletion On The Torque Velocity Relationship In Cycling: 1033 Board# 159 May 27 1: 30 PM-3: 00 PM",
+        "pub_year": "2020",
+        "citation": "Medicine & Science in Sports & Exercise 52 (7S), 264, 2020",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:n8FNryW2AHIC"
+    },
+    {
+        "title": "Empirical examination of the functional basis and design repository",
+        "pub_year": "2008",
+        "citation": "Design Computing and Cognition'08: Proceedings of the Third International …, 2008",
+        "num_citations": 29,
+        "author_pub_id": "a0IJVCQAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "Engineering design complexity: an investigation of methods and measures",
+        "pub_year": "2008",
+        "citation": "Research in Engineering Design 19, 161-179, 2008",
+        "num_citations": 205,
+        "author_pub_id": "a0IJVCQAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Evaluating and comparing functional and geometric complexity of products",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:j3f4tGmQtD8C"
+    },
+    {
+        "title": "Evaluation of the functional basis using an information theoretic approach",
+        "pub_year": "2010",
+        "citation": "AI EDAM 24 (1), 87-105, 2010",
+        "num_citations": 78,
+        "author_pub_id": "a0IJVCQAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Evolution of a Survey for Self-Reported Engineering Design Space Exploration Tendency",
+        "pub_year": "2024",
+        "citation": "2024 South East Section Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:uQdrZ3qaPmcC"
+    },
+    {
+        "title": "Experimental Investigation of a Backing Sheet Stiffener in Incremental Forming of Polycarbonate",
+        "pub_year": "2019",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 59377 …, 2019",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:uGrg30pLAbkC"
+    },
+    {
+        "title": "Experimental investigation and finite element modeling of localized heating in convective heat-assisted single-point incremental forming",
+        "pub_year": "2020",
+        "citation": "The International Journal of Advanced Manufacturing Technology 107, 945-957, 2020",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:_u2aKJ9e-CoC"
+    },
+    {
+        "title": "Experimental modeling of cyclists fatigue and recovery dynamics enabling optimal pacing in a time trial",
+        "pub_year": "2019",
+        "citation": "2019 American Control Conference (ACC), 5083-5088, 2019",
+        "num_citations": 16,
+        "author_pub_id": "a0IJVCQAAAAJ:0kLwNjf3oFwC"
+    },
+    {
+        "title": "Exploring potentials for conservational reasoning using topologic rules of function structure graphs",
+        "pub_year": "2011",
+        "citation": "DS 68-9: Proceedings of the 18th International Conference on Engineering …, 2011",
+        "num_citations": 13,
+        "author_pub_id": "a0IJVCQAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Factors that effect motivation and performance on innovative design projects",
+        "pub_year": "2013",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
+        "num_citations": 17,
+        "author_pub_id": "a0IJVCQAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+        "title": "Function Representations in Morphological Charts: An Experimental Study on Variety",
+        "pub_year": "2011",
+        "citation": "Proceedings of the Interdisciplinary Design: 21st CIRP Design Conference, 2011",
+        "num_citations": 35,
+        "author_pub_id": "a0IJVCQAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+        "title": "Functional similarity at varying levels of abstraction",
+        "pub_year": "2010",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Generating design structure matrices and domain mapping matrices using SysML",
+        "pub_year": "2009",
+        "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+        "title": "Heat Assisted Single Point Incremental Forming of Polymer Sheets",
+        "pub_year": "2016",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:RZBefGmQYygC"
+    },
+    {
+        "title": "Hierarchical affordance modeling",
+        "pub_year": "2009",
+        "citation": "DS 58-5: Proceedings of ICED 09, the 17th International Conference on …, 2009",
+        "num_citations": 14,
+        "author_pub_id": "a0IJVCQAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "In-Plane Pure Shear Deformation of Cellular Materials with Novel Grip Design",
+        "pub_year": "2019",
+        "citation": "University of Texas at Austin, 2019",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:peNFRSk4lDYC"
+    },
+    {
+        "title": "Incentive Surveys",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+        "title": "Incorporating uncertainty in diagnostic analysis of mechanical systems",
+        "pub_year": "2005",
+        "citation": "J. Mech. Des. 127 (2), 315-325, 2005",
+        "num_citations": 40,
+        "author_pub_id": "a0IJVCQAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Incorporating uncertainty into diagnostic analysis of mechanical systems",
+        "pub_year": "2001",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:4DMP91E08xMC"
+    },
+    {
+        "title": "Information management capabilities of MDO frameworks",
+        "pub_year": "2008",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+        "title": "Integrated idea generation method for concept generation using morphological and options matrices",
+        "pub_year": "2014",
+        "citation": "Proc. TMCE, 1-12, 2014",
+        "num_citations": 4,
+        "author_pub_id": "a0IJVCQAAAAJ:Qh5Z_vBjo80C"
+    },
+    {
+        "title": "Investigation of the interpretability of three function structure representations: a user study",
+        "pub_year": "2009",
+        "citation": "International design engineering technical conferences and computers and …, 2009",
+        "num_citations": 21,
+        "author_pub_id": "a0IJVCQAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "Knowledge base representation for axiomatic design through ontologies",
+        "pub_year": "2013",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
+        "num_citations": 2,
+        "author_pub_id": "a0IJVCQAAAAJ:4OULZ7Gr8RgC"
+    },
+    {
+        "title": "Knowledge management for semi-automated automotive assembly instruction authorship and translation",
+        "pub_year": "2013",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:dfsIfKJdRG4C"
+    },
+    {
+        "title": "Lazy Parts Indication Method: Application to Automotive Components",
+        "pub_year": "2011",
+        "citation": "SAE Technical Paper, 2011",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:vV6vV6tmYwMC"
+    },
+    {
+        "title": "Lightweight engineering of military vehicles through requirements analysis and function integration",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+        "title": "Limitations to function structures: a case study in morphing airfoil design",
+        "pub_year": "2010",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
+        "num_citations": 20,
+        "author_pub_id": "a0IJVCQAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+        "title": "Linguistic analysis of natural language engineering requirement statements",
+        "pub_year": "2010",
+        "citation": "Tools and Methods for Competitive Engineering, 97-111, 2010",
+        "num_citations": 28,
+        "author_pub_id": "a0IJVCQAAAAJ:hMod-77fHWUC"
+    },
+    {
+        "title": "Linguistic analysis of natural language engineering requirements",
+        "pub_year": "2009",
+        "citation": "Clemson University, 2009",
+        "num_citations": 18,
+        "author_pub_id": "a0IJVCQAAAAJ:u_35RYKgDlwC"
+    },
+    {
+        "title": "Manufacturing assembly time estimation using structural complexity metric trained artificial neural networks",
+        "pub_year": "2014",
+        "citation": "Journal of computing and information science in engineering 14 (1), 011005, 2014",
+        "num_citations": 31,
+        "author_pub_id": "a0IJVCQAAAAJ:g5m5HwL7SMYC"
+    },
+    {
+        "title": "Master Product Model for the Support of Tighter Integration of Spatial and Functional Design (NISTIR 7004)",
+        "pub_year": "2003",
+        "citation": "Gaithersburg, MD: National Institute of Standards and Technology, 2003",
+        "num_citations": 43,
+        "author_pub_id": "a0IJVCQAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+        "title": "Measuring the effects of goal alignment on innovative engineering design projects",
+        "pub_year": "2016",
+        "citation": "The International journal of engineering education 32 (1), 55-63, 2016",
+        "num_citations": 3,
+        "author_pub_id": "a0IJVCQAAAAJ:CmbFvBriOyMC"
+    },
+    {
+        "title": "Metrics for Degree-of-Openness of Engineering Information",
+        "pub_year": "2010",
+        "citation": "The American Society of Mechanical Engineers (ASME), 2010",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:mB3voiENLucC"
+    },
+    {
+        "title": "Metrics for Degree-of-Openness of Engineering Information: Recognizing the Value of Standards-Based PLM—Part 2",
+        "pub_year": "2005",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:hFOr9nPyWt4C"
+    },
+    {
+        "title": "Modeling and analysis of an ontology of engineering design activities using the design structure matrix",
+        "pub_year": "2007",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:Se3iqnhoufwC"
+    },
+    {
+        "title": "Modeling the expenditure and recovery of anaerobic work capacity in cycling",
+        "pub_year": "2018",
+        "citation": "Proceedings 2 (6), 219, 2018",
+        "num_citations": 13,
+        "author_pub_id": "a0IJVCQAAAAJ:MvIMIWP2nqIC"
+    },
+    {
+        "title": "Modeling the recovery of W′ in the moderate to heavy exercise intensity domain",
+        "pub_year": "2020",
+        "citation": "Med Sci Sports Exerc 52 (12), 2646-54, 2020",
+        "num_citations": 15,
+        "author_pub_id": "a0IJVCQAAAAJ:Np1obAXpBq8C"
+    },
+    {
+        "title": "Natural language processing applications in requirements engineering",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 15,
+        "author_pub_id": "a0IJVCQAAAAJ:pqnbT2bcN3wC"
+    },
+    {
+        "title": "Ontological Knowledge Representation and Inference Rules for MTM Decision Support System",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:pwA0zy_liR0C"
+    },
+    {
+        "title": "Optimal Pacing of Cyclists in a Time Trial Based on Experimentally Calibrated Models of Fatigue and Recovery",
+        "pub_year": "2021",
+        "citation": "Clemson University, 2021",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:DrOLxFoABAwC"
+    },
+    {
+        "title": "Optimal Pacing of a Cyclist in a Time Trial Based on Experimentally Calibrated Models of Fatigue and Recovery",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:wTekDMGr9GkC"
+    },
+    {
+        "title": "Optimal Pacing of a Cyclist in a Time Trial Based on Individualized Models of Fatigue and Recovery",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Control Systems Technology 31 (1), 317-332, 2022",
+        "num_citations": 3,
+        "author_pub_id": "a0IJVCQAAAAJ:OkrdTXRNpVkC"
+    },
+    {
+        "title": "Optimal Pacing of a Cyclist in a Time Trial Based on Individualized Models of Fatigue and Recovery",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:qwOXE0mbtu4C"
+    },
+    {
+        "title": "Optimal pacing in a cycling time-trial considering cyclist's fatigue dynamics",
+        "pub_year": "2013",
+        "citation": "2013 American Control Conference, 6442-6447, 2013",
+        "num_citations": 55,
+        "author_pub_id": "a0IJVCQAAAAJ:o0eFlWRwRSUC"
+    },
+    {
+        "title": "Patent driven design: exploring the possibility of using patents to drive new design",
+        "pub_year": "2008",
+        "citation": "Tools and Methods for Competitive Engineering Conference. Izmir, Turkey, 2008",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:dJ_BR67V0s4C"
+    },
+    {
+        "title": "Physics Society",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:xckinRaLORAC"
+    },
+    {
+        "title": "Physics-based reasoning in conceptual design using a formal representation of function structure graphs",
+        "pub_year": "2013",
+        "citation": "Journal of Computing and Information Science in Engineering 13 (1), 011008, 2013",
+        "num_citations": 38,
+        "author_pub_id": "a0IJVCQAAAAJ:NMxIlDl6LWMC"
+    },
+    {
+        "title": "Predicting the Expenditure of Anaerobic Work Capacity (AWCexp) based on Changes to the Torque-Velocity Curve",
+        "pub_year": "2016",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:ExNiBuTMO9IC"
+    },
+    {
+        "title": "Preliminary investigation of the use of design methods by capstone design students at a US university",
+        "pub_year": "2009",
+        "citation": "science 12, 13, 2009",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:g9YHGIZn7mcC"
+    },
+    {
+        "title": "Product data management in undergraduate education",
+        "pub_year": "2008",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
+        "num_citations": 12,
+        "author_pub_id": "a0IJVCQAAAAJ:5nxA0vEk-isC"
+    },
+    {
+        "title": "Protocol to Determine Changes to the Torque Velocity Curve above Critical Power while Cycling",
+        "pub_year": "2016",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:f13iAvnbnnYC"
+    },
+    {
+        "title": "Reasoning: Installation process step instructions as an automated assembly time estimation tool",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 11,
+        "author_pub_id": "a0IJVCQAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Reasoning: Source of variability in the Boothroyd and Dewhurst assembly time estimation method",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 10,
+        "author_pub_id": "a0IJVCQAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+        "title": "Repeatability and variability of the 3-Min all-out test at the subject level",
+        "pub_year": "2023",
+        "citation": "Journal of Science in Sport and Exercise 5 (1), 77-86, 2023",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:FKYJxdYMdFIC"
+    },
+    {
+        "title": "Representation: structural complexity of assemblies to create neural network based assembly time estimation models",
+        "pub_year": "2012",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
+        "num_citations": 19,
+        "author_pub_id": "a0IJVCQAAAAJ:RHpTSmoSYBkC"
+    },
+    {
+        "title": "Requirement modeling systems for mechanical design: a systematic method for evaluating requirement management tools and languages",
+        "pub_year": "2010",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
+        "num_citations": 30,
+        "author_pub_id": "a0IJVCQAAAAJ:r0BpntZqJG4C"
+    },
+    {
+        "title": "Requirements and data content evaluation of industry in-house data management system",
+        "pub_year": "2010",
+        "citation": "International design engineering technical conferences and computers and …, 2010",
+        "num_citations": 35,
+        "author_pub_id": "a0IJVCQAAAAJ:iH-uZ7U-co4C"
+    },
+    {
+        "title": "Requirements in Engineering Design: What are we teaching?",
+        "pub_year": "2012",
+        "citation": "Tools and methods for competitive engineering 1 (38), 1319-1326, 2012",
+        "num_citations": 36,
+        "author_pub_id": "a0IJVCQAAAAJ:bEWYMUwI8FkC"
+    },
+    {
+        "title": "Retrieval of solid models based on assembly similarity",
+        "pub_year": "2016",
+        "citation": "Computer-Aided Design and Applications 13 (5), 628-636, 2016",
+        "num_citations": 22,
+        "author_pub_id": "a0IJVCQAAAAJ:DTjSuSUbmXsC"
+    },
+    {
+        "title": "Review of collaborative engineering environments: Software, hardware, peopleware",
+        "pub_year": "2011",
+        "citation": "DS 68-7: Proceedings of the 18th International Conference on Engineering …, 2011",
+        "num_citations": 8,
+        "author_pub_id": "a0IJVCQAAAAJ:aqlVkmm33-oC"
+    },
+    {
+        "title": "SRL 264 Research–Part I. Methodology and Technology Supporting Multifunctional Multiscale Design",
+        "pub_year": "2005",
+        "citation": "Georgia Institute of Technology, 2005",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+        "title": "Similarity of engineering design problems to enable reuse in design research experiments",
+        "pub_year": "2016",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
+        "num_citations": 18,
+        "author_pub_id": "a0IJVCQAAAAJ:6ScxedgR18sC"
+    },
+    {
+        "title": "Standardization of process sheet information to support automated translation of assembly instructions and product-process coupling",
+        "pub_year": "2012",
+        "citation": "Clemson University, 2012",
+        "num_citations": 15,
+        "author_pub_id": "a0IJVCQAAAAJ:ldfaerwXgEUC"
+    },
+    {
+        "title": "Systematic design method for information modeling in CAD/CAE",
+        "pub_year": "2003",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+        "title": "Text analysis of assembly work instructions",
+        "pub_year": "2015",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
+        "num_citations": 12,
+        "author_pub_id": "a0IJVCQAAAAJ:3jqAvCjcdfEC"
+    },
+    {
+        "title": "The Effects of Language and Pruning on Function Structure Interpretability",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:0iM-huCvmk0C"
+    },
+    {
+        "title": "The effects of language and pruning on function structure interpretability",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 33,
+        "author_pub_id": "a0IJVCQAAAAJ:IWHjjKOFINEC"
+    },
+    {
+        "title": "The use of virtual reality to support engineering design reviews",
+        "citation": "Proceedings of the Ground Vehicle Systems Engineering and Technology …, 0",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:rAN7mHg6NlYC"
+    },
+    {
+        "title": "Topological information content and expressiveness of function models in mechanical design",
+        "pub_year": "2010",
+        "citation": "",
+        "num_citations": 51,
+        "author_pub_id": "a0IJVCQAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Toward a Formal Representation of the Functional Basis Verbs",
+        "pub_year": "2010",
+        "citation": "Proc. of the Eighth International Symposium on Tools and Methods of …, 2010",
+        "num_citations": 5,
+        "author_pub_id": "a0IJVCQAAAAJ:OqYjx1B7R3oC"
+    },
+    {
+        "title": "Toward automating affordance-based design",
+        "pub_year": "2015",
+        "citation": "AI EDAM 29 (3), 297-305, 2015",
+        "num_citations": 7,
+        "author_pub_id": "a0IJVCQAAAAJ:ZZwcLRaXOV4C"
+    },
+    {
+        "title": "Towards reusable knowledge-based idealizations for rapid design and analysis",
+        "pub_year": "2004",
+        "citation": "45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics & Materials …, 2004",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:TQgYirikUcIC"
+    },
+    {
+        "title": "Towards rules for functional composition",
+        "pub_year": "2008",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
+        "num_citations": 25,
+        "author_pub_id": "a0IJVCQAAAAJ:roLk4NBRz8UC"
+    },
+    {
+        "title": "Understanding the role of functions and interaction in the product design",
+        "pub_year": "2011",
+        "citation": "Clemson University, 2011",
+        "num_citations": 9,
+        "author_pub_id": "a0IJVCQAAAAJ:blknAaTinKkC"
+    },
+    {
+        "title": "Use of big data and knowledge discovery to create data backbones for decision support systems",
+        "pub_year": "2013",
+        "citation": "Procedia Computer Science 20, 446-453, 2013",
+        "num_citations": 77,
+        "author_pub_id": "a0IJVCQAAAAJ:J_g5lzvAfSwC"
+    },
+    {
+        "title": "Using DMMs to Relate Design for Assembly Rules to Human Interaction Guidelines",
+        "pub_year": "2009",
+        "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+        "title": "Using rule based design in engineer to order industry: an SME case study",
+        "pub_year": "2008",
+        "citation": "Computer-Aided Design and Applications 5 (1-4), 178-193, 2008",
+        "num_citations": 22,
+        "author_pub_id": "a0IJVCQAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+        "title": "Validation of function pruning rules through similarity at three levels of abstraction",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 17,
+        "author_pub_id": "a0IJVCQAAAAJ:ZeXyd9-uunAC"
+    },
+    {
+        "title": "Validity And Reliability Of A Pedal-based Power Meter During Maximal Ergometer Testing: 394 Board# 231 June 1, 11: 00 AM-12: 30 PM",
+        "pub_year": "2016",
+        "citation": "Medicine & Science in Sports & Exercise 48 (5S), 107, 2016",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:UEFpDhwOD2kC"
+    },
+    {
+        "title": "Validity and reproducibility of the garmin vector power meter when compared to the SRM device",
+        "pub_year": "2017",
+        "citation": "J. Sports Sci 5, 235-241, 2017",
+        "num_citations": 6,
+        "author_pub_id": "a0IJVCQAAAAJ:Cy13deThEpcC"
+    },
+    {
+        "title": "W'Reconstitution Is Exponential and Depends on Recovery Intensity and Duration Response",
+        "pub_year": "2021",
+        "citation": "MEDICINE AND SCIENCE IN SPORTS AND EXERCISE 53 (2), 456-456, 2021",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:INdAjOZKYREC"
+    },
+    {
+        "title": "Workshop for Identifying Assembly Time Savings: An OEM Empirical Study",
+        "pub_year": "2010",
+        "citation": "2010 International Conference on Manufacturing Automation, 178-185, 2010",
+        "num_citations": 1,
+        "author_pub_id": "a0IJVCQAAAAJ:_kc_bZDykSQC"
+    }
+]
