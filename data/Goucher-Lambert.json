@@ -52,13 +52,13 @@
         "title": "Attention affordances: Applying attention theory to the design of complex visual interfaces.",
         "pub_year": "2021",
         "citation": "Journal of Experimental Psychology: Applied 27 (2), 338, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yA7xpsIAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Automating Analogical Reasoning: A Wizard of Oz study on the benefits and pitfalls of a sketch-based AI image generator for design",
-        "citation": "",
-        "num_citations": 0,
+        "citation": "Eleventh International Conference on Design Computing and Cognition (DCC), 0",
+        "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Crowdsourcing inspiration: Using crowd generated inspirational stimuli to support designer ideation",
         "pub_year": "2019",
         "citation": "Design Studies 61, 1-29, 2019",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "yA7xpsIAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -163,7 +163,7 @@
         "title": "Embedding experiential design knowledge in interactive knowledge graphs",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 041412, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "yA7xpsIAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -177,7 +177,7 @@
         "title": "Enabling multi-modal search for inspirational design stimuli using deep learning",
         "pub_year": "2022",
         "citation": "AI EDAM 36, e22, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "yA7xpsIAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -226,7 +226,7 @@
         "title": "Exploring the application of network analytics in characterizing a conceptual design space",
         "pub_year": "2019",
         "citation": "Proceedings of the Design Society: International Conference on Engineering …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yA7xpsIAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -268,7 +268,7 @@
         "title": "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice",
         "pub_year": "2022",
         "citation": "Computers in Human Behavior 127, 107018, 2022",
-        "num_citations": 135,
+        "num_citations": 138,
         "author_pub_id": "yA7xpsIAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Inspired internal search: using neuroimaging to understand design ideation and concept generation with inspirational stimuli",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "yA7xpsIAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -373,7 +373,7 @@
         "title": "ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 411, 116051, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "yA7xpsIAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -415,7 +415,7 @@
         "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on AI-assisted decision-making in design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031401, 2023",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "yA7xpsIAAAAJ:dhFuZR0502QC"
     },
     {
@@ -424,6 +424,12 @@
         "citation": "Proceedings of the Design Society 3, 3611-3620, 2023",
         "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "UNDERSTANDING COMPLEX SKETCH RECOGNITION STRATEGIES FOR INTELLIGENT SKETCH-BASED DESIGN TOOLS",
+        "citation": "IDETC-CIE International Design Engineering Technical Conferences & Computers …, 0",
+        "num_citations": 0,
+        "author_pub_id": "yA7xpsIAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Uncovering hidden patterns of design ideation using hidden Markov modeling and neuroimaging",

@@ -428,7 +428,7 @@
         "title": "Design for the developing world: Common pitfalls and how to avoid them",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (3), 031101, 2016",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "B_tQYjEAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -437,6 +437,13 @@
         "citation": "Development Engineering 6, 100062, 2021",
         "num_citations": 5,
         "author_pub_id": "B_tQYjEAAAAJ:EYYDruWGBe4C"
+    },
+    {
+        "title": "Design of remote data collection devices for social impact indicators of products in developing countries",
+        "pub_year": "2021",
+        "citation": "Development Engineering 6 (C), 2021",
+        "num_citations": 0,
+        "author_pub_id": "B_tQYjEAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Design space exploration for quantifying a system model’s feasible domain",
@@ -470,24 +477,6 @@
         "title": "Development Engineering",
         "citation": "",
         "num_citations": 0,
-        "author_pub_id": "B_tQYjEAAAAJ:kuK5TVdYjLIC"
-    },
-    {
-        "title": "Development Engineering",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "B_tQYjEAAAAJ:gsN89kCJA0AC"
-    },
-    {
-        "title": "Development Engineering",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "B_tQYjEAAAAJ:hMsQuOkrut0C"
-    },
-    {
-        "title": "Development Engineering",
-        "citation": "",
-        "num_citations": 0,
         "author_pub_id": "B_tQYjEAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -507,7 +496,7 @@
         "title": "Development of commercially viable compliant mechanisms using the pseudo-rigid-body model: case studies of parallel mechanisms",
         "pub_year": "2004",
         "citation": "Journal of intelligent material systems and structures 15 (3), 195-202, 2004",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "B_tQYjEAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -654,6 +643,13 @@
         "citation": "Development Engineering 6, 100066, 2021",
         "num_citations": 16,
         "author_pub_id": "B_tQYjEAAAAJ:evX43VCCuoAC"
+    },
+    {
+        "title": "Factors leading to sustainable social impact on the affected communities of engineering service learning projects",
+        "pub_year": "2021",
+        "citation": "Development Engineering 6 (C), 2021",
+        "num_citations": 0,
+        "author_pub_id": "B_tQYjEAAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "Feasible-Configuration Generator for Multiple-Bend Springs",
@@ -936,6 +932,13 @@
         "author_pub_id": "B_tQYjEAAAAJ:vbGhcppDl1QC"
     },
     {
+        "title": "Nitrile cup seal robustness in the India Mark II/III hand pump system",
+        "pub_year": "2021",
+        "citation": "Development Engineering 6 (C), 2021",
+        "num_citations": 0,
+        "author_pub_id": "B_tQYjEAAAAJ:kuK5TVdYjLIC"
+    },
+    {
         "title": "Normal constraint method with guarantee of even representation of complete Pareto frontier",
         "pub_year": "2004",
         "citation": "AIAA journal 42 (10), 2101-2111, 2004",
@@ -1065,7 +1068,7 @@
         "title": "Product development: principles and tools for creating desirable and transferable designs",
         "pub_year": "2019",
         "citation": "Springer Nature, 2019",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "B_tQYjEAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1260,7 +1263,7 @@
         "title": "The normalized normal constraint method for generating the Pareto frontier",
         "pub_year": "2003",
         "citation": "Structural and multidisciplinary optimization 25, 86-98, 2003",
-        "num_citations": 982,
+        "num_citations": 984,
         "author_pub_id": "B_tQYjEAAAAJ:u5HHmVD_uO8C"
     },
     {

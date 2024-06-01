@@ -72,7 +72,7 @@
         "title": "A Comparison of Design Approaches to Meso-Structure Development",
         "pub_year": "2013",
         "citation": "ASME 2013 International Design Engineering Technical Conferences (IDETC) and …, 2013",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "PXClXlsAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -942,7 +942,7 @@
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
         "citation": "International design engineering technical conferences and computers and …, 2008",
-        "num_citations": 294,
+        "num_citations": 297,
         "author_pub_id": "PXClXlsAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1026,7 +1026,7 @@
         "title": "Collaborative Sketching (C‐Sketch)—An idea generation technique for engineering design",
         "pub_year": "2001",
         "citation": "The Journal of Creative Behavior 35 (3), 168-198, 2001",
-        "num_citations": 406,
+        "num_citations": 407,
         "author_pub_id": "PXClXlsAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1131,14 +1131,14 @@
         "title": "Compliant hexagonal meso-structures having both high shear strength and high shear strain",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PXClXlsAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Compliant hexagonal periodic lattice structures having both high shear strength and high shear strain",
         "pub_year": "2011",
         "citation": "Materials & Design 32 (2), 512-524, 2011",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "PXClXlsAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1166,7 +1166,7 @@
         "title": "Concept exploration through morphological charts: An experimental study",
         "pub_year": "2006",
         "citation": "ASME 2006 International Design Engineering Technical Conferences and …, 2006",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "PXClXlsAAAAJ:As9-p0eyQpQC"
     },
     {
@@ -1236,7 +1236,7 @@
         "title": "Cost estimation model for polyacrylonitrile-based carbon fiber manufacturing process",
         "pub_year": "2017",
         "citation": "Journal of manufacturing science and engineering 139 (4), 041011, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "PXClXlsAAAAJ:nlKf13ul9_IC"
     },
     {
@@ -1429,7 +1429,7 @@
         "title": "Design of cellular shear bands of a non-pneumatic tire-investigation of contact pressure",
         "pub_year": "2010",
         "citation": "SAE International Journal of Passenger Cars-Mechanical Systems 3 (2010-01 …, 2010",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "PXClXlsAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -1492,7 +1492,7 @@
         "title": "Designing design prompts: a systematic approach to support engineering design research",
         "pub_year": "2020",
         "citation": "Journal of Design Research 18 (5-6), 327-355, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:END1nS_e-6cC"
     },
     {
@@ -1604,7 +1604,7 @@
         "title": "Development of guidelines for support structure design and placement in metal additive manufacturing",
         "pub_year": "2021",
         "citation": "Clemson University, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:QhmGFXoqNHAC"
     },
     {
@@ -1682,13 +1682,6 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
         "num_citations": 33,
         "author_pub_id": "PXClXlsAAAAJ:uWFADo6cQ7YC"
-    },
-    {
-        "title": "EXPLORING THE INFLUENCE OF REQUIREMENT REPRESENTATION ON IDEA GENERATION",
-        "pub_year": "2024",
-        "citation": "Journal of Mechanical Design, 1-13, 2024",
-        "num_citations": 0,
-        "author_pub_id": "PXClXlsAAAAJ:jLZKTOxUWNYC"
     },
     {
         "title": "Early Phase Assembly Systems Design, Automation Alternatives Description, and Optimization: A Support to Automation Decision",
@@ -1784,7 +1777,7 @@
         "title": "Engineering design complexity: an investigation of methods and measures",
         "pub_year": "2008",
         "citation": "Research in Engineering Design 19, 161-179, 2008",
-        "num_citations": 205,
+        "num_citations": 206,
         "author_pub_id": "PXClXlsAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1952,7 +1945,7 @@
         "title": "Experimental design research",
         "pub_year": "2016",
         "citation": "Cham: Springer International Publishing, 2016",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "PXClXlsAAAAJ:kVZqXsXrJl0C"
     },
     {
@@ -1995,6 +1988,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
         "num_citations": 5,
         "author_pub_id": "PXClXlsAAAAJ:cdM53WF7QocC"
+    },
+    {
+        "title": "Exploring the Influence of Requirement Representation on Idea Generation",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (11), 2024",
+        "num_citations": 0,
+        "author_pub_id": "PXClXlsAAAAJ:jLZKTOxUWNYC"
     },
     {
         "title": "Exploring the Role of Individual Differences in Function Structure Modeling: A Theory Building Approach",
@@ -2920,7 +2920,7 @@
         "title": "Optimization of a Non-Pneumatic Tire for Reduced Rolling Resistance",
         "pub_year": "2011",
         "citation": "ASME International Design Engineering Technical Conferences and Computers …, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -2990,7 +2990,7 @@
         "title": "Predicting requirement change propagation, using higher order design structure matrices: an industry case study",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (12), 905-926, 2012",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "PXClXlsAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -3158,7 +3158,7 @@
         "title": "Repurposing metal additive manufacturing support structures for reduction of residual stress deformation",
         "pub_year": "2022",
         "citation": "The International Journal of Advanced Manufacturing Technology, 1-11, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:cFcI8uaobsAC"
     },
     {
@@ -3311,7 +3311,7 @@
         "title": "Rolling resistance of a nonpneumatic tire having a porous elastomer composite shear band",
         "pub_year": "2013",
         "citation": "Tire Science and Technology 41 (3), 154-173, 2013",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "PXClXlsAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -3338,7 +3338,7 @@
         "title": "Sampling in design research: Eight key considerations",
         "pub_year": "2022",
         "citation": "Design studies 78, 101077, 2022",
-        "num_citations": 142,
+        "num_citations": 144,
         "author_pub_id": "PXClXlsAAAAJ:sduUCncrepAC"
     },
     {
@@ -3722,7 +3722,7 @@
         "title": "Towards the formalization of non-functional requirements in conceptual design",
         "pub_year": "2020",
         "citation": "Research in engineering design 31, 449-469, 2020",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "PXClXlsAAAAJ:0nST21YUXoUC"
     },
     {
@@ -3736,7 +3736,7 @@
         "title": "Understanding team personality evolution in student engineering design teams using the five factor model",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "PXClXlsAAAAJ:IOahUoDOFMsC"
     },
     {

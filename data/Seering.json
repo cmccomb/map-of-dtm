@@ -366,7 +366,7 @@
         "title": "Comparison of command shaping methods for reducing residual vibration",
         "pub_year": "1995",
         "citation": "Proceedings of European control conference, 1126-1131, 1995",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "4ZckX2kAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -415,7 +415,7 @@
         "title": "Convolved and simultaneous two-mode input shapers",
         "pub_year": "1997",
         "citation": "IEE Proceedings-Control Theory and Applications 144 (6), 515-520, 1997",
-        "num_citations": 190,
+        "num_citations": 191,
         "author_pub_id": "4ZckX2kAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1010,7 +1010,7 @@
         "title": "Modeling and experimental evaluation of asymmetric pantograph dynamics",
         "pub_year": "1988",
         "citation": "",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "4ZckX2kAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1047,6 +1047,13 @@
         "citation": "International design engineering technical conferences and computers and …, 1994",
         "num_citations": 76,
         "author_pub_id": "4ZckX2kAAAAJ:Zph67rFs4hoC"
+    },
+    {
+        "title": "New Conventions: Intentional Implementation of Set-Based Design Leveraging Limited Point-Based Approaches",
+        "pub_year": "2024",
+        "citation": "International Marine Design Conference, 2024",
+        "num_citations": 0,
+        "author_pub_id": "4ZckX2kAAAAJ:Br1UauaknNIC"
     },
     {
         "title": "Notice of Retraction: Success factors for meeting operational goals",
@@ -1176,7 +1183,7 @@
         "title": "Preshaping command inputs to reduce system vibration",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 2349,
+        "num_citations": 2351,
         "author_pub_id": "4ZckX2kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1238,7 +1245,7 @@
         "title": "Quantitative inference in a mechanical design ‘compiler’",
         "pub_year": "1993",
         "citation": "",
-        "num_citations": 164,
+        "num_citations": 166,
         "author_pub_id": "4ZckX2kAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -1314,7 +1321,7 @@
         "title": "Residual vibration reduction using vector diagrams to generate shaped inputs",
         "pub_year": "1994",
         "citation": "",
-        "num_citations": 548,
+        "num_citations": 549,
         "author_pub_id": "4ZckX2kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1433,14 +1440,14 @@
         "title": "Starting and Scaling a Set-Based Design Method for a Maritime System of Systems: Designing a Modern Warship",
         "pub_year": "2022",
         "citation": "Proceedings of the Design Society 2, 2503-2512, 2022",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "4ZckX2kAAAAJ:nRpfm8aw39MC"
     },
     {
         "title": "Steps Toward Development of a Comprehensive Set-Based Design Process Model: A Case Study",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "4ZckX2kAAAAJ:prdVHNxh-e8C"
     },
     {
@@ -1509,7 +1516,7 @@
         "title": "The function of the primary ligaments of the knee in varus-valgus and axial rotation",
         "pub_year": "1980",
         "citation": "Journal of biomechanics 13 (9), 785-794, 1980",
-        "num_citations": 218,
+        "num_citations": 219,
         "author_pub_id": "4ZckX2kAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1523,7 +1530,7 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 206,
+        "num_citations": 207,
         "author_pub_id": "4ZckX2kAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -1537,7 +1544,7 @@
         "title": "Time-optimal negative input shapers",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 312,
+        "num_citations": 313,
         "author_pub_id": "4ZckX2kAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1593,7 +1600,7 @@
         "title": "Understanding bandwidth limitations in robot force control",
         "pub_year": "1987",
         "citation": "Proceedings. 1987 IEEE international conference on robotics and automation 4 …, 1987",
-        "num_citations": 488,
+        "num_citations": 487,
         "author_pub_id": "4ZckX2kAAAAJ:_Re3VWB3Y0AC"
     },
     {

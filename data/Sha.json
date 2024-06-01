@@ -45,21 +45,21 @@
         "title": "A deep learning based approach to predict sequential design decisions",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "mZBr2BEAAAAJ:PoWvk5oyLR8C"
     },
     {
         "title": "A generative approach for scheduling multi-robot cooperative three-dimensional printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (6), 061011, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "mZBr2BEAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "A heuristic scaling strategy for multi-robot cooperative three-dimensional printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041002, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "mZBr2BEAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Data-driven dynamic network modeling for analyzing the evolution of product competitions",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (3), 031112, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "mZBr2BEAAAAJ:SpbeaW3--B0C"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Exploring generative design thinking for engineering design and design education",
         "pub_year": "2021",
         "citation": "2021 ASEE Midwest Section Conference, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "mZBr2BEAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -326,6 +326,12 @@
         "citation": "42nd ASME Design Automation Conference (DAC), 2016",
         "num_citations": 34,
         "author_pub_id": "mZBr2BEAAAAJ:p__nRnzSRKYC"
+    },
+    {
+        "title": "Generative Design of Authentic 3D Shapes from 2D Sketches Using Target-Embedding Variational Autoencoder",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:F9fV5C73w3QC"
     },
     {
         "title": "Geospatial Network Analysis of US Megaregions in 40 Years",
@@ -352,7 +358,7 @@
         "title": "Human-centered generative design framework: an early design framework to support concept creation and evaluation",
         "pub_year": "2024",
         "citation": "International Journal of Human–Computer Interaction 40 (4), 933-944, 2024",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "mZBr2BEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -491,7 +497,7 @@
         "title": "Modeling multi-year customers’ considerations and choices in China’s auto market using two-stage bipartite network analysis",
         "pub_year": "2021",
         "citation": "Networks and Spatial Economics 21, 365-385, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "mZBr2BEAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -596,7 +602,7 @@
         "title": "Predicting sequential design decisions using the function-behavior-structure design process model and recurrent neural networks",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (8), 081706, 2021",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "mZBr2BEAAAAJ:hCrLmN-GePgC"
     },
     {
@@ -638,7 +644,7 @@
         "title": "Resource-constrained scheduling for multi-robot cooperative three-dimensional printing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 072002, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "mZBr2BEAAAAJ:5qfkUJPXOUwC"
     },
     {
@@ -721,7 +727,7 @@
         "title": "Toward swarm manufacturing: architecting a cooperative 3D printing system",
         "pub_year": "2022",
         "citation": "Journal of Manufacturing Science and Engineering 144 (8), 081004, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "mZBr2BEAAAAJ:GtLg2Ama23sC"
     },
     {

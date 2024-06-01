@@ -10,7 +10,7 @@
         "title": "A Comparative Study Of Virtual Reality And Computer-Aided Design To Evaluate Parts For Additive Manufacturing",
         "pub_year": "2019",
         "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "0P9w_S0AAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -47,6 +47,13 @@
         "citation": "International Conference on Engineering Design, 2021",
         "num_citations": 15,
         "author_pub_id": "0P9w_S0AAAAJ:t6usbXjVLHcC"
+    },
+    {
+        "title": "A Proposed Extension to the Functional Basis for AI/ML-Enabled Cyber-physical Systems",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "0P9w_S0AAAAJ:86PQX7AUzd4C"
     },
     {
         "title": "A Quantitative Approach to Evaluate the Application of the Extended  Situational Teaching Model in Engineering Education",
@@ -101,7 +108,7 @@
         "title": "A cautionary tale about the impact of AI on human design teams",
         "pub_year": "2021",
         "citation": "Design Studies 72, 100990, 2021",
-        "num_citations": 86,
+        "num_citations": 90,
         "author_pub_id": "0P9w_S0AAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -199,7 +206,7 @@
         "title": "Arctic Coastal Hazard Assessment Considering Permafrost Thaw Subsidence, Coastal Erosion, and Flooding",
         "pub_year": "2023",
         "citation": "Environmental Research Letters, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "0P9w_S0AAAAJ:WZBGuue-350C"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Artificial intelligence and engineering design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 020301, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "0P9w_S0AAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -332,7 +339,7 @@
         "title": "Comparing Strategies for Visualizing the High-Dimensional Exploration Behavior of CPS Design Agents",
         "pub_year": "2022",
         "citation": "2022 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2022",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "0P9w_S0AAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -360,7 +367,7 @@
         "title": "Comparing the Impacts on Team Behaviors Between AI and Human Process Management in Interdisciplinary Design Teams",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "0P9w_S0AAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -465,7 +472,7 @@
         "title": "Decoding the Agility of Artificial Intelligence-Assisted Human Design Teams",
         "pub_year": "2022",
         "citation": "Design Studies, 2022",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "0P9w_S0AAAAJ:UHK10RUVsp4C"
     },
     {
@@ -703,7 +710,7 @@
         "title": "Focus and Modality: Defining A Roadmap to Future AI-Human Teaming in Design",
         "pub_year": "2023",
         "citation": "International Conference on Engineering Design, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "0P9w_S0AAAAJ:EYYDruWGBe4C"
     },
     {
@@ -850,7 +857,7 @@
         "title": "Learning To Design From Humans: Imitating Human Designers Through Deep Learning",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design, 2019",
-        "num_citations": 102,
+        "num_citations": 105,
         "author_pub_id": "0P9w_S0AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -887,13 +894,6 @@
         "citation": "Journal of Mechanical Design, 2021",
         "num_citations": 16,
         "author_pub_id": "0P9w_S0AAAAJ:fQNAKQ3IYiAC"
-    },
-    {
-        "title": "Making AI Functional: Extending the Functional Basis for Cyber-Physical Systems",
-        "pub_year": "2024",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
-        "num_citations": 0,
-        "author_pub_id": "0P9w_S0AAAAJ:86PQX7AUzd4C"
     },
     {
         "title": "Manufacturing Fixation in Design: Exploring the Effects of Manufacturing Fixation during Idea Generation",
@@ -941,7 +941,7 @@
         "title": "Modeling a Strategic Human Engineering Design Process: Human-Inspired Heuristic Guidance Through Learned Visual Design Agents",
         "pub_year": "2020",
         "citation": "International Design Conference - DESIGN 2020, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "0P9w_S0AAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -976,14 +976,14 @@
         "title": "Natural Language Processing for Theoretical Framework Selection in Engineering Education Research",
         "pub_year": "2020",
         "citation": "IEEE Frontiers in Education Conference, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0P9w_S0AAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "No Time for That?: An Investigation of Mindfulness and Stress in First-Year Engineering Design",
         "pub_year": "2022",
         "citation": "Design Science, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "0P9w_S0AAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1067,7 +1067,7 @@
         "title": "Reinforcement Learning for Efficient Design Space Exploration with Variable Fidelity Analysis Models",
         "pub_year": "2023",
         "citation": "Journal of Computing and Information Science in Engineering, 2023",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "0P9w_S0AAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -1220,7 +1220,7 @@
         "title": "The story novice designers tell: How rhetorical structures and prototyping shape communication with external audiences",
         "pub_year": "2022",
         "citation": "Design Studies 82, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "0P9w_S0AAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1290,7 +1290,7 @@
         "title": "Transferring Design Strategies from Human to Computer and Across Design Problems",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design, 2019",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "0P9w_S0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1304,7 +1304,7 @@
         "title": "Uncovering Potential Bias in Engineering Design: A Comparative Review of Bias Research in Medicine",
         "pub_year": "2023",
         "citation": "Design Science, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "0P9w_S0AAAAJ:b1wdh0AR-JQC"
     },
     {
