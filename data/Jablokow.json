@@ -1,10 +1,24 @@
 [
     {
+        "title": "\" Characterization of Project Team Dynamics for Engineering and Management Students Based on Cognitive Style,\" Proceedings of the 2002 ASEE Annual Conference & Exposition",
+        "pub_year": "2002",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "i8TIhv8AAAAJ:t7zJ5fGR-2UC"
+    },
+    {
         "title": "2 WHAT IS THE RELATIONSHIP BETWEEN PSYCHOLOGICAL SAFETY AND TEAM PRODUCTIVITY AND EFFECTIVENESS DURING CONCEPT DEVELOPMENT? AN EXPLORATION IN ENGINEERING DESIGN EDUCATION",
         "pub_year": "2022",
         "citation": "AN EXPLORATION OF THE IMPACT OF PSYCHOLOGICAL SAFETY IN ENGINEERING DESIGN …, 2022",
         "num_citations": 0,
         "author_pub_id": "i8TIhv8AAAAJ:W5xh706n7nkC"
+    },
+    {
+        "title": "A Modular Algorithm for the Dynamics of Multiple Flexible Robots",
+        "pub_year": "2007",
+        "citation": "International Journal of Robotics and Automation 22, 2007",
+        "num_citations": 0,
+        "author_pub_id": "i8TIhv8AAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "A Near Input-Output Linearizing Force Tracking Controller for an Electrohydraulic Actuatorn",
@@ -52,7 +66,7 @@
         "title": "A modular approach to the dynamics of complex multirobot systems",
         "pub_year": "2005",
         "citation": "IEEE Transactions on Robotics 21 (1), 26-37, 2005",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "i8TIhv8AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -65,7 +79,7 @@
     {
         "title": "A multidisciplinary MOOC on creativity, innovation, and change: Encouraging experimentation and experiential learning on a grand scale",
         "pub_year": "2014",
-        "citation": "2014 ASEE Annual Conference & Exposition, 24.75. 1-24.75. 24, 2014",
+        "citation": "121st ASEE Annual Conference and Exposition: 360 Degrees of Engineering …, 2014",
         "num_citations": 17,
         "author_pub_id": "i8TIhv8AAAAJ:NaGl4SEjCO4C"
     },
@@ -80,7 +94,7 @@
         "title": "A semantic network model for measuring engagement and performance in online learning platforms",
         "pub_year": "2018",
         "citation": "Computer Applications in Engineering Education 26 (5), 1481-1492, 2018",
-        "num_citations": 22,
+        "num_citations": 25,
         "author_pub_id": "i8TIhv8AAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -100,7 +114,7 @@
     {
         "title": "A statistical study of concept mapping metrics",
         "pub_year": "2013",
-        "citation": "2013 ASEE Annual Conference & Exposition, 23.105. 1-23.105. 14, 2013",
+        "citation": "120th ASEE Annual Conference and Exposition, 2013",
         "num_citations": 12,
         "author_pub_id": "i8TIhv8AAAAJ:J_g5lzvAfSwC"
     },
@@ -115,8 +129,15 @@
         "title": "Additive creativity: investigating the use of design for additive manufacturing to encourage creativity in the engineering design industry",
         "pub_year": "2020",
         "citation": "International Journal of Design Creativity and Innovation 8 (4), 198-222, 2020",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "i8TIhv8AAAAJ:eMMeJKvmdy0C"
+    },
+    {
+        "title": "Advanced in Every Dimension",
+        "pub_year": "2023",
+        "citation": "Mechanical Engineering 145 (3), 36-41, 2023",
+        "num_citations": 0,
+        "author_pub_id": "i8TIhv8AAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "Ahmad Ibrahim 1 Editorial",
@@ -129,7 +150,7 @@
         "title": "Alternate forms of the operational space inertia matrix for the dynamic simulation of complex robot systems",
         "pub_year": "2003",
         "citation": "SMC'03 Conference Proceedings. 2003 IEEE International Conference on Systems …, 2003",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "i8TIhv8AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -184,7 +205,7 @@
         "title": "Asynchronous collaboration: bridging the cognitive distance in global software development projects",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Professional Communication 63 (4), 361-371, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "i8TIhv8AAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -261,7 +282,7 @@
         "title": "Characterizing communication networks in a web-based classroom: Cognitive styles and linguistic behavior of self-organizing groups in online discussions",
         "pub_year": "2012",
         "citation": "Computers & Education 59 (2), 222-235, 2012",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "i8TIhv8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -275,13 +296,13 @@
         "title": "Cognitive style and concept mapping performance",
         "pub_year": "2015",
         "citation": "Journal of Engineering Education 104 (3), 303-325, 2015",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "i8TIhv8AAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Cognitive style and learning preferences in engineering undergraduates",
         "pub_year": "2002",
-        "citation": "age 7, 1, 2002",
+        "citation": "ASEE Annual Conference Proceedings, 10635-10652, 2002",
         "num_citations": 3,
         "author_pub_id": "i8TIhv8AAAAJ:bEWYMUwI8FkC"
     },
@@ -310,7 +331,7 @@
         "title": "Comparing the effects of design interventions on the quality of design concepts as a reflection of ideation flexibility",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031103, 2019",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "i8TIhv8AAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -359,7 +380,7 @@
         "title": "Developing problem solving leadership: A cognitive approach",
         "pub_year": "2008",
         "citation": "International Journal of Engineering Education 24 (5), 936-954, 2008",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "i8TIhv8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -380,22 +401,15 @@
         "title": "Engineers as problem-solving leaders: Embracing the humanities",
         "pub_year": "2007",
         "citation": "IEEE Technology and Society Magazine 26 (4), 29-35, 2007",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "i8TIhv8AAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Enhancing undergraduate understanding of subtractive manufacturability through virtualized simulation of CNC machining",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
         "num_citations": 3,
         "author_pub_id": "i8TIhv8AAAAJ:p2g8aNsByqUC"
-    },
-    {
-        "title": "Erratum to: Exploring the communication preferences of MOOC learners and the value of preference-based groups: Is grouping enough?(Education Tech Research Dev,(2016), 64,(809 …",
-        "pub_year": "2016",
-        "citation": "Educational Technology Research and Development 64 (6), 1361, 2016",
-        "num_citations": 0,
-        "author_pub_id": "i8TIhv8AAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Evaluating the discriminatory value and reliability of ideation metrics for their application to concept development and prototyping",
@@ -408,20 +422,20 @@
         "title": "Evaluating the impacts of different interventions on quality in concept generation",
         "pub_year": "2016",
         "citation": "",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "i8TIhv8AAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Examining the effect of a paradigm-relatedness problem-framing tool on idea generation",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
         "num_citations": 6,
         "author_pub_id": "i8TIhv8AAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Exploring Chinese students’ learning experience in CIC MOOC 2.0–A study with Chinese online communities",
         "pub_year": "2021",
-        "citation": "Journal of Educational Technology Development and Exchange (JETDE) 13 (2), 2, 2021",
+        "citation": "Journal of Educational Technology Development and Exchange (JETDE) 13 (2), 21-38, 2021",
         "num_citations": 1,
         "author_pub_id": "i8TIhv8AAAAJ:9vf0nzSNQJEC"
     },
@@ -436,13 +450,13 @@
         "title": "Exploring demographics and students’ motivation as predictors of completion of a massive open online course",
         "pub_year": "2019",
         "citation": "International Review of Research in Open and Distributed Learning 20 (2), 2019",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "i8TIhv8AAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Exploring the Impact of Cognitive Preferences on student receptivity to design thinking",
         "pub_year": "2015",
-        "citation": "2015 ASEE Annual Conference & Exposition, 26.736. 1-26.736. 18, 2015",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 122 (122nd …, 2015",
         "num_citations": 4,
         "author_pub_id": "i8TIhv8AAAAJ:738O_yMBCRsC"
     },
@@ -450,7 +464,7 @@
         "title": "Exploring the communication preferences of MOOC learners and the value of preference-based groups: Is grouping enough?",
         "pub_year": "2016",
         "citation": "Educational Technology Research and Development 64, 809-837, 2016",
-        "num_citations": 75,
+        "num_citations": 77,
         "author_pub_id": "i8TIhv8AAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -484,7 +498,7 @@
     {
         "title": "Exploring the impact of cognitive style and academic discipline on design prototype variability",
         "pub_year": "2014",
-        "citation": "2014 ASEE Annual Conference & Exposition, 24.587. 1-24.587. 13, 2014",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings, 2014",
         "num_citations": 2,
         "author_pub_id": "i8TIhv8AAAAJ:zA6iFVUQeVQC"
     },
@@ -492,7 +506,7 @@
         "title": "Exploring the relevance of single‐gender group formation: What we learn from a massive open online course (MOOC)",
         "pub_year": "2018",
         "citation": "British Journal of Educational Technology 49 (1), 88-100, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "i8TIhv8AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -540,21 +554,21 @@
         "title": "How much does student engagement with videos and forums in a MOOC affect their achievement?",
         "pub_year": "2017",
         "citation": "Online Learning Journal 21 (4), 2017",
-        "num_citations": 146,
+        "num_citations": 145,
         "author_pub_id": "i8TIhv8AAAAJ:UxriW0iASnsC"
     },
     {
         "title": "IT leadership from a problem solving perspective",
         "pub_year": "2010",
         "citation": "Information Technology and Management 11, 107-122, 2010",
-        "num_citations": 36,
+        "num_citations": 33,
         "author_pub_id": "i8TIhv8AAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Ideation variety in mechanical design: Examining the effects of cognitive style and design heuristics",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "i8TIhv8AAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -568,7 +582,7 @@
         "title": "Identifying the characteristics of engineering innovativeness",
         "pub_year": "2017",
         "citation": "Engineering Studies 9 (1), 45-73, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "i8TIhv8AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -589,7 +603,7 @@
         "title": "Incremental to radical ideas: Paradigm-relatedness metrics for investigating ideation creativity and diversity",
         "pub_year": "2019",
         "citation": "International Journal of Design Creativity and Innovation 7 (1-2), 30-49, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "i8TIhv8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -622,7 +636,7 @@
     {
         "title": "Invention and creative design: getting from thought to thing",
         "pub_year": "2001",
-        "citation": "2001 Annual Conference, 6.662. 1-6.662. 12, 2001",
+        "citation": "ASEE Annual Conference Proceedings, 6539-6550, 2001",
         "num_citations": 4,
         "author_pub_id": "i8TIhv8AAAAJ:r0BpntZqJG4C"
     },
@@ -656,7 +670,7 @@
         "title": "Investigating the influence of designers’ cognitive characteristics and interaction behaviors in design concept generation",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (9), 091101, 2019",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "i8TIhv8AAAAJ:eflP2zaiRacC"
     },
     {
@@ -670,7 +684,7 @@
         "title": "KABOOM: an agent-based model for simulating cognitive style in team problem solving",
         "pub_year": "2019",
         "citation": "Design Science 5, e13, 2019",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "i8TIhv8AAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -753,7 +767,7 @@
         "title": "Part filtering methods for additive manufacturing: A detailed review and a novel process-agnostic method",
         "pub_year": "2021",
         "citation": "Additive Manufacturing 47, 102115, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "i8TIhv8AAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -794,15 +808,15 @@
     {
         "title": "Problem framing and cognitive style: Impacts on design ideation perceptions",
         "pub_year": "2021",
-        "citation": "Design studies 74, 101015, 2021",
-        "num_citations": 29,
+        "citation": "Design Studies 74, 101015, 2021",
+        "num_citations": 28,
         "author_pub_id": "i8TIhv8AAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Problem solving, creativity, and the level-style distinction",
         "pub_year": "2009",
         "citation": "Perspectives on the nature of intellectual styles, 137-168, 2009",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "i8TIhv8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -822,7 +836,7 @@
         "title": "Project team dynamics and cognitive style",
         "pub_year": "2002",
         "citation": "Engineering Management Journal 14 (3), 25-33, 2002",
-        "num_citations": 125,
+        "num_citations": 129,
         "author_pub_id": "i8TIhv8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -836,14 +850,14 @@
         "title": "Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design",
         "pub_year": "2017",
         "citation": "Design Studies 50, 70-112, 2017",
-        "num_citations": 163,
+        "num_citations": 165,
         "author_pub_id": "i8TIhv8AAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Psychological inertia and the role of idea generation techniques in the early stages of engineering design",
         "pub_year": "2010",
         "citation": "Mid-Atlantic ASEE Conference, 15-16, 2010",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "i8TIhv8AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -877,7 +891,7 @@
     {
         "title": "Stimulating creativity in online learning environments through intelligent fast failure",
         "pub_year": "2016",
-        "citation": "2016 ASEE Annual Conference & Exposition, 2016",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2016, 2016",
         "num_citations": 5,
         "author_pub_id": "i8TIhv8AAAAJ:XiSMed-E-HIC"
     },
@@ -927,15 +941,8 @@
         "title": "The Prototype for X (PFX) framework: assessing the impact of PFX on desirability, feasibility, and viability of end Designs",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "i8TIhv8AAAAJ:lSLTfruPkqcC"
-    },
-    {
-        "title": "The Traditional Engineer vs. the Innovative Engineeer",
-        "pub_year": "2014",
-        "citation": "2014 ASEE Annual Conference & Exposition, 24.1247. 1-24.1247. 19, 2014",
-        "num_citations": 5,
-        "author_pub_id": "i8TIhv8AAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "The cable array robot: Theory and experiment",
@@ -948,14 +955,14 @@
         "title": "The catalytic nature of science: Implications for scientific problem solving in the 21st century",
         "pub_year": "2005",
         "citation": "Technology in Society 27 (4), 531-549, 2005",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "i8TIhv8AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "The characteristics of engineering innovativeness: A cognitive mapping and review of instruments",
         "pub_year": "2016",
         "citation": "International Journal of Engineering Education 32 (1), 64-83, 2016",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "i8TIhv8AAAAJ:blknAaTinKkC"
     },
     {
@@ -968,7 +975,7 @@
     {
         "title": "The design problem framework: Using adaption-innovation theory to construct design problem statements",
         "pub_year": "2014",
-        "citation": "",
+        "citation": "Proceedings of the ASEE Annual Conference, 2014",
         "num_citations": 41,
         "author_pub_id": "i8TIhv8AAAAJ:GnPB-g6toBAC"
     },
@@ -990,13 +997,13 @@
         "title": "The impact and management of cognitive gap in high performance product development organizations",
         "pub_year": "2006",
         "citation": "Journal of Engineering and Technology Management 23 (4), 313-336, 2006",
-        "num_citations": 104,
+        "num_citations": 102,
         "author_pub_id": "i8TIhv8AAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "The impact of cognitive style on concept mapping: Visualizing variations in the structure of ideas",
         "pub_year": "2012",
-        "citation": "2012 ASEE Annual Conference & Exposition, 25.1310. 1-25.1310. 17, 2012",
+        "citation": "119th ASEE Annual Conference and Exposition, 2012",
         "num_citations": 18,
         "author_pub_id": "i8TIhv8AAAAJ:4TOpqqG69KYC"
     },
@@ -1004,7 +1011,7 @@
         "title": "The impact of gender on individual perceptions and team psychological safety in engineering design teams in education",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 032303, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "i8TIhv8AAAAJ:35r97b3x0nAC"
     },
     {
@@ -1032,22 +1039,29 @@
         "title": "The prototype for X framework: exploring the effects of a structured prototyping framework on functional prototypes",
         "pub_year": "2019",
         "citation": "Research in Engineering Design 30, 187-201, 2019",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "i8TIhv8AAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "The substance of our styles",
         "pub_year": "2007",
         "citation": "Mechanical Engineering 129 (02), 30-34, 2007",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "i8TIhv8AAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "The thinking expedition: A course in creativity, innovation and change",
         "pub_year": "2001",
-        "citation": "2001 Annual Conference, 6.1041. 1-6.1041. 15, 2001",
+        "citation": "ASEE Annual Conference Proceedings, 10469-10483, 2001",
         "num_citations": 12,
         "author_pub_id": "i8TIhv8AAAAJ:hFOr9nPyWt4C"
+    },
+    {
+        "title": "The traditional engineer vs. The innovative engineer",
+        "pub_year": "2014",
+        "citation": "121st ASEE Annual Conference and Exposition: 360 Degrees of Engineering …, 2014",
+        "num_citations": 6,
+        "author_pub_id": "i8TIhv8AAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "The trajectory of psychological safety in engineering teams: A longitudinal exploration in engineering design education",
@@ -1060,7 +1074,7 @@
         "title": "Thinking about thinking: problem solving style in the engineering classroom",
         "pub_year": "2000",
         "citation": "2000 Annual Conference, 5.665. 1-5.665. 9, 2000",
-        "num_citations": 13,
+        "num_citations": 11,
         "author_pub_id": "i8TIhv8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -1074,7 +1088,7 @@
         "title": "Toward rapid manufacturability analysis tools for engineering design education",
         "pub_year": "2016",
         "citation": "Procedia Manufacturing 5, 1183-1196, 2016",
-        "num_citations": 51,
+        "num_citations": 49,
         "author_pub_id": "i8TIhv8AAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -1088,7 +1102,7 @@
         "title": "Towards the development of an elaboration metric for concept sketches",
         "pub_year": "2017",
         "citation": "International design engineering technical conferences and computers and …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "i8TIhv8AAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -1108,7 +1122,7 @@
         "title": "Understanding MOOC students: Motivations and behaviours indicative of MOOC completion",
         "pub_year": "2016",
         "citation": "Journal of Computer Assisted Learning 32 (3), 202-217, 2016",
-        "num_citations": 330,
+        "num_citations": 328,
         "author_pub_id": "i8TIhv8AAAAJ:hMod-77fHWUC"
     },
     {
@@ -1161,7 +1175,7 @@
         "author_pub_id": "i8TIhv8AAAAJ:vV6vV6tmYwMC"
     },
     {
-        "title": "What Factors Impact Psychological Safety in Engineering Student Teams? A Mixed-Method Longitudinal Investigation",
+        "title": "What factors impact psychological safety in engineering student teams? A mixed-method longitudinal investigation",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (12), 122302, 2022",
         "num_citations": 10,

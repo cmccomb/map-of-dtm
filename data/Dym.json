@@ -7,8 +7,8 @@
     },
     {
         "title": "21 Configuration Design",
-        "pub_year": "2019",
-        "citation": "The Handbook of Applied Expert Systems 21, 7, 2019",
+        "pub_year": "1997",
+        "citation": "The Handbook of Applied Expert Systems 21, 7, 1997",
         "num_citations": 0,
         "author_pub_id": "VBCXRSIAAAAJ:BJbdYPG6LGMC"
     },
@@ -30,7 +30,7 @@
         "title": "A knowledge-based system for automated architectural code checking",
         "pub_year": "1988",
         "citation": "Computer-Aided Design 20 (3), 137-145, 1988",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "VBCXRSIAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "A note on the Lyapunov stability analysis of a linear railway wheelset",
         "pub_year": "1980",
         "citation": "Vehicle System Dynamics 9 (2), 61-68, 1980",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "VBCXRSIAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -53,6 +53,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "VBCXRSIAAAAJ:l7t_Zn2s7bgC"
+    },
+    {
+        "title": "A practical guide to designing expert systems: SM Weiss and CA Kulikowski,(Rowman and Allanheld, Totowa, NJ, 1984); 174 pages, $24.95",
+        "pub_year": "1985",
+        "citation": "Artificial Intelligence 25 (2), 238-239, 1985",
+        "num_citations": 0,
+        "author_pub_id": "VBCXRSIAAAAJ:q-HalDI95KYC"
     },
     {
         "title": "A variational approach",
@@ -113,14 +120,14 @@
         "title": "Analytical estimates of structural behavior",
         "pub_year": "2012",
         "citation": "Crc Press, 2012",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "VBCXRSIAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Applications of Knowledge-based Systems to Engineering Analysis and Design: Presented at the Winter Annual Meeting of the American Society of Mechanical Engineers, Miami Beach …",
         "pub_year": "1985",
         "citation": "ASME, 1985",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "VBCXRSIAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -148,8 +155,14 @@
         "title": "Artificial intelligence and geometric reasoning in manufacturing technology",
         "pub_year": "1986",
         "citation": "",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "VBCXRSIAAAAJ:CB2v5VPnA5kC"
+    },
+    {
+        "title": "Assessment of Mudd Design Workshops III and V–VIII",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "VBCXRSIAAAAJ:rHJHxKgnXwkC"
     },
     {
         "title": "Attenuation of ground vibration",
@@ -190,7 +203,7 @@
         "title": "Basic Elements of Mathematical Modeling.",
         "pub_year": "2007",
         "citation": "Handbook of Dynamic System Modeling, 2007",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "VBCXRSIAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -204,7 +217,7 @@
         "title": "Bending behavior of cylindrical web panels",
         "pub_year": "1972",
         "citation": "Journal of the Structural Division 98 (10), 2291-2308, 1972",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "VBCXRSIAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -225,7 +238,7 @@
         "title": "Buckling and postbuckling behavior of steep compressible arches",
         "pub_year": "1973",
         "citation": "International Journal of Solids and Structures 9 (1), 129-140, 1973",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "VBCXRSIAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -241,6 +254,13 @@
         "citation": "",
         "num_citations": 1,
         "author_pub_id": "VBCXRSIAAAAJ:dshw04ExmUIC"
+    },
+    {
+        "title": "Building expert systems: F. Hayes-Roth, DA Waterman and DB Lenat,(Addison-Wesley, Reading, MA, 1983); 444 pages, $32.50",
+        "pub_year": "1985",
+        "citation": "Artificial Intelligence 25 (1), 101-104, 1985",
+        "num_citations": 0,
+        "author_pub_id": "VBCXRSIAAAAJ:DBa1UEJaJKAC"
     },
     {
         "title": "CA Brebbia and H. Tottenham, Editors, Ariational methods in engineering, University of Southampton, Department of Civil Engineering (1972).",
@@ -288,8 +308,15 @@
         "title": "Computing Futures in Engineering Design",
         "pub_year": "1997",
         "citation": "Proceedings of a Workshop, Harvey Mudd College, Claremont, California, 2-3, 1997",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "VBCXRSIAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Configuration Design",
+        "pub_year": "2019",
+        "citation": "The Handbook of Applied Expert Systems, 2019",
+        "num_citations": 3,
+        "author_pub_id": "VBCXRSIAAAAJ:Ade32sEp0pkC"
     },
     {
         "title": "Configuration design: An overview",
@@ -392,14 +419,14 @@
         "title": "Design, systems, and engineering education",
         "pub_year": "2004",
         "citation": "International Journal of Engineering Education 20 (3), 305-312, 2004",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "VBCXRSIAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Designing Engineering Education",
         "pub_year": "2003",
         "citation": "Proceedings of a Workshop, Harvey Mudd College, Claremont, California, 10-12, 2003",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "VBCXRSIAAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -424,13 +451,6 @@
         "author_pub_id": "VBCXRSIAAAAJ:j8SEvjWlNXcC"
     },
     {
-        "title": "ELASTIC PLATES AND SHELLS (Continued)",
-        "pub_year": "1976",
-        "citation": "Library of Congress Catalogs: Subject catalog, 18, 1976",
-        "num_citations": 0,
-        "author_pub_id": "VBCXRSIAAAAJ:1yWc8FF-_SYC"
-    },
-    {
         "title": "Editorial El diesño en ingeniería, enseñanza y aprendizaje",
         "pub_year": "2007",
         "citation": "Dyna 74 (153), 0, 2007",
@@ -441,7 +461,7 @@
         "title": "Educating engineers for a flat world",
         "pub_year": "2008",
         "citation": "International Journal of Engineering Education 24 (2), 214, 2008",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "VBCXRSIAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -462,7 +482,7 @@
         "title": "El proceso de diseño en ingeniería",
         "pub_year": "2002",
         "citation": "Limusa Wiley, 2002",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "VBCXRSIAAAAJ:hCrLmN-GePgC"
     },
     {
@@ -497,7 +517,7 @@
         "title": "Energy and Finite Element Methods In Structural Mechanics: SI Units",
         "pub_year": "2017",
         "citation": "Routledge, 2017",
-        "num_citations": 906,
+        "num_citations": 897,
         "author_pub_id": "VBCXRSIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -525,21 +545,21 @@
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2005",
         "citation": "Journal of engineering education 94 (1), 103-120, 2005",
-        "num_citations": 3998,
+        "num_citations": 4069,
         "author_pub_id": "VBCXRSIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2006",
         "citation": "IEEE Engineering Management Review 34 (1), 65-65, 2006",
-        "num_citations": 158,
+        "num_citations": 161,
         "author_pub_id": "VBCXRSIAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "Engineering design: A material and processing approach",
         "pub_year": "2005",
         "citation": "McGraw-Hill Publishers, 2005",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "VBCXRSIAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -553,7 +573,7 @@
         "title": "Engineering design: A project-based introduction",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, 2013",
-        "num_citations": 1864,
+        "num_citations": 1880,
         "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -567,19 +587,19 @@
         "title": "Engineering design: So much to learn",
         "pub_year": "2007",
         "citation": "International Journal of Engineering Education 22 (3), 422, 2007",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "VBCXRSIAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Engineering design: a project-based introduction. 2009, Hoboken",
         "citation": "NJ.: John Wiley & Sons Inc, 0",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "VBCXRSIAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Engineering design@ hmc: A testament to innovation and entrepreneurship",
         "pub_year": "2012",
-        "citation": "The International journal of engineering education 28 (2), 240-248, 2012",
+        "citation": "International Journal of Engineering Education 28 (2), 240, 2012",
         "num_citations": 7,
         "author_pub_id": "VBCXRSIAAAAJ:_B80troHkn4C"
     },
@@ -622,14 +642,14 @@
         "title": "Examples of freshman design education",
         "pub_year": "1997",
         "citation": "International Journal of Engineering Education 13 (4), 248-261, 1997",
-        "num_citations": 230,
+        "num_citations": 233,
         "author_pub_id": "VBCXRSIAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Expert systems: New approaches to computer-aided engineering",
         "pub_year": "1985",
         "citation": "Engineering with computers 1, 9-25, 1985",
-        "num_citations": 127,
+        "num_citations": 126,
         "author_pub_id": "VBCXRSIAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -685,7 +705,7 @@
         "title": "Fundamentals of modeling and analyzing engineering systems",
         "pub_year": "2000",
         "citation": "Cambridge University Press, 2000",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "VBCXRSIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -699,7 +719,7 @@
         "title": "General Engineering at Harvey Mudd: 1957–2003",
         "pub_year": "2004",
         "citation": "2004 Annual Conference, 9.637. 1-9.637. 11, 2004",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "VBCXRSIAAAAJ:KbBQZpvPDL4C"
     },
     {
@@ -803,7 +823,7 @@
         "title": "Introduction to the Calculus of Variations",
         "pub_year": "2013",
         "citation": "Solid Mechanics: A Variational Approach, Augmented Edition, 71-116, 2013",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "VBCXRSIAAAAJ:35r97b3x0nAC"
     },
     {
@@ -838,14 +858,14 @@
         "title": "John Wiley & Sons, Inc",
         "pub_year": "2004",
         "citation": "USA, Engineering Design: A Project-Based Introduction, 2004",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "VBCXRSIAAAAJ:LhH-TYMQEocC"
     },
     {
         "title": "Knowledge acquisition from multiple experts",
         "pub_year": "1985",
         "citation": "AI magazine 6 (2), 32-32, 1985",
-        "num_citations": 200,
+        "num_citations": 198,
         "author_pub_id": "VBCXRSIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -859,7 +879,7 @@
         "title": "Knowledge-based support for management of concurrent, multidisciplinary design",
         "pub_year": "1991",
         "citation": "AI EDAM 5 (2), 77-95, 1991",
-        "num_citations": 45,
+        "num_citations": 43,
         "author_pub_id": "VBCXRSIAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -899,7 +919,7 @@
         "title": "Learning and Engineering Design",
         "pub_year": "2006",
         "citation": "Special Issue, International Journal of Engineering Education 22 (3), 2006",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "VBCXRSIAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -1045,7 +1065,7 @@
         "title": "On the buckling of cylinders in axial compression",
         "pub_year": "1973",
         "citation": "",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "VBCXRSIAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1094,7 +1114,7 @@
         "title": "Optimal acoustic design of sandwich panels",
         "pub_year": "1975",
         "citation": "",
-        "num_citations": 110,
+        "num_citations": 111,
         "author_pub_id": "VBCXRSIAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -1122,7 +1142,7 @@
         "title": "PRIDE: An expert system for the design of paper handling systems",
         "pub_year": "1986",
         "citation": "Computer 19 (07), 102-114, 1986",
-        "num_citations": 323,
+        "num_citations": 320,
         "author_pub_id": "VBCXRSIAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1171,14 +1191,14 @@
         "title": "Perturbation solutions for the buckling problems of axially compressed thin cylindrical shells of infinite or finite length",
         "pub_year": "1968",
         "citation": "",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "VBCXRSIAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Practical reduction of noise from chutes and screens in coal cleaning plants. Final report",
         "pub_year": "1976",
         "citation": "Bolt, Beranek, and Newman, Inc., Cambridge, MA (USA), 1976",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "VBCXRSIAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -1192,21 +1212,21 @@
         "title": "Principles of mathematical modeling",
         "pub_year": "2004",
         "citation": "Elsevier, 2004",
-        "num_citations": 334,
+        "num_citations": 335,
         "author_pub_id": "VBCXRSIAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Principles of mathematical modeling",
         "pub_year": "1980",
         "citation": "American Journal of Physics 48 (11), 994-995, 1980",
-        "num_citations": 164,
+        "num_citations": 158,
         "author_pub_id": "VBCXRSIAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "Propagation of ground vibration: a review",
         "pub_year": "1976",
         "citation": "Journal of Sound and Vibration 49 (2), 179-193, 1976",
-        "num_citations": 280,
+        "num_citations": 282,
         "author_pub_id": "VBCXRSIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1219,7 +1239,7 @@
         "title": "Rank ordering engineering designs: pairwise comparison charts and Borda counts",
         "pub_year": "2002",
         "citation": "Research in Engineering Design 13, 236-242, 2002",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "VBCXRSIAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1261,7 +1281,7 @@
         "title": "Response of lithographic mask structures of intense repetitively pulsed x rays: Thermal stress analysis",
         "pub_year": "1985",
         "citation": "Journal of applied physics 58 (12), 4717-4725, 1985",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "VBCXRSIAAAAJ:HE397vMXCloC"
     },
     {
@@ -1270,6 +1290,12 @@
         "citation": "Journal of applied physics 58 (12), 4726-4729, 1985",
         "num_citations": 10,
         "author_pub_id": "VBCXRSIAAAAJ:olpn-zPbct0C"
+    },
+    {
+        "title": "Session 3268 Continuum Mechanics as the First Mechanics Course",
+        "citation": "age 9, 1, 0",
+        "num_citations": 0,
+        "author_pub_id": "VBCXRSIAAAAJ:WC9gN4BGCRcC"
     },
     {
         "title": "Similarity solutions to some non-linear impact problems",
@@ -1303,7 +1329,7 @@
         "title": "Social dimensions of engineering design: Observations from Mudd Design Workshop III",
         "pub_year": "2003",
         "citation": "Journal of Engineering Education 92 (1), 105-107, 2003",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "VBCXRSIAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -1352,7 +1378,7 @@
         "title": "Special Double Issue",
         "pub_year": "2001",
         "citation": "International Journal of Engineering Education 17 (4), 5, 2001",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "VBCXRSIAAAAJ:WHdLCjDvYFkC"
     },
     {
@@ -1373,7 +1399,7 @@
         "title": "Stability theory and its applications to structural mechanics",
         "pub_year": "2002",
         "citation": "Dover Publications, 2002",
-        "num_citations": 237,
+        "num_citations": 241,
         "author_pub_id": "VBCXRSIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1415,7 +1441,7 @@
         "title": "Structural modeling and analysis",
         "pub_year": "1997",
         "citation": "Cambridge University Press, 1997",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "VBCXRSIAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -1442,7 +1468,7 @@
         "title": "Teaching design to freshmen: Style and content",
         "pub_year": "1994",
         "citation": "Journal of Engineering Education 83 (4), 303-310, 1994",
-        "num_citations": 184,
+        "num_citations": 190,
         "author_pub_id": "VBCXRSIAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1511,7 +1537,7 @@
     {
         "title": "Traffic generated vibration from roadway facilities",
         "pub_year": "1975",
-        "citation": "",
+        "citation": "INTER-NOISE and NOISE-CON Congress and Conference Proceedings 1975 (2), 515-518, 1975",
         "num_citations": 0,
         "author_pub_id": "VBCXRSIAAAAJ:N5tVd3kTz84C"
     },
@@ -1533,21 +1559,21 @@
         "title": "Transmission of sound through sandwich panels",
         "pub_year": "1974",
         "citation": "The Journal of the Acoustical Society of America 56 (5), 1523-1532, 1974",
-        "num_citations": 196,
+        "num_citations": 198,
         "author_pub_id": "VBCXRSIAAAAJ:LkGwnXOMwfcC"
     },
     {
-        "title": "Transmission of sound through sandwich panels: A reconsideration",
+        "title": "Transmission of sound through sandwich panels: a reconsideration",
         "pub_year": "1976",
         "citation": "",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "VBCXRSIAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Transverse stiffener requirements for curved webs",
         "pub_year": "1973",
         "citation": "Journal of the Structural Division 99 (4), 757-771, 1973",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "VBCXRSIAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -1596,7 +1622,7 @@
         "title": "Vibration: beams, plates, and shells",
         "pub_year": "1976",
         "citation": "(No Title), 1976",
-        "num_citations": 35,
+        "num_citations": 32,
         "author_pub_id": "VBCXRSIAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -1617,7 +1643,7 @@
         "title": "Web slenderness requirements for curved girders",
         "pub_year": "1973",
         "citation": "Journal of the Structural Division 99 (3), 417-430, 1973",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "VBCXRSIAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1628,11 +1654,18 @@
         "author_pub_id": "VBCXRSIAAAAJ:08ZZubdj9fEC"
     },
     {
-        "title": "What we have learned at mudd design workshop VII:\" sustaining sustainable design\"",
+        "title": "What We Have Learned at Mudd Design Workshop VII:'Sustaining Sustainable Design'",
         "pub_year": "2010",
-        "citation": "The International journal of engineering education 26 (2), 499-504, 2010",
+        "citation": "International Journal of Engineering Education 26 (2), 499, 2010",
         "num_citations": 2,
         "author_pub_id": "VBCXRSIAAAAJ:rO6llkc54NcC"
+    },
+    {
+        "title": "William P. Birmingham, Editor Clive L. Dym, Editor Emeritus",
+        "pub_year": "1998",
+        "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing 12, 1, 1998",
+        "num_citations": 3,
+        "author_pub_id": "VBCXRSIAAAAJ:SjuI4pbJlxcC"
     },
     {
         "title": "YAN JIN",

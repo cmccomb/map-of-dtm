@@ -7,6 +7,13 @@
         "author_pub_id": "qGJAOcIAAAAJ:-yGd096yOn8C"
     },
     {
+        "title": "448 Gbit/s DP-16QAM transmission using integrated tunable CMOS laser sources",
+        "pub_year": "2014",
+        "citation": "Optical Fiber Communication Conference, Th3J. 3, 2014",
+        "num_citations": 3,
+        "author_pub_id": "qGJAOcIAAAAJ:zDhyt2jClVkC"
+    },
+    {
         "title": "495: Stratification of hemodynamics by impedance cardiography predicts suboptimal outcomes in diabetic pregnancies",
         "pub_year": "2007",
         "citation": "American Journal of Obstetrics & Gynecology 197 (6), S144, 2007",
@@ -170,7 +177,7 @@
         "title": "A computational technique for concept generation",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 174,
+        "num_citations": 175,
         "author_pub_id": "qGJAOcIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -240,14 +247,14 @@
         "title": "A functional basis for engineering design: reconciling and evolving previous efforts",
         "pub_year": "2002",
         "citation": "Research in engineering Design 13, 65-82, 2002",
-        "num_citations": 1633,
+        "num_citations": 1634,
         "author_pub_id": "qGJAOcIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A heuristic method for identifying modules for product architectures",
         "pub_year": "2000",
         "citation": "Design studies 21 (1), 5-31, 2000",
-        "num_citations": 836,
+        "num_citations": 837,
         "author_pub_id": "qGJAOcIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -511,7 +518,7 @@
         "title": "An engineering-to-biology thesaurus for engineering design",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "qGJAOcIAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -553,7 +560,7 @@
         "title": "An overview of biomimetic sensor technology",
         "pub_year": "2009",
         "citation": "Sensor Review 29 (2), 112-119, 2009",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "qGJAOcIAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -693,7 +700,7 @@
         "title": "Biologically inspired design",
         "pub_year": "2015",
         "citation": "Springer, 2015",
-        "num_citations": 151,
+        "num_citations": 153,
         "author_pub_id": "qGJAOcIAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -1265,7 +1272,7 @@
         "title": "Function-based biologically inspired design",
         "pub_year": "2014",
         "citation": "Biologically Inspired Design: Computational Methods and Tools, 95-125, 2014",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "qGJAOcIAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -1370,7 +1377,7 @@
         "title": "Going back in time to improve design: the elemental function-failure design method",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "qGJAOcIAAAAJ:hMod-77fHWUC"
     },
     {
@@ -1594,7 +1601,7 @@
         "title": "Measurement of the relative prompt production rate of χ c2 and χ c1 in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-22, 2012",
-        "num_citations": 188,
+        "num_citations": 189,
         "author_pub_id": "qGJAOcIAAAAJ:gFrPXmx1TSsC"
     },
     {
@@ -1663,7 +1670,7 @@
         "title": "Observation of  Production",
         "pub_year": "2018",
         "citation": "Physical review letters 120 (23), 231801, 2018",
-        "num_citations": 889,
+        "num_citations": 1047,
         "author_pub_id": "qGJAOcIAAAAJ:onKP9CxGSkIC"
     },
     {
@@ -1733,7 +1740,7 @@
         "title": "Precise determination of the mass of the Higgs boson and tests of compatibility of its couplings with the standard model predictions using proton collisions at 7 and 8$$\\,\\text …",
         "pub_year": "2015",
         "citation": "The European Physical Journal C 75 (5), 1-50, 2015",
-        "num_citations": 1800,
+        "num_citations": 1802,
         "author_pub_id": "qGJAOcIAAAAJ:cG0OFEevkNgC"
     },
     {
@@ -1887,14 +1894,14 @@
         "title": "Search for heavy Majorana neutrinos in mu+/-mu+/-+ jets events in proton-proton collisions at sqrt (s)= 8 TeV",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1501.05566, 2015",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "qGJAOcIAAAAJ:LiF7i2gyBHwC"
     },
     {
         "title": "Search for heavy gauge W bosons in events with an energetic lept on and large missing transverse momentum at√ s= 13 TeV",
         "pub_year": "2017",
         "citation": "Elsevier, 2017",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "qGJAOcIAAAAJ:YXeC4bxG7-IC"
     },
     {
@@ -1908,14 +1915,14 @@
         "title": "Search for physics beyond the standard model in dilepton mass spectra in proton-proton collisions at sqrt (s)= 8 TeV",
         "pub_year": "2014",
         "citation": "arXiv preprint arXiv:1412.6302, 2014",
-        "num_citations": 288,
+        "num_citations": 291,
         "author_pub_id": "qGJAOcIAAAAJ:dT4-KZ621vcC"
     },
     {
         "title": "Search for the Standard Model Higgs Boson Decaying into two Photons in pp Collisions at s= 7TeV",
         "pub_year": "2012",
         "citation": "Physics Letters B 710 (3), 403-425, 2012",
-        "num_citations": 307,
+        "num_citations": 308,
         "author_pub_id": "qGJAOcIAAAAJ:oqD4_j7ulsYC"
     },
     {
@@ -2020,7 +2027,7 @@
         "title": "Study of the inclusive production of charged pions, kaons, and protons in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-37, 2012",
-        "num_citations": 317,
+        "num_citations": 318,
         "author_pub_id": "qGJAOcIAAAAJ:IyxfXMz2bNAC"
     },
     {
@@ -2186,7 +2193,7 @@
         "title": "The sloan digital sky survey: Technical summary",
         "pub_year": "2000",
         "citation": "The Astronomical Journal 120 (3), 1579, 2000",
-        "num_citations": 11972,
+        "num_citations": 11997,
         "author_pub_id": "qGJAOcIAAAAJ:zdX0sdgBH_kC"
     },
     {

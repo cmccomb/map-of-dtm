@@ -21,24 +21,24 @@
         "author_pub_id": "mZBr2BEAAAAJ:4TOpqqG69KYC"
     },
     {
-        "title": "A Reinforcement Learning Approach to Predicting Human Design Actions Using a Data-Driven Reward Formulation",
-        "pub_year": "2022",
-        "citation": "Proceedings of the Design Society 2, 1709-1718, 2022",
-        "num_citations": 3,
-        "author_pub_id": "mZBr2BEAAAAJ:HtEfBTGE9r8C"
+        "title": "A Network‐Based Approach to Modeling and Predicting Product Coconsideration Relations",
+        "pub_year": "2018",
+        "citation": "Complexity 2018 (1), 2753638, 2018",
+        "num_citations": 31,
+        "author_pub_id": "mZBr2BEAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "A Study on Generative Design Reasoning and Students' Divergent and Convergent Thinking",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mZBr2BEAAAAJ:ODE9OILHJdcC"
     },
     {
         "title": "A computer-aided design based research platform for design thinking studies",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (12), 121102, 2019",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "mZBr2BEAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -63,13 +63,6 @@
         "author_pub_id": "mZBr2BEAAAAJ:S16KYo8Pm5AC"
     },
     {
-        "title": "A network-based approach to modeling and predicting product coconsideration relations",
-        "pub_year": "2018",
-        "citation": "Complexity 2018, 1-14, 2018",
-        "num_citations": 30,
-        "author_pub_id": "mZBr2BEAAAAJ:b1wdh0AR-JQC"
-    },
-    {
         "title": "A network-based discrete choice model for decision-based design",
         "pub_year": "2023",
         "citation": "Design Science 9, e7, 2023",
@@ -80,8 +73,15 @@
         "title": "A predictive and generative design approach for three-dimensional mesh shapes using target-embedding variational autoencoder",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (11), 114501, 2022",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "mZBr2BEAAAAJ:4hFrxpcac9AC"
+    },
+    {
+        "title": "A reinforcement learning approach to predicting human design actions using a data-driven reward formulation",
+        "pub_year": "2022",
+        "citation": "Proceedings of the Design Society 2, 1709-1718, 2022",
+        "num_citations": 3,
+        "author_pub_id": "mZBr2BEAAAAJ:HtEfBTGE9r8C"
     },
     {
         "title": "A weighted network modeling approach for analyzing product competition",
@@ -93,7 +93,7 @@
     {
         "title": "A weighted statistical network modeling approach to product competition analysis",
         "pub_year": "2022",
-        "citation": "Complexity 2022, 1-16, 2022",
+        "citation": "Complexity 2022 (1), 9417869, 2022",
         "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:4fGpz3EwCPoC"
     },
@@ -107,7 +107,7 @@
     {
         "title": "An Exploratory Study on Fairness-Aware Design Decision-Making",
         "pub_year": "2022",
-        "citation": "",
+        "citation": "Hawaii International Conference on System Science (HICSS), 2022",
         "num_citations": 1,
         "author_pub_id": "mZBr2BEAAAAJ:FAceZFleit8C"
     },
@@ -143,7 +143,7 @@
         "title": "Automatic clustering of sequential design behaviors",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "mZBr2BEAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -247,25 +247,31 @@
         "title": "Design and Simulation of Hydraulic Dual-cylinder Synchronous Control System Based on MRFAC",
         "pub_year": "2013",
         "citation": "Machine Tool & Hydraulics 41 (5), 89-96, 2013",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "mZBr2BEAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "Design for Market Systems with Network-Based Product Competition Analysis",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "Design representation for performance evaluation of 3D shapes in structure-aware generative design",
         "pub_year": "2023",
         "citation": "Design Science 9, e27, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "mZBr2BEAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "Developing Competencies for the 21st Century Engineer",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "mZBr2BEAAAAJ:zLWjf1WUPmwC"
     },
     {
-        "title": "Developing instructional design agents to support novice and K-12 Design Education",
+        "title": "Developing instructional design agents to support novice and K-12 design education",
         "pub_year": "2019",
         "citation": "ASEE annual conference & exposition, 2019",
         "num_citations": 8,
@@ -286,6 +292,12 @@
         "author_pub_id": "mZBr2BEAAAAJ:Ri6SYOTghG4C"
     },
     {
+        "title": "Engineering Design Thinking in the Age of Generative Artificial Intelligence",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:Ehil0879vHcC"
+    },
+    {
         "title": "Estimating Linking Preferences and Behaviors of Autonomous Systems in the Internet Using a Discrete Choice Model",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Systems, Man, and Cybernetics, 2014",
@@ -303,7 +315,7 @@
         "title": "Estimating the Node-Level Behaviors in Complex Networks from Structural Datasets",
         "pub_year": "2013",
         "citation": "2013 ASME Computers and Information in Engineering (CIE) Conference, 2013",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -334,9 +346,9 @@
         "author_pub_id": "mZBr2BEAAAAJ:F9fV5C73w3QC"
     },
     {
-        "title": "Geospatial Network Analysis of US Megaregions in 40 Years",
+        "title": "Geospatial Network Analysis of US Megaregions in 40 Years.",
         "pub_year": "2024",
-        "citation": "",
+        "citation": "HICSS, 5639-5648, 2024",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:HtS1dXgVpQUC"
     },
@@ -344,7 +356,7 @@
         "title": "Graph Neural Network-Based Design Decision Support for Shared Mobility Systems",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (9), 091703, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "mZBr2BEAAAAJ:OTTXONDVkokC"
     },
     {
@@ -358,7 +370,7 @@
         "title": "Human-centered generative design framework: an early design framework to support concept creation and evaluation",
         "pub_year": "2024",
         "citation": "International Journal of Human–Computer Interaction 40 (4), 933-944, 2024",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "mZBr2BEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -383,10 +395,10 @@
         "author_pub_id": "mZBr2BEAAAAJ:fFSKOagxvKUC"
     },
     {
-        "title": "Information Retrieval and Survey Design for Two-Stage Customer Preference Modeling",
+        "title": "Information retrieval and survey design for two-stage customer preference modeling",
         "pub_year": "2022",
         "citation": "Proceedings of the Design Society 2, 811-820, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "mZBr2BEAAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -435,14 +447,14 @@
         "title": "MODELLING AND PROFILING STUDENT DESIGNERS’COGNITIVE COMPETENCIES IN COMPUTER-AIDED DESIGN",
         "pub_year": "2021",
         "citation": "Proceedings of the Design Society 1, 2157-2166, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "mZBr2BEAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Mechanical strength of chunk-based printed parts for cooperative 3D printing",
         "pub_year": "2018",
         "citation": "Procedia Manufacturing 26, 962-972, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "mZBr2BEAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -463,7 +475,7 @@
         "title": "Modeling Customer Choice Preferences in Engineering Design Using Bipartite Network Analysis",
         "pub_year": "2017",
         "citation": "2017 ASME International Design Engineering Technical Conferences & Computers …, 2017",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "mZBr2BEAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -497,7 +509,7 @@
         "title": "Modeling multi-year customers’ considerations and choices in China’s auto market using two-stage bipartite network analysis",
         "pub_year": "2021",
         "citation": "Networks and Spatial Economics 21, 365-385, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "mZBr2BEAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -525,7 +537,7 @@
         "title": "Multi-robot path planning for cooperative 3d printing",
         "pub_year": "2020",
         "citation": "International Manufacturing Science and Engineering Conference 84256 …, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "mZBr2BEAAAAJ:FPJr55Dyh1AC"
     },
     {
@@ -564,10 +576,16 @@
         "author_pub_id": "mZBr2BEAAAAJ:d1gkVwhDpl0C"
     },
     {
+        "title": "Part-Aware Product Design Using Deep Generative Network",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:OP4eGU-M3BUC"
+    },
+    {
         "title": "Part-aware product design agent using deep generative network and local linear embedding",
         "pub_year": "2021",
         "citation": "",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "mZBr2BEAAAAJ:0N-VGjzr574C"
     },
     {
@@ -595,7 +613,7 @@
         "title": "Predicting product co-consideration and market competitions for technology-driven product design: a network-based approach",
         "pub_year": "2018",
         "citation": "Design Science 4, e9, 2018",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "mZBr2BEAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -644,8 +662,14 @@
         "title": "Resource-constrained scheduling for multi-robot cooperative three-dimensional printing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 072002, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "mZBr2BEAAAAJ:5qfkUJPXOUwC"
+    },
+    {
+        "title": "Revolutionizing Computer-Aided Design Systems: CAD Sequence Inference from Product Image",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:nZcligLrVowC"
     },
     {
         "title": "Robust design of complex socio-technical systems against seasonal effects: a network motif-based approach",
@@ -680,6 +704,12 @@
         "citation": "Advanced Materials Research 201, 2360-2365, 2011",
         "num_citations": 2,
         "author_pub_id": "mZBr2BEAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "Social Influence and Customer Preferences: A Case Study in the US New Car Buyer Market",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:P7Ujq4OLJYoC"
     },
     {
         "title": "Study on Development of Motor in Drive System for Mechanical Press",
@@ -727,7 +757,7 @@
         "title": "Toward swarm manufacturing: architecting a cooperative 3D printing system",
         "pub_year": "2022",
         "citation": "Journal of Manufacturing Science and Engineering 144 (8), 081004, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "mZBr2BEAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -736,6 +766,12 @@
         "citation": "Recent Trends and Advances in Model Based Systems Engineering, 603-618, 2022",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:0izLItjtcgwC"
+    },
+    {
+        "title": "Towards Fairness-Aware Design Decision-Making",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:GFxP56DSvIMC"
     },
     {
         "title": "Towards engineering complex socio-technical systems using network motifs: A case study on bike-sharing systems",
@@ -752,7 +788,7 @@
         "author_pub_id": "mZBr2BEAAAAJ:WF5omc3nYNoC"
     },
     {
-        "title": "Travel Links Prediction in Shared Mobility Networks Using Graph Neural Network Models",
+        "title": "Travel links prediction in shared mobility networks using graph neural network models",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
         "num_citations": 1,
@@ -769,7 +805,7 @@
         "title": "Understanding design decisions under competition using games with information acquisition and a behavioral experiment",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (9), 091402, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "mZBr2BEAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -783,7 +819,7 @@
         "title": "Z-chunking for cooperative 3d printing of large and tall objects",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "mZBr2BEAAAAJ:WJVC3Jt7v1AC"
     }
 ]

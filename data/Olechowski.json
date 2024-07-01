@@ -1,5 +1,12 @@
 [
     {
+        "title": "\" A Lot of Moving Parts\": A Case Study of Open-Source Hardware Design Collaboration in the Thingiverse Community",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.12801, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:fPk4N6BV_jEC"
+    },
+    {
         "title": "\" Just a little bit on the outside for the whole time\": Social belonging confidence and the persistence of Machine Learning and Artificial Intelligence students",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.10745, 2023",
@@ -14,17 +21,10 @@
         "author_pub_id": "P5yUQ-IAAAAJ:ns9cj8rnVeAC"
     },
     {
-        "title": "A Focussed Literature Review of Dual-Process Thinking to Inform the Study of Hackathons",
-        "pub_year": "2022",
-        "citation": "International Conference on-Design Computing and Cognition, 145-160, 2022",
-        "num_citations": 2,
-        "author_pub_id": "P5yUQ-IAAAAJ:NMxIlDl6LWMC"
-    },
-    {
         "title": "A Multimodal Experimental Approach to Study CAD Collaboration",
         "pub_year": "2020",
         "citation": "Computer-Aided Design and Applications 18 (2), 328-342, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P5yUQ-IAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -49,6 +49,13 @@
         "author_pub_id": "P5yUQ-IAAAAJ:ZHo1McVdvXMC"
     },
     {
+        "title": "A focussed literature review of dual-process thinking to inform the study of hackathons",
+        "pub_year": "2022",
+        "citation": "International Conference on-Design Computing and Cognition, 145-160, 2022",
+        "num_citations": 2,
+        "author_pub_id": "P5yUQ-IAAAAJ:NMxIlDl6LWMC"
+    },
+    {
         "title": "A survey of design reviews: understanding differences by designer-roles and phase of development",
         "pub_year": "2019",
         "citation": "Proceedings of the Design Society: International Conference on Engineering …, 2019",
@@ -59,7 +66,7 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -87,7 +94,7 @@
         "title": "Analysis of Collaborative Assembly in Multi-User Computer-Aided Design",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -101,7 +108,7 @@
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 180,
+        "num_citations": 182,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -115,7 +122,7 @@
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -143,7 +150,7 @@
         "title": "Characteristics of successful risk management in product design",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "P5yUQ-IAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -192,7 +199,7 @@
         "title": "Emerging Technologies and Methods for Early-Stage Product Design and Development",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 040301, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -210,6 +217,13 @@
         "author_pub_id": "P5yUQ-IAAAAJ:roLk4NBRz8UC"
     },
     {
+        "title": "Evaluating Computer-Aided Design Software as a Barrier to Women’s Engagement in Engineering: A Focused Literature",
+        "pub_year": "2022",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:4OULZ7Gr8RgC"
+    },
+    {
         "title": "Evaluating Computer-Aided Design Software as a Barrier to Women’s Engagement in Engineering: A Focused Literature Review",
         "pub_year": "2022",
         "citation": "2022 ASEE Annual Conference & Exposition, 2022",
@@ -220,7 +234,7 @@
         "title": "Examining the engineering leadership literature: Community of practice style",
         "pub_year": "2018",
         "citation": "2018 ASEE Annual Conference & Exposition, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "P5yUQ-IAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -234,14 +248,14 @@
         "title": "Gendered Professional Role Confidence and Persistence of Artificial Intelligence and Machine Learning Students",
         "pub_year": "2020",
         "citation": "2020 ASEE Annual Conference and Exposition, 2020",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Identifying Computer-Aided Design Action Types From Professional User Analytics Data",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -255,7 +269,7 @@
         "title": "Improving the Systems Engineering Process with Multilevel Analysis of Interactions",
         "pub_year": "2014",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2014",
-        "num_citations": 38,
+        "num_citations": 42,
         "author_pub_id": "P5yUQ-IAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -269,7 +283,7 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -373,21 +387,21 @@
         "title": "Product development risk management and the role of transparency",
         "pub_year": "2012",
         "citation": "Massachusetts Institute of Technology, 2012",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Prominence of Conceptual Design with Computer-Aided Design Tools for Junior and Senior Product Designers",
         "pub_year": "2020",
         "citation": "2020 ASEE Annual Conference and Exposition, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Some (Team) Assembly Required: An Analysis of Collaborative Computer-Aided Design Assembly",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:TQgYirikUcIC"
     },
     {
@@ -401,21 +415,21 @@
         "title": "Team and communication impacts of remote work for complex aerospace system development",
         "pub_year": "2024",
         "citation": "Systems Engineering 27 (1), 199-213, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 174,
+        "num_citations": 177,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 98,
+        "num_citations": 102,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -424,6 +438,13 @@
         "citation": "Technovation 34 (11), 663-677, 2014",
         "num_citations": 62,
         "author_pub_id": "P5yUQ-IAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "The Personas of Cloud CAD Collaboration: A Case Study of a Team of CAD Professionals",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Engineering Management, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "The Role of Design Artifacts in Design",
@@ -436,7 +457,7 @@
         "title": "The multi-user computer-aided design collaborative learning framework",
         "pub_year": "2022",
         "citation": "Advanced Engineering Informatics 51, 101446, 2022",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "P5yUQ-IAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -474,9 +495,9 @@
         "author_pub_id": "P5yUQ-IAAAAJ:e5wmG9Sq2KIC"
     },
     {
-        "title": "Transitioning Towards SysML v2 as a Variability Modeling Language",
+        "title": "Transitioning towards SysML v2 as a variability modeling language",
         "pub_year": "2024",
-        "citation": "",
+        "citation": "Innovations in Systems and Software Engineering, 1-12, 2024",
         "num_citations": 0,
         "author_pub_id": "P5yUQ-IAAAAJ:pqnbT2bcN3wC"
     },
@@ -484,14 +505,14 @@
         "title": "User Perspectives on Branching in Computer-Aided Design",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-30, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Using TRLs and system architecture to estimate technology integration risk",
         "pub_year": "2017",
         "citation": "DS 87-3 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "P5yUQ-IAAAAJ:Se3iqnhoufwC"
     },
     {
