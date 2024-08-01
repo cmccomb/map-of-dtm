@@ -3,14 +3,14 @@
         "title": "2019 GWTC-1: a gravitational-wave transient catalog of compact binary mergers observed by LIGO and Virgo during the first and second observing runs",
         "pub_year": "1811",
         "citation": "Phys. Rev, 1811",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "qGJAOcIAAAAJ:-yGd096yOn8C"
     },
     {
         "title": "448 Gbit/s DP-16QAM transmission using integrated tunable CMOS laser sources",
         "pub_year": "2014",
         "citation": "Optical Fiber Communication Conference, Th3J. 3, 2014",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "qGJAOcIAAAAJ:zDhyt2jClVkC"
     },
     {
@@ -77,9 +77,9 @@
         "author_pub_id": "qGJAOcIAAAAJ:PR6Y55bgFSsC"
     },
     {
-        "title": "A Group Technology for product portfolios",
+        "title": "A Group Technology for Product Portfolios",
         "pub_year": "2005",
-        "citation": "DETC2005: ASME International Design Engineering Technical Conferences and …, 2005",
+        "citation": "American Society of Mechanical Engineers 2, 1053, 2005",
         "num_citations": 0,
         "author_pub_id": "qGJAOcIAAAAJ:vDZJ-YLwNdEC"
     },
@@ -205,7 +205,7 @@
         "title": "A framework for creating a function-based design tool for failure mode identification",
         "pub_year": "2002",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2002",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "qGJAOcIAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -247,21 +247,21 @@
         "title": "A functional basis for engineering design: reconciling and evolving previous efforts",
         "pub_year": "2002",
         "citation": "Research in engineering Design 13, 65-82, 2002",
-        "num_citations": 1631,
+        "num_citations": 1634,
         "author_pub_id": "qGJAOcIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A heuristic method for identifying modules for product architectures",
         "pub_year": "2000",
         "citation": "Design studies 21 (1), 5-31, 2000",
-        "num_citations": 838,
+        "num_citations": 842,
         "author_pub_id": "qGJAOcIAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "A heuristic method to identify modules from a functional description of a product",
         "pub_year": "1998",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1998",
-        "num_citations": 216,
+        "num_citations": 217,
         "author_pub_id": "qGJAOcIAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -289,7 +289,7 @@
         "title": "A model of function-based representations",
         "pub_year": "2005",
         "citation": "AI EDAM 19 (2), 89-111, 2005",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qGJAOcIAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -317,7 +317,7 @@
         "title": "A neural network thrust force controller to minimize delamination during drilling of graphite-epoxy laminates",
         "pub_year": "1996",
         "citation": "International Journal of Machine Tools and Manufacture 36 (9), 985-1003, 1996",
-        "num_citations": 324,
+        "num_citations": 325,
         "author_pub_id": "qGJAOcIAAAAJ:DUooU5lO8OsC"
     },
     {
@@ -525,7 +525,7 @@
         "title": "An engineering-to-biology thesaurus to promote better collaboration, creativity and discovery",
         "pub_year": "2009",
         "citation": "Proceedings of the 19th CIRP Design Conference–Competitive Design, 2009",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qGJAOcIAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -560,7 +560,7 @@
         "title": "An overview of biomimetic sensor technology",
         "pub_year": "2009",
         "citation": "Sensor Review 29 (2), 112-119, 2009",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "qGJAOcIAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -588,7 +588,7 @@
         "title": "Apparatus and method for managing a provider network",
         "pub_year": "2012",
         "citation": "US Patent 8,103,755, 2012",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "qGJAOcIAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -679,7 +679,7 @@
         "title": "Azimuthal correlations for inclusive 2-jet, 3-jet, and 4-jet events in pp collisions at ",
         "pub_year": "2018",
         "citation": "The European Physical Journal C 78 (7), 1-26, 2018",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qGJAOcIAAAAJ:C2yK8tfAHAgC"
     },
     {
@@ -700,7 +700,7 @@
         "title": "Biologically inspired design",
         "pub_year": "2015",
         "citation": "Springer, 2015",
-        "num_citations": 154,
+        "num_citations": 158,
         "author_pub_id": "qGJAOcIAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -742,7 +742,7 @@
         "title": "Capturing creativity: Using a design repository to drive concept innovation",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "qGJAOcIAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -812,7 +812,7 @@
         "title": "Computer-based design synthesis research: an overview",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 315,
+        "num_citations": 318,
         "author_pub_id": "qGJAOcIAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -943,7 +943,7 @@
         "title": "Development of a functional basis for design",
         "pub_year": "1999",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999",
-        "num_citations": 1426,
+        "num_citations": 1430,
         "author_pub_id": "qGJAOcIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1132,7 +1132,7 @@
         "title": "Exploring the use of functional models in biomimetic conceptual design",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "qGJAOcIAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1209,7 +1209,7 @@
         "title": "Forced expiratory volume in 1 second variability helps identify patients with cystic fibrosis at risk of greater loss of lung function",
         "pub_year": "2016",
         "citation": "The Journal of pediatrics 169, 116-121. e2, 2016",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "qGJAOcIAAAAJ:BJbdYPG6LGMC"
     },
     {
@@ -1286,7 +1286,7 @@
         "title": "Function-based biology inspired concept generation",
         "pub_year": "2010",
         "citation": "Biomimetics, Learning From Nature. A. Mukherjee. Croatia, In-Tech, 93-116, 2010",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qGJAOcIAAAAJ:D_sINldO8mEC"
     },
     {
@@ -1300,14 +1300,14 @@
         "title": "Function-based systems engineering (FUSE)",
         "pub_year": "2007",
         "citation": "DS 42: Proceedings of ICED 2007, the 16th International Conference on …, 2007",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qGJAOcIAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Function-based, biologically inspired concept generation",
         "pub_year": "2010",
         "citation": "Ai Edam 24 (4), 521-535, 2010",
-        "num_citations": 182,
+        "num_citations": 183,
         "author_pub_id": "qGJAOcIAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -1433,7 +1433,7 @@
         "title": "Implementation procedures for the risk in early design (red) method",
         "pub_year": "2008",
         "citation": "JOURNAL OF INDUSTRIAL AND SYSTEMS ENGINEERING (JISE) 2 (2), 126-143, 2008",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "qGJAOcIAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -1559,7 +1559,7 @@
         "title": "Linking product functionality to historic failures to improve failure analysis in design",
         "pub_year": "2005",
         "citation": "Research in Engineering design 16, 96-108, 2005",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "qGJAOcIAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1628,7 +1628,7 @@
         "title": "Method and apparatus for locating naming discrepancies",
         "pub_year": "2012",
         "citation": "US Patent App. 13/136,831, 2012",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "qGJAOcIAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -1677,7 +1677,7 @@
         "title": "Observation of  Production",
         "pub_year": "2018",
         "citation": "Physical review letters 120 (23), 231801, 2018",
-        "num_citations": 1057,
+        "num_citations": 1076,
         "author_pub_id": "qGJAOcIAAAAJ:onKP9CxGSkIC"
     },
     {
@@ -1747,7 +1747,7 @@
         "title": "Precise determination of the mass of the Higgs boson and tests of compatibility of its couplings with the standard model predictions using proton collisions at 7 and 8 TeV",
         "pub_year": "2015",
         "citation": "European Physical Journal C 75 (5), 212, 2015",
-        "num_citations": 1822,
+        "num_citations": 1835,
         "author_pub_id": "qGJAOcIAAAAJ:cG0OFEevkNgC"
     },
     {
@@ -1824,7 +1824,7 @@
         "title": "Requirements for a failure mode taxonomy for use in conceptual design",
         "pub_year": "2003",
         "citation": "Ds 31: Proceedings of iced 03, the 14th international conference on …, 2003",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "qGJAOcIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1859,7 +1859,7 @@
         "title": "Search for Supersymmetry with a Compressed Mass Spectrum in Events with a Soft  Lepton, a Highly Energetic Jet, and Large Missing Transverse Momentum in …",
         "pub_year": "2020",
         "citation": "Physical review letters 124 (4), 041803, 2020",
-        "num_citations": 45,
+        "num_citations": 48,
         "author_pub_id": "qGJAOcIAAAAJ:sbeIDTyQOFgC"
     },
     {
@@ -1901,7 +1901,7 @@
         "title": "Search for heavy Majorana neutrinos in mu+/-mu+/-+ jets events in proton-proton collisions at sqrt (s)= 8 TeV",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1501.05566, 2015",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "qGJAOcIAAAAJ:LiF7i2gyBHwC"
     },
     {
@@ -1922,7 +1922,7 @@
         "title": "Search for physics beyond the standard model in dilepton mass spectra in proton-proton collisions at  TeV",
         "pub_year": "2015",
         "citation": "Journal of High Energy Physics 2015 (4), 1-49, 2015",
-        "num_citations": 486,
+        "num_citations": 487,
         "author_pub_id": "qGJAOcIAAAAJ:dT4-KZ621vcC"
     },
     {
@@ -1985,7 +1985,7 @@
         "title": "SpIES: The Spitzer IRAC Equatorial Survey",
         "pub_year": "2016",
         "citation": "The Astrophysical Journal Supplement Series 225 (1), 1, 2016",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "qGJAOcIAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -2020,14 +2020,14 @@
         "title": "Structural properties of recycled plastic/sawdust lumber decking planks",
         "pub_year": "2001",
         "citation": "Resources, conservation and recycling 31 (3), 241-251, 2001",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "qGJAOcIAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Study of the inclusive production of charged pions, kaons, and protons in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-37, 2012",
-        "num_citations": 232,
+        "num_citations": 236,
         "author_pub_id": "qGJAOcIAAAAJ:IyxfXMz2bNAC"
     },
     {
@@ -2068,7 +2068,7 @@
         "title": "The DIRC particle identification system for the BaBar experiment",
         "pub_year": "2005",
         "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2005",
-        "num_citations": 271,
+        "num_citations": 272,
         "author_pub_id": "qGJAOcIAAAAJ:U_HPUtbDl20C"
     },
     {
@@ -2095,7 +2095,7 @@
         "title": "The LSC glitch group: monitoring noise transients during the fifth LIGO science run",
         "pub_year": "2008",
         "citation": "Classical and Quantum Gravity 25 (18), 184004, 2008",
-        "num_citations": 130,
+        "num_citations": 131,
         "author_pub_id": "qGJAOcIAAAAJ:kF1pexMAQbMC"
     },
     {
@@ -2193,7 +2193,7 @@
         "title": "The sloan digital sky survey: Technical summary",
         "pub_year": "2000",
         "citation": "The Astronomical Journal 120 (3), 1579, 2000",
-        "num_citations": 12070,
+        "num_citations": 12137,
         "author_pub_id": "qGJAOcIAAAAJ:zdX0sdgBH_kC"
     },
     {
@@ -2347,7 +2347,7 @@
         "title": "Using quantitative functional models to develop product architectures",
         "pub_year": "2000",
         "citation": "Design Studies 21 (3), 239-260, 2000",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "qGJAOcIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -2370,6 +2370,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
         "num_citations": 14,
         "author_pub_id": "qGJAOcIAAAAJ:-_dYPAW6P2MC"
+    },
+    {
+        "title": "Visual representations as an aid to concept generation",
+        "pub_year": "2006",
+        "citation": "American Society of Mechanical Engineers, 2006",
+        "num_citations": 2,
+        "author_pub_id": "qGJAOcIAAAAJ:lRzkMCTRmMwC"
     },
     {
         "title": "VizieR Online Data Catalog: SpIES: the Spitzer IRAC Equatorial Survey (Timlin+, 2016)",

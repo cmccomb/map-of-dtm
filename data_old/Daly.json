@@ -1,5 +1,12 @@
 [
     {
+        "title": "\" Exploring Other People’s Mind, Exploring Your Own Mind”—A Story of Divergent Thinking from Mechanical Engineering Practice",
+        "pub_year": "2023",
+        "citation": "Annual Conference for the American Society for Engineering Education, 2023",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:P7Ujq4OLJYoC"
+    },
+    {
         "title": "2017 IEEE Education Society Awards, 2017 Frontiers in Education Conference Awards, and Selected IEEE Awards",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Education 61 (1), 74-83, 2018",
@@ -10,7 +17,7 @@
         "title": "3.1 Tracing Problem Evolution: Factors That Impact Design Problem Definition",
         "pub_year": "2017",
         "citation": "",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "leVgn_kAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -38,7 +45,7 @@
         "title": "A comparison of cognitive heuristics use between engineers and industrial designers",
         "pub_year": "2011",
         "citation": "Design Computing and Cognition’10, 3-22, 2011",
-        "num_citations": 52,
+        "num_citations": 51,
         "author_pub_id": "leVgn_kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -52,7 +59,7 @@
         "title": "A design-based approach to the professional development of teachers in nanoscale science",
         "pub_year": "2007",
         "citation": "annual meeting of the national association for research in science teaching …, 2007",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "leVgn_kAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -66,7 +73,7 @@
         "title": "A new direction for engineering education research: Unique phenomenographic results that impact big picture understandings",
         "pub_year": "2008",
         "citation": "Proceedings of the 2008 AaaE Conference, 7-10, 2008",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "leVgn_kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -80,15 +87,42 @@
         "title": "A solution in search of problems: a cognitive tool for solution mapping to promote divergent thinking",
         "pub_year": "2021",
         "citation": "Journal of Engineering Design 32 (6), 300-321, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "leVgn_kAAAAJ:PoWvk5oyLR8C"
+    },
+    {
+        "title": "AC 2007-1681: MODELS OF NANOSCALE PHENOMENA AS TOOLS FOR ENGINEERING DESIGN AND SCIENCE INQUIRY",
+        "pub_year": "2007",
+        "citation": "age 12, 1, 2007",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:nZcligLrVowC"
     },
     {
         "title": "AC 2007-1686: INCORPORATING NANOSCALE SCIENCE AND ENGINEERING CONCEPTS INTO MIDDLE AND HIGH SCHOOL CURRICULA",
         "pub_year": "2007",
         "citation": "",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "leVgn_kAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "AC 2009-2347: DESIGN RESEARCH AND DESIGN PRACTICE: A FRAMEWORK FOR FUTURE INVESTIGATIONS",
+        "pub_year": "2009",
+        "citation": "age 14, 1, 2009",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:GFxP56DSvIMC"
+    },
+    {
+        "title": "AC 2009-995: THE DESIGN LANDSCAPE: A PHENOMENOGRAPHIC STUDY OF DESIGN EXPERIENCES",
+        "pub_year": "2009",
+        "citation": "age 14, 1, 2009",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:8xutWZnSdmoC"
+    },
+    {
+        "title": "AC 2011-1633: THE CHALLENGE OF RETURNING: TRANSITIONING FROM AN ENGINEERING CAREER TO GRADUATE SCHOOL",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "AC 2012-3208: STUDENT PERSPECTIVES OF FACULTY CLASSROOM PRACTICES",
@@ -115,14 +149,14 @@
         "title": "An in‑depth investigation of student information gathering meetings with stakeholders and domain experts",
         "pub_year": "2020",
         "citation": "International Journal of Technology and Design Education, 2020",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "leVgn_kAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Applying design ethnography to product evaluation: A case example of a medical device in a low-resource setting",
         "pub_year": "2015",
         "citation": "",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "leVgn_kAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -136,7 +170,7 @@
         "title": "Assessing Design Heuristics for Idea Generation in an Introductory Engineering Course",
         "pub_year": "2012",
         "citation": "International Journal of Engineering Education 28 (2), 463, 2012",
-        "num_citations": 157,
+        "num_citations": 156,
         "author_pub_id": "leVgn_kAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -178,7 +212,7 @@
         "title": "BME career exploration: examining students’ career perspectives",
         "pub_year": "2021",
         "citation": "2021 ASEE Virtual Annual Conference Content Access, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "leVgn_kAAAAJ:YohjEiUPhakC"
     },
     {
@@ -206,7 +240,7 @@
         "title": "Being a professional: Three lenses into design thinking, acting, and being",
         "pub_year": "2011",
         "citation": "Design Studies 32 (6), 588-607, 2011",
-        "num_citations": 286,
+        "num_citations": 287,
         "author_pub_id": "leVgn_kAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -252,13 +286,6 @@
         "author_pub_id": "leVgn_kAAAAJ:OcBU2YAGkTUC"
     },
     {
-        "title": "Board 294: First-Year Engineering Students’ Desired Practices in Mechanical Engineering",
-        "pub_year": "2023",
-        "citation": "2023 ASEE Annual Conference & Exposition, 2023",
-        "num_citations": 0,
-        "author_pub_id": "leVgn_kAAAAJ:HtS1dXgVpQUC"
-    },
-    {
         "title": "Board# 46: Perceived Self-Efficacy of Master's in Engineering Students Regarding Software Proficiency and Engineering Acumen",
         "pub_year": "2017",
         "citation": "2017 ASEE Annual Conference & Exposition, 2017",
@@ -269,7 +296,7 @@
         "title": "Bridging the research‐to‐practice gap: Designing an institutional change plan using local evidence",
         "pub_year": "2014",
         "citation": "Journal of engineering education 103 (2), 331-361, 2014",
-        "num_citations": 199,
+        "num_citations": 195,
         "author_pub_id": "leVgn_kAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -290,13 +317,13 @@
         "title": "Can experienced designers learn from new tools? A case study of idea generation in a professional engineering team",
         "pub_year": "2014",
         "citation": "International Journal of Design Creativity and Innovation 2 (2), 82-96, 2014",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "leVgn_kAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Case studies of problem exploration processes in engineering design",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
         "num_citations": 10,
         "author_pub_id": "leVgn_kAAAAJ:dTyEYWd-f8wC"
     },
@@ -311,7 +338,7 @@
         "title": "Changes to stakeholder engagement approaches throughout a capstone engineering design course",
         "pub_year": "2024",
         "citation": "International Journal of Technology and Design Education 34 (2), 759-781, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "leVgn_kAAAAJ:OR75R8vi5nAC"
     },
     {
@@ -325,15 +352,8 @@
         "title": "Cognitive heuristic use in engineering design ideation",
         "pub_year": "2010",
         "citation": "2010 Annual Conference & Exposition, 15.282. 1-15.282. 25, 2010",
-        "num_citations": 44,
+        "num_citations": 49,
         "author_pub_id": "leVgn_kAAAAJ:-FonjvnnhkoC"
-    },
-    {
-        "title": "Cognitive heuristic use in engineering design ideation",
-        "pub_year": "2010",
-        "citation": "ASEE Annual Conference, Louisville, KY, June, 20-23, 2010",
-        "num_citations": 5,
-        "author_pub_id": "leVgn_kAAAAJ:IRz6iEL74y4C"
     },
     {
         "title": "Cognitive heuristics in defining engineering design problems",
@@ -367,14 +387,14 @@
         "title": "Comparing ideation techniques for beginning designers",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101108, 2016",
-        "num_citations": 107,
+        "num_citations": 111,
         "author_pub_id": "leVgn_kAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Comparing the effects of design interventions on the quality of design concepts as a reflection of ideation flexibility",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031103, 2019",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "leVgn_kAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -430,7 +450,7 @@
         "title": "Design Heuristics in Engineering Concept Generation",
         "pub_year": "2012",
         "citation": "Journal of Engineering Education 101 (4), 601-629, 2012",
-        "num_citations": 338,
+        "num_citations": 342,
         "author_pub_id": "leVgn_kAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -443,7 +463,7 @@
         "title": "Design Heuristics in ideation across engineering and industrial design domains",
         "pub_year": "2010",
         "citation": "Proceedings of the 12th International Conference on Engineering and Product …, 2010",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "leVgn_kAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -464,7 +484,7 @@
         "title": "Design Heuristics: An Evidence-Based Tool to Improve Innovation",
         "pub_year": "2014",
         "citation": "",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "leVgn_kAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -477,21 +497,21 @@
         "title": "Design across disciplines",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "leVgn_kAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Design by taking perspectives: How engineers explore problems",
         "pub_year": "2019",
         "citation": "Journal of Engineering Education 108 (2), 248-275, 2019",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "leVgn_kAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Design ethnography in capstone design: Investigating student use and perceptions",
         "pub_year": "2014",
         "citation": "International Journal of Engineering Education 30 (4), 888-900, 2014",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "leVgn_kAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -505,21 +525,21 @@
         "title": "Design heuristics in innovative products",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (7), 071102, 2016",
-        "num_citations": 80,
+        "num_citations": 83,
         "author_pub_id": "leVgn_kAAAAJ:4OULZ7Gr8RgC"
     },
     {
-        "title": "Design heuristics support two modes of idea generation: initiating ideas and transitioning among concepts",
+        "title": "Design heuristics support two modes of idea generation: Initiating ideas and transitioning among concepts",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "leVgn_kAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Design in biomedical engineering: student applications of design heuristics as a tool for idea generation",
         "pub_year": "2017",
         "citation": "2017 ASEE Annual Conference & Exposition, 2017",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "leVgn_kAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -596,7 +616,7 @@
         "title": "Engineering PhD returners and direct‐pathway students: Comparing expectancy, value, and cost",
         "pub_year": "2017",
         "citation": "Journal of engineering education 106 (4), 639-676, 2017",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "leVgn_kAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -617,21 +637,21 @@
         "title": "Evaluating best practices when interviewing stakeholders during design",
         "pub_year": "2016",
         "citation": "2016 ASEE Annual Conference & Exposition, 2016",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "leVgn_kAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Evaluating the impacts of different interventions on quality in concept generation",
         "pub_year": "2016",
         "citation": "",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "leVgn_kAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Evaluating the implementation of design heuristic cards in an industry sponsored capstone design course",
         "pub_year": "2014",
-        "citation": "2014 ASEE Annual Conference & Exposition, 24.544. 1-24.544. 16, 2014",
-        "num_citations": 12,
+        "citation": "",
+        "num_citations": 13,
         "author_pub_id": "leVgn_kAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -645,20 +665,20 @@
         "title": "Evidence of problem exploration in creative designs",
         "pub_year": "2018",
         "citation": "AI EDAM 32 (4), 415-430, 2018",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "leVgn_kAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Evidence-based design heuristics for idea generation",
         "pub_year": "2016",
         "citation": "Design studies 46, 95-124, 2016",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "leVgn_kAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Examining the effect of a paradigm-relatedness problem-framing tool on idea generation",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
         "num_citations": 6,
         "author_pub_id": "leVgn_kAAAAJ:LjlpjdlvIbIC"
     },
@@ -729,21 +749,28 @@
         "title": "Factors that influence faculty motivation of effective teaching practices in engineering",
         "pub_year": "2013",
         "citation": "2013 ASEE Annual Conference & Exposition, 23.590. 1-23.590. 11, 2013",
-        "num_citations": 60,
+        "num_citations": 58,
         "author_pub_id": "leVgn_kAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Feedback in concept development: Comparing design disciplines",
         "pub_year": "2016",
         "citation": "Design Studies 45, 137-158, 2016",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "leVgn_kAAAAJ:a0OBvERweLwC"
+    },
+    {
+        "title": "First-Year Engineering Students’ Desired Practices in Mechanical Engineering",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 2023 ASEE Annual Conference & Exposition, 2023",
+        "num_citations": 0,
+        "author_pub_id": "leVgn_kAAAAJ:HtS1dXgVpQUC"
     },
     {
         "title": "First-year engineering student perceptions of creative opportunities in design",
         "pub_year": "2013",
         "citation": "International Journal of Engineering Education 29 (4), 879-890, 2013",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "leVgn_kAAAAJ:mB3voiENLucC"
     },
     {
@@ -768,7 +795,7 @@
         "author_pub_id": "leVgn_kAAAAJ:M3NEmzRMIkIC"
     },
     {
-        "title": "Global health front-end medical device design: The use of prototypes to engage stakeholders",
+        "title": "Global health front-end medical device design: the use of prototypes to engage stakeholders",
         "pub_year": "2020",
         "citation": "Development Engineering 5, 100055, 2020",
         "num_citations": 25,
@@ -813,7 +840,7 @@
         "title": "Idea characteristics arising from individual brainstorming and design heuristics ideation methods",
         "pub_year": "2023",
         "citation": "International Journal of Technology and Design Education 33 (2), 337-378, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "leVgn_kAAAAJ:anf4URPfarAC"
     },
     {
@@ -848,7 +875,7 @@
         "title": "Ideation variety in mechanical design: Examining the effects of cognitive style and design heuristics",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "leVgn_kAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -876,7 +903,7 @@
         "title": "Incremental to radical ideas: Paradigm-relatedness metrics for investigating ideation creativity and diversity",
         "pub_year": "2019",
         "citation": "International Journal of Design Creativity and Innovation 7 (1-2), 30-49, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "leVgn_kAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -911,13 +938,13 @@
         "title": "Innovative solutions through innovated problems",
         "pub_year": "2018",
         "citation": "International Journal of Engineering Education 34 (2B), 695-707, 2018",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "leVgn_kAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Integrating design heuristics into your classroom",
         "pub_year": "2016",
-        "citation": "2016 ASEE Annual Conference & Exposition, 2016",
+        "citation": "University of Limerick, 2016",
         "num_citations": 4,
         "author_pub_id": "leVgn_kAAAAJ:J-pR_7NvFogC"
     },
@@ -988,7 +1015,7 @@
         "title": "Investigating student motivation and performance in electrical engineering and its subdisciplines",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Education 59 (4), 241-247, 2016",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "leVgn_kAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -1099,21 +1126,21 @@
         "title": "Model Use Choices of Secondary Teachers in Nanoscale Science and Engineering Education",
         "pub_year": "2010",
         "citation": "Journal of Nano Education 2 (1-2), 1-2, 2010",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "leVgn_kAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Models of nanoscale phenomena as tools for engineering design and science inquiry",
         "pub_year": "2007",
         "citation": "2007 Annual Conference & Exposition, 12.1077. 1-12.1077. 14, 2007",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "leVgn_kAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Novice designers' use of prototypes in engineering design",
         "pub_year": "2017",
         "citation": "Design studies 51, 25-65, 2017",
-        "num_citations": 181,
+        "num_citations": 183,
         "author_pub_id": "leVgn_kAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -1127,20 +1154,20 @@
         "title": "On design thinking",
         "pub_year": "2019",
         "citation": "N+ 1 Magazine, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "leVgn_kAAAAJ:a9-T7VOCCH8C"
     },
     {
         "title": "Overcoming design fixation in idea generation",
         "pub_year": "2018",
         "citation": "",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "leVgn_kAAAAJ:uc_IGeMz5qoC"
     },
     {
         "title": "Practitioner experience meets graduate academic research: How intersections guide the work of returning engineering Ph. D. students",
         "pub_year": "2017",
-        "citation": "2017 ASEE Annual Conference & Exposition, 2017",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings 2017, 2017",
         "num_citations": 4,
         "author_pub_id": "leVgn_kAAAAJ:fEOibwPWpKIC"
     },
@@ -1161,8 +1188,8 @@
     {
         "title": "Problem framing and cognitive style: Impacts on design ideation perceptions",
         "pub_year": "2021",
-        "citation": "Design studies 74, 101015, 2021",
-        "num_citations": 29,
+        "citation": "Design Studies 74, 101015, 2021",
+        "num_citations": 28,
         "author_pub_id": "leVgn_kAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -1190,14 +1217,14 @@
         "title": "Prototyping for context: exploring stakeholder feedback based on prototype type, stakeholder group and question type",
         "pub_year": "2019",
         "citation": "Research in engineering design 30, 453-471, 2019",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "leVgn_kAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Prototyping strategies for stakeholder engagement during front-end design: Design practitioners’ approaches in the medical device industry",
         "pub_year": "2020",
         "citation": "Design Studies 71, 100977, 2020",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "leVgn_kAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -1231,7 +1258,7 @@
     {
         "title": "Receiving curricular messages: Engineering students’ understandings of valued practices in their field",
         "pub_year": "2023",
-        "citation": "2023 ASEE Annual Conference & Exposition, 2023",
+        "citation": "Proceedings of the 2023 ASEE Annual Conference & Exposition, 2023",
         "num_citations": 0,
         "author_pub_id": "leVgn_kAAAAJ:yFnVuubrUp4C"
     },
@@ -1253,7 +1280,7 @@
         "title": "Returning to graduate school: Expectations of success, values of the degree, and managing the costs",
         "pub_year": "2013",
         "citation": "Journal of Engineering Education 102 (2), 244-268, 2013",
-        "num_citations": 116,
+        "num_citations": 120,
         "author_pub_id": "leVgn_kAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -1280,7 +1307,7 @@
         "title": "Stakeholder engagement with prototypes during front-end medical device design: who is engaged with what prototype?",
         "pub_year": "2020",
         "citation": "Frontiers in Biomedical Devices 83549, V001T08A001, 2020",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "leVgn_kAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -1322,7 +1349,7 @@
         "title": "Student designers’ interactions with users in capstone design projects: A comparison across teams",
         "pub_year": "2019",
         "citation": "2019 ASEE Annual Conference & Exposition, 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "leVgn_kAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -1350,7 +1377,7 @@
         "title": "Students' perceptions of the value of stakeholder engagement during engineering design",
         "pub_year": "2020",
         "citation": "Journal of Engineering Education, 2020",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "leVgn_kAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -1385,7 +1412,7 @@
         "title": "Systems thinking assessments in engineering: A systematic literature review",
         "pub_year": "2022",
         "citation": "Systems research and behavioral science 39 (4), 840-866, 2022",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "leVgn_kAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -1412,21 +1439,21 @@
         "title": "Teaching Design Innovation Skills: Design Heuristics Support Creating, Developing, and Combining Ideas",
         "pub_year": "2019",
         "citation": "Design education today: Technical contexts, programs and best practices, 37-60, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "leVgn_kAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Teaching creative process across disciplines",
         "pub_year": "2019",
         "citation": "The Journal of Creative Behavior 53 (1), 5-17, 2019",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "leVgn_kAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Teaching creativity in engineering courses",
         "pub_year": "2014",
         "citation": "Journal of Engineering Education 103 (3), 417-449, 2014",
-        "num_citations": 383,
+        "num_citations": 384,
         "author_pub_id": "leVgn_kAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -1440,7 +1467,7 @@
         "title": "Teaching practices of engineering faculty: perceptions and actual behavior",
         "pub_year": "2011",
         "citation": "Proceedings of the Research in Engineering Education Symposium, Madrid, Spain, 2011",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "leVgn_kAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1494,7 +1521,7 @@
     {
         "title": "The challenge of returning: Transitioning from an engineering career to graduate school",
         "pub_year": "2011",
-        "citation": "2011 ASEE Annual Conference & Exposition, 22.1431. 1-22.1431. 26, 2011",
+        "citation": "Proceedings of the American Society of Engineering Education Annual …, 2011",
         "num_citations": 24,
         "author_pub_id": "leVgn_kAAAAJ:D03iK_w7-QYC"
     },
@@ -1516,13 +1543,13 @@
         "title": "The use of recommended interviewing practices by novice engineering designers to elicit information during requirements development",
         "pub_year": "2022",
         "citation": "Design Science 8, e16, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "leVgn_kAAAAJ:NXb4pA-qfm4C"
     },
     {
-        "title": "The value of co-curricular experiences: perspectives of third-year biomedical engineering students",
+        "title": "The value of co-curricular experiences: perspectives of third year biomedical engineering students",
         "pub_year": "2020",
-        "citation": "2020 ASEE Virtual Annual Conference Content Access, 2020",
+        "citation": "ASEE annual conference and exposition, conference proceedings 2020, 1423, 2020",
         "num_citations": 11,
         "author_pub_id": "leVgn_kAAAAJ:86PQX7AUzd4C"
     },
@@ -1537,14 +1564,14 @@
         "title": "Towards the development of an elaboration metric for concept sketches",
         "pub_year": "2017",
         "citation": "International design engineering technical conferences and computers and …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "leVgn_kAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Transforming early concepts with Design Heuristics",
         "pub_year": "2019",
         "citation": "International Journal of Technology and Design Education 29, 759-779, 2019",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "leVgn_kAAAAJ:evX43VCCuoAC"
     },
     {
@@ -1571,7 +1598,7 @@
     {
         "title": "Using Construct-Centered Design to align curriculum, instruction, and assessment development in emerging science",
         "pub_year": "2008",
-        "citation": "Proceedings of the 8th international conference on International conference …, 2008",
+        "citation": "International Society of the Learning Sciences, Inc., 2008",
         "num_citations": 16,
         "author_pub_id": "leVgn_kAAAAJ:IjCSPb-OGe4C"
     },
@@ -1579,7 +1606,7 @@
         "title": "Using creative exhaustion to foster idea generation",
         "pub_year": "2019",
         "citation": "International Journal of Technology and Design Education 29 (1), 177-195, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "leVgn_kAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1607,14 +1634,14 @@
         "title": "Using qualitative research methods in engineering design research",
         "pub_year": "2013",
         "citation": "DS 75-2: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "leVgn_kAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Valuing and Engaging Stakeholders: The Effects of Engineering Students' Interactions During Capstone Design",
         "pub_year": "2015",
         "citation": "2015 ASEE Annual Conference & Exposition, 26.1695. 1-26.1695. 14, 2015",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "leVgn_kAAAAJ:0N-VGjzr574C"
     },
     {
@@ -1662,7 +1689,7 @@
         "title": "What does it mean to design? A qualitative investigation of design professionals' experiences",
         "pub_year": "2012",
         "citation": "Journal of Engineering Education 101 (2), 187-219, 2012",
-        "num_citations": 298,
+        "num_citations": 306,
         "author_pub_id": "leVgn_kAAAAJ:Zph67rFs4hoC"
     },
     {

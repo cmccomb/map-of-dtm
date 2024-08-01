@@ -3,7 +3,7 @@
         "title": "A Life Cycle Analysis of Laser Cutter Embodied Impacts",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "yA7xpsIAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -24,7 +24,7 @@
         "title": "A neuroimaging investigation of design ideation with and without inspirational stimuli—understanding the meaning of near and far stimuli",
         "pub_year": "2019",
         "citation": "Design Studies 60, 1-38, 2019",
-        "num_citations": 111,
+        "num_citations": 115,
         "author_pub_id": "yA7xpsIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -65,11 +65,11 @@
         "title": "Capturing Designers’ Experiential Knowledge in Scalable Representation Systems: A Case Study of Knowledge Graphs for Product Teardowns",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "yA7xpsIAAAAJ:hC7cP41nSMkC"
     },
     {
-        "title": "Challenges in Extracting Insights from Life Cycle Assessment Documents During Early Stage Design",
+        "title": "Challenges in extracting insights from life cycle assessment documents during early stage design",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 837-846, 2023",
         "num_citations": 1,
@@ -79,7 +79,7 @@
         "title": "Collaborative design decision-making with artificial intelligence: Exploring the evolution and impact of human confidence in AI and in themselves",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "yA7xpsIAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -97,10 +97,10 @@
         "author_pub_id": "yA7xpsIAAAAJ:_FxGoFyzp5QC"
     },
     {
-        "title": "Conceptual Design Generation Using Large Language Models",
+        "title": "Conceptual design generation using large language models",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 9,
+        "num_citations": 15,
         "author_pub_id": "yA7xpsIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -149,7 +149,7 @@
         "title": "Designing dialogue: Human-AI collaboration in design processes",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yA7xpsIAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Evaluating quantitative measures for assessing functional similarity in engineering design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (3), 031401, 2022",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "yA7xpsIAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -216,10 +216,17 @@
         "author_pub_id": "yA7xpsIAAAAJ:e5wmG9Sq2KIC"
     },
     {
+        "title": "Exploring human-centered design method selection strategies with large language models",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "yA7xpsIAAAAJ:NaGl4SEjCO4C"
+    },
+    {
         "title": "Exploring the Capabilities of Large Language Models for Generating Diverse Design Solutions",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.02345, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -240,15 +247,22 @@
         "title": "Fairness and Manipulation: An Empirical Study of Arrow's Impossibility Theorem",
         "pub_year": "2015",
         "citation": "International Conference on Engineering Design, 2015",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "yA7xpsIAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Framing and tracing human-centered design teams’ method selection: An examination of decision-making strategies",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031403, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "yA7xpsIAAAAJ:0EnyYjriUFMC"
+    },
+    {
+        "title": "How Being Outvoted by AI Teammates Impacts Human-AI Collaboration",
+        "pub_year": "2024",
+        "citation": "International Journal of Human–Computer Interaction, 1-18, 2024",
+        "num_citations": 0,
+        "author_pub_id": "yA7xpsIAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "How does agency impact human-AI collaborative design space exploration? A case study on ship design with deep generative models",
@@ -268,21 +282,21 @@
         "title": "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice",
         "pub_year": "2022",
         "citation": "Computers in Human Behavior 127, 107018, 2022",
-        "num_citations": 138,
+        "num_citations": 151,
         "author_pub_id": "yA7xpsIAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Impossible by design? Fairness, strategy, and Arrow’s impossibility theorem",
         "pub_year": "2017",
         "citation": "Design Science 3, e2, 2017",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "yA7xpsIAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Inside the mind: using neuroimaging to understand moral product preference judgments involving sustainability",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (4), 041103, 2017",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "yA7xpsIAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -366,14 +380,14 @@
         "title": "Multi-modal search for inspirational examples in design",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "yA7xpsIAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 411, 116051, 2023",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "yA7xpsIAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -394,7 +408,7 @@
         "title": "The Impact of Sustainability on Consumer Preference Judgements of Product Attributes",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 11, 2015",
-        "num_citations": 72,
+        "num_citations": 70,
         "author_pub_id": "yA7xpsIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -414,8 +428,8 @@
     {
         "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on AI-assisted decision-making in design",
         "pub_year": "2023",
-        "citation": "Journal of Mechanical Design 145 (3), 031401, 2023",
-        "num_citations": 21,
+        "citation": "Journal of mechanical design 145 (3), 031401, 2023",
+        "num_citations": 23,
         "author_pub_id": "yA7xpsIAAAAJ:dhFuZR0502QC"
     },
     {
@@ -442,7 +456,7 @@
         "title": "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform",
         "pub_year": "2023",
         "citation": "Design Studies 88, 101202, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "yA7xpsIAAAAJ:maZDTaKrznsC"
     },
     {
@@ -463,14 +477,14 @@
         "title": "Using crowdsourcing to provide analogies for designer ideation in a cognitive study",
         "pub_year": "2017",
         "citation": "DS 87-8 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "yA7xpsIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Using hidden Markov models to uncover underlying states in neuroimaging data for a design ideation task",
         "pub_year": "2019",
         "citation": "Proceedings of the design society: international conference on engineering …, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "yA7xpsIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -481,7 +495,7 @@
         "author_pub_id": "yA7xpsIAAAAJ:9yKSN-GCB0IC"
     },
     {
-        "title": "Vr Or Not? Investigating Interface Type And User Strategies For Interactive Design Space Exploration",
+        "title": "VR or not? Investigating interface type and user strategies for interactive design space exploration",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 3851-3860, 2023",
         "num_citations": 3,
@@ -505,7 +519,7 @@
         "title": "“Like a Moodboard, But More Interactive”: The Role of Expertise in Designers’ Mental Models and Speculations on an Intelligent Design Assistant",
         "pub_year": "2022",
         "citation": "International Conference on-Design Computing and Cognition, 749-765, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:mB3voiENLucC"
     }
 ]
