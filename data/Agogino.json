@@ -38,7 +38,7 @@
         "title": "A Web‐Based Instructional Module for Teaching Middle School Students Engineering Design with Simple Machines",
         "pub_year": "1998",
         "citation": "Journal of Engineering Education 87 (4), 437-444, 1998",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "G-xTgkgAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A document analysis method for characterizing design team performance",
         "pub_year": "2004",
         "citation": "Journal of Mechanical Design 126 (3), 378-385, 2004",
-        "num_citations": 190,
+        "num_citations": 191,
         "author_pub_id": "G-xTgkgAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "Analysis of Collaborative Design Networks: A Case Study of OpenIDEO",
         "pub_year": "2014",
         "citation": "Journal of Computing and Information Science in Engineering 14 (2), 8, 2014",
-        "num_citations": 70,
+        "num_citations": 79,
         "author_pub_id": "G-xTgkgAAAAJ:CQrscp367IIC"
     },
     {
@@ -309,7 +309,7 @@
         "title": "Automatically inferring metrics for design creativity",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "G-xTgkgAAAAJ:rzkGdFpNPO0C"
     },
     {
@@ -425,6 +425,13 @@
         "author_pub_id": "G-xTgkgAAAAJ:f14mYpCygl4C"
     },
     {
+        "title": "COMPUTATIONAL TEAM DYNAMICS AND CREATIVE TENSION BALANCE INDEX IN NEW PRODUCT DEVELOPMENT TEAMS",
+        "pub_year": "2024",
+        "citation": "DS 131: Proceedings of the International Conference on Engineering and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "G-xTgkgAAAAJ:4lQXLuH3RfAC"
+    },
+    {
         "title": "CONCEPTUAL DESIGN DATABASE TO SUPPORT LIFE CYCLE DESIGN OF MECHATRONIC PRODUCTS: INTEGRATING DESIGN TOOLS FROM INDUSTRY",
         "pub_year": "1996",
         "citation": "",
@@ -519,7 +526,7 @@
         "title": "Chez Panisse: Building an Open Innovation Ecosystem",
         "pub_year": "2014",
         "citation": "California Management Review 56 (4), 144-171, 2014",
-        "num_citations": 272,
+        "num_citations": 277,
         "author_pub_id": "G-xTgkgAAAAJ:VyewGSb6xwwC"
     },
     {
@@ -575,7 +582,7 @@
         "title": "Computational patterns of team interactions and associations with conflict within new product development teams",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "G-xTgkgAAAAJ:V2uI0bKpj5cC"
     },
     {
@@ -649,13 +656,6 @@
         "author_pub_id": "G-xTgkgAAAAJ:U5I91ptAnUUC"
     },
     {
-        "title": "DNA-Structured Linear Actuators",
-        "pub_year": "2016",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 3,
-        "author_pub_id": "G-xTgkgAAAAJ:GKX6TSFDq9oC"
-    },
-    {
         "title": "Decision-Analytic Methodology for Life Cycle Design",
         "pub_year": "1989",
         "citation": "Design Theory’88: Proceedings of the 1988 NSF Grantee Workshop on Design …, 1989",
@@ -680,7 +680,7 @@
         "title": "Deep reinforcement learning for robotic assembly of mixed deformable and rigid objects",
         "pub_year": "2018",
         "citation": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018",
-        "num_citations": 97,
+        "num_citations": 103,
         "author_pub_id": "G-xTgkgAAAAJ:uwohsRgU7yoC"
     },
     {
@@ -735,7 +735,7 @@
         "title": "Design Thinking in Development Engineering",
         "pub_year": "2016",
         "citation": "International Journal of Engineering Education 32 (3B), 1396-1406, 2016",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "G-xTgkgAAAAJ:DjjA23gMNckC"
     },
     {
@@ -780,13 +780,6 @@
         "author_pub_id": "G-xTgkgAAAAJ:sYWh8IhQ1GMC"
     },
     {
-        "title": "Design for Impact: A Development Engineering Graduate Program at UC Berkeley",
-        "pub_year": "2016",
-        "citation": "",
-        "num_citations": 2,
-        "author_pub_id": "G-xTgkgAAAAJ:Fv7Qhv_DOnIC"
-    },
-    {
         "title": "Design for cybersecurity (dfc) cards: A creativity-based approach to support designers’ consideration of cybersecurity",
         "pub_year": "2022",
         "citation": "Design Computing and Cognition’20, 351-367, 2022",
@@ -818,7 +811,7 @@
         "title": "Design of machine learning models with domain experts for automated sensor selection for energy fault detection",
         "pub_year": "2019",
         "citation": "Applied energy 235, 117-128, 2019",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "G-xTgkgAAAAJ:4ZjPyBmb-CUC"
     },
     {
@@ -937,14 +930,14 @@
         "title": "Diagnosing and Predicting Wind Turbine Faults from SCADA Data Using Support Vector Machines",
         "pub_year": "2018",
         "citation": "International Journal of Prognostics and Health Management 9 (1), 2018",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "G-xTgkgAAAAJ:UWSlATeI89AC"
     },
     {
         "title": "Diagnosing wind turbine faults using machine learning techniques applied to operational data",
         "pub_year": "2016",
         "citation": "International Conference on Prognostics and Health Management (ICPHM), 1 - 8, 2016",
-        "num_citations": 143,
+        "num_citations": 145,
         "author_pub_id": "G-xTgkgAAAAJ:99tJykcxT8kC"
     },
     {
@@ -979,7 +972,7 @@
         "title": "Double-Helix Linear Actuators",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design, 2021",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "G-xTgkgAAAAJ:luR84W4EXegC"
     },
     {
@@ -1014,7 +1007,7 @@
         "title": "Educating the engineer of 2020: Adapting engineering education to the new century",
         "pub_year": "2009",
         "citation": "INTED2009 Proceedings, 1110-1121, 2009",
-        "num_citations": 260,
+        "num_citations": 261,
         "author_pub_id": "G-xTgkgAAAAJ:XUvXOeBm_78C"
     },
     {
@@ -1049,7 +1042,7 @@
         "title": "Emergent Form-Finding for Center of Mass Control of Ball-Shaped Tensegrity Robots",
         "pub_year": "2015",
         "citation": "Proceedings of ARMS  (Autonomous Robots and Multirobot Systems) workshop, 2015",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "G-xTgkgAAAAJ:UTh8PbecGs4C"
     },
     {
@@ -1105,14 +1098,14 @@
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2005",
         "citation": "Journal of Engineering Education 95 (1), 103-120, 2005",
-        "num_citations": 4096,
+        "num_citations": 4132,
         "author_pub_id": "G-xTgkgAAAAJ:AHdEip9mkN0C"
     },
     {
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2006",
         "citation": "IEEE Engineering Management Review 34 (1), 65-65, 2006",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "G-xTgkgAAAAJ:VBbLNo9YSJgC"
     },
     {
@@ -1147,7 +1140,7 @@
         "title": "Examples of freshman design education",
         "pub_year": "1997",
         "citation": "International Journal of Engineering Education 13 (4), 248-261, 1997",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "G-xTgkgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1167,7 +1160,7 @@
     {
         "title": "Exploring human-centered design method selection strategies with large language models",
         "pub_year": "2024",
-        "citation": "",
+        "citation": "Proceedings of the ASME 2023 International Design Engineering Technical …, 2024",
         "num_citations": 0,
         "author_pub_id": "G-xTgkgAAAAJ:bb2qmbnIBKIC"
     },
@@ -1217,7 +1210,7 @@
         "title": "From innocent irene to parental patrick: Framing user characteristics and personas to design for cybersecurity",
         "pub_year": "2019",
         "citation": "Proceedings of the Design Society: International Conference on Engineering …, 2019",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "G-xTgkgAAAAJ:ItgTnG0mAXQC"
     },
     {
@@ -1343,14 +1336,14 @@
         "title": "Hardware design and testing of SUPERball, a modular tensegrity robot",
         "pub_year": "2014",
         "citation": "",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "G-xTgkgAAAAJ:CRQ797xmLJIC"
     },
     {
         "title": "Harnessing Human Power for Alternative Energy in Fitness Facilities: A Case Study",
         "pub_year": "2010",
         "citation": "ASME 2010 4th International Conference on Energy Sustainability, 495-501, 2010",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "G-xTgkgAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -1371,7 +1364,7 @@
         "title": "Hopping and rolling locomotion with spherical tensegrity robots",
         "pub_year": "2016",
         "citation": "2016 IEEE/RSJ international conference on intelligent robots and systems …, 2016",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "G-xTgkgAAAAJ:rhSvDnGaX0QC"
     },
     {
@@ -1413,7 +1406,7 @@
         "title": "Identifying shared understanding in design using document analysis",
         "pub_year": "2001",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "G-xTgkgAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1448,14 +1441,14 @@
         "title": "Improving evolutionary synthesis of MEMS through fabrication and testing feedback",
         "pub_year": "2005",
         "citation": "2005 IEEE International Conference on Systems, Man and Cybernetics 2, 1908-1913, 2005",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "G-xTgkgAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots",
         "pub_year": "2017",
         "citation": "IROS - International Conference on Intelligent Robots and Systems, 2017",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "G-xTgkgAAAAJ:fkjBimb5U_kC"
     },
     {
@@ -1553,7 +1546,7 @@
         "title": "Insights on designers’ sketching activities in new product design teams",
         "pub_year": "2004",
         "citation": "Proceedings, 2004 ASME International Design Engineering Technical Conference …, 2004",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "G-xTgkgAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -1663,7 +1656,7 @@
         "title": "Inverse statics optimization for compound tensegrity robots",
         "pub_year": "2020",
         "citation": "IEEE Robotics and Automation Letters 5 (3), 3982-3989, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "G-xTgkgAAAAJ:OjREftYh6kAC"
     },
     {
@@ -1746,7 +1739,7 @@
         "title": "Learning style based innovations to improve retention of female engineering students in the Synthesis Coalition",
         "pub_year": "1995",
         "citation": "Frontiers in Education, 1995",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "G-xTgkgAAAAJ:HIFyuExEbWQC"
     },
     {
@@ -1921,14 +1914,14 @@
         "title": "Mill data set",
         "pub_year": "2007",
         "citation": "BEST lab, UC Berkeley. NASA Ames PrognosticsDataRepository,[http://ti. arc …, 2007",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "G-xTgkgAAAAJ:zEEUHg7m05MC"
     },
     {
         "title": "Milling data set",
         "pub_year": "2007",
         "citation": "NASA Ames Prognostics Data Repository, 2007",
-        "num_citations": 94,
+        "num_citations": 97,
         "author_pub_id": "G-xTgkgAAAAJ:WgBxaE7EUScC"
     },
     {
@@ -1956,7 +1949,7 @@
         "title": "Model-Predictive Control with Inverse Statics Optimization for Tensegrity Spine Robots",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Control Systems Technology,, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "G-xTgkgAAAAJ:Nw5Pwe77XXAC"
     },
     {
@@ -2018,7 +2011,7 @@
         "title": "Multi-cable rolling locomotion with spherical tensegrities using model predictive control and deep learning",
         "pub_year": "2018",
         "citation": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "G-xTgkgAAAAJ:6gD0efnhv6MC"
     },
     {
@@ -2046,7 +2039,7 @@
         "title": "Multiple Sensor Expert System for Diagnostic Reasoning, Monitoring, and Control of Mechanical Systems",
         "pub_year": "1988",
         "citation": "Mechanical Systems and Signal Processing 2 (2), 1988",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "G-xTgkgAAAAJ:fFSKOagxvKUC"
     },
     {
@@ -2076,13 +2069,6 @@
         "citation": "ADVANCES IN HUMAN FACTORS ERGONOMICS: Proceedings of HCI International `93 …, 1993",
         "num_citations": 11,
         "author_pub_id": "G-xTgkgAAAAJ:yD5IFk8b50cC"
-    },
-    {
-        "title": "Network analysis of collaborative design networks: a case study of OpenIDEO",
-        "pub_year": "2017",
-        "citation": "",
-        "num_citations": 11,
-        "author_pub_id": "G-xTgkgAAAAJ:6H908wyzF9cC"
     },
     {
         "title": "Notch effects, stress state, and ductility",
@@ -2199,7 +2185,7 @@
         "title": "Pattern Analysis of IDEO's Human-Centered Design Methods in Developing Regions",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (7), 2015",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "G-xTgkgAAAAJ:dX-nQPao9noC"
     },
     {
@@ -2295,7 +2281,7 @@
         "title": "Rapid prototyping design and control of tensegrity soft robot for locomotion",
         "pub_year": "2014",
         "citation": "2014 IEEE international conference on robotics and biomimetics (ROBIO 2014 …, 2014",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "G-xTgkgAAAAJ:A_xf8jiGkywC"
     },
     {
@@ -2337,7 +2323,7 @@
         "title": "Reduced human fatigue interactive evolutionary computation for micromachine design",
         "pub_year": "2005",
         "citation": "2005 International Conference on Machine Learning and Cybernetics 9, 5666-5671, 2005",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "G-xTgkgAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -2351,7 +2337,7 @@
         "title": "Reinforcement Learning on Variable Impedance Controller for High-Precision Robotic Assembly",
         "pub_year": "2019",
         "citation": "ICRA 2019 (IEEE International Conference on Robotics and Automation), 2019",
-        "num_citations": 202,
+        "num_citations": 205,
         "author_pub_id": "G-xTgkgAAAAJ:uENYxwZKF5gC"
     },
     {
@@ -2386,21 +2372,21 @@
         "title": "Robust learning of tensegrity robot control for locomotion through form-finding",
         "pub_year": "2015",
         "citation": "2015 IEEE/RSJ international conference on intelligent robots and systems …, 2015",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "G-xTgkgAAAAJ:oufuJXaDW1QC"
     },
     {
         "title": "Rolling locomotion of cable-driven soft spherical tensegrity robots",
         "pub_year": "2020",
         "citation": "Soft robotics 7 (3), 346-361, 2020",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "G-xTgkgAAAAJ:oy0z8GdgWhYC"
     },
     {
         "title": "SUPERball: Exploring tensegrities for planetary probes",
         "pub_year": "2014",
         "citation": "12th International Symposium on Artificial Intelligence, Robotics and …, 2014",
-        "num_citations": 63,
+        "num_citations": 66,
         "author_pub_id": "G-xTgkgAAAAJ:jG_sDXCMgAMC"
     },
     {
@@ -2421,7 +2407,7 @@
         "title": "Scenario-based conjoint analysis: measuring preferences for user experiences in early stage design",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "G-xTgkgAAAAJ:hN_26_r6h7cC"
     },
     {
@@ -2484,7 +2470,7 @@
         "title": "Sexual Harassment of Women: Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine",
         "pub_year": "2018",
         "citation": "",
-        "num_citations": 785,
+        "num_citations": 794,
         "author_pub_id": "G-xTgkgAAAAJ:WWyA8FEaYkEC"
     },
     {
@@ -2554,7 +2540,7 @@
         "title": "Soft Spherical Tensegrity Robot Design Using Rod-Centered Actuation and Control",
         "pub_year": "2017",
         "citation": "Journal of Mechanisms and Robotics 9 (2), 0205001-1-9, 2017",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "G-xTgkgAAAAJ:pQthLKZIaNQC"
     },
     {
@@ -2637,7 +2623,7 @@
         "title": "System design and locomotion of SUPERball, an untethered tensegrity robot",
         "pub_year": "2015",
         "citation": "2015 IEEE international conference on robotics and automation (ICRA), 2867-2873, 2015",
-        "num_citations": 228,
+        "num_citations": 233,
         "author_pub_id": "G-xTgkgAAAAJ:f8T_-ThkUo0C"
     },
     {
@@ -2686,7 +2672,7 @@
         "title": "Tensegrity robot locomotion under limited sensory inputs via deep reinforcement learning",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Robotics and Automation (ICRA), 6260-6267, 2018",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "G-xTgkgAAAAJ:NYu48kWxaQAC"
     },
     {
@@ -2735,7 +2721,7 @@
         "title": "The Engineer of 2020: Visions of Engineering in the New Century",
         "pub_year": "2004",
         "citation": "National Academy Press, 2004",
-        "num_citations": 47,
+        "num_citations": 52,
         "author_pub_id": "G-xTgkgAAAAJ:F1-V36_CjEsC"
     },
     {
@@ -2777,7 +2763,7 @@
         "title": "The Sparthan three-dimensional printed Exo-glove: A preliminary evaluation of performance via case study",
         "pub_year": "2019",
         "citation": "Journal of Medical Devices 13 (3), 031007, 2019",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "G-xTgkgAAAAJ:7-gQGTwtAzQC"
     },
     {
@@ -2798,7 +2784,7 @@
         "title": "The role of constraints and human interaction in evolving MEMS designs: microresonator case study",
         "pub_year": "2004",
         "citation": "ASME Design Engineering Technical Conference, Design Automation track 4 …, 2004",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "G-xTgkgAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -2875,7 +2861,7 @@
         "title": "Triangulation of indicators of successful student design teams",
         "pub_year": "2007",
         "citation": "International Journal of Engineering Education 22 (3), 617, 2007",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "G-xTgkgAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -2896,14 +2882,14 @@
         "title": "Use of influence diagrams and neural networks in modeling semiconductor manufacturing processes",
         "pub_year": "1991",
         "citation": "IEEE Transactions on Semiconductor Manufacturing 4 (1), 52-58, 1991",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "G-xTgkgAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Use of multimedia technology in teaching engineering design",
         "pub_year": "1993",
         "citation": "ADVANCES IN HUMAN FACTORS ERGONOMICS: Proceedings of HCI International `93 …, 1993",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "G-xTgkgAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -2917,7 +2903,7 @@
         "title": "User-Centered Design Roadmapping: Anchoring Roadmapping in Customer Value Before Technology Selection",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Engineering Management, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "G-xTgkgAAAAJ:bjlTY1bLvvcC"
     },
     {
@@ -2938,7 +2924,7 @@
         "title": "Using domain knowledge features for wind turbine diagnostics",
         "pub_year": "2016",
         "citation": "2016 15th IEEE International Conference on Machine Learning and Applications …, 2016",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "G-xTgkgAAAAJ:ZXswLDrTefgC"
     },
     {
@@ -3050,7 +3036,7 @@
         "title": "Wireless networked lighting systems for optimizing energy savings and user satisfaction",
         "pub_year": "2008",
         "citation": "2008 IEEE Wireless Hive Networks Conference, 1-7, 2008",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "G-xTgkgAAAAJ:aqlVkmm33-oC"
     },
     {

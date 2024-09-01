@@ -66,14 +66,14 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Advancing a Model of Students' Intentional Persistence in Machine Learning and Artificial Intelligence",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.10744, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -101,14 +101,14 @@
         "title": "Analysis of designer emotions in collaborative and traditional computer-aided design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (2), 021401, 2021",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "P5yUQ-IAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 183,
+        "num_citations": 187,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Communication patterns in engineering enterprise social networks: an exploratory analysis using short text topic modelling",
         "pub_year": "2022",
         "citation": "Design Science 8, e18, 2022",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "P5yUQ-IAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Emerging Technologies and Methods for Early-Stage Product Design and Development",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 040301, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Identifying Gaps in Automating the Assessment of Technology Readiness Levels",
         "pub_year": "2020",
         "citation": "Proceedings of the Design Society: DESIGN Conference 1, 551-558, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:4DMP91E08xMC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -292,6 +292,13 @@
         "citation": "International Council on SystemsEngineering (INCOSE) International Symposium …, 2021",
         "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "Investigating Students’ Development of Computer-Aided Design Self-Efficacy: An Analysis of Pre-Course CAD Exposure",
+        "pub_year": "2024",
+        "citation": "2024 ASEE Annual Conference & Exposition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Investigation of Remote Work for Aerospace Systems Engineers",
@@ -331,7 +338,7 @@
         "title": "Mapping artificial intelligence-based methods to engineering design stages: a focused literature review",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e25, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -345,7 +352,7 @@
         "title": "Medical aspiration apparatus",
         "pub_year": "2014",
         "citation": "US Patent App. 13/983,789, 2014",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "P5yUQ-IAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -429,21 +436,21 @@
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 185,
+        "num_citations": 187,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Technology-based design and sustainable economic growth",
         "pub_year": "2014",
         "citation": "Technovation 34 (11), 663-677, 2014",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "P5yUQ-IAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -512,7 +519,7 @@
         "title": "User Perspectives on Branching in Computer-Aided Design",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-30, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -533,7 +540,7 @@
         "title": "“Why couldn’t we do this more often?”: exploring the feasibility of virtual and distributed work in product design engineering",
         "pub_year": "2022",
         "citation": "Research in engineering design 33 (4), 413-436, 2022",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:r0BpntZqJG4C"
     }
 ]

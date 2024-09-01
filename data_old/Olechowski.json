@@ -66,7 +66,7 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 182,
+        "num_citations": 183,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Gendered Professional Role Confidence and Persistence of Artificial Intelligence and Machine Learning Students",
         "pub_year": "2020",
         "citation": "2020 ASEE Annual Conference and Exposition, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Mapping artificial intelligence-based methods to engineering design stages: a focused literature review",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e25, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -398,6 +398,13 @@
         "author_pub_id": "P5yUQ-IAAAAJ:mVmsd5A6BfQC"
     },
     {
+        "title": "Social Capital and Persistence in Computer Science of Google's Computer Science Summer Institute (CSSI) Students",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.13910, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:dfsIfKJdRG4C"
+    },
+    {
         "title": "Some (Team) Assembly Required: An Analysis of Collaborative Computer-Aided Design Assembly",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
@@ -422,14 +429,14 @@
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 177,
+        "num_citations": 185,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 102,
+        "num_citations": 108,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -464,7 +471,7 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 207,
+        "num_citations": 212,
         "author_pub_id": "P5yUQ-IAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -498,7 +505,7 @@
         "title": "Transitioning towards SysML v2 as a variability modeling language",
         "pub_year": "2024",
         "citation": "Innovations in Systems and Software Engineering, 1-12, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -512,7 +519,7 @@
         "title": "Using TRLs and system architecture to estimate technology integration risk",
         "pub_year": "2017",
         "citation": "DS 87-3 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "P5yUQ-IAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -526,7 +533,7 @@
         "title": "“Why couldn’t we do this more often?”: exploring the feasibility of virtual and distributed work in product design engineering",
         "pub_year": "2022",
         "citation": "Research in engineering design 33 (4), 413-436, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "P5yUQ-IAAAAJ:r0BpntZqJG4C"
     }
 ]

@@ -24,7 +24,7 @@
         "title": "A Function-Based Scoring Method for Evaluating Student Mental Models of Systems",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "3ZXznM0AAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "A bridge to systems thinking in engineering design: An examination of students’ ability to identify functions at varying levels of abstraction",
         "pub_year": "2017",
         "citation": "AI EDAM 31 (4), 535-549, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "3ZXznM0AAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "A review of university maker spaces",
         "pub_year": "2015",
         "citation": "2015 ASEE Annual Conference & Exposition, 26.101. 1-26.101. 17, 2015",
-        "num_citations": 245,
+        "num_citations": 248,
         "author_pub_id": "3ZXznM0AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -150,7 +150,7 @@
         "title": "A study of design fixation, its mitigation and perception in engineering design faculty",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 508,
+        "num_citations": 511,
         "author_pub_id": "3ZXznM0AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "A study on the role of physical models in the mitigation of design fixation",
         "pub_year": "2014",
         "citation": "Journal of Engineering Design 25 (1-3), 25-43, 2014",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "3ZXznM0AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -296,14 +296,14 @@
         "title": "An experimental study of group idea generation techniques: understanding the roles of idea representation and viewing methods",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 373,
+        "num_citations": 376,
         "author_pub_id": "3ZXznM0AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "An experimental study on the effects of a computational design tool on concept generation",
         "pub_year": "2009",
         "citation": "Design Studies 30 (6), 676-703, 2009",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "3ZXznM0AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -352,7 +352,7 @@
         "title": "Analysis of Critical Functionality for Meta Analogy Via Performance Specification",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "3ZXznM0AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -387,7 +387,7 @@
         "title": "Back to basics: sketching, not CAD, is the key to improving essential engineering design skills",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "3ZXznM0AAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -408,7 +408,7 @@
         "title": "Bipartite network analysis utilizing survey data to determine student and tool interactions in a makerspace",
         "pub_year": "2021",
         "citation": "2021 ASEE Virtual Annual Conference, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "3ZXznM0AAAAJ:OTTXONDVkokC"
     },
     {
@@ -438,6 +438,20 @@
         "citation": "2019 ASEE Annual Conference & Exposition, 2019",
         "num_citations": 1,
         "author_pub_id": "3ZXznM0AAAAJ:xtoqd-5pKcoC"
+    },
+    {
+        "title": "Board 243: Development and Validation of Learning Through Making Instrument (LMI) Project Overview",
+        "pub_year": "2024",
+        "citation": "2024 ASEE Annual Conference & Exposition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "3ZXznM0AAAAJ:QD3KBmkZPeQC"
+    },
+    {
+        "title": "Board 358: Quantitative Network Analysis for Benchmarking and Improving Makerspaces",
+        "pub_year": "2024",
+        "citation": "2024 ASEE Annual Conference & Exposition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "3ZXznM0AAAAJ:wMgC3FpKEyYC"
     },
     {
         "title": "Board# 144: toward understanding the design self-efficacy impact of makerspaces and access limitations",
@@ -577,6 +591,13 @@
         "author_pub_id": "3ZXznM0AAAAJ:t6usbXjVLHcC"
     },
     {
+        "title": "Defining Measurement Constructs for Assessing Learning in Makerspaces",
+        "pub_year": "2024",
+        "citation": "2024 ASEE Annual Conference & Exposition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "3ZXznM0AAAAJ:jL-93Qbq4QoC"
+    },
+    {
         "title": "Design Computing and Cognition (DCC'12)",
         "pub_year": "2014",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2014",
@@ -594,7 +615,7 @@
         "title": "Design by analogy: A study of the WordTree method for problem re-representation",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 255,
+        "num_citations": 256,
         "author_pub_id": "3ZXznM0AAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -608,7 +629,7 @@
         "title": "Design fixation in physical modeling: an investigation on the role of sunk cost",
         "pub_year": "2011",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "3ZXznM0AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -622,7 +643,7 @@
         "title": "Design prototyping methods: state of the art in strategies, techniques, and guidelines",
         "pub_year": "2017",
         "citation": "Design Science 3, e13, 2017",
-        "num_citations": 430,
+        "num_citations": 438,
         "author_pub_id": "3ZXznM0AAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -636,7 +657,7 @@
         "title": "Design-by-analogy and representation in innovative engineering concept generation",
         "pub_year": "2007",
         "citation": "The University of Texas at Austin, 2007",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "3ZXznM0AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -739,7 +760,7 @@
         "title": "Empirical studies of designer thinking: past, present, and future",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (2), 021101, 2015",
-        "num_citations": 184,
+        "num_citations": 186,
         "author_pub_id": "3ZXznM0AAAAJ:738O_yMBCRsC"
     },
     {
@@ -795,7 +816,7 @@
         "title": "Examining design fixation in engineering idea generation: the role of example modality",
         "pub_year": "2013",
         "citation": "International Journal of Design Creativity and Innovation 1 (2), 109-129, 2013",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "3ZXznM0AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -830,7 +851,7 @@
         "title": "Exploring meaning-making and innovation in makerspaces: An ethnographic study of student and faculty perspectives",
         "pub_year": "2017",
         "citation": "2017 IEEE Frontiers in Education Conference (FIE), 1-9, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "3ZXznM0AAAAJ:EkHepimYqZsC"
     },
     {
@@ -1005,7 +1026,7 @@
         "title": "Impacts on design self-efficacy for students choosing to participate in a university makerspace",
         "pub_year": "2018",
         "citation": "DS 89: Proceedings of The Fifth International Conference on Design …, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "3ZXznM0AAAAJ:tYavs44e6CUC"
     },
     {
@@ -1124,7 +1145,7 @@
         "title": "It’s not just about accuracy: Metrics that matter when modeling expert sketching ability",
         "pub_year": "2018",
         "citation": "ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 1-47, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "3ZXznM0AAAAJ:KUbvn5osdkgC"
     },
     {
@@ -1145,14 +1166,14 @@
         "title": "Latent customer needs elicitation by use case analogical reasoning from sentiment analysis of online product reviews",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (7), 071401, 2015",
-        "num_citations": 140,
+        "num_citations": 143,
         "author_pub_id": "3ZXznM0AAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Learning in academic makerspaces: preliminary case studies of how academic makerspaces afford learning for female students",
         "pub_year": "2018",
         "citation": "ASEE annual conference & exposition proceedings, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "3ZXznM0AAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -1180,7 +1201,7 @@
         "title": "Makerspace involvement and academic success in mechanical engineering",
         "pub_year": "2018",
         "citation": "2018 IEEE Frontiers in Education Conference (FIE), 1-5, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "3ZXznM0AAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -1305,7 +1326,7 @@
         "title": "Methods for supporting bioinspired design",
         "pub_year": "2011",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 54884, 737-744, 2011",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "3ZXznM0AAAAJ:4TOpqqG69KYC"
     },
     {
@@ -1375,7 +1396,7 @@
         "title": "Participation pathways for women into university makerspaces",
         "pub_year": "2021",
         "citation": "Journal of Engineering Education 110 (3), 700-717, 2021",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "3ZXznM0AAAAJ:8d8msizDQcsC"
     },
     {
@@ -1499,7 +1520,7 @@
         "title": "Report on engineering design self-efficacy and demographics of makerspace participants across three universities",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (10), 102301, 2020",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "3ZXznM0AAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -1562,7 +1583,7 @@
         "title": "Slaying dragons: an empirical look at the impact of academic makerspaces",
         "pub_year": "2020",
         "citation": "PubPub, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "3ZXznM0AAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -1667,7 +1688,7 @@
         "title": "The Invention Studio: A University Maker Space and Culture.",
         "pub_year": "2014",
         "citation": "Advances in Engineering Education 4 (2), n2, 2014",
-        "num_citations": 202,
+        "num_citations": 204,
         "author_pub_id": "3ZXznM0AAAAJ:p2g8aNsByqUC"
     },
     {
@@ -1688,7 +1709,7 @@
         "title": "The effects of representation on idea generation and design fixation: A study comparing sketches and function trees",
         "pub_year": "2016",
         "citation": "Design studies 42, 110-136, 2016",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "3ZXznM0AAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -1772,7 +1793,7 @@
         "title": "Understanding physical models in design cognition: A triangulation of qualitative and laboratory studies",
         "pub_year": "2011",
         "citation": "2011 Frontiers in Education Conference (FIE), S3F-1-S3F-6, 2011",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "3ZXznM0AAAAJ:4DMP91E08xMC"
     },
     {
@@ -1924,14 +1945,14 @@
         "title": "“A Makerspace Is More Than Just a Room Full of Tools”: What Learning Looks Like for Female Students in Makerspaces",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "3ZXznM0AAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "“Collaborating to success”: An experimental study of group idea generation techniques",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "3ZXznM0AAAAJ:2osOgNQ5qMEC"
     }
 ]

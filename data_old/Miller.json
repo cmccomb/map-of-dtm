@@ -38,14 +38,14 @@
         "title": "A virtual reality haptic robotic simulator for central venous catheterization training",
         "pub_year": "2016",
         "citation": "Journal of medical devices 10 (3), 030937, 2016",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "lxb0XgIAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Abandoning creativity: The evolution of creative ideas in engineering design course projects",
         "pub_year": "2016",
         "citation": "Design Studies 47, 47-72, 2016",
-        "num_citations": 103,
+        "num_citations": 105,
         "author_pub_id": "lxb0XgIAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -87,14 +87,14 @@
         "title": "Are you feeling me? An exploration of empathy development in engineering design education",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (11), 112301, 2021",
-        "num_citations": 50,
+        "num_citations": 53,
         "author_pub_id": "lxb0XgIAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Attention-enhanced multimodal learning for conceptual design evaluations",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 041410, 2023",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "lxb0XgIAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Built to win? Exploring the role of competitive environments on students’ creativity in design for additive manufacturing tasks",
         "pub_year": "2020",
         "citation": "Journal of Engineering Design 31 (11-12), 574-604, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "lxb0XgIAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Can design teams be empathically creative? A simulation-based investigation on the role of team empathy on concept generation and selection",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "lxb0XgIAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Can haptic simulators distinguish expert performance? A case study in central venous catheterization in surgical education",
         "pub_year": "2019",
         "citation": "Simulation in Healthcare 14 (1), 35-42, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "lxb0XgIAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Complex solutions for complex problems? Exploring the role of design task choice on learning, design for additive manufacturing use, and creativity",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (3), 031121, 2020",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "lxb0XgIAAAAJ:t6usbXjVLHcC"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Creativity in design teams: the influence of personality traits and risk attitudes on creative concept selection",
         "pub_year": "2016",
         "citation": "Research in Engineering Design 27, 73-89, 2016",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "lxb0XgIAAAAJ:4DMP91E08xMC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Design of a virtual reality haptic robotic central venous catheterization training simulator",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "lxb0XgIAAAAJ:maZDTaKrznsC"
     },
     {
@@ -373,7 +373,7 @@
         "title": "Dissecting creativity: how dissection virtuality, analogical distance, and product complexity impact creativity and self-efficacy",
         "pub_year": "2017",
         "citation": "Design Computing and Cognition'16, 59-77, 2017",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "lxb0XgIAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -457,8 +457,15 @@
         "title": "Empathic creativity: can trait empathy predict creative concept generation and selection?",
         "pub_year": "2021",
         "citation": "AI EDAM 35 (4), 369-383, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "lxb0XgIAAAAJ:nrtMV_XWKgEC"
+    },
+    {
+        "title": "Empathic creativity: can trait empathy predict creative concept generation and selection?",
+        "pub_year": "2021",
+        "citation": "AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND …, 2021",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Encouraging Creativity through Design for Additive Manufacturing: An Investigation in Engineering Design Education",
@@ -488,10 +495,17 @@
         "author_pub_id": "lxb0XgIAAAAJ:xtRiw3GOFMkC"
     },
     {
+        "title": "Evaluating the effects of comprehensive simulation on central venous catheterization training: a comparative observational study",
+        "pub_year": "2024",
+        "citation": "BMC Medical Education 24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:0N-VGjzr574C"
+    },
+    {
         "title": "Evaluating the impact of assessment metrics for simulated central venous catheterization training",
         "pub_year": "2024",
         "citation": "Simulation in Healthcare 19 (1), 27-34, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "lxb0XgIAAAAJ:tYavs44e6CUC"
     },
     {
@@ -526,7 +540,7 @@
         "title": "Exploring biases between human and machine generated designs",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (2), 021104, 2019",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "lxb0XgIAAAAJ:UxriW0iASnsC"
     },
     {
@@ -540,28 +554,28 @@
         "title": "Exploring the utility of Bayesian truth serum for assessing design knowledge",
         "pub_year": "2014",
         "citation": "Human–Computer Interaction 29 (5-6), 487-515, 2014",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "lxb0XgIAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Exploring the utility of product dissection for early-phase idea generation",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "lxb0XgIAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Factors Influencing Undergraduates' Selection of an Engineering Discipline: A Case Study",
         "pub_year": "2021",
         "citation": "International Journal of Engineering Education 37 (2), 482-496, 2021",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "lxb0XgIAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Favoring complexity: A mixed methods exploration of factors that influence concept selection when designing for additive manufacturing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (10), 102001, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "lxb0XgIAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -582,14 +596,14 @@
         "title": "Fresh in My Mind! Investigating the effects of the order of presenting opportunistic and restrictive design for additive manufacturing content on students’ creativity",
         "pub_year": "2021",
         "citation": "Journal of Engineering Design 32 (4), 187-212, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "lxb0XgIAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "From the simulation center to the bedside: validating the efficacy of a dynamic haptic robotic trainer in internal jugular central venous catheter placement",
         "pub_year": "2020",
         "citation": "The American Journal of Surgery 219 (2), 379-384, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "lxb0XgIAAAAJ:HE397vMXCloC"
     },
     {
@@ -603,14 +617,14 @@
         "title": "Getting inspired! Understanding how and why examples are used in creative design practice",
         "pub_year": "2009",
         "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2009",
-        "num_citations": 325,
+        "num_citations": 328,
         "author_pub_id": "lxb0XgIAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Going the (social) distance: Comparing the effectiveness of online versus in-person Internal Jugular Central Venous Catheterization procedural training",
         "pub_year": "2022",
         "citation": "The American Journal of Surgery 224 (3), 903-907, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "lxb0XgIAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -631,7 +645,7 @@
         "title": "Hey, AI! Can You See What I See? Multimodal Transfer Learning-Based Design Metrics Prediction for Sketches With Text Descriptions",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "lxb0XgIAAAAJ:uWiczbcajpAC"
     },
     {
@@ -652,7 +666,7 @@
         "title": "How Long Until We Are (Psychologically) Safe? A Longitudinal Investigation of Psychological Safety in Virtual Engineering Design Teams in Education",
         "pub_year": "2022",
         "citation": "International Conference on-Design Computing and Cognition, 767-784, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "lxb0XgIAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -708,7 +722,7 @@
         "title": "How should we measure creativity in engineering design? A comparison between social science and engineering approaches",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031404, 2021",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "lxb0XgIAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -819,14 +833,14 @@
         "title": "Investigating the effect of simulator functional fidelity and personalized feedback on central venous catheterization training",
         "pub_year": "2018",
         "citation": "Journal of surgical education 75 (5), 1410-1421, 2018",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "lxb0XgIAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Is ownership bias bad? the influence of idea goodness and creativity on design professionals concept selection practices",
         "pub_year": "2019",
         "citation": "Journal of mechanical design 141 (2), 021106, 2019",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "lxb0XgIAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -882,7 +896,7 @@
         "title": "Looks can be deceiving: Gaze pattern differences between novices and experts during placement of central lines",
         "pub_year": "2019",
         "citation": "The American Journal of Surgery 217 (2), 362-367, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "lxb0XgIAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -910,21 +924,21 @@
         "title": "Malevolent Creativity as Parochial Altruism? Examining the Intergroup Bases of New and Harmful Ideas",
         "pub_year": "2023",
         "citation": "Creativity Research Journal, 1-16, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "lxb0XgIAAAAJ:oNZyr7d5Mn4C"
     },
     {
         "title": "Malevolent creativity and malevolent innovation: A critical but tenuous linkage",
         "pub_year": "2022",
         "citation": "Creativity research journal 34 (2), 123-144, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "lxb0XgIAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Mastering manufacturing: exploring the influence of engineering designers’ prior experience when using design for additive manufacturing",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design 33 (5), 366-387, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "lxb0XgIAAAAJ:z_wVstp3MssC"
     },
     {
@@ -980,7 +994,7 @@
         "title": "My idea is best! ownership bias and its influence on engineering concept selection",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "lxb0XgIAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -991,10 +1005,17 @@
         "author_pub_id": "lxb0XgIAAAAJ:SpbeaW3--B0C"
     },
     {
+        "title": "Navigating New Realities: Virtual Reality's Role in Malevolent Innovation",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:FPJr55Dyh1AC"
+    },
+    {
         "title": "Objective assessment metrics for central line simulators: an exploration of causal factors",
         "pub_year": "2020",
         "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 64 (1 …, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "lxb0XgIAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1014,7 +1035,7 @@
         "title": "Personalized learning in medical education: designing a user interface for a dynamic haptic robotic trainer for central venous catheterization",
         "pub_year": "2017",
         "citation": "proceedings of the human factors and ergonomics society annual meeting 61 (1 …, 2017",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "lxb0XgIAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -1027,7 +1048,7 @@
         "title": "Piecing together product dissection: how dissection conditions impact student conceptual understanding and cognitive load",
         "pub_year": "2018",
         "citation": "Journal of Mechanical Design 140 (5), 052001, 2018",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "lxb0XgIAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1094,6 +1115,13 @@
         "author_pub_id": "lxb0XgIAAAAJ:WZBGuue-350C"
     },
     {
+        "title": "Session 2| Panel: Extremist Use of Emerging Technology Video",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:ClCfbGk0d_YC"
+    },
+    {
         "title": "Shifting Perspectives: A proposed framework for analyzing head-mounted eye-tracking data with dynamic areas of interest and dynamic scenes",
         "pub_year": "2023",
         "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023",
@@ -1153,7 +1181,7 @@
         "title": "Target personification influences the positive emotional link between generating and implementing malevolently creative ideas",
         "pub_year": "2024",
         "citation": "Creativity Research Journal 36 (1), 42-57, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "lxb0XgIAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -1243,21 +1271,21 @@
         "title": "The effects of gender and idea goodness on ownership bias in engineering design education",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101105, 2016",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "lxb0XgIAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "The impact of example modality and physical interactions on design creativity",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (9), 091004, 2014",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "lxb0XgIAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "The impact of gender on individual perceptions and team psychological safety in engineering design teams in education",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 032303, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "lxb0XgIAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1271,7 +1299,7 @@
         "title": "The impact of virtual dissection on engineering student learning and self-efficacy",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "lxb0XgIAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1306,14 +1334,14 @@
         "title": "The trajectory of psychological safety in engineering teams: A longitudinal exploration in engineering design education",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "lxb0XgIAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "There is no “I” in team but there is in innovation: How individual attributes impact team ideation and selection practices",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "lxb0XgIAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -1334,7 +1362,7 @@
         "title": "Training surgical residents with a haptic robotic central venous catheterization simulator",
         "pub_year": "2017",
         "citation": "Journal of surgical education 74 (6), 1066-1073, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "lxb0XgIAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -1390,14 +1418,14 @@
         "title": "What factors impact psychological safety in engineering student teams? A mixed-method longitudinal investigation",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (12), 122302, 2022",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "lxb0XgIAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "What is the relationship between psychological safety and team productivity and effectiveness during concept development? An exploration in engineering design education",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (11), 112301, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "lxb0XgIAAAAJ:URolC5Kub84C"
     },
     {

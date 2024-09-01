@@ -101,7 +101,7 @@
         "title": "A survey and assessment of the capabilities of Cubesats for Earth observation",
         "pub_year": "2012",
         "citation": "Acta Astronautica 74, 50-68, 2012",
-        "num_citations": 554,
+        "num_citations": 562,
         "author_pub_id": "Hq9WqBwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Artificial intelligence and engineering design",
         "pub_year": "2022",
         "citation": "Journal of mechanical design 144 (2), 020301, 2022",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "Hq9WqBwAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Assessment of constellation designs for earth observation: Application to the TROPICS mission",
         "pub_year": "2019",
         "citation": "Acta Astronautica 161, 166-182, 2019",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "Hq9WqBwAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Constellation optimization using an evolutionary algorithm with a variable-length chromosome",
         "pub_year": "2018",
         "citation": "2018 IEEE aerospace conference, 1-12, 2018",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "Hq9WqBwAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -260,7 +260,7 @@
         "title": "Daphne: A virtual assistant for designing earth observation distributed spacecraft missions",
         "pub_year": "2019",
         "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote …, 2019",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "Hq9WqBwAAAAJ:sszUF3NjhM4C"
     },
     {
@@ -398,7 +398,7 @@
         "title": "Experimental design & pilot testing for ECLSS anomaly resolution using daphne-AT virtual assistant",
         "pub_year": "2021",
         "citation": "2021 IEEE Aerospace Conference (50100), 1-13, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:SGW5VrABaM0C"
     },
     {
@@ -446,7 +446,7 @@
         "title": "Exploring packaging architectures for the earth science decadal survey",
         "pub_year": "2011",
         "citation": "2011 Aerospace Conference, 1-13, 2011",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Hq9WqBwAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -474,7 +474,7 @@
         "title": "Exploring the design space of lunar GNSS in frozen orbit conditions",
         "pub_year": "2020",
         "citation": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 444-451, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "Hq9WqBwAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -565,7 +565,7 @@
         "title": "Incorporating expert knowledge into evolutionary algorithms with operators and constraints to design satellite systems",
         "pub_year": "2018",
         "citation": "Applied Soft Computing 66, 330-345, 2018",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "Hq9WqBwAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -614,7 +614,7 @@
         "title": "Knowledge-intensive global optimization of Earth observing system architectures: a climate-centric case study",
         "pub_year": "2014",
         "citation": "Sensors, systems, and next-generation satellites xviii 9241, 465-486, 2014",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "Hq9WqBwAAAAJ:QD3KBmkZPeQC"
     },
     {
@@ -649,7 +649,7 @@
         "title": "Leveraging design heuristics for multi-objective metamaterial design optimization",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Hq9WqBwAAAAJ:QUX0mv85b1cC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Multi-Objective Optimization of an Intelligent Soil-Moisture-Monitoring Satellite Constellation",
         "pub_year": "2023",
         "citation": "Journal of Spacecraft and Rockets 60 (4), 1284-1296, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Hq9WqBwAAAAJ:ghEM2AJqZyQC"
     },
     {
@@ -746,7 +746,7 @@
         "title": "Optimizing satellite mission requirements to measure total suspended solids in rivers",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-9, 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "Hq9WqBwAAAAJ:L_l9e5I586QC"
     },
     {
@@ -760,7 +760,7 @@
         "title": "Patterns in system architecture decisions",
         "pub_year": "2016",
         "citation": "Systems Engineering 19 (6), 477-497, 2016",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "Hq9WqBwAAAAJ:jU7OWUQzBzMC"
     },
     {
@@ -807,14 +807,14 @@
         "title": "Rule-based system architecting of Earth observation satellite systems",
         "pub_year": "2012",
         "citation": "Massachusetts Institute of Technology, Department of Aeronautics and …, 2012",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "Hq9WqBwAAAAJ:eO3_k5sD8BwC"
     },
     {
         "title": "Rule-based system architecting of earth observing systems: earth science decadal survey",
         "pub_year": "2014",
         "citation": "Journal of Spacecraft and Rockets 51 (5), 1505-1521, 2014",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "Hq9WqBwAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -909,14 +909,14 @@
         "title": "System architecture: strategy and product development for complex systems",
         "pub_year": "2015",
         "citation": "Prentice Hall Press, 2015",
-        "num_citations": 605,
+        "num_citations": 609,
         "author_pub_id": "Hq9WqBwAAAAJ:FiytvqdAVhgC"
     },
     {
         "title": "Systems Architecture",
         "pub_year": "2016",
         "citation": "Pearson Higher Ed, 2016",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -986,7 +986,7 @@
         "title": "VASSAR: Value assessment of system architectures using rules",
         "pub_year": "2013",
         "citation": "2013 IEEE Aerospace Conference, 1-21, 2013",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "Hq9WqBwAAAAJ:W7OEmFMy1HYC"
     },
     {

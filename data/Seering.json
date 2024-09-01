@@ -73,7 +73,7 @@
         "title": "A nonlinear model of a harmonic drive gear transmission",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Robotics and Automation 12 (3), 368-374, 1996",
-        "num_citations": 295,
+        "num_citations": 297,
         "author_pub_id": "4ZckX2kAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Active damping in a three-axis robotic manipulator",
         "pub_year": "1985",
         "citation": "",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "4ZckX2kAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "An extension of command shaping methods for controlling residual vibration using frequency sampling",
         "pub_year": "1992",
         "citation": "Proceedings 1992 IEEE International Conference on Robotics and Automation …, 1992",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "4ZckX2kAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Characterizing engineering work in a changing world: Synthesis of a typology for engineering students' occupational outcomes",
         "pub_year": "2021",
         "citation": "Journal of Engineering Education 110 (2), 458-500, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "4ZckX2kAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -359,14 +359,14 @@
         "title": "Comparison of command shaping methods for reducing residual vibration",
         "pub_year": "1995",
         "citation": "Proceedings of European control conference, 1126-1131, 1995",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "4ZckX2kAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Comparison of filtering methods for reducing residual vibration",
         "pub_year": "1999",
         "citation": "European Journal of Control 5 (2-4), 208-218, 1999",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "4ZckX2kAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -394,7 +394,7 @@
         "title": "Controlling velocity-limited systems to reduce residual vibration",
         "pub_year": "1988",
         "citation": "Proceedings. 1988 IEEE International Conference on Robotics and Automation …, 1988",
-        "num_citations": 69,
+        "num_citations": 71,
         "author_pub_id": "4ZckX2kAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -408,7 +408,7 @@
         "title": "Convolved and simultaneous two-mode input shapers",
         "pub_year": "1997",
         "citation": "IEE Proceedings-Control Theory and Applications 144 (6), 515-520, 1997",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "4ZckX2kAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -679,7 +679,7 @@
         "title": "Experimental evaluation of shaped inputs to reduce vibration for a cartesian robot",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "4ZckX2kAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -714,7 +714,7 @@
         "title": "Feedforward control techniques to achieve fast settling time in robots",
         "pub_year": "1986",
         "citation": "1986 American Control Conference, 1913-1918, 1986",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "4ZckX2kAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -749,7 +749,7 @@
         "title": "Function sharing in mechanical design",
         "pub_year": "1990",
         "citation": "Design Studies 11 (4), 223-234, 1990",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "4ZckX2kAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -859,7 +859,7 @@
         "title": "Input shaping for vibration reduction with specified insensitivity to modeling errors",
         "pub_year": "1996",
         "citation": "Japan-USA Sym. on Flexible Automation 1, 307-13, 1996",
-        "num_citations": 275,
+        "num_citations": 276,
         "author_pub_id": "4ZckX2kAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -948,7 +948,7 @@
         "title": "Mechanical design of an industrial robot",
         "pub_year": "1985",
         "citation": "Handbook of Industrial Robotics 1, 1985",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "4ZckX2kAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -976,7 +976,7 @@
         "title": "Minimizing residual vibration for point-to-point motion",
         "pub_year": "1985",
         "citation": "",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "4ZckX2kAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1003,7 +1003,7 @@
         "title": "Modeling robot flexibility for endpoint force control",
         "pub_year": "1988",
         "citation": "Proceedings. 1988 IEEE International Conference on Robotics and Automation …, 1988",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "4ZckX2kAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -1052,7 +1052,7 @@
         "title": "On dynamic models of robot force control",
         "pub_year": "1986",
         "citation": "Proceedings. 1986 IEEE International Conference on Robotics and Automation 3 …, 1986",
-        "num_citations": 305,
+        "num_citations": 306,
         "author_pub_id": "4ZckX2kAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1162,14 +1162,14 @@
         "title": "Preshaping command inputs to reduce system vibration",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 2363,
+        "num_citations": 2377,
         "author_pub_id": "4ZckX2kAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Preshaping command inputs to reduce telerobotic system oscillations",
         "pub_year": "1989",
         "citation": "JPL, California Inst. of Tech., Proceedings of the NASA Conference on Space …, 1989",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "4ZckX2kAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -1265,14 +1265,14 @@
         "title": "Reducing residual vibration in systems with time-varying resonances",
         "pub_year": "1987",
         "citation": "Proceedings. 1987 IEEE International Conference on Robotics and Automation 4 …, 1987",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "4ZckX2kAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Reducing residual vibration in systems with uncertain resonances",
         "pub_year": "1988",
         "citation": "IEEE Control Systems Magazine 8 (2), 73-76, 1988",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "4ZckX2kAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1300,7 +1300,7 @@
         "title": "Residual vibration reduction using vector diagrams to generate shaped inputs",
         "pub_year": "1994",
         "citation": "",
-        "num_citations": 554,
+        "num_citations": 556,
         "author_pub_id": "4ZckX2kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1321,14 +1321,14 @@
         "title": "Risk management in product design: Current state, conceptual model and future research",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "4ZckX2kAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Risk management in product development–current methods",
         "pub_year": "2006",
         "citation": "DS 36: Proceedings DESIGN 2006, the 9th International Design Conference …, 2006",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "4ZckX2kAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -1384,7 +1384,7 @@
         "title": "Shaping inputs to reduce vibration: a vector diagram approach",
         "pub_year": "1990",
         "citation": "Proceedings., IEEE international conference on robotics and automation, 922-927, 1990",
-        "num_citations": 193,
+        "num_citations": 194,
         "author_pub_id": "4ZckX2kAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1398,7 +1398,7 @@
         "title": "Slewing flexible spacecraft with deflection-limiting input shaping",
         "pub_year": "1997",
         "citation": "Journal of Guidance, Control, and Dynamics 20 (2), 291-298, 1997",
-        "num_citations": 176,
+        "num_citations": 178,
         "author_pub_id": "4ZckX2kAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1488,7 +1488,7 @@
         "title": "The function of the primary ligaments of the knee in anterior-posterior and medial-lateral motions",
         "pub_year": "1980",
         "citation": "Journal of Biomechanics 13 (9), 777-784, 1980",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "4ZckX2kAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1523,7 +1523,7 @@
         "title": "Time-optimal negative input shapers",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 312,
+        "num_citations": 313,
         "author_pub_id": "4ZckX2kAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1579,14 +1579,14 @@
         "title": "Understanding bandwidth limitations in robot force control",
         "pub_year": "1987",
         "citation": "Proceedings. 1987 IEEE international conference on robotics and automation 4 …, 1987",
-        "num_citations": 486,
+        "num_citations": 489,
         "author_pub_id": "4ZckX2kAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "Understanding the motivations for open-source hardware entrepreneurship",
         "pub_year": "2021",
         "citation": "Design Science 7, e19, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "4ZckX2kAAAAJ:cK4Rrx0J3m0C"
     },
     {
@@ -1627,7 +1627,7 @@
         "title": "Using acausal shaping techniques to reduce robot vibration",
         "pub_year": "1988",
         "citation": "Proceedings. 1988 IEEE International Conference on Robotics and Automation …, 1988",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "4ZckX2kAAAAJ:ULOm3_A8WrAC"
     },
     {
