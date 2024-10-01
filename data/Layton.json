@@ -10,7 +10,7 @@
         "title": "A Survey of Graph-Theoretic Approaches for Resilient System of Systems Design",
         "pub_year": "2023",
         "citation": "Journal of Computing and Information Science in Engineering, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "kgxiHNUAAAAJ:k_IJM867U9cC"
     },
     {
@@ -31,21 +31,21 @@
         "title": "A graph embedding‐based approach for automatic cyber‐physical power system risk assessment to prevent and mitigate threats at scale",
         "pub_year": "2024",
         "citation": "IET Cyber‐Physical Systems: Theory & Applications, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "kgxiHNUAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "A multigraph modeling approach to enable ecological network analysis of cyber physical power networks",
         "pub_year": "2021",
         "citation": "2021 IEEE International Conference on Communications, Control, and Computing …, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "kgxiHNUAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "A product architecture-based tool for bioinspired function-sharing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (8), 081401, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "kgxiHNUAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -54,6 +54,13 @@
         "citation": "Plos one 14 (12), e0226993, 2019",
         "num_citations": 8,
         "author_pub_id": "kgxiHNUAAAAJ:5nxA0vEk-isC"
+    },
+    {
+        "title": "A study of makerspace health and student tool usage during and after the COVID-19 pandemic",
+        "pub_year": "2024",
+        "citation": "Design Science 10, e13, 2024",
+        "num_citations": 0,
+        "author_pub_id": "kgxiHNUAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "An Analysis of Factors Impacting Design Self-Efficacy of Senior Design Students",
@@ -87,7 +94,7 @@
         "title": "An ecosystem perspective for the design of sustainable power systems",
         "pub_year": "2019",
         "citation": "Procedia CIRP 80, 269-274, 2019",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "kgxiHNUAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -115,7 +122,7 @@
         "title": "Bio-Inspired Design for Robust Power Grid Networks",
         "pub_year": "2019",
         "citation": "Applied Energy 251, 2019",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "kgxiHNUAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -129,7 +136,7 @@
         "title": "Bio-Inspired Human Network Design: A Multi-Currency Robustness Metric Inspired by Ecological Network Analysis",
         "pub_year": "2019",
         "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "kgxiHNUAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -164,7 +171,7 @@
         "title": "Bio-inspired design for resilient water distribution networks",
         "pub_year": "2019",
         "citation": "Procedia CIRP 80, 275-280, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "kgxiHNUAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -185,14 +192,14 @@
         "title": "Bioinspired and AI DeepWalk Based Approach to Understand Cyber-Physical Interdependencies of Power Grid Infrastructure",
         "pub_year": "2023",
         "citation": "North American Power Symposium (NAPS), 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "kgxiHNUAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Biologically Inspired Closed Loop Manufacturing Networks",
         "pub_year": "2013",
         "citation": "ASME 2013 International Mechanical Engineering Congress and Exposition, 2013",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "kgxiHNUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -206,7 +213,7 @@
         "title": "Bipartite Network Analysis Utilizing Survey Data to Determine Student and Tool Interactions in a Makerspace",
         "pub_year": "2021",
         "citation": "2021 ASEE Virtual Annual Conference, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "kgxiHNUAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Cyclicity and Strongly Connected Actors As a Set of Early Circular Economy Design Tools for Emerging Technologies",
         "pub_year": "2024",
         "citation": "International Manufacturing Science and Engineering Conference 88100 …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "kgxiHNUAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -248,21 +255,21 @@
         "title": "Designing ecologically-inspired robustness into a water distribution network",
         "pub_year": "2020",
         "citation": "Journal of Cleaner Production 254, 120057, 2020",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "kgxiHNUAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Designing industrial networks using ecological food web metrics",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (20), 11243-11252, 2016",
-        "num_citations": 71,
+        "num_citations": 75,
         "author_pub_id": "kgxiHNUAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Developing a supply chain modeling approach to facilitate ecology-inspired design for sustainability and resilience",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "kgxiHNUAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -289,7 +296,7 @@
         "title": "Ecological Principles and Metrics for Improving Material Cycling Structures in Manufacturing Networks",
         "pub_year": "2016",
         "citation": "Journal of Manufacturing Science and Engineering, 2016",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "kgxiHNUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -303,7 +310,7 @@
         "title": "Ecological RobustnessOriented Grid Network Design for Resilience Against Multiple Hazards",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Power Systems, 2023",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "kgxiHNUAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -338,14 +345,14 @@
         "title": "Evaluating benefits of ecologically-inspired nested architectures for industrial symbiosis",
         "pub_year": "2021",
         "citation": "Resources, Conservation and Recycling 167, 105423, 2021",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "kgxiHNUAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Exploring System of Systems Resilience Versus Affordability Trade-Space Using a Bio-Inspired Metric",
         "pub_year": "2021",
         "citation": "Journal of Computing and Information Science in Engineering 21 (5), 1-13, 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "kgxiHNUAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -366,14 +373,14 @@
         "title": "Exploring the Effects of Partnership and Inventory for Supply Chain Resilience using an Ecological Network Analysis",
         "pub_year": "2022",
         "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "kgxiHNUAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Extending Ecological Network Analysis to Design Resilient Cyber-Physical System of Systems",
         "pub_year": "2024",
         "citation": "IEEE Open Journal of Systems Engineering 2, 38-49, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "kgxiHNUAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -387,7 +394,7 @@
         "title": "Food Webs: Realizing Biological Inspiration for Sustainable Industrial Resource Networks",
         "pub_year": "2014",
         "citation": "Georgia Institute of Technology, 2014",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "kgxiHNUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -395,20 +402,20 @@
         "pub_year": "2024",
         "citation": "Conference on Systems Engineering Research, 489-495, 2024",
         "num_citations": 0,
-        "author_pub_id": "kgxiHNUAAAAJ:u_35RYKgDlwC"
+        "author_pub_id": "kgxiHNUAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Improving performance of eco-industrial parks",
         "pub_year": "2017",
         "citation": "International Journal of Sustainable Engineering 10 (4-5), 250-259, 2017",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "kgxiHNUAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Improving performance of eco-industrial parks",
         "pub_year": "2016",
         "citation": "Sustainable Design and Manufacturing 2016, 227-240, 2016",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "kgxiHNUAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -422,7 +429,7 @@
         "title": "Industrial Ecosystems and Food Webs: An Expansion and Update of Existing Data for Eco‐Industrial Parks and Understanding the Ecological Food Webs They Wish to Mimic",
         "pub_year": "2015",
         "citation": "Journal of Industrial Ecology 20 (1), 85-98, 2015",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "kgxiHNUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -450,14 +457,14 @@
         "title": "Lessons from living systems for the development of sustainable industrial resource networks",
         "pub_year": "2017",
         "citation": "Journal of Energy Challenges and Mechanics 4 (1), 1-10, 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "kgxiHNUAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Leveraging graph clustering techniques for cyber‐physical system analysis to enhance disturbance characterisation",
         "pub_year": "2024",
         "citation": "IET Cyber‐Physical Systems: Theory & Applications, 2024",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "kgxiHNUAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -477,7 +484,7 @@
         "title": "Matrix Trays: From Waste to Opportunities",
         "pub_year": "2021",
         "citation": "Journal of Cleaner Production 300, 126813, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "kgxiHNUAAAAJ:dhFuZR0502QC"
     },
     {
@@ -491,7 +498,7 @@
         "title": "Mimicking Nature for Resilient Resource and Infrastructure Network Design",
         "pub_year": "2020",
         "citation": "Reliability Engineering and System Safety, 2020",
-        "num_citations": 60,
+        "num_citations": 63,
         "author_pub_id": "kgxiHNUAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -526,7 +533,7 @@
         "title": "Nestedness in eco-industrial networks: exploring linkage distribution to promote sustainable industrial growth",
         "pub_year": "2020",
         "citation": "Journal of Industrial Ecology, 1-14, 2020",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "kgxiHNUAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -534,12 +541,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "kgxiHNUAAAAJ:7PzlFSSx8tAC"
-    },
-    {
-        "title": "Performance: Setting the Stage for Bio-Inspired Network Design",
-        "citation": "The Proceedings of the 2024 Conference on Systems Engineering Research, 497, 0",
-        "num_citations": 0,
-        "author_pub_id": "kgxiHNUAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Quantifying Resilience Across the Natural and Engineered Sciences",
@@ -555,13 +556,6 @@
         "author_pub_id": "kgxiHNUAAAAJ:GnPB-g6toBAC"
     },
     {
-        "title": "RESILIENT CIRCULARITY IN MANUFACTURING: SYNERGIES BETWEEN CIRCULAR ECONOMY AND RECONFIGURABLE MANUFACTURING",
-        "pub_year": "2024",
-        "citation": "Journal of Manufacturing Science and Engineering, 1-31, 2024",
-        "num_citations": 0,
-        "author_pub_id": "kgxiHNUAAAAJ:pqnbT2bcN3wC"
-    },
-    {
         "title": "Resilience and Sustainability in Certified Green Buildings: Applying Ecosystem Concepts to Aid in More Dynamic Green Communities",
         "pub_year": "2023",
         "citation": "ASME 2023 International Design Engineering Technical Conferences and …, 2023",
@@ -569,10 +563,17 @@
         "author_pub_id": "kgxiHNUAAAAJ:BqipwSGYUEgC"
     },
     {
+        "title": "Resilient Circularity in Manufacturing: Synergies Between Circular Economy and Reconfigurable Manufacturing",
+        "pub_year": "2024",
+        "citation": "Journal of Manufacturing Science and Engineering 146 (11), 2024",
+        "num_citations": 0,
+        "author_pub_id": "kgxiHNUAAAAJ:pqnbT2bcN3wC"
+    },
+    {
         "title": "Resilient microgrid design using ecological network analysis",
         "pub_year": "2023",
         "citation": "Conference on Systems Engineering Research, 603-617, 2023",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "kgxiHNUAAAAJ:maZDTaKrznsC"
     },
     {
@@ -587,7 +588,7 @@
         "pub_year": "2024",
         "citation": "Conference on Systems Engineering Research, 497-508, 2024",
         "num_citations": 0,
-        "author_pub_id": "kgxiHNUAAAAJ:zA6iFVUQeVQC"
+        "author_pub_id": "kgxiHNUAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "The Effects of COVID-19 on Students’ Tool Usage in Academic Makerspaces",
@@ -600,21 +601,21 @@
         "title": "Tool Usage Patterns of Mechanical Engineering Students in Academic Makerspaces",
         "pub_year": "2023",
         "citation": "2023 IEEE Frontiers in Education Conference (FIE), 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "kgxiHNUAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Toward Resilient Modern Power Systems: From Single-Domain to Cross-Domain Resilience Enhancement",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE 112 (4), 365-398, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "kgxiHNUAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Towards the characterization of cyber-physical system interdependencies in the electric grid",
         "pub_year": "2023",
         "citation": "2023 IEEE Power and Energy Conference at Illinois (PECI), 1-8, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "kgxiHNUAAAAJ:blknAaTinKkC"
     },
     {
@@ -628,14 +629,14 @@
         "title": "Using a Modularity Analysis to Determine Tool and Student Roles within Makerspaces",
         "pub_year": "2020",
         "citation": "ASEE 2020 Conference & Exposition, 2020",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "kgxiHNUAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Waste Reduction: A review of common options and alternatives",
         "pub_year": "2019",
         "citation": "ASME International Manufacturing Science & Engineering Conference, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "kgxiHNUAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -648,14 +649,8 @@
     {
         "title": "Work in Progress: The Antigua Forum Format: Increasing Information Flow for Increased Pedagogical Innovation",
         "pub_year": "2023",
-        "citation": "2023 ASEE Annual Conference & Exposition, 2023",
+        "citation": "ASEE Conferences, 2023",
         "num_citations": 0,
         "author_pub_id": "kgxiHNUAAAAJ:hMod-77fHWUC"
-    },
-    {
-        "title": "to Product-Customer: Bioinspired Network Modularity Analysis in Design for Market Systems",
-        "citation": "The Proceedings of the 2024 Conference on Systems Engineering Research, 489, 0",
-        "num_citations": 0,
-        "author_pub_id": "kgxiHNUAAAAJ:rO6llkc54NcC"
     }
 ]

@@ -7,10 +7,17 @@
         "author_pub_id": "f6Hsv7IAAAAJ:NaGl4SEjCO4C"
     },
     {
+        "title": "A Simulated Evaluation of Powder Flowability Through a Partially Obstructed Consumable in Blown Powder Directed Energy Deposition Systems",
+        "pub_year": "2024",
+        "citation": "International Manufacturing Science and Engineering Conference 88100 …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:4OULZ7Gr8RgC"
+    },
+    {
         "title": "A Study of Design Fixation, Its Mitigation and Perception in Design Faculty",
         "pub_year": "2010",
         "citation": "Journal of Mechanical Design 132 (4), 041003, doi:10.1115/1.4001110, 2010",
-        "num_citations": 511,
+        "num_citations": 514,
         "author_pub_id": "f6Hsv7IAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -52,7 +59,7 @@
         "title": "Bio-Inspired Design: An Overview Investigating Open Questions from the Broader Field of Design-by-Analogy",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design, Special Issue 2014: Biologically Inspired …, 2014",
-        "num_citations": 188,
+        "num_citations": 190,
         "author_pub_id": "f6Hsv7IAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -77,7 +84,14 @@
         "author_pub_id": "f6Hsv7IAAAAJ:7PzlFSSx8tAC"
     },
     {
-        "title": "Characterizing the Effects of Multiple Analogs and Extraneous Information for Novice Designers in Design-by-Analogy",
+        "title": "Can Speech Ground Mechanical Reasoning During Engineering Discourse?",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 18th International Conference of the Learning Sciences …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:f2IySw72cVMC"
+    },
+    {
+        "title": "Characterizing the effects of multiple analogs and extraneous information for novice designers in design-by-analogy",
         "pub_year": "2018",
         "citation": "Journal of Mechanical Design 140 (3), 031101, 2018",
         "num_citations": 12,
@@ -94,14 +108,14 @@
         "title": "Comparing the effect of virtual and in-person instruction on students’ performance in a design for additive manufacturing learning activity",
         "pub_year": "2022",
         "citation": "Research in Engineering Design 33 (4), 385-394, 2022",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "f6Hsv7IAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Data-Driven Approaches for Bead Geometry Prediction via Melt Pool Monitoring",
         "pub_year": "2023",
         "citation": "Journal of Manufacturing Science and Engineering, 1-19, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "f6Hsv7IAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -115,7 +129,7 @@
         "title": "Design Heuristics: Extraction and Classification Methods With Jet Propulsion Laboratory's Architecture Team",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (8), 081101, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "f6Hsv7IAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -147,25 +161,18 @@
         "author_pub_id": "f6Hsv7IAAAAJ:L8Ckcad2t8MC"
     },
     {
-        "title": "Design principles: The foundation of design",
-        "pub_year": "2015",
-        "citation": "International design engineering technical conferences and computers and …, 2015",
-        "num_citations": 75,
-        "author_pub_id": "f6Hsv7IAAAAJ:dhFuZR0502QC"
-    },
-    {
-        "title": "Design principles: literature review, analysis, and future directions",
+        "title": "Design principles: Literature review, analysis, and future directions",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101103, 2016",
-        "num_citations": 170,
+        "num_citations": 177,
         "author_pub_id": "f6Hsv7IAAAAJ:QIV2ME_5wuYC"
     },
     {
-        "title": "Design-by-Analogy: Effects of Exploration-Based Approach on Analogical Retrievals and Design Outcomes",
-        "pub_year": "2022",
-        "citation": "Journal of Mechanical Design 144 (6), 061401, 2022",
-        "num_citations": 12,
-        "author_pub_id": "f6Hsv7IAAAAJ:YFjsv_pBGBYC"
+        "title": "Design principles: The foundation of design",
+        "pub_year": "2015",
+        "citation": "International design engineering technical conferences and computers and …, 2015",
+        "num_citations": 76,
+        "author_pub_id": "f6Hsv7IAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Design-by-Analogy: Experimental Evaluation of a Functional Analogy Search Methodology for Concept Generation Improvement",
@@ -175,7 +182,14 @@
         "author_pub_id": "f6Hsv7IAAAAJ:zYLM7Y9cAGgC"
     },
     {
-        "title": "Design-by-Analogy: Exploring for Analogical Inspiration With Behavior, Material, and Component-Based Structural Representation of Patent Databases",
+        "title": "Design-by-analogy: Effects of exploration-based approach on analogical retrievals and design outcomes",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design 144 (6), 061401, 2022",
+        "num_citations": 12,
+        "author_pub_id": "f6Hsv7IAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+        "title": "Design-by-analogy: exploring for analogical inspiration with behavior, material, and component-based structural representation of patent databases",
         "pub_year": "2019",
         "citation": "Journal of Computing and Information Science in Engineering 19 (2), 021014, 2019",
         "num_citations": 27,
@@ -191,7 +205,7 @@
     {
         "title": "Discovering and exploring structure in design databases and its role in stimulating design by analogy",
         "pub_year": "2012",
-        "citation": "CARNEGIE MELLON UNIVERSITY, 2012",
+        "citation": "Carnegie Mellon University, 2012",
         "num_citations": 14,
         "author_pub_id": "f6Hsv7IAAAAJ:kNdYIx-mwKoC"
     },
@@ -206,7 +220,7 @@
         "title": "Effect of physical activity through virtual reality on design creativity",
         "pub_year": "2021",
         "citation": "AI EDAM 35 (1), 99-115, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "f6Hsv7IAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -230,10 +244,10 @@
         "author_pub_id": "f6Hsv7IAAAAJ:2P1L_qKh6hAC"
     },
     {
-        "title": "Evaluating Image Classification Deep Convolutional Neural Network Architectures for Remaining Useful Life Estimation of Turbofan Engines",
+        "title": "Evaluating image classification deep convolutional neural network architectures for remaining useful life estimation of turbofan engines",
         "pub_year": "2022",
         "citation": "International Journal of Prognostics and Health Management 13 (2), 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "f6Hsv7IAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -261,7 +275,7 @@
         "title": "Expert Representation of Design Repository Space: A Comparison to and Validation of Algorithmic Output",
         "pub_year": "2013",
         "citation": "Design Studies 34 (6), 729-762, DOI: 10.1016/j.destud.2013.06.002., 2013",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "f6Hsv7IAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -293,18 +307,25 @@
         "author_pub_id": "f6Hsv7IAAAAJ:pqnbT2bcN3wC"
     },
     {
-        "title": "Impact of Timing in the Design Process on Students’ Application of Design for Additive Manufacturing Heuristics",
+        "title": "Impact of timing in the design process on students’ application of design for additive manufacturing heuristics",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (6), 062301, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "f6Hsv7IAAAAJ:k_IJM867U9cC"
     },
     {
-        "title": "Inception Based Deep Convolutional Neural Network for Remaining Useful Life Estimation of Turbofan Engines",
+        "title": "Inception based deep convolutional neural network for remaining useful life estimation of turbofan engines",
         "pub_year": "2021",
         "citation": "Annual Conference of the PHM Society 13 (1), 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "f6Hsv7IAAAAJ:BqipwSGYUEgC"
+    },
+    {
+        "title": "Incorporating energy justice throughout clean-energy R&D5 in the United States: A review of outcomes and opportunities",
+        "pub_year": "2024",
+        "citation": "Cell Reports Sustainability 1 (2), 2024",
+        "num_citations": 1,
+        "author_pub_id": "f6Hsv7IAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Incorporating industrial design pedagogy into a mechanical engineering graphics course: a discipline-based education research (DBER) approach",
@@ -323,7 +344,7 @@
     {
         "title": "Investigating the effect of functionality level of analogical stimulation on design outcomes",
         "pub_year": "2013",
-        "citation": "Design Engineering Workshop, Kitakyushu, Fukuoka, Japan, 2013",
+        "citation": "Korea-Japan Design Engineering Workshops (DEWS), Kitakyushu, Fukuoka, Japan …, 2013",
         "num_citations": 7,
         "author_pub_id": "f6Hsv7IAAAAJ:ULOm3_A8WrAC"
     },
@@ -331,8 +352,15 @@
         "title": "JUST-R metrics for considering energy justice in early-stage energy research",
         "pub_year": "2023",
         "citation": "Joule 7 (3), 431-437, 2023",
-        "num_citations": 15,
+        "num_citations": 19,
         "author_pub_id": "f6Hsv7IAAAAJ:rO6llkc54NcC"
+    },
+    {
+        "title": "Justice-Embedded Requirements Engineering (JERE) for system design",
+        "pub_year": "2024",
+        "citation": "Proceedings of the Design Society 4, 2493-2502, 2024",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "LDA v. LSA: A Comparison of Two Computational Text Analysis Tools for the Functional Categorization of Patents.",
@@ -342,9 +370,16 @@
         "author_pub_id": "f6Hsv7IAAAAJ:mVmsd5A6BfQC"
     },
     {
+        "title": "Measurement of focal plane error in laser powder bed fusion machines",
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing Letters 9, 100196, 2024",
+        "num_citations": 2,
+        "author_pub_id": "f6Hsv7IAAAAJ:cFHS6HbyZ2cC"
+    },
+    {
         "title": "Methods for the Automated Determination of Sustained Maximum Amplitudes in Oscillating Signals",
         "pub_year": "2024",
-        "citation": "Journal of Computing and Information Science in Engineering 24, 024502-1, 2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (2), 024502, 2024",
         "num_citations": 0,
         "author_pub_id": "f6Hsv7IAAAAJ:fPk4N6BV_jEC"
     },
@@ -384,6 +419,13 @@
         "author_pub_id": "f6Hsv7IAAAAJ:ZHo1McVdvXMC"
     },
     {
+        "title": "Promoting Equity and Cognitive Growth: The Influence of an Authentic Learning Assignment on Engineering Problem-Solving Skills",
+        "pub_year": "2024",
+        "citation": "2024 ASEE Annual Conference & Exposition, 2024",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:pyW8ca7W8N0C"
+    },
+    {
         "title": "Push and Pull: Exploring the Engineering Retention Problem for Underrepresented Groups and Gauging Interest in Interdisciplinary Integration into Undergraduate Curriculum",
         "pub_year": "2023",
         "citation": "2023 ASEE Annual Conference & Exposition, 2023",
@@ -398,24 +440,24 @@
         "author_pub_id": "f6Hsv7IAAAAJ:3fE2CSJIrl8C"
     },
     {
-        "title": "SQL and NoSQL databases for cyber physical production systems in internet of things for manufacturing (IoTfM)",
+        "title": "SQL and NoSQL databases for cyber physical production systems in Internet of Things for manufacturing (IoTfM)",
         "pub_year": "2021",
         "citation": "International Manufacturing Science and Engineering Conference 85079 …, 2021",
         "num_citations": 3,
         "author_pub_id": "f6Hsv7IAAAAJ:O3NaXMp0MMsC"
     },
     {
-        "title": "Scalability Testing Approach for Internet of Things for Manufacturing SQL and NoSQL Database Latency and Throughput",
+        "title": "Scalability testing approach for Internet of Things for manufacturing SQL and NoSQL database latency and throughput",
         "pub_year": "2022",
         "citation": "Journal of Computing and Information Science in Engineering 22 (6), 060901, 2022",
-        "num_citations": 4,
+        "num_citations": 2,
         "author_pub_id": "f6Hsv7IAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Social life-cycle assessment (S-LCA) of residential rooftop solar panels using challenge-derived framework",
         "pub_year": "2022",
         "citation": "Energy, Sustainability and Society 12 (1), 7, 2022",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "f6Hsv7IAAAAJ:blknAaTinKkC"
     },
     {
@@ -448,19 +490,19 @@
     {
         "title": "Support Vector Machines for Classification of Direct Energy Deposition Standoff Distance for Improved Process Control",
         "pub_year": "2022",
+        "citation": "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States), 2022",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:ldfaerwXgEUC"
+    },
+    {
+        "title": "Support vector machines for classification of direct energy deposition standoff distance for improved process control",
+        "pub_year": "2022",
         "citation": "International Manufacturing Science and Engineering Conference 85802 …, 2022",
         "num_citations": 1,
         "author_pub_id": "f6Hsv7IAAAAJ:3s1wT3WcHBgC"
     },
     {
-        "title": "Support Vector Machines for Classification of Direct Energy Deposition Standoff Distance for Improved Process Control",
-        "pub_year": "2022",
-        "citation": "Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States), 2022",
-        "num_citations": 0,
-        "author_pub_id": "f6Hsv7IAAAAJ:ldfaerwXgEUC"
-    },
-    {
-        "title": "Systematic Map of the Social Impact Assessment Field",
+        "title": "Systematic map of the social impact assessment field",
         "pub_year": "2019",
         "citation": "Sustainability 11 (15), 4106, 2019",
         "num_citations": 43,
@@ -490,7 +532,7 @@
     {
         "title": "The Impact of Hands-on Geometric Dimensioning and Tolerancing Intervention Activities on Students In Engineering Design",
         "pub_year": "2023",
-        "citation": "Advances in Engineering Education 11 (2), 2023",
+        "citation": "Advances in Engineering Education 11 (2), 66-101, 2023",
         "num_citations": 0,
         "author_pub_id": "f6Hsv7IAAAAJ:35N4QoGY0k4C"
     },
@@ -505,21 +547,28 @@
         "title": "The Makeup of a Makerspace: The Impact of Stereotyping, Self-Efficacy, and Physical Design on Women’s Interactions with an Academic Makerspace",
         "pub_year": "2023",
         "citation": "Engineering Studies, 1-22, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "f6Hsv7IAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "The Meaning of “Near” and “Far”: The Impact of Structuring Design Databases and the Effect of Distance of Analogy on Design Output",
         "pub_year": "2013",
         "citation": "Journal of Mechanical Design 135 (2), 021007, 2013",
-        "num_citations": 332,
+        "num_citations": 334,
         "author_pub_id": "f6Hsv7IAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "The Role of Design Artifacts in Design",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design 146 (3), 2024",
+        "num_citations": 0,
+        "author_pub_id": "f6Hsv7IAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "f6Hsv7IAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -528,6 +577,13 @@
         "citation": "Design Computing and Cognition'12, 209-226, 2014",
         "num_citations": 27,
         "author_pub_id": "f6Hsv7IAAAAJ:M3ejUd6NZC8C"
+    },
+    {
+        "title": "Thinking Beyond the Default User: The Impact of Gender and Stereotypes on Designers’ Interpretation of Users and Their Needs",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
+        "num_citations": 1,
+        "author_pub_id": "f6Hsv7IAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Using Post-Assessment Reflection to Enhance Student Learning Outcomes in a Fluid Mechanics Course",
@@ -560,7 +616,7 @@
     {
         "title": "What makes for inspirational examples in design? The effects of example modality, distance, and familiarity.",
         "pub_year": "2010",
-        "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 32 (32), 2010",
+        "citation": "Proceedings of the annual meeting of the cognitive science society 32 (32), 2010",
         "num_citations": 1,
         "author_pub_id": "f6Hsv7IAAAAJ:qxL8FJ1GzNcC"
     }

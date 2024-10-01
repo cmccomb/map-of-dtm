@@ -73,7 +73,7 @@
         "title": "A nonlinear model of a harmonic drive gear transmission",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Robotics and Automation 12 (3), 368-374, 1996",
-        "num_citations": 297,
+        "num_citations": 302,
         "author_pub_id": "4ZckX2kAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Comparison of filtering methods for reducing residual vibration",
         "pub_year": "1999",
         "citation": "European Journal of Control 5 (2-4), 208-218, 1999",
-        "num_citations": 162,
+        "num_citations": 164,
         "author_pub_id": "4ZckX2kAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -429,7 +429,7 @@
         "title": "Crowdfunding for design innovation: prediction model with critical factors",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Engineering Management 69 (4), 1565-1576, 2020",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "4ZckX2kAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -547,7 +547,7 @@
         "title": "Directions in Robot Design",
         "pub_year": "1983",
         "citation": "",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "4ZckX2kAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -658,7 +658,7 @@
         "title": "Executive Decision Synthesis: A Sociotechnical Systems Paradigm",
         "pub_year": "2018",
         "citation": "Springer International Publishing, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "4ZckX2kAAAAJ:GFxP56DSvIMC"
     },
     {
@@ -749,7 +749,7 @@
         "title": "Function sharing in mechanical design",
         "pub_year": "1990",
         "citation": "Design Studies 11 (4), 223-234, 1990",
-        "num_citations": 245,
+        "num_citations": 246,
         "author_pub_id": "4ZckX2kAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -838,7 +838,7 @@
         "title": "Input shaped control of a planar gantry crane with hoisting",
         "pub_year": "1997",
         "citation": "Proceedings of the 1997 American Control Conference (Cat. No. 97CH36041) 1 …, 1997",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "4ZckX2kAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -880,7 +880,7 @@
         "title": "Introduction to dynamic models for robot force control",
         "pub_year": "1987",
         "citation": "IEEE Control Systems Magazine 7 (2), 48-52, 1987",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "4ZckX2kAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -955,14 +955,14 @@
         "title": "Method and apparatus for creating time-optimal commands for linear systems",
         "pub_year": "2004",
         "citation": "US Patent 6,694,196, 2004",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "4ZckX2kAAAAJ:3htObqc8RwsC"
     },
     {
         "title": "Method and apparatus for creating time-optimal commands for linear systems",
         "pub_year": "2003",
         "citation": "US Patent 6,505,085, 2003",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "4ZckX2kAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -1052,7 +1052,7 @@
         "title": "On dynamic models of robot force control",
         "pub_year": "1986",
         "citation": "Proceedings. 1986 IEEE International Conference on Robotics and Automation 3 …, 1986",
-        "num_citations": 306,
+        "num_citations": 309,
         "author_pub_id": "4ZckX2kAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1149,7 +1149,7 @@
         "title": "Preparing for the transfer of research results to practice: best practice heuristics",
         "pub_year": "2015",
         "citation": "Impact of Design Research on Industrial Practice: Tools, Technology, and …, 2015",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "4ZckX2kAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -1162,7 +1162,7 @@
         "title": "Preshaping command inputs to reduce system vibration",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 2377,
+        "num_citations": 2382,
         "author_pub_id": "4ZckX2kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1377,14 +1377,14 @@
         "title": "Shaping command inputs to minimize unwanted dynamics",
         "pub_year": "1990",
         "citation": "US Patent 4,916,635, 1990",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "4ZckX2kAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Shaping inputs to reduce vibration: a vector diagram approach",
         "pub_year": "1990",
         "citation": "Proceedings., IEEE international conference on robotics and automation, 922-927, 1990",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "4ZckX2kAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1405,7 +1405,7 @@
         "title": "Slewing multimode flexible spacecraft with zero derivative robustness constraints",
         "pub_year": "1997",
         "citation": "Journal of guidance, control, and dynamics 20 (1), 204-206, 1997",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "4ZckX2kAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1495,7 +1495,7 @@
         "title": "The function of the primary ligaments of the knee in varus-valgus and axial rotation",
         "pub_year": "1980",
         "citation": "Journal of biomechanics 13 (9), 785-794, 1980",
-        "num_citations": 220,
+        "num_citations": 221,
         "author_pub_id": "4ZckX2kAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1509,7 +1509,7 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 212,
+        "num_citations": 213,
         "author_pub_id": "4ZckX2kAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -1523,7 +1523,7 @@
         "title": "Time-optimal negative input shapers",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 313,
+        "num_citations": 314,
         "author_pub_id": "4ZckX2kAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1593,7 +1593,7 @@
         "title": "Understanding the waste net: a method for waste elimination prioritization in product development",
         "pub_year": "2009",
         "citation": "Global Perspective for Competitive Enterprise, Economy and Ecology …, 2009",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "4ZckX2kAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1641,7 +1641,7 @@
         "title": "Using input command pre-shaping to suppress multiple mode vibration",
         "pub_year": "1990",
         "citation": "MIT Space Engineering Research Center, 1990",
-        "num_citations": 274,
+        "num_citations": 275,
         "author_pub_id": "4ZckX2kAAAAJ:IjCSPb-OGe4C"
     },
     {

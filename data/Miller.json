@@ -24,7 +24,7 @@
         "title": "A mixed-methods investigation of how digital immersion affects design for additive manufacturing evaluations",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (11), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "lxb0XgIAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -45,14 +45,21 @@
         "title": "Abandoning creativity: The evolution of creative ideas in engineering design course projects",
         "pub_year": "2016",
         "citation": "Design Studies 47, 47-72, 2016",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "lxb0XgIAAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "Accuracy of Mediapipe Visual Hand Tracking for use in Medical Training Procedures",
+        "pub_year": "2024",
+        "citation": "Frontiers in Biomedical Devices 87752, V001T08A004, 2024",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Advanced Surface System for Central Venous Catheter Insertion Training",
         "pub_year": "2021",
         "citation": "Frontiers in Biomedical Devices 84812, V001T13A002, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "lxb0XgIAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -87,21 +94,14 @@
         "title": "Are you feeling me? An exploration of empathy development in engineering design education",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (11), 112301, 2021",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "lxb0XgIAAAAJ:ye4kPcJQO24C"
-    },
-    {
-        "title": "Associate Professor, School of Engineering Design and Innovation",
-        "pub_year": "2024",
-        "citation": "The Pennsylvania State University, 2024",
-        "num_citations": 0,
-        "author_pub_id": "lxb0XgIAAAAJ:86PQX7AUzd4C"
     },
     {
         "title": "Attention-enhanced multimodal learning for conceptual design evaluations",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 041410, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "lxb0XgIAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -115,21 +115,21 @@
         "title": "Break it down: comparing the effects of lecture-and module-style design for additive manufacturing educational interventions on student designers’ learning and creativity",
         "pub_year": "2023",
         "citation": "International Journal of Design Creativity and Innovation 11 (4), 229-252, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "lxb0XgIAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Building ultrasound phantoms with modified polyvinyl chloride: a comparison of needle insertion forces and sonographic appearance with commercial and traditional simulation …",
         "pub_year": "2018",
         "citation": "Simulation in Healthcare 13 (3), 149-153, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "lxb0XgIAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Built to win? Exploring the role of competitive environments on students’ creativity in design for additive manufacturing tasks",
         "pub_year": "2020",
         "citation": "Journal of Engineering Design 31 (11-12), 574-604, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "lxb0XgIAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "But will it build? Assessing student engineering designers’ use of design for additive manufacturing considerations in design outcomes",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 092001, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "lxb0XgIAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Can haptic simulators distinguish expert performance? A case study in central venous catheterization in surgical education",
         "pub_year": "2019",
         "citation": "Simulation in Healthcare 14 (1), 35-42, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "lxb0XgIAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Choosing creativity: the role of individual risk and ambiguity aversion on creative concept selection in engineering design",
         "pub_year": "2016",
         "citation": "Research in Engineering Design 27, 195-219, 2016",
-        "num_citations": 121,
+        "num_citations": 123,
         "author_pub_id": "lxb0XgIAAAAJ:dhFuZR0502QC"
     },
     {
@@ -290,7 +290,7 @@
         "title": "Crossing cultural borders: A case study of conceptual design outcomes of US and Moroccan student samples",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (3), 032301, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "lxb0XgIAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -312,6 +312,13 @@
         "citation": "Frontiers in Biomedical Devices 86731, V001T06A001, 2023",
         "num_citations": 0,
         "author_pub_id": "lxb0XgIAAAAJ:VaXvl8Fpj5cC"
+    },
+    {
+        "title": "Design of a Sensorized Original Syringe (SOS) for a Training System for Central Venous Catheterization",
+        "pub_year": "2024",
+        "citation": "Frontiers in Biomedical Devices 87752, V001T08A002, 2024",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Design of a virtual reality haptic robotic central venous catheterization training simulator",
@@ -352,7 +359,7 @@
         "title": "Designing immersive experiences in virtual reality for design for additive manufacturing training",
         "pub_year": "2023",
         "citation": "Additive Manufacturing 78, 103875, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "lxb0XgIAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -366,14 +373,14 @@
         "title": "Development and validity evidence investigation of a design for additive manufacturing self-efficacy scale",
         "pub_year": "2022",
         "citation": "Research in Engineering Design 33 (4), 437-453, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "lxb0XgIAAAAJ:BUYA1_V_uYcC"
     },
     {
         "title": "Digitizing Product Dissection: A Case Study on Augmented Reality and Animation in Engineering Education",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (8), 082301, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "lxb0XgIAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -422,7 +429,7 @@
         "title": "Does designing for additive manufacturing help us be more creative? An exploration in engineering design education",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "lxb0XgIAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -436,7 +443,7 @@
         "title": "Does empathy lead to creativity? A simulation-based investigation on the role of team trait empathy on nominal group concept generation and early concept screening",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e23, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "lxb0XgIAAAAJ:M7yex6snE4oC"
     },
     {
@@ -457,7 +464,7 @@
         "title": "Effects of immersion on knowledge gain and cognitive load in additive manufacturing process education",
         "pub_year": "2024",
         "citation": "3D Printing and Additive Manufacturing 11 (2), e787-e800, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "lxb0XgIAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -561,14 +568,14 @@
         "title": "Exploring biases between human and machine generated designs",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (2), 021104, 2019",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "lxb0XgIAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Exploring the effects of additive manufacturing education on students' engineering design process and its outcomes",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (4), 042001, 2020",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "lxb0XgIAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -596,7 +603,7 @@
         "title": "Favoring complexity: A mixed methods exploration of factors that influence concept selection when designing for additive manufacturing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (10), 102001, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "lxb0XgIAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -638,7 +645,7 @@
         "title": "Getting inspired! Understanding how and why examples are used in creative design practice",
         "pub_year": "2009",
         "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2009",
-        "num_citations": 332,
+        "num_citations": 334,
         "author_pub_id": "lxb0XgIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -694,7 +701,7 @@
         "title": "How concept selection tools impact the development of creative ideas in engineering design education",
         "pub_year": "2018",
         "citation": "Journal of Mechanical Design 140 (5), 052002, 2018",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "lxb0XgIAAAAJ:rO6llkc54NcC"
     },
     {
@@ -743,7 +750,7 @@
         "title": "How should we measure creativity in engineering design? A comparison between social science and engineering approaches",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031404, 2021",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "lxb0XgIAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -763,7 +770,7 @@
         "title": "Idea generation techniques among creative professionals",
         "pub_year": "2009",
         "citation": "2009 42nd Hawaii International Conference on System Sciences, 1-10, 2009",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "lxb0XgIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -776,7 +783,7 @@
     {
         "title": "Identifying diversity of patient anatomy through automated image analysis of clinical ultrasounds",
         "pub_year": "2024",
-        "citation": "Journal of Ultrasound, 1-9, 2024",
+        "citation": "Journal of Ultrasound 27 (3), 635-643, 2024",
         "num_citations": 0,
         "author_pub_id": "lxb0XgIAAAAJ:Ug5p-4gJ2f0C"
     },
@@ -812,7 +819,7 @@
         "title": "Improving medical education: Simulating changes in patient anatomy using dynamic haptic feedback",
         "pub_year": "2016",
         "citation": "Proceedings of the human factors and ergonomics society annual meeting 60 (1 …, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "lxb0XgIAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -830,6 +837,13 @@
         "author_pub_id": "lxb0XgIAAAAJ:WqliGbK-hY8C"
     },
     {
+        "title": "Innovative Pediatric Box Trainer for Laparoscopy: Insights from Force Measurement",
+        "pub_year": "2024",
+        "citation": "Frontiers in Biomedical Devices 87752, V001T08A001, 2024",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:rmuvC79q63oC"
+    },
+    {
         "title": "Integrating cadaver needle forces into a haptic robotic simulator",
         "pub_year": "2018",
         "citation": "Journal of medical devices 12 (1), 014501, 2018",
@@ -840,7 +854,7 @@
         "title": "Interpreting idea maps: Pairwise comparisons reveal what makes ideas novel",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (2), 021102, 2019",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "lxb0XgIAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -952,21 +966,21 @@
         "title": "Malevolent creativity and malevolent innovation: A critical but tenuous linkage",
         "pub_year": "2022",
         "citation": "Creativity research journal 34 (2), 123-144, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "lxb0XgIAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Mastering manufacturing: exploring the influence of engineering designers’ prior experience when using design for additive manufacturing",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design 33 (5), 366-387, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "lxb0XgIAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Measurement of syringe needle forces for a haptic robotic training device",
         "pub_year": "2017",
         "citation": "Frontiers in Biomedical Devices 40672, V001T08A017, 2017",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "lxb0XgIAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -1043,7 +1057,7 @@
         "title": "Out in the field versus inside in the lab: a comparison of design professionals’ concept screening practices",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (4), 041401, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "lxb0XgIAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -1069,7 +1083,7 @@
         "title": "Piecing together product dissection: how dissection conditions impact student conceptual understanding and cognitive load",
         "pub_year": "2018",
         "citation": "Journal of Mechanical Design 140 (5), 052001, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "lxb0XgIAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1216,14 +1230,14 @@
         "title": "Teaching design freedom: Understanding the effects of variations in design for additive manufacturing education on students’ creativity",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 094501, 2020",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "lxb0XgIAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Teaching designing for additive manufacturing: formulating educational interventions that encourage design creativity",
         "pub_year": "2023",
         "citation": "3D printing and additive manufacturing 10 (2), 356-372, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "lxb0XgIAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -1271,14 +1285,14 @@
         "title": "The Role of Personality and Team-Based Product Dissection on Fixation Effects.",
         "pub_year": "2013",
         "citation": "Advances in Engineering Education 3 (4), n4, 2013",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "lxb0XgIAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "The earlier the better? Investigating the importance of timing on effectiveness of design for additive manufacturing education",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "lxb0XgIAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -1292,14 +1306,14 @@
         "title": "The effects of gender and idea goodness on ownership bias in engineering design education",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101105, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "lxb0XgIAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "The impact of example modality and physical interactions on design creativity",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (9), 091004, 2014",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "lxb0XgIAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1313,7 +1327,7 @@
         "title": "The impact of team-based product dissection on design novelty",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (4), 041004, 2014",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "lxb0XgIAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -1436,6 +1450,13 @@
         "author_pub_id": "lxb0XgIAAAAJ:kNdYIx-mwKoC"
     },
     {
+        "title": "Using virtual reality to orient parts for additive manufacturing and its effects on manufacturability and experiential outcomes",
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing, 104421, 2024",
+        "num_citations": 0,
+        "author_pub_id": "lxb0XgIAAAAJ:Ri6SYOTghG4C"
+    },
+    {
         "title": "Visual inspection or product dissection? The impact of designer-product interactions on engineering design creativity",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
@@ -1446,7 +1467,7 @@
         "title": "What factors impact psychological safety in engineering student teams? A mixed-method longitudinal investigation",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (12), 122302, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "lxb0XgIAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1460,7 +1481,7 @@
         "title": "When are designers willing to take risks? How concept creativity and prototype fidelity influence perceived risk",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031104, 2019",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "lxb0XgIAAAAJ:P5F9QuxV20EC"
     },
     {
