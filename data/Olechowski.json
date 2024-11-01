@@ -59,7 +59,7 @@
         "title": "A focussed literature review of dual-process thinking to inform the study of hackathons",
         "pub_year": "2022",
         "citation": "International Conference on-Design Computing and Cognition, 145-160, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -108,28 +108,28 @@
         "title": "Analysis of designer emotions in collaborative and traditional computer-aided design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (2), 021401, 2021",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "P5yUQ-IAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Analysis of virtual communication within engineering design teams and its impact on team effectiveness",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Communication patterns in engineering enterprise social networks: an exploratory analysis using short text topic modelling",
         "pub_year": "2022",
         "citation": "Design Science 8, e18, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Does Synchronous Collaboration Improve Collaborative Computer-Aided Design Output: Results From a Large-Scale Competition",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -238,6 +238,13 @@
         "author_pub_id": "P5yUQ-IAAAAJ:k_IJM867U9cC"
     },
     {
+        "title": "Examining Conflict Patterns in Hackathon Teams: A Case Study",
+        "pub_year": "2024",
+        "citation": "International Conference on-Design Computing and Cognition, 182-198, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:D03iK_w7-QYC"
+    },
+    {
         "title": "Examining the engineering leadership literature: Community of practice style",
         "pub_year": "2018",
         "citation": "2018 ASEE Annual Conference & Exposition, 2018",
@@ -255,7 +262,7 @@
         "title": "Gendered Professional Role Confidence and Persistence of Artificial Intelligence and Machine Learning Students",
         "pub_year": "2020",
         "citation": "2020 ASEE Annual Conference and Exposition, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -269,14 +276,14 @@
         "title": "Identifying Gaps in Automating the Assessment of Technology Readiness Levels",
         "pub_year": "2020",
         "citation": "Proceedings of the Design Society: DESIGN Conference 1, 551-558, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Improving the Systems Engineering Process with Multilevel Analysis of Interactions",
         "pub_year": "2014",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2014",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "P5yUQ-IAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -290,7 +297,7 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -318,7 +325,7 @@
         "title": "Let's Take This Offline: A Thematic Analysis of Virtual Conflict in Hybrid Collaborative Design Teams",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 2435-2444, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -359,7 +366,7 @@
         "title": "Medical aspiration apparatus",
         "pub_year": "2014",
         "citation": "US Patent App. 13/983,789, 2014",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -412,6 +419,12 @@
         "author_pub_id": "P5yUQ-IAAAAJ:mVmsd5A6BfQC"
     },
     {
+        "title": "Proposing digital thread as an effective data management framework for modelling and simulation of EV battery thermal management systems",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:pyW8ca7W8N0C"
+    },
+    {
         "title": "Social Capital and Persistence in Computer Science of Google's Computer Science Summer Institute (CSSI) Students",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.13910, 2024",
@@ -436,21 +449,27 @@
         "title": "Team and communication impacts of remote work for complex aerospace system development",
         "pub_year": "2024",
         "citation": "Systems Engineering 27 (1), 199-213, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+        "title": "Teams: A Case Study",
+        "citation": "Design Computing and Cognition’24: Volume 1, 182, 0",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 197,
+        "num_citations": 200,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 111,
+        "num_citations": 113,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -485,7 +504,7 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 213,
+        "num_citations": 219,
         "author_pub_id": "P5yUQ-IAAAAJ:_FxGoFyzp5QC"
     },
     {

@@ -10,7 +10,7 @@
         "title": "A Survey of Graph-Theoretic Approaches for Resilient System of Systems Design",
         "pub_year": "2023",
         "citation": "Journal of Computing and Information Science in Engineering, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "kgxiHNUAAAAJ:k_IJM867U9cC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "An Ecological Robustness Oriented Optimal Power Flow for Power Systems' Survivability",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Power Systems, 2022",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "kgxiHNUAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Bio-Inspired Design for Robust Power Grid Networks",
         "pub_year": "2019",
         "citation": "Applied Energy 251, 2019",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "kgxiHNUAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Bio-inspired design for resilient water distribution networks",
         "pub_year": "2019",
         "citation": "Procedia CIRP 80, 275-280, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "kgxiHNUAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Bio-inspired modeling approaches for human networks with link dissipation",
         "pub_year": "2019",
         "citation": "ASME International Design Engineering Technical Conferences, 2019",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "kgxiHNUAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Biologically Inspired Closed Loop Manufacturing Networks",
         "pub_year": "2013",
         "citation": "ASME 2013 International Mechanical Engineering Congress and Exposition, 2013",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "kgxiHNUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Correlation between thermodynamic efficiency and ecological cyclicity for thermodynamic power cycles",
         "pub_year": "2012",
         "citation": "PLoS One 7 (12), e51841, 2012",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "kgxiHNUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Designing industrial networks using ecological food web metrics",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (20), 11243-11252, 2016",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "kgxiHNUAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -303,14 +303,14 @@
         "title": "Ecological Robustness as a Design Principle for Sustainable Industrial Systems",
         "pub_year": "2015",
         "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "kgxiHNUAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Ecological RobustnessOriented Grid Network Design for Resilience Against Multiple Hazards",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Power Systems, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "kgxiHNUAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -345,14 +345,14 @@
         "title": "Evaluating benefits of ecologically-inspired nested architectures for industrial symbiosis",
         "pub_year": "2021",
         "citation": "Resources, Conservation and Recycling 167, 105423, 2021",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "kgxiHNUAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Exploring System of Systems Resilience Versus Affordability Trade-Space Using a Bio-Inspired Metric",
         "pub_year": "2021",
         "citation": "Journal of Computing and Information Science in Engineering 21 (5), 1-13, 2021",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "kgxiHNUAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -394,7 +394,7 @@
         "title": "Food Webs: Realizing Biological Inspiration for Sustainable Industrial Resource Networks",
         "pub_year": "2014",
         "citation": "Georgia Institute of Technology, 2014",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "kgxiHNUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -405,17 +405,24 @@
         "author_pub_id": "kgxiHNUAAAAJ:rO6llkc54NcC"
     },
     {
+        "title": "From Systems to Resilience: Exploring Complexity and Quantifying Resilience Across Physical and Engineered Sciences I eLightning",
+        "pub_year": "2024",
+        "citation": "AGU24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "kgxiHNUAAAAJ:a0OBvERweLwC"
+    },
+    {
         "title": "Improving performance of eco-industrial parks",
         "pub_year": "2017",
         "citation": "International Journal of Sustainable Engineering 10 (4-5), 250-259, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "kgxiHNUAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Improving performance of eco-industrial parks",
         "pub_year": "2016",
         "citation": "Sustainable Design and Manufacturing 2016, 227-240, 2016",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "kgxiHNUAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -429,7 +436,7 @@
         "title": "Industrial Ecosystems and Food Webs: An Expansion and Update of Existing Data for Eco‐Industrial Parks and Understanding the Ecological Food Webs They Wish to Mimic",
         "pub_year": "2015",
         "citation": "Journal of Industrial Ecology 20 (1), 85-98, 2015",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "kgxiHNUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -457,7 +464,7 @@
         "title": "Lessons from living systems for the development of sustainable industrial resource networks",
         "pub_year": "2017",
         "citation": "Journal of Energy Challenges and Mechanics 4 (1), 1-10, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "kgxiHNUAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -498,14 +505,14 @@
         "title": "Mimicking Nature for Resilient Resource and Infrastructure Network Design",
         "pub_year": "2020",
         "citation": "Reliability Engineering and System Safety, 2020",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "kgxiHNUAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Mimicking the nested structures of ecosystems in the design of industrial water networks",
         "pub_year": "2020",
         "citation": "Procedia CIRP, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "kgxiHNUAAAAJ:4TOpqqG69KYC"
     },
     {

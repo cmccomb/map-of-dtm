@@ -3,7 +3,7 @@
         "title": "(Re) Designing for part consolidation: Understanding the challenges of metal additive manufacturing",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 111404, 2015",
-        "num_citations": 192,
+        "num_citations": 196,
         "author_pub_id": "PcE0eL0AAAAJ:MAUkC_7iAq8C"
     },
     {
@@ -16,7 +16,7 @@
         "title": "2005",
         "pub_year": "1993",
         "citation": "Product platform and product family design: Methods and applications, 1993",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "PcE0eL0AAAAJ:CCeGMaHljPEC"
     },
     {
@@ -43,7 +43,7 @@
         "title": "3D printing disrupts manufacturing: how economies of one create new rules of competition",
         "pub_year": "2013",
         "citation": "Research-Technology Management 56 (6), 12-16, 2013",
-        "num_citations": 678,
+        "num_citations": 683,
         "author_pub_id": "PcE0eL0AAAAJ:jgBuDB5drN8C"
     },
     {
@@ -64,7 +64,7 @@
         "title": "3d design using generative adversarial networks and physics-based validation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (7), 071701, 2020",
-        "num_citations": 114,
+        "num_citations": 117,
         "author_pub_id": "PcE0eL0AAAAJ:wyM6WWKXmoIC"
     },
     {
@@ -232,7 +232,7 @@
         "title": "A framework for classifying disassemble/analyse/assemble activities in engineering design education",
         "pub_year": "2008",
         "citation": "Journal of Design Research 7 (2), 120-135, 2008",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "PcE0eL0AAAAJ:eflP2zaiRacC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "A genetic algorithm based method for product family design optimization",
         "pub_year": "2002",
         "citation": "international design engineering technical conferences and computers and …, 2002",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "PcE0eL0AAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -351,7 +351,7 @@
         "title": "A mixed-methods investigation of how digital immersion affects design for additive manufacturing evaluations",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (11), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PcE0eL0AAAAJ:zdX0sdgBH_kC"
     },
     {
@@ -533,7 +533,7 @@
         "title": "A sparsity preserving genetic algorithm for extracting diverse functional 3D designs from deep generative neural networks",
         "pub_year": "2020",
         "citation": "Design Science 6, e11, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "PcE0eL0AAAAJ:aDl3D7KC1E4C"
     },
     {
@@ -547,7 +547,7 @@
         "title": "A study on situated cognition: product dissection’s effect on redesign activities",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "PcE0eL0AAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -589,7 +589,7 @@
         "title": "A voxel-based method of constructing and skinning conformal and functionally graded lattice structures suitable for additive manufacturing",
         "pub_year": "2017",
         "citation": "Additive Manufacturing 13, 1-13, 2017",
-        "num_citations": 248,
+        "num_citations": 250,
         "author_pub_id": "PcE0eL0AAAAJ:wUn16MOA3RoC"
     },
     {
@@ -617,7 +617,7 @@
         "title": "AM needs MEs",
         "pub_year": "2015",
         "citation": "Mechanical Engineering 137 (08), 30-35, 2015",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PcE0eL0AAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -637,14 +637,14 @@
         "title": "Accelerating thermal simulations in additive manufacturing by training physics-informed neural networks with randomly-synthesized data",
         "pub_year": "2024",
         "citation": "Journal of Computing and Information Science in Engineering, 1-14, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "PcE0eL0AAAAJ:C-Rn0OCouf8C"
     },
     {
         "title": "Achieving functionally graded material composition through bicontinuous mesostructural geometry in material extrusion additive manufacturing",
         "pub_year": "2018",
         "citation": "Jom 70, 413-418, 2018",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "PcE0eL0AAAAJ:z8nqeaKD1nsC"
     },
     {
@@ -672,7 +672,7 @@
         "title": "Additive creativity: investigating the use of design for additive manufacturing to encourage creativity in the engineering design industry",
         "pub_year": "2020",
         "citation": "International Journal of Design Creativity and Innovation 8 (4), 198-222, 2020",
-        "num_citations": 43,
+        "num_citations": 48,
         "author_pub_id": "PcE0eL0AAAAJ:vVJNg6_NJEsC"
     },
     {
@@ -707,7 +707,7 @@
         "title": "Advances in product family and product platform design",
         "pub_year": "2014",
         "citation": "New YorN: Springer 1, 2014",
-        "num_citations": 266,
+        "num_citations": 268,
         "author_pub_id": "PcE0eL0AAAAJ:_OXeSy2IsFwC"
     },
     {
@@ -875,7 +875,7 @@
         "title": "Analysis of support vector regression for approximation of complex engineering analyses",
         "pub_year": "2005",
         "citation": "",
-        "num_citations": 758,
+        "num_citations": 762,
         "author_pub_id": "PcE0eL0AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -959,7 +959,7 @@
         "title": "Approximation methods in multidisciplinary analysis and optimization: a panel discussion",
         "pub_year": "2004",
         "citation": "Structural and multidisciplinary optimization 27, 302-313, 2004",
-        "num_citations": 572,
+        "num_citations": 574,
         "author_pub_id": "PcE0eL0AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -987,7 +987,7 @@
         "title": "Assessing readiness for lifelong learning",
         "pub_year": "2001",
         "citation": "2001 Annual Conference, 6.211. 1-6.211. 9, 2001",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "PcE0eL0AAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -1001,7 +1001,7 @@
         "title": "Assessing variable levels of platform commonality within a product family using a multiobjective genetic algorithm",
         "pub_year": "2004",
         "citation": "Concurrent Engineering 12 (2), 119-129, 2004",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "PcE0eL0AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1049,7 +1049,7 @@
         "title": "Autonomous Killer Robots are Probably Good News 1",
         "pub_year": "2016",
         "citation": "Drones and Responsibility, 67-81, 2016",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "PcE0eL0AAAAJ:1taIhTC69MYC"
     },
     {
@@ -1091,7 +1091,7 @@
         "title": "Break it down: comparing the effects of lecture-and module-style design for additive manufacturing educational interventions on student designers’ learning and creativity",
         "pub_year": "2023",
         "citation": "International Journal of Design Creativity and Innovation 11 (4), 229-252, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PcE0eL0AAAAJ:EBV337fEn3EC"
     },
     {
@@ -1105,7 +1105,7 @@
         "title": "Built to win? Exploring the role of competitive environments on students’ creativity in design for additive manufacturing tasks",
         "pub_year": "2020",
         "citation": "Journal of Engineering Design 31 (11-12), 574-604, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "PcE0eL0AAAAJ:8VtEwCQfWZkC"
     },
     {
@@ -1119,7 +1119,7 @@
         "title": "But will it build? Assessing student engineering designers’ use of design for additive manufacturing considerations in design outcomes",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 092001, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "PcE0eL0AAAAJ:eH23hyXCXa4C"
     },
     {
@@ -1139,7 +1139,7 @@
         "title": "CAD-integrated cost estimation and build orientation optimization to support design for metal additive manufacturing",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 39,
+        "num_citations": 42,
         "author_pub_id": "PcE0eL0AAAAJ:hGdtkIFZdKAC"
     },
     {
@@ -1208,21 +1208,21 @@
         "title": "Comparative studies of metamodelling techniques under multiple modelling criteria",
         "pub_year": "2001",
         "citation": "Structural and multidisciplinary optimization 23, 1-13, 2001",
-        "num_citations": 2389,
+        "num_citations": 2395,
         "author_pub_id": "PcE0eL0AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Comparison of response surface and kriging models for multidisciplinary design optimization",
         "pub_year": "1998",
         "citation": "7th AIAA/USAF/NASA/ISSMO symposium on multidisciplinary analysis and …, 1998",
-        "num_citations": 803,
+        "num_citations": 806,
         "author_pub_id": "PcE0eL0AAAAJ:w0F2JDEymm0C"
     },
     {
         "title": "Comparisons of laser powder bed fusion additive manufacturing builds through experimental in situ distortion and temperature measurements",
         "pub_year": "2017",
         "citation": "Additive Manufacturing 15, 57-65, 2017",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "PcE0eL0AAAAJ:Wq2b2clWBLsC"
     },
     {
@@ -1250,7 +1250,7 @@
         "title": "Computationally inexpensive metamodel assessment strategies",
         "pub_year": "2001",
         "citation": "International design engineering technical conferences and computers and …, 2001",
-        "num_citations": 430,
+        "num_citations": 432,
         "author_pub_id": "PcE0eL0AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1278,7 +1278,7 @@
         "title": "Cost modeling and depreciation for reused powder feedstocks in powder bed fusion additive manufacturing",
         "pub_year": "2016",
         "citation": "University of Texas at Austin, 2016",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "PcE0eL0AAAAJ:RJOyoaXV5v8C"
     },
     {
@@ -1309,7 +1309,7 @@
         "title": "Data mining and fuzzy clustering to support product family design",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "PcE0eL0AAAAJ:BqipwSGYUEgC"
     },
     {
@@ -1365,7 +1365,7 @@
         "title": "Design and analysis of computer experiments in multidisciplinary design optimization: a review of how far we have come-or not",
         "pub_year": "2008",
         "citation": "12th AIAA/ISSMO multidisciplinary analysis and optimization conference, 5802, 2008",
-        "num_citations": 409,
+        "num_citations": 412,
         "author_pub_id": "PcE0eL0AAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1379,7 +1379,7 @@
         "title": "Design and evaluation of an additively manufactured aircraft heat exchanger",
         "pub_year": "2018",
         "citation": "Applied Thermal Engineering 138, 254-263, 2018",
-        "num_citations": 150,
+        "num_citations": 152,
         "author_pub_id": "PcE0eL0AAAAJ:QVtou7C4vgoC"
     },
     {
@@ -1407,7 +1407,7 @@
         "title": "Design for additive manufacturing: A paradigm shift in design, fabrication, and qualification",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (11), 110301, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "PcE0eL0AAAAJ:NDuN12AVoxsC"
     },
     {
@@ -1435,7 +1435,7 @@
         "title": "Design for metal powder bed fusion: The geometry for additive part selection (GAPS) worksheet",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 35, 101163, 2020",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "PcE0eL0AAAAJ:vnF2_uLGgtgC"
     },
     {
@@ -1449,7 +1449,7 @@
         "title": "Design repository effectiveness for 3D convolutional neural networks: Application to additive manufacturing",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (11), 111701, 2019",
-        "num_citations": 102,
+        "num_citations": 105,
         "author_pub_id": "PcE0eL0AAAAJ:Y0-TYkg6YM4C"
     },
     {
@@ -1519,7 +1519,7 @@
         "title": "Designing immersive experiences in virtual reality for design for additive manufacturing training",
         "pub_year": "2023",
         "citation": "Additive Manufacturing 78, 103875, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PcE0eL0AAAAJ:adHtZc2wMuEC"
     },
     {
@@ -1561,14 +1561,14 @@
         "title": "Development and validity evidence investigation of a design for additive manufacturing self-efficacy scale",
         "pub_year": "2022",
         "citation": "Research in Engineering Design 33 (4), 437-453, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PcE0eL0AAAAJ:d4tt_xEv1X8C"
     },
     {
         "title": "Development of CAD-Integrated Cost Estimator to Support Design for Additive Manufacturing",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PcE0eL0AAAAJ:LGlY6t8CeOMC"
     },
     {
@@ -1617,7 +1617,7 @@
         "title": "Development of experimental method for in situ distortion and temperature measurements during the laser powder bed fusion additive manufacturing process",
         "pub_year": "2016",
         "citation": "Additive Manufacturing 12, 25-30, 2016",
-        "num_citations": 208,
+        "num_citations": 215,
         "author_pub_id": "PcE0eL0AAAAJ:JTqpx9DYBaYC"
     },
     {
@@ -1658,7 +1658,7 @@
         "title": "Differentiating bending from folding in origami engineering using active materials",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "PcE0eL0AAAAJ:PYBJJbyH-FwC"
     },
     {
@@ -1672,7 +1672,7 @@
         "title": "Dissolvable metal supports for 3D direct metal printing",
         "pub_year": "2016",
         "citation": "3D Printing and Additive Manufacturing 3 (2), 90-97, 2016",
-        "num_citations": 87,
+        "num_citations": 89,
         "author_pub_id": "PcE0eL0AAAAJ:QUX0mv85b1cC"
     },
     {
@@ -1721,7 +1721,7 @@
         "title": "Dynamic modeling and analysis of an origami-inspired optical shield for the starshade spacecraft",
         "pub_year": "2016",
         "citation": "Smart Materials, Adaptive Structures and Intelligent Systems 50480, V001T01A012, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "PcE0eL0AAAAJ:silx2ntsSuwC"
     },
     {
@@ -1749,7 +1749,7 @@
         "title": "Effect of processing parameters on pore structures, grain features, and mechanical properties in Ti-6Al-4V by laser powder bed fusion",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 56, 102915, 2022",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "PcE0eL0AAAAJ:cRMvf6lLvU8C"
     },
     {
@@ -1777,7 +1777,7 @@
         "title": "Effects of immersion on knowledge gain and cognitive load in additive manufacturing process education",
         "pub_year": "2024",
         "citation": "3D Printing and Additive Manufacturing 11 (2), e787-e800, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PcE0eL0AAAAJ:sJK75vZXtG0C"
     },
     {
@@ -1812,7 +1812,7 @@
         "title": "Ensuring Quality in Metal Additive Manufacturing Through a V-Model Framework",
         "pub_year": "2023",
         "citation": "IEEE Access 11, 123807-123819, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PcE0eL0AAAAJ:QKtdBID3u5MC"
     },
     {
@@ -1833,7 +1833,7 @@
         "title": "Evaluating the effectiveness of virtual reality as an interactive educational resource for additive manufacturing",
         "pub_year": "2018",
         "citation": "International design engineering technical conferences and computers and …, 2018",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PcE0eL0AAAAJ:QsKbpXNoaWkC"
     },
     {
@@ -1861,7 +1861,7 @@
         "title": "Evaluating the use of virtual reality to teach introductory concepts of additive manufacturing",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (5), 051702, 2020",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "PcE0eL0AAAAJ:9NZAP19TdFAC"
     },
     {
@@ -1889,7 +1889,7 @@
         "title": "Expediting build time, material, and cost estimation for material extrusion processes to enable mobile applications",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "PcE0eL0AAAAJ:hQUaER0FWQ4C"
     },
     {
@@ -1938,7 +1938,7 @@
         "title": "Exploring the effects of additive manufacturing education on students' engineering design process and its outcomes",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (4), 042001, 2020",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "PcE0eL0AAAAJ:RMgMIBzvq-4C"
     },
     {
@@ -2001,7 +2001,7 @@
         "title": "Favoring complexity: A mixed methods exploration of factors that influence concept selection when designing for additive manufacturing",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (10), 102001, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PcE0eL0AAAAJ:GYcXSSpN504C"
     },
     {
@@ -2022,7 +2022,7 @@
         "title": "Freedom and trust: A rejoinder to Lovett and Pettit",
         "pub_year": "2019",
         "citation": "Phil. & Pub. Aff. 47, 412, 2019",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "PcE0eL0AAAAJ:R22Rs3tN8aoC"
     },
     {
@@ -2105,7 +2105,7 @@
         "title": "Global views on modular design research: linking alternative methods to support modular product family concept development",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (7), 071101, 2016",
-        "num_citations": 159,
+        "num_citations": 161,
         "author_pub_id": "PcE0eL0AAAAJ:An6A6Jpfc1oC"
     },
     {
@@ -2147,7 +2147,7 @@
         "title": "Henry Ford and the Model T: lessons for product platforming and mass customization",
         "pub_year": "2008",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
-        "num_citations": 214,
+        "num_citations": 218,
         "author_pub_id": "PcE0eL0AAAAJ:lSLTfruPkqcC"
     },
     {
@@ -2203,7 +2203,7 @@
         "title": "Improving an existing product family based on commonality/diversity, modularity, and cost",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "PcE0eL0AAAAJ:maZDTaKrznsC"
     },
     {
@@ -2349,7 +2349,7 @@
         "title": "Is additive manufacturing an environmentally and economically preferred alternative for mass production?",
         "pub_year": "2023",
         "citation": "Environmental science & technology 57 (16), 6373-6386, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "PcE0eL0AAAAJ:NtGNdKbuCngC"
     },
     {
@@ -2377,7 +2377,7 @@
         "title": "Just war and robots’ killings",
         "pub_year": "2016",
         "citation": "The Philosophical Quarterly 66 (263), 302-322, 2016",
-        "num_citations": 69,
+        "num_citations": 71,
         "author_pub_id": "PcE0eL0AAAAJ:kw52XkFRtyQC"
     },
     {
@@ -2404,7 +2404,7 @@
         "title": "Kriging models for global approximation in simulation-based multidisciplinary design optimization",
         "pub_year": "2001",
         "citation": "AIAA journal 39 (12), 2233-2241, 2001",
-        "num_citations": 1438,
+        "num_citations": 1443,
         "author_pub_id": "PcE0eL0AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -2459,7 +2459,7 @@
         "title": "Manufacturing fixation in design: exploring the effects of manufacturing assumptions on design ideas",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "PcE0eL0AAAAJ:uAPFzskPt0AC"
     },
     {
@@ -2501,7 +2501,7 @@
         "title": "Mastering manufacturing: exploring the influence of engineering designers’ prior experience when using design for additive manufacturing",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design 33 (5), 366-387, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "PcE0eL0AAAAJ:bXQfdp6S9ecC"
     },
     {
@@ -2515,14 +2515,14 @@
         "title": "Maximizing design potential: investigating the effects of utilizing opportunistic and restrictive design for additive manufacturing in rapid response solutions",
         "pub_year": "2021",
         "citation": "Rapid Prototyping Journal 27 (6), 1161-1171, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "PcE0eL0AAAAJ:hHIA4WEVY-EC"
     },
     {
         "title": "Mechanical properties of additively manufactured metal lattice structures: Data review and design interface",
         "pub_year": "2020",
         "citation": "Additive Manufacturing 35, 101301, 2020",
-        "num_citations": 125,
+        "num_citations": 130,
         "author_pub_id": "PcE0eL0AAAAJ:TGkaJS32XoUC"
     },
     {
@@ -2571,14 +2571,14 @@
         "title": "Metamodels for computer-based engineering design: survey and recommendations",
         "pub_year": "2001",
         "citation": "Engineering with computers 17, 129-150, 2001",
-        "num_citations": 2587,
+        "num_citations": 2597,
         "author_pub_id": "PcE0eL0AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Methods for optimizing product platforms and product families: overview and classification",
         "pub_year": "2006",
         "citation": "Product platform and product family design: Methods and applications, 133-156, 2006",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "PcE0eL0AAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -2718,28 +2718,28 @@
         "title": "Multidisciplinary design optimization for complex engineered systems: report from a national science foundation workshop",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 193,
+        "num_citations": 194,
         "author_pub_id": "PcE0eL0AAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Multidisciplinary design optimization in Architecture, Engineering, and Construction: a detailed review and call for collaboration",
         "pub_year": "2023",
         "citation": "Structural and Multidisciplinary Optimization 66 (11), 239, 2023",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "PcE0eL0AAAAJ:3BvdIg-l-ZAC"
     },
     {
         "title": "Multidisciplinary design optimization testbed based on autonomous underwater vehicle design",
         "pub_year": "2002",
         "citation": "9th AIAA/ISSMO Symposium on Multidisciplinary Analysis and Optimization, 5630, 2002",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "PcE0eL0AAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Multidisciplinary robust design optimization of an internal combustion engine",
         "pub_year": "2003",
         "citation": "J. Mech. Des. 125 (1), 124-130, 2003",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "PcE0eL0AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -2781,14 +2781,14 @@
         "title": "New product development practice application to an early-stage firm: the case of the PaperPro® StackMaster™",
         "pub_year": "2009",
         "citation": "Design Studies 30 (5), 561-587, 2009",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "PcE0eL0AAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "New product development practices and early‐stage firms: Two in‐depth case studies",
         "pub_year": "2012",
         "citation": "Journal of Product Innovation Management 29 (4), 639-654, 2012",
-        "num_citations": 157,
+        "num_citations": 159,
         "author_pub_id": "PcE0eL0AAAAJ:e_rmSamDkqQC"
     },
     {
@@ -2865,14 +2865,14 @@
         "title": "Ontology-based process map for metal additive manufacturing",
         "pub_year": "2021",
         "citation": "Journal of Materials Engineering and Performance 30, 8784-8797, 2021",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "PcE0eL0AAAAJ:ukw-9cB-YDkC"
     },
     {
         "title": "Ontology-driven learning of bayesian network for causal inference and quality assurance in additive manufacturing",
         "pub_year": "2021",
         "citation": "IEEE Robotics and Automation Letters 6 (3), 6032-6038, 2021",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "PcE0eL0AAAAJ:i_7YvbSbtFEC"
     },
     {
@@ -2974,7 +2974,7 @@
         "title": "Platform Concept Evaluation: Making the Case for Product Platforms",
         "pub_year": "2006",
         "citation": "Product Platform and Product Family Design: Methods and Applications, 49-72, 2006",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "PcE0eL0AAAAJ:9pM33mqn1YgC"
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "Platform-based design and development: current trends and needs in industry",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "PcE0eL0AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -3037,14 +3037,14 @@
         "title": "Predicting part mass, required support material, and build time via autoencoded voxel patterns",
         "pub_year": "2018",
         "citation": "Engineering Archive, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "PcE0eL0AAAAJ:N4u4nq0IxgcC"
     },
     {
         "title": "Predicting strength of additively manufactured thermoplastic polymer parts produced using material extrusion",
         "pub_year": "2018",
         "citation": "Rapid Prototyping Journal 24 (2), 321-332, 2018",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "PcE0eL0AAAAJ:jmjb1lOE9QIC"
     },
     {
@@ -3065,7 +3065,7 @@
         "title": "Preparing industry for additive manufacturing and its applications: Summary & recommendations from a National Science Foundation workshop",
         "pub_year": "2017",
         "citation": "Additive Manufacturing 13, 166-178, 2017",
-        "num_citations": 163,
+        "num_citations": 170,
         "author_pub_id": "PcE0eL0AAAAJ:DrR-2ekChdkC"
     },
     {
@@ -3142,7 +3142,7 @@
         "title": "Product family design and platform-based product development: a state-of-the-art review",
         "pub_year": "2007",
         "citation": "Journal of intelligent Manufacturing 18, 5-29, 2007",
-        "num_citations": 1183,
+        "num_citations": 1184,
         "author_pub_id": "PcE0eL0AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -3184,21 +3184,21 @@
         "title": "Product platform and product family design: methods and applications",
         "pub_year": "2006",
         "citation": "Springer Science & Business Media, 2006",
-        "num_citations": 628,
+        "num_citations": 631,
         "author_pub_id": "PcE0eL0AAAAJ:CMvovTBb2okC"
     },
     {
         "title": "Product platform design and customization: Status and promise",
         "pub_year": "2004",
         "citation": "Ai Edam 18 (1), 3-20, 2004",
-        "num_citations": 953,
+        "num_citations": 956,
         "author_pub_id": "PcE0eL0AAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Product platform design and optimization: Status and promise",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "PcE0eL0AAAAJ:LgRImbQfgY4C"
     },
     {
@@ -3212,7 +3212,7 @@
         "title": "Product platform design: method and application",
         "pub_year": "2001",
         "citation": "Research in engineering Design 13 (1), 2-22, 2001",
-        "num_citations": 888,
+        "num_citations": 891,
         "author_pub_id": "PcE0eL0AAAAJ:c1AJUTjuCtUC"
     },
     {
@@ -3240,14 +3240,14 @@
         "title": "Production cost modeling to support product family design optimization",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PcE0eL0AAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design",
         "pub_year": "2017",
         "citation": "Design Studies 50, 70-112, 2017",
-        "num_citations": 167,
+        "num_citations": 171,
         "author_pub_id": "PcE0eL0AAAAJ:tHtfpZlB6tUC"
     },
     {
@@ -3324,7 +3324,7 @@
         "title": "Redesigning a reaction control thruster for metal-based additive manufacturing: A case study in design for additive manufacturing",
         "pub_year": "2017",
         "citation": "Journal of Mechanical Design 139 (10), 100903, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "PcE0eL0AAAAJ:AzKEL7Gb_04C"
     },
     {
@@ -3365,7 +3365,7 @@
         "title": "Research and application of machine learning for additive manufacturing",
         "pub_year": "2022",
         "citation": "Additive Manufacturing 52, 102691, 2022",
-        "num_citations": 230,
+        "num_citations": 248,
         "author_pub_id": "PcE0eL0AAAAJ:yJjnfzR0HrkC"
     },
     {
@@ -3414,7 +3414,7 @@
         "title": "Robust design of families of products with production modeling and evaluation",
         "pub_year": "2001",
         "citation": "J. Mech. Des. 123 (2), 183-190, 2001",
-        "num_citations": 113,
+        "num_citations": 112,
         "author_pub_id": "PcE0eL0AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -3456,7 +3456,7 @@
         "title": "Sampling strategies for computer experiments: design and analysis",
         "pub_year": "2001",
         "citation": "International Journal of Reliability and applications 2 (3), 209-240, 2001",
-        "num_citations": 648,
+        "num_citations": 649,
         "author_pub_id": "PcE0eL0AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -3517,7 +3517,7 @@
         "title": "Six-sigma quality management of additive manufacturing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 109 (4), 347-376, 2020",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "PcE0eL0AAAAJ:JH5k92_tO-AC"
     },
     {
@@ -3545,14 +3545,14 @@
         "title": "Special section on multidisciplinary design optimization: metamodeling in multidisciplinary design optimization: how far have we really come?",
         "pub_year": "2014",
         "citation": "AIAA journal 52 (4), 670-690, 2014",
-        "num_citations": 430,
+        "num_citations": 435,
         "author_pub_id": "PcE0eL0AAAAJ:Ak0FvsSvgGUC"
     },
     {
         "title": "Statistical approximations for multidisciplinary design optimization: the problem of size",
         "pub_year": "1999",
         "citation": "Journal of aircraft 36 (1), 275-286, 1999",
-        "num_citations": 288,
+        "num_citations": 289,
         "author_pub_id": "PcE0eL0AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -3656,14 +3656,14 @@
         "title": "Teaching design freedom: Understanding the effects of variations in design for additive manufacturing education on students’ creativity",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 094501, 2020",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "PcE0eL0AAAAJ:3A3nxV7CjKIC"
     },
     {
         "title": "Teaching designing for additive manufacturing: formulating educational interventions that encourage design creativity",
         "pub_year": "2023",
         "citation": "3D printing and additive manufacturing 10 (2), 356-372, 2023",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "PcE0eL0AAAAJ:4n0clTBhZ78C"
     },
     {
@@ -3726,14 +3726,14 @@
         "title": "The Prototype for X (PFX) framework: Assessing its impact on students' prototyping awareness",
         "pub_year": "2016",
         "citation": "2016 ASEE Annual Conference & Exposition, 2016",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "PcE0eL0AAAAJ:wLxue7F8ec0C"
     },
     {
         "title": "The Prototype for X (PFX) framework: assessing the impact of PFX on desirability, feasibility, and viability of end Designs",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "PcE0eL0AAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -3768,7 +3768,7 @@
         "title": "The earlier the better? Investigating the importance of timing on effectiveness of design for additive manufacturing education",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "PcE0eL0AAAAJ:R-LXmdHK_14C"
     },
     {
@@ -3803,7 +3803,7 @@
         "title": "The impossibility of republican freedom",
         "pub_year": "2017",
         "citation": "Phil. & Pub. Aff. 45, 27, 2017",
-        "num_citations": 86,
+        "num_citations": 90,
         "author_pub_id": "PcE0eL0AAAAJ:z6xuaG2dYH0C"
     },
     {
@@ -3824,7 +3824,7 @@
         "title": "The philosophy of trust",
         "pub_year": "2017",
         "citation": "Oxford University Press, 2017",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "PcE0eL0AAAAJ:T_ojBgVMvoEC"
     },
     {
@@ -3845,14 +3845,14 @@
         "title": "The prototype for X framework: assessing impact on self-reported prototyping behavior of student designers",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (4), 042001, 2019",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "PcE0eL0AAAAJ:Vr2j17o0sqMC"
     },
     {
         "title": "The prototype for X framework: exploring the effects of a structured prototyping framework on functional prototypes",
         "pub_year": "2019",
         "citation": "Research in Engineering Design 30, 187-201, 2019",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "PcE0eL0AAAAJ:BOlwja0KXvYC"
     },
     {
@@ -3914,7 +3914,7 @@
         "title": "Topology optimization software for additive manufacturing: A review of current capabilities and a real-world example",
         "pub_year": "2016",
         "citation": "ASME 2016 International Design Engineering Technical Conferences and …, 2016",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "PcE0eL0AAAAJ:qCpRzq7zkD8C"
     },
     {
@@ -3984,14 +3984,14 @@
         "title": "Toward metamodels for composable and reusable additive manufacturing process models",
         "pub_year": "2014",
         "citation": "Journal of Manufacturing Science and Engineering 136 (6), 061025, 2014",
-        "num_citations": 104,
+        "num_citations": 106,
         "author_pub_id": "PcE0eL0AAAAJ:7BrZ7Jt4UNcC"
     },
     {
         "title": "Toward rapid manufacturability analysis tools for engineering design education",
         "pub_year": "2016",
         "citation": "Procedia Manufacturing 5, 1183-1196, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "PcE0eL0AAAAJ:k_7cPK9k7w8C"
     },
     {
@@ -4123,7 +4123,7 @@
         "title": "Update strategies for kriging models used in variable fidelity optimization",
         "pub_year": "2006",
         "citation": "Structural and Multidisciplinary Optimization 32, 287-298, 2006",
-        "num_citations": 224,
+        "num_citations": 225,
         "author_pub_id": "PcE0eL0AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -4137,7 +4137,7 @@
         "title": "Use of kriging models to approximate deterministic computer models",
         "pub_year": "2005",
         "citation": "AIAA journal 43 (4), 853-863, 2005",
-        "num_citations": 1084,
+        "num_citations": 1088,
         "author_pub_id": "PcE0eL0AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -4209,6 +4209,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
         "num_citations": 6,
         "author_pub_id": "PcE0eL0AAAAJ:jU7OWUQzBzMC"
+    },
+    {
+        "title": "Using virtual reality to orient parts for additive manufacturing and its effects on manufacturability and experiential outcomes",
+        "pub_year": "2024",
+        "citation": "Additive Manufacturing, 104421, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PcE0eL0AAAAJ:HqhvjgTjE9cC"
     },
     {
         "title": "Using visualization tools to create kriging models",

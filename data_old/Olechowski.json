@@ -21,6 +21,13 @@
         "author_pub_id": "P5yUQ-IAAAAJ:ns9cj8rnVeAC"
     },
     {
+        "title": "A Configuration Management Strategy for Modelbased Product Line Engineering in Aircraft Systems Development",
+        "pub_year": "2024",
+        "citation": "INCOSE International Symposium 34 (1), 2287-2304, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:yD5IFk8b50cC"
+    },
+    {
         "title": "A Multimodal Experimental Approach to Study CAD Collaboration",
         "pub_year": "2020",
         "citation": "Computer-Aided Design and Applications 18 (2), 328-342, 2020",
@@ -66,7 +73,7 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -101,14 +108,14 @@
         "title": "Analysis of designer emotions in collaborative and traditional computer-aided design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (2), 021401, 2021",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "P5yUQ-IAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 187,
+        "num_citations": 191,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -122,7 +129,7 @@
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -136,7 +143,7 @@
         "title": "Assessment of back-up plan, delay, and waiver options at project gate reviews",
         "pub_year": "2017",
         "citation": "DS 87-2 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -199,7 +206,7 @@
         "title": "Emerging Technologies and Methods for Early-Stage Product Design and Development",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 040301, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -283,14 +290,14 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Integrating Safety Analysis into Model-Based Systems Engineering for Aircraft Systems: A Literature Review and Methodology Proposal",
         "pub_year": "2021",
         "citation": "International Council on SystemsEngineering (INCOSE) International Symposium …, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P5yUQ-IAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -429,21 +436,21 @@
         "title": "Team and communication impacts of remote work for complex aerospace system development",
         "pub_year": "2024",
         "citation": "Systems Engineering 27 (1), 199-213, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 187,
+        "num_citations": 197,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 109,
+        "num_citations": 111,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -478,14 +485,14 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 212,
+        "num_citations": 213,
         "author_pub_id": "P5yUQ-IAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Towards A Better Understanding Of The Influence Of Visual References On Consumer Aesthetic Perception",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 3571-3580, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -526,7 +533,7 @@
         "title": "Using TRLs and system architecture to estimate technology integration risk",
         "pub_year": "2017",
         "citation": "DS 87-3 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "P5yUQ-IAAAAJ:Se3iqnhoufwC"
     },
     {

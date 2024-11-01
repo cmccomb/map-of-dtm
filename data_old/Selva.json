@@ -101,7 +101,7 @@
         "title": "A survey and assessment of the capabilities of Cubesats for Earth observation",
         "pub_year": "2012",
         "citation": "Acta Astronautica 74, 50-68, 2012",
-        "num_citations": 562,
+        "num_citations": 569,
         "author_pub_id": "Hq9WqBwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Agent‐based simulation framework and consensus algorithm for observing systems with adaptive modularity",
         "pub_year": "2018",
         "citation": "Systems Engineering 21 (5), 432-454, 2018",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "Hq9WqBwAAAAJ:Ade32sEp0pkC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Analysis of navigation performance with lunar GNSS evolution",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 International Technical Meeting of The Institute of …, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Artificial intelligence and engineering design",
         "pub_year": "2022",
         "citation": "Journal of mechanical design 144 (2), 020301, 2022",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "Hq9WqBwAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Assessment of constellation designs for earth observation: Application to the TROPICS mission",
         "pub_year": "2019",
         "citation": "Acta Astronautica 161, 166-182, 2019",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "Hq9WqBwAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "D-shield: Distributed spacecraft with heuristic intelligence to enable logistical decisions",
         "pub_year": "2020",
         "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium …, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Hq9WqBwAAAAJ:KNjnJ3z-R6IC"
     },
     {
@@ -295,14 +295,14 @@
         "title": "Design guidelines for general-purpose payload-oriented nanosatellite software architectures",
         "pub_year": "2018",
         "citation": "Journal of aerospace information systems 15 (3), 107-119, 2018",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "Hq9WqBwAAAAJ:CdxZDUztZiMC"
     },
     {
         "title": "Design of a satellite constellation for monitoring inland water quality",
         "pub_year": "2024",
         "citation": "Acta Astronautica 219, 875-888, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Hq9WqBwAAAAJ:-6RzNnnwWf8C"
     },
     {
@@ -344,7 +344,7 @@
         "title": "Distributed earth satellite systems: What is needed to move forward?",
         "pub_year": "2017",
         "citation": "Journal of Aerospace Information Systems 14 (8), 412-438, 2017",
-        "num_citations": 128,
+        "num_citations": 130,
         "author_pub_id": "Hq9WqBwAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -377,14 +377,14 @@
         "title": "Evaluating designer learning and performance in interactive deep generative design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (5), 051403, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:2v_ZtQDX9iAC"
     },
     {
         "title": "Evolutionary formulations for design of heterogeneous earth observing constellations",
         "pub_year": "2020",
         "citation": "2020 IEEE Aerospace Conference, 1-10, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Hq9WqBwAAAAJ:w0F2JDEymm0C"
     },
     {
@@ -446,7 +446,7 @@
         "title": "Exploring packaging architectures for the earth science decadal survey",
         "pub_year": "2011",
         "citation": "2011 Aerospace Conference, 1-13, 2011",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "Hq9WqBwAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -474,7 +474,7 @@
         "title": "Exploring the design space of lunar GNSS in frozen orbit conditions",
         "pub_year": "2020",
         "citation": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 444-451, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "Hq9WqBwAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -551,7 +551,7 @@
         "title": "Improving Designer Learning in Design Space Exploration by Adapting to the Designer’s Learning Goals",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Hq9WqBwAAAAJ:g5Ck-dwhA_QC"
     },
     {
@@ -746,7 +746,7 @@
         "title": "Optimizing satellite mission requirements to measure total suspended solids in rivers",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-9, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:L_l9e5I586QC"
     },
     {
@@ -760,7 +760,7 @@
         "title": "Patterns in system architecture decisions",
         "pub_year": "2016",
         "citation": "Systems Engineering 19 (6), 477-497, 2016",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "Hq9WqBwAAAAJ:jU7OWUQzBzMC"
     },
     {
@@ -788,6 +788,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "Hq9WqBwAAAAJ:SAZ1SQo2q1kC"
+    },
+    {
+        "title": "Reactive Planning Strategy for Event-Driven Observation in Heterogeneous Sensor Webs",
+        "pub_year": "2024",
+        "citation": "IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:MIg0yeAD4ggC"
     },
     {
         "title": "Representing and Analyzing Sequential Satellite Mission Design Decisions Through Anisomorphic Trees and Directed Graphs",
@@ -881,7 +888,7 @@
         "title": "Soil Moisture Monitoring using Autonomous and Distributed Spacecraft (D-SHIELD)",
         "pub_year": "2021",
         "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 1474 …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Hq9WqBwAAAAJ:69ZgNCALVd0C"
     },
     {
@@ -909,7 +916,7 @@
         "title": "System architecture: strategy and product development for complex systems",
         "pub_year": "2015",
         "citation": "Prentice Hall Press, 2015",
-        "num_citations": 609,
+        "num_citations": 619,
         "author_pub_id": "Hq9WqBwAAAAJ:FiytvqdAVhgC"
     },
     {
@@ -951,7 +958,7 @@
         "title": "Tradespace analysis of GNSS space segment architectures",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Aerospace and Electronic Systems 57 (1), 155-174, 2020",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "Hq9WqBwAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -986,7 +993,7 @@
         "title": "VASSAR: Value assessment of system architectures using rules",
         "pub_year": "2013",
         "citation": "2013 IEEE Aerospace Conference, 1-21, 2013",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "Hq9WqBwAAAAJ:W7OEmFMy1HYC"
     },
     {
