@@ -24,7 +24,7 @@
         "title": "A comparison of the integration of Risk management Principles in Product Development Approaches",
         "pub_year": "2011",
         "citation": "The Design Society, 2011",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "4ZckX2kAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "A nonlinear model of a harmonic drive gear transmission",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Robotics and Automation 12 (3), 368-374, 1996",
-        "num_citations": 302,
+        "num_citations": 303,
         "author_pub_id": "4ZckX2kAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "An extension of command shaping methods for controlling residual vibration using frequency sampling",
         "pub_year": "1992",
         "citation": "Proceedings 1992 IEEE International Conference on Robotics and Automation …, 1992",
-        "num_citations": 137,
+        "num_citations": 139,
         "author_pub_id": "4ZckX2kAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Comparison of filtering methods for reducing residual vibration",
         "pub_year": "1999",
         "citation": "European Journal of Control 5 (2-4), 208-218, 1999",
-        "num_citations": 164,
+        "num_citations": 166,
         "author_pub_id": "4ZckX2kAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -389,6 +389,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1987",
         "num_citations": 32,
         "author_pub_id": "4ZckX2kAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+        "title": "Control of flexible manipulators with input shaping techniques",
+        "pub_year": "2008",
+        "citation": "",
+        "num_citations": 7,
+        "author_pub_id": "4ZckX2kAAAAJ:1yWc8FF-_SYC"
     },
     {
         "title": "Controlling velocity-limited systems to reduce residual vibration",
@@ -429,7 +436,7 @@
         "title": "Crowdfunding for design innovation: prediction model with critical factors",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Engineering Management 69 (4), 1565-1576, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "4ZckX2kAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -512,7 +519,7 @@
         "title": "Design and comparison of command shaping methods for controlling residual vibration",
         "pub_year": "1989",
         "citation": "1989 IEEE International Conference on Robotics and Automation, 888,889,890 …, 1989",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "4ZckX2kAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -749,7 +756,7 @@
         "title": "Function sharing in mechanical design",
         "pub_year": "1990",
         "citation": "Design Studies 11 (4), 223-234, 1990",
-        "num_citations": 246,
+        "num_citations": 248,
         "author_pub_id": "4ZckX2kAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -776,7 +783,7 @@
         "title": "Hypothesis grids: Improving long baseline navigation for autonomous underwater vehicles",
         "pub_year": "2006",
         "citation": "IEEE Journal of Oceanic Engineering 31 (1), 209-218, 2006",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "4ZckX2kAAAAJ:z_wVstp3MssC"
     },
     {
@@ -838,7 +845,7 @@
         "title": "Input shaped control of a planar gantry crane with hoisting",
         "pub_year": "1997",
         "citation": "Proceedings of the 1997 American Control Conference (Cat. No. 97CH36041) 1 …, 1997",
-        "num_citations": 181,
+        "num_citations": 182,
         "author_pub_id": "4ZckX2kAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -884,9 +891,9 @@
         "author_pub_id": "4ZckX2kAAAAJ:tzM49s52ZIMC"
     },
     {
-        "title": "J. of Dynamic Systems",
+        "title": "Journal of Dynamic Systems, Measurement and Control",
         "pub_year": "1990",
-        "citation": "Measurement, and Control 112, 76-82, 1990",
+        "citation": "Measurement and Control 112, 76-82, 1990",
         "num_citations": 6,
         "author_pub_id": "4ZckX2kAAAAJ:umqufdRvDiIC"
     },
@@ -894,7 +901,7 @@
         "title": "Kinematic error, compliance, and friction in a harmonic drive gear transmission",
         "pub_year": "1993",
         "citation": "International design engineering technical conferences and computers and …, 1993",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "4ZckX2kAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -955,14 +962,14 @@
         "title": "Method and apparatus for creating time-optimal commands for linear systems",
         "pub_year": "2004",
         "citation": "US Patent 6,694,196, 2004",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "4ZckX2kAAAAJ:3htObqc8RwsC"
     },
     {
         "title": "Method and apparatus for creating time-optimal commands for linear systems",
         "pub_year": "2003",
         "citation": "US Patent 6,505,085, 2003",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "4ZckX2kAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -996,7 +1003,7 @@
         "title": "Modeling and experimental evaluation of asymmetric pantograph dynamics",
         "pub_year": "1988",
         "citation": "",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "4ZckX2kAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1052,7 +1059,7 @@
         "title": "On dynamic models of robot force control",
         "pub_year": "1986",
         "citation": "Proceedings. 1986 IEEE International Conference on Robotics and Automation 3 …, 1986",
-        "num_citations": 309,
+        "num_citations": 308,
         "author_pub_id": "4ZckX2kAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1162,7 +1169,7 @@
         "title": "Preshaping command inputs to reduce system vibration",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 2382,
+        "num_citations": 2386,
         "author_pub_id": "4ZckX2kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1300,7 +1307,7 @@
         "title": "Residual vibration reduction using vector diagrams to generate shaped inputs",
         "pub_year": "1994",
         "citation": "",
-        "num_citations": 556,
+        "num_citations": 558,
         "author_pub_id": "4ZckX2kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1377,14 +1384,14 @@
         "title": "Shaping command inputs to minimize unwanted dynamics",
         "pub_year": "1990",
         "citation": "US Patent 4,916,635, 1990",
-        "num_citations": 135,
+        "num_citations": 134,
         "author_pub_id": "4ZckX2kAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Shaping inputs to reduce vibration: a vector diagram approach",
         "pub_year": "1990",
         "citation": "Proceedings., IEEE international conference on robotics and automation, 922-927, 1990",
-        "num_citations": 195,
+        "num_citations": 196,
         "author_pub_id": "4ZckX2kAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1488,14 +1495,14 @@
         "title": "The function of the primary ligaments of the knee in anterior-posterior and medial-lateral motions",
         "pub_year": "1980",
         "citation": "Journal of Biomechanics 13 (9), 777-784, 1980",
-        "num_citations": 181,
+        "num_citations": 184,
         "author_pub_id": "4ZckX2kAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "The function of the primary ligaments of the knee in varus-valgus and axial rotation",
         "pub_year": "1980",
         "citation": "Journal of biomechanics 13 (9), 785-794, 1980",
-        "num_citations": 221,
+        "num_citations": 222,
         "author_pub_id": "4ZckX2kAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1509,21 +1516,21 @@
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 213,
+        "num_citations": 219,
         "author_pub_id": "4ZckX2kAAAAJ:sNmaIFBj_lkC"
     },
     {
         "title": "Three dynamic problems in robot force control",
         "pub_year": "1989",
         "citation": "1989 IEEE International Conference on Robotics and Automation, 392,393,394 …, 1989",
-        "num_citations": 344,
+        "num_citations": 345,
         "author_pub_id": "4ZckX2kAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Time-optimal negative input shapers",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 314,
+        "num_citations": 315,
         "author_pub_id": "4ZckX2kAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1627,21 +1634,21 @@
         "title": "Using acausal shaping techniques to reduce robot vibration",
         "pub_year": "1988",
         "citation": "Proceedings. 1988 IEEE International Conference on Robotics and Automation …, 1988",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "4ZckX2kAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Using design of experiments (DOE) for decision analysis",
         "pub_year": "2007",
         "citation": "Guidelines for a Decision Support Method Adapted to NPD Processes, 2007",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "4ZckX2kAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Using input command pre-shaping to suppress multiple mode vibration",
         "pub_year": "1990",
         "citation": "MIT Space Engineering Research Center, 1990",
-        "num_citations": 275,
+        "num_citations": 276,
         "author_pub_id": "4ZckX2kAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1661,7 +1668,7 @@
         "title": "Utilizing dynamic stability to orient parts",
         "pub_year": "1987",
         "citation": "",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "4ZckX2kAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1745,7 +1752,7 @@
         "title": "Why open source?: Exploring the motivations of using an open model for hardware development",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "4ZckX2kAAAAJ:DJbcl8HfkQkC"
     },
     {

@@ -98,13 +98,6 @@
         "author_pub_id": "qGJAOcIAAAAJ:q3oQSFYPqjQC"
     },
     {
-        "title": "A Method to Evaluate Relative Instructional Efficiencies of Design Activities for Product Platform Planning",
-        "pub_year": "2006",
-        "citation": "2006 Annual Conference & Exposition, 11.68. 1-11.68. 20, 2006",
-        "num_citations": 2,
-        "author_pub_id": "qGJAOcIAAAAJ:KbBQZpvPDL4C"
-    },
-    {
         "title": "A Methodology for the Development of Automated Consumer Products",
         "pub_year": "2009",
         "citation": "DS 58-1: Proceedings of ICED 09, the 17th International Conference on …, 2009",
@@ -149,21 +142,21 @@
         "title": "A component taxonomy as a framework for computational design synthesis",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "qGJAOcIAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "A computational approach to biologically inspired design",
         "pub_year": "2012",
         "citation": "AI EDAM 26 (2), 161-176, 2012",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "qGJAOcIAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "A computational approach to conceptual design",
         "pub_year": "2002",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2002",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "qGJAOcIAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -177,7 +170,7 @@
         "title": "A computational technique for concept generation",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 178,
+        "num_citations": 179,
         "author_pub_id": "qGJAOcIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -247,14 +240,14 @@
         "title": "A functional basis for engineering design: reconciling and evolving previous efforts",
         "pub_year": "2002",
         "citation": "Research in engineering Design 13, 65-82, 2002",
-        "num_citations": 1643,
+        "num_citations": 1648,
         "author_pub_id": "qGJAOcIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A heuristic method for identifying modules for product architectures",
         "pub_year": "2000",
         "citation": "Design studies 21 (1), 5-31, 2000",
-        "num_citations": 844,
+        "num_citations": 845,
         "author_pub_id": "qGJAOcIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -277,6 +270,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
         "num_citations": 10,
         "author_pub_id": "qGJAOcIAAAAJ:t7zJ5fGR-2UC"
+    },
+    {
+        "title": "A method to evaluate relative instructional efficiencies of design activities for product platform planning",
+        "pub_year": "2006",
+        "citation": "ASEE Annual Conference and Exposition, Conference Proceedings, 2006",
+        "num_citations": 2,
+        "author_pub_id": "qGJAOcIAAAAJ:KbBQZpvPDL4C"
     },
     {
         "title": "A model for predicting coolant activity behaviour for fuel-failure monitoring analysis",
@@ -310,14 +310,14 @@
         "title": "A natural language to component term methodology: towards a form based concept generation tool",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "qGJAOcIAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "A neural network thrust force controller to minimize delamination during drilling of graphite-epoxy laminates",
         "pub_year": "1996",
         "citation": "International Journal of Machine Tools and Manufacture 36 (9), 985-1003, 1996",
-        "num_citations": 328,
+        "num_citations": 330,
         "author_pub_id": "qGJAOcIAAAAJ:DUooU5lO8OsC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "A validation study of an automated concept generator design tool",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "qGJAOcIAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -553,7 +553,7 @@
         "title": "An open source application for archiving product design information",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qGJAOcIAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -588,7 +588,7 @@
         "title": "Apparatus and method for managing a provider network",
         "pub_year": "2012",
         "citation": "US Patent 8,103,755, 2012",
-        "num_citations": 107,
+        "num_citations": 106,
         "author_pub_id": "qGJAOcIAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -700,14 +700,14 @@
         "title": "Biologically inspired design",
         "pub_year": "2015",
         "citation": "Springer, 2015",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "qGJAOcIAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Biologically meaningful keywords for functional terms of the functional basis",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "qGJAOcIAAAAJ:maZDTaKrznsC"
     },
     {
@@ -742,14 +742,14 @@
         "title": "Capturing creativity: Using a design repository to drive concept innovation",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "qGJAOcIAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Capturing empirically derived design knowledge for creating conceptual design configurations",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "qGJAOcIAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -812,7 +812,7 @@
         "title": "Computer-based design synthesis research: an overview",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 324,
+        "num_citations": 329,
         "author_pub_id": "qGJAOcIAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -826,7 +826,7 @@
         "title": "Concept generation from the functional basis of design",
         "pub_year": "2005",
         "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "qGJAOcIAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -943,7 +943,7 @@
         "title": "Development of a functional basis for design",
         "pub_year": "1999",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999",
-        "num_citations": 1435,
+        "num_citations": 1438,
         "author_pub_id": "qGJAOcIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1020,14 +1020,14 @@
         "title": "Engineering applications of representations of function, Part 1",
         "pub_year": "2005",
         "citation": "AI EDAM 19 (2), 63-63, 2005",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "qGJAOcIAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Enhancing virtual product representations for advanced design repository systems",
         "pub_year": "2005",
         "citation": "",
-        "num_citations": 256,
+        "num_citations": 258,
         "author_pub_id": "qGJAOcIAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1125,7 +1125,7 @@
         "title": "Exploring the use of functional models as a foundation for biomimetic conceptual design",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "qGJAOcIAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -1167,7 +1167,7 @@
         "title": "Failure analysis in subsystem design for space missions",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "qGJAOcIAAAAJ:mB3voiENLucC"
     },
     {
@@ -1307,7 +1307,7 @@
         "title": "Function-based, biologically inspired concept generation",
         "pub_year": "2010",
         "citation": "Ai Edam 24 (4), 521-535, 2010",
-        "num_citations": 184,
+        "num_citations": 186,
         "author_pub_id": "qGJAOcIAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -1419,7 +1419,7 @@
         "title": "Impacting designer creativity through IT-enabled concept generation",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "qGJAOcIAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -1468,7 +1468,7 @@
         "title": "Integrating life cycle assessment into the conceptual phase of design using a design repository",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "qGJAOcIAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1510,7 +1510,7 @@
         "title": "Introduction of a data schema to support a design repository",
         "pub_year": "2008",
         "citation": "Computer-Aided Design 40 (7), 801-811, 2008",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "qGJAOcIAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1566,14 +1566,14 @@
         "title": "MEMIC: an interactive morphological matrix tool for automated concept generation",
         "pub_year": "2008",
         "citation": "IIE Annual Conference. Proceedings, 1196, 2008",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "qGJAOcIAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Mapping function to failure mode during component development",
         "pub_year": "2003",
         "citation": "Research in Engineering Design 14, 25-33, 2003",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "qGJAOcIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1628,7 +1628,7 @@
         "title": "Method and apparatus for locating naming discrepancies",
         "pub_year": "2012",
         "citation": "US Patent App. 13/136,831, 2012",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "qGJAOcIAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -1677,14 +1677,14 @@
         "title": "Observation of  Production",
         "pub_year": "2018",
         "citation": "Physical review letters 120 (23), 231801, 2018",
-        "num_citations": 1101,
+        "num_citations": 1114,
         "author_pub_id": "qGJAOcIAAAAJ:onKP9CxGSkIC"
     },
     {
         "title": "Observation of a kilogram-scale oscillator near its quantum ground state",
         "pub_year": "2009",
         "citation": "New Journal of Physics 11 (7), 073032, 2009",
-        "num_citations": 218,
+        "num_citations": 217,
         "author_pub_id": "qGJAOcIAAAAJ:LPtt_HFRSbwC"
     },
     {
@@ -1747,7 +1747,7 @@
         "title": "Precise determination of the mass of the Higgs boson and tests of compatibility of its couplings with the standard model predictions using proton collisions at 7 and 8 TeV",
         "pub_year": "2015",
         "citation": "European Physical Journal C 75 (5), 212, 2015",
-        "num_citations": 1860,
+        "num_citations": 1867,
         "author_pub_id": "qGJAOcIAAAAJ:cG0OFEevkNgC"
     },
     {
@@ -1775,7 +1775,7 @@
         "title": "Product design support: exploring a design repository system",
         "pub_year": "2004",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 47047, 55-65, 2004",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "qGJAOcIAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1824,7 +1824,7 @@
         "title": "Requirements for a failure mode taxonomy for use in conceptual design",
         "pub_year": "2003",
         "citation": "Ds 31: Proceedings of iced 03, the 14th international conference on …, 2003",
-        "num_citations": 110,
+        "num_citations": 111,
         "author_pub_id": "qGJAOcIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1894,21 +1894,21 @@
         "title": "Search for excited leptons in ℓℓγ final states in proton-proton collisions at  TeV",
         "pub_year": "2019",
         "citation": "Journal of high energy physics 2019 (4), 1-37, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qGJAOcIAAAAJ:u1IMlZnpNFQC"
     },
     {
         "title": "Search for heavy Majorana neutrinos in mu+/-mu+/-+ jets events in proton-proton collisions at sqrt (s)= 8 TeV",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1501.05566, 2015",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "qGJAOcIAAAAJ:LiF7i2gyBHwC"
     },
     {
         "title": "Search for heavy gauge W′ bosons in events with an energetic lepton and large missing transverse momentum at s= 13 TeV",
         "pub_year": "2017",
         "citation": "Physics Letters B 770, 278-301, 2017",
-        "num_citations": 140,
+        "num_citations": 141,
         "author_pub_id": "qGJAOcIAAAAJ:YXeC4bxG7-IC"
     },
     {
@@ -1929,7 +1929,7 @@
         "title": "Search for the Standard Model Higgs Boson Decaying into two Photons in pp Collisions at s= 7TeV",
         "pub_year": "2012",
         "citation": "Physics Letters B 710 (3), 403-425, 2012",
-        "num_citations": 310,
+        "num_citations": 311,
         "author_pub_id": "qGJAOcIAAAAJ:oqD4_j7ulsYC"
     },
     {
@@ -1963,8 +1963,8 @@
     {
         "title": "Software evaluation of an automated concept generator design tool",
         "pub_year": "2006",
-        "citation": "2006 Annual Conference & Exposition, 11.1138. 1-11.1138. 17, 2006",
-        "num_citations": 17,
+        "citation": "American Society of Engineering Education, 2006",
+        "num_citations": 18,
         "author_pub_id": "qGJAOcIAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -1985,7 +1985,7 @@
         "title": "SpIES: The Spitzer IRAC Equatorial Survey",
         "pub_year": "2016",
         "citation": "The Astrophysical Journal Supplement Series 225 (1), 1, 2016",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "qGJAOcIAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -2068,7 +2068,7 @@
         "title": "The DIRC particle identification system for the BaBar experiment",
         "pub_year": "2005",
         "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2005",
-        "num_citations": 274,
+        "num_citations": 273,
         "author_pub_id": "qGJAOcIAAAAJ:U_HPUtbDl20C"
     },
     {
@@ -2095,7 +2095,7 @@
         "title": "The LSC glitch group: monitoring noise transients during the fifth LIGO science run",
         "pub_year": "2008",
         "citation": "Classical and Quantum Gravity 25 (18), 184004, 2008",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "qGJAOcIAAAAJ:kF1pexMAQbMC"
     },
     {
@@ -2151,14 +2151,14 @@
         "title": "The early implementation of failure modes into existing component model libraries",
         "pub_year": "2014",
         "citation": "Research in Engineering Design 25, 203-221, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "qGJAOcIAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "The function-failure design method",
         "pub_year": "2005",
         "citation": "",
-        "num_citations": 307,
+        "num_citations": 309,
         "author_pub_id": "qGJAOcIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -2179,21 +2179,21 @@
         "title": "The risk in early design (RED) method: likelihood and consequence formulations",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 88,
+        "num_citations": 90,
         "author_pub_id": "qGJAOcIAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "The risk in early design method",
         "pub_year": "2009",
         "citation": "Journal of engineering design 20 (2), 155-173, 2009",
-        "num_citations": 197,
+        "num_citations": 198,
         "author_pub_id": "qGJAOcIAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "The sloan digital sky survey: Technical summary",
         "pub_year": "2000",
         "citation": "The Astronomical Journal 120 (3), 1579, 2000",
-        "num_citations": 12280,
+        "num_citations": 12364,
         "author_pub_id": "qGJAOcIAAAAJ:zdX0sdgBH_kC"
     },
     {
@@ -2214,7 +2214,7 @@
         "title": "Toward a multi-agent information management infrastructure for product family planning and mass customisation",
         "pub_year": "2005",
         "citation": "International Journal of Mass Customisation 1 (1), 134-155, 2005",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "qGJAOcIAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2305,7 +2305,7 @@
         "title": "Using a design repository to drive concept generation",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "qGJAOcIAAAAJ:9ZlFYXVOiuMC"
     },
     {

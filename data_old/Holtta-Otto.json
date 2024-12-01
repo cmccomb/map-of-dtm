@@ -13,6 +13,13 @@
         "author_pub_id": "YgYGk14AAAAJ:BUYA1_V_uYcC"
     },
     {
+        "title": "A DSM Approach to Modularize for Reusability",
+        "pub_year": "2024",
+        "citation": "DS 134: Proceedings of the 26th International DSM Conference (DSM 2024 …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:foquWX3nUaYC"
+    },
+    {
         "title": "A Performance-Based Measure for Research in Empathy and Music",
         "citation": "",
         "num_citations": 0,
@@ -36,14 +43,14 @@
         "title": "A cross-sectional and longitudinal examination of the development of innovation capability in undergraduate engineering students",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "YgYGk14AAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "A decision tree based methodology for evaluating creativity in engineering design",
         "pub_year": "2019",
         "citation": "Frontiers in psychology 10, 32, 2019",
-        "num_citations": 43,
+        "num_citations": 47,
         "author_pub_id": "YgYGk14AAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -57,14 +64,14 @@
         "title": "A module generation algorithm for product architecture based on component interactions and strategic drivers",
         "pub_year": "2014",
         "citation": "Research in Engineering Design 25, 31-51, 2014",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "YgYGk14AAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "A multi-criteria assessment tool for screening preliminary product platform concepts",
         "pub_year": "2007",
         "citation": "Journal of Intelligent Manufacturing 18, 59-75, 2007",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "YgYGk14AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -92,7 +99,7 @@
         "title": "A reinforcement learning approach to system modularization under constraints",
         "pub_year": "2023",
         "citation": "Systems Engineering 26 (4), 408-424, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "YgYGk14AAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -117,6 +124,13 @@
         "author_pub_id": "YgYGk14AAAAJ:evX43VCCuoAC"
     },
     {
+        "title": "About this journal",
+        "pub_year": "2008",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:ruyezt5ZtCIC"
+    },
+    {
         "title": "Ac 2010-822: Extreme Experience Interviews for innovative designs: classroom assessment of a new needs–gathering method",
         "pub_year": "2010",
         "citation": "American Society for Engineering Education, 2010",
@@ -127,7 +141,7 @@
         "title": "Advances in product family and product platform design",
         "pub_year": "2014",
         "citation": "New YorN: Springer 1, 2014",
-        "num_citations": 268,
+        "num_citations": 270,
         "author_pub_id": "YgYGk14AAAAJ:35N4QoGY0k4C"
     },
     {
@@ -162,14 +176,14 @@
         "title": "An Investigation of the Influence of Disciplinary Distance in Interdisciplinary Education Through Faculty’s Experience",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "YgYGk14AAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "An algorithmic approach to system modularization under constraints",
         "pub_year": "2017",
         "citation": "Understand, Innovate, and Manage your Complex System, 15-24, 2017",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "YgYGk14AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -197,7 +211,7 @@
         "title": "An experimental investigation of the innovation capabilities of undergraduate engineering students",
         "pub_year": "2012",
         "citation": "Journal of Engineering Education 101 (1), 60-81, 2012",
-        "num_citations": 253,
+        "num_citations": 254,
         "author_pub_id": "YgYGk14AAAAJ:mB3voiENLucC"
     },
     {
@@ -253,7 +267,7 @@
         "title": "Antecedents and outcomes of designer empathy: A retrospective interview study",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "YgYGk14AAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -274,7 +288,7 @@
         "title": "Architectural decomposition: the role of granularity and decomposition viewpoint",
         "pub_year": "2014",
         "citation": "Advances in Product Family and Product Platform Design: Methods …, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "YgYGk14AAAAJ:lSLTfruPkqcC"
     },
     {
@@ -288,7 +302,7 @@
         "title": "Assessing the development of empathy and innovation attitudes in a project-based engineering design course",
         "pub_year": "2018",
         "citation": "ASEE Annual Conference, 2018",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "YgYGk14AAAAJ:Mojj43d5GZwC"
     },
     {
@@ -329,7 +343,7 @@
         "title": "Comparative analysis of coupling modularity metrics",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (10-11), 790-806, 2012",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "YgYGk14AAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -350,7 +364,7 @@
         "title": "Comparing three different modularity methods",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "YgYGk14AAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -371,7 +385,7 @@
         "title": "Conceptualization and operationalization of empathy in design research",
         "pub_year": "2022",
         "citation": "Design Studies 78, 101075, 2022",
-        "num_citations": 77,
+        "num_citations": 81,
         "author_pub_id": "YgYGk14AAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -406,7 +420,7 @@
         "title": "Crowdfunding for design innovation: prediction model with critical factors",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Engineering Management 69 (4), 1565-1576, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "YgYGk14AAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -426,7 +440,7 @@
         "title": "Deconstruction of idea generation methods into a framework of creativity mechanisms",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (3), 031401, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "YgYGk14AAAAJ:_Ybze24A_UAC"
     },
     {
@@ -440,7 +454,7 @@
         "title": "Degree of modularity in engineering systems and products with technical and business constraints",
         "pub_year": "2007",
         "citation": "Concurrent Engineering 15 (2), 113-126, 2007",
-        "num_citations": 262,
+        "num_citations": 266,
         "author_pub_id": "YgYGk14AAAAJ:dhFuZR0502QC"
     },
     {
@@ -496,7 +510,7 @@
         "title": "Developing world users as lead users: a case study in engineering reverse innovation",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (7), 071406, 2015",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "YgYGk14AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -559,7 +573,7 @@
         "title": "Empathic accuracy in design: Exploring design outcomes through empathic performance and physiology",
         "pub_year": "2020",
         "citation": "Design Science 6, e16, 2020",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "YgYGk14AAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -608,7 +622,7 @@
         "title": "Facing extreme uncertainty–how the onset of the COVID-19 pandemic influenced product development",
         "pub_year": "2023",
         "citation": "International Journal of Design Creativity and Innovation 11 (2), 117-137, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "YgYGk14AAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -629,7 +643,7 @@
         "title": "From crossing chromosomes to crossing curricula–a biomimetic analogy for cross-disciplinary engineering curriculum planning",
         "pub_year": "2022",
         "citation": "European Journal of Engineering Education 47 (3), 516-534, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "YgYGk14AAAAJ:z_wVstp3MssC"
     },
     {
@@ -650,7 +664,7 @@
         "title": "Global views on modular design research: linking alternative methods to support modular product family concept development",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (7), 071101, 2016",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "YgYGk14AAAAJ:XiSMed-E-HIC"
     },
     {
@@ -677,8 +691,14 @@
         "title": "Idea generation mechanisms: Comparing the influence of classification, combination, building on others, and stimulation mechanisms on ideation effectiveness",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (12), 121403, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "YgYGk14AAAAJ:-_dYPAW6P2MC"
+    },
+    {
+        "title": "Identifying Opportunities to Repurpose Decommissioned Products Using Large Language Models",
+        "citation": "Available at SSRN 4985604, 0",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "Identifying and Categorizing Opportunities for Design for Sustainable User Behavior",
@@ -719,21 +739,21 @@
         "title": "Improved clustering algorithm for design structure matrix",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "YgYGk14AAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Inconstant Empathy—Interpersonal Factors That Influence the Incompleteness of User Understanding",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (2), 021403, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "YgYGk14AAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Incorporating constraints in system modularization by interactive clustering of design structure matrices",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "YgYGk14AAAAJ:p2g8aNsByqUC"
     },
     {
@@ -747,7 +767,7 @@
         "title": "Incorporating design effort complexity measures in product architectural design and assessment",
         "pub_year": "2005",
         "citation": "Design studies 26 (5), 463-485, 2005",
-        "num_citations": 135,
+        "num_citations": 137,
         "author_pub_id": "YgYGk14AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -822,7 +842,7 @@
         "title": "Metrics for assessing coupling density and modularity in complex products and systems",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "YgYGk14AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -871,7 +891,7 @@
         "title": "Multidisciplinary education through faculty members’ conceptualisations of and experiences in engineering education",
         "pub_year": "2023",
         "citation": "European Journal of Engineering Education 48 (4), 707-723, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "YgYGk14AAAAJ:tuHXwOkdijsC"
     },
     {
@@ -1009,7 +1029,7 @@
         "title": "Systematic framework to apply extraordinary user perspective to capture latent needs among ordinary users",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "YgYGk14AAAAJ:olpn-zPbct0C"
     },
     {
@@ -1030,7 +1050,7 @@
         "title": "Teaching the Nernst Equation and Faradaic Current through the Use of a Designette: An Opportunity to Strengthen Key Electrochemical Concepts and Clarify …",
         "pub_year": "2020",
         "citation": "Journal of Chemical Education 97 (8), 2238-2243, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "YgYGk14AAAAJ:hkOj_22Ku90C"
     },
     {
@@ -1086,7 +1106,7 @@
         "title": "Three approaches to complex system decomposition",
         "pub_year": "2011",
         "citation": "DSM 2011: proceedings of the 13th international DSM conference, 2011",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "YgYGk14AAAAJ:TQgYirikUcIC"
     },
     {
@@ -1107,7 +1127,7 @@
         "title": "Trade-off analysis of system architecture modularity using design structure matrix",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "YgYGk14AAAAJ:UxriW0iASnsC"
     },
     {
@@ -1121,14 +1141,14 @@
         "title": "Tradeoff between modularity and performance for engineered systems and products",
         "pub_year": "2005",
         "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
-        "num_citations": 138,
+        "num_citations": 140,
         "author_pub_id": "YgYGk14AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Under the umbrella: components of empathy in psychology and design",
         "pub_year": "2022",
         "citation": "Design Science 8, e20, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "YgYGk14AAAAJ:vbGhcppDl1QC"
     },
     {
@@ -1142,7 +1162,7 @@
         "title": "Usability issues in the operating room–Towards contextual design guidelines for medical device design",
         "pub_year": "2021",
         "citation": "Applied Ergonomics 90, 103221, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "YgYGk14AAAAJ:UHK10RUVsp4C"
     },
     {

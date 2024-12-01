@@ -43,14 +43,14 @@
         "title": "A cross-sectional and longitudinal examination of the development of innovation capability in undergraduate engineering students",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "YgYGk14AAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "A decision tree based methodology for evaluating creativity in engineering design",
         "pub_year": "2019",
         "citation": "Frontiers in psychology 10, 32, 2019",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "YgYGk14AAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -106,7 +106,7 @@
         "title": "A study of the effectiveness of empathic experience design as a creativity technique",
         "pub_year": "2011",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "YgYGk14AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -122,13 +122,6 @@
         "citation": "ASEE Annual Conference, 2011",
         "num_citations": 0,
         "author_pub_id": "YgYGk14AAAAJ:evX43VCCuoAC"
-    },
-    {
-        "title": "About this journal",
-        "pub_year": "2008",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "YgYGk14AAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "Ac 2010-822: Extreme Experience Interviews for innovative designs: classroom assessment of a new needs–gathering method",
@@ -169,14 +162,14 @@
         "title": "An Exploration of Teachers’ Competencies in Interdisciplinary Engineering Education",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "YgYGk14AAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "An Investigation of the Influence of Disciplinary Distance in Interdisciplinary Education Through Faculty’s Experience",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "YgYGk14AAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -190,14 +183,14 @@
         "title": "An analysis of designer empathy in the early phases of design projects",
         "pub_year": "2018",
         "citation": "DS 91: Proceedings of NordDesign 2018, Linköping, Sweden, 14th-17th August 2018, 2018",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "YgYGk14AAAAJ:HE397vMXCloC"
     },
     {
         "title": "An experimental investigation of the effectiveness of empathic experience design for innovative concept generation",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (5), 051009, 2014",
-        "num_citations": 92,
+        "num_citations": 91,
         "author_pub_id": "YgYGk14AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -246,7 +239,7 @@
         "title": "Analysis and design of sociotechnical systems",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (11), 118001, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "YgYGk14AAAAJ:WqliGbK-hY8C"
     },
     {
@@ -302,21 +295,28 @@
         "title": "Assessing the development of empathy and innovation attitudes in a project-based engineering design course",
         "pub_year": "2018",
         "citation": "ASEE Annual Conference, 2018",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "YgYGk14AAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Automatic facial expression analysis as a measure of user-designer empathy",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031403, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "YgYGk14AAAAJ:tYavs44e6CUC"
+    },
+    {
+        "title": "Barriers to Product Repair: Exploring Motivations and Capabilities Among Operators",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:Ug5p-4gJ2f0C"
     },
     {
         "title": "Bio-informed materials: three guiding principles for innovation informed by biology",
         "pub_year": "2023",
         "citation": "Nature Reviews Materials 8 (9), 565-567, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "YgYGk14AAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -327,15 +327,23 @@
         "author_pub_id": "YgYGk14AAAAJ:NMxIlDl6LWMC"
     },
     {
+        "title": "Can Unconscious Verbal Mimicry Measure Empathy in Design?",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:edDO8Oi4QzsC"
+    },
+    {
         "title": "Challenges and opportunities for innovation in bioinformed sustainable materials",
         "pub_year": "2023",
         "citation": "Communications Materials 4 (1), 80, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "YgYGk14AAAAJ:k8Z6L05lTy4C"
     },
     {
-        "title": "Circular makerspace as means to support sustainable engineering education–instructor, student and facility perspectives",
-        "citation": "",
+        "title": "Circular makerspace as means to support sustainable engineering education-instructor, student and facility perspectives",
+        "pub_year": "2023",
+        "citation": "31st Australasian Association for Engineering Education Conference (AAEE2023 …, 2023",
         "num_citations": 0,
         "author_pub_id": "YgYGk14AAAAJ:oNZyr7d5Mn4C"
     },
@@ -385,7 +393,7 @@
         "title": "Conceptualization and operationalization of empathy in design research",
         "pub_year": "2022",
         "citation": "Design Studies 78, 101075, 2022",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "YgYGk14AAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -454,14 +462,14 @@
         "title": "Degree of modularity in engineering systems and products with technical and business constraints",
         "pub_year": "2007",
         "citation": "Concurrent Engineering 15 (2), 113-126, 2007",
-        "num_citations": 266,
+        "num_citations": 267,
         "author_pub_id": "YgYGk14AAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Demographic factors and their influence on designer creativity and empathy evoked through user extreme conditions",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "YgYGk14AAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -489,7 +497,7 @@
         "title": "Design with the developing world: A model with seven challenges for the future",
         "pub_year": "2013",
         "citation": "DS 75-6: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "YgYGk14AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -510,7 +518,7 @@
         "title": "Developing world users as lead users: a case study in engineering reverse innovation",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (7), 071406, 2015",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "YgYGk14AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -573,7 +581,7 @@
         "title": "Empathic accuracy in design: Exploring design outcomes through empathic performance and physiology",
         "pub_year": "2020",
         "citation": "Design Science 6, e16, 2020",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "YgYGk14AAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -608,7 +616,7 @@
         "title": "Extreme-user conditions to enhance design creativity and empathy-application using visual impairment",
         "pub_year": "2022",
         "citation": "International Journal of Design Creativity and Innovation 10 (2), 75-100, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "YgYGk14AAAAJ:epqYDVWIO7EC"
     },
     {
@@ -650,7 +658,7 @@
         "title": "Fundamental studies in Design-by-Analogy: A focus on domain-knowledge experts and applications to transactional design problems",
         "pub_year": "2014",
         "citation": "Design Studies 35 (3), 232-272, 2014",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "YgYGk14AAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -664,7 +672,7 @@
         "title": "Global views on modular design research: linking alternative methods to support modular product family concept development",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (7), 071101, 2016",
-        "num_citations": 162,
+        "num_citations": 166,
         "author_pub_id": "YgYGk14AAAAJ:XiSMed-E-HIC"
     },
     {
@@ -684,7 +692,7 @@
         "title": "How users adjust trust in automation: Contrast effect and hindsight bias",
         "pub_year": "2016",
         "citation": "Proceedings of the human factors and ergonomics society annual meeting 60 (1 …, 2016",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "YgYGk14AAAAJ:NJ774b8OgUMC"
     },
     {
@@ -746,7 +754,7 @@
         "title": "Inconstant Empathy—Interpersonal Factors That Influence the Incompleteness of User Understanding",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (2), 021403, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "YgYGk14AAAAJ:KUbvn5osdkgC"
     },
     {
@@ -774,7 +782,7 @@
         "title": "Incorporating field effects into functional product-system architecting methods",
         "pub_year": "2020",
         "citation": "Journal of mechanical design 142 (4), 041402, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "YgYGk14AAAAJ:SdhP9T11ey4C"
     },
     {
@@ -803,6 +811,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "YgYGk14AAAAJ:_Re3VWB3Y0AC"
+    },
+    {
+        "title": "LARGE LANGUAGE MODELS FOR PREDICTING EMPATHIC ACCURACY BETWEEN A DESIGNER AND A USER",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design, 1-49, 2024",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Level of modularity and different levels of system granularity",
@@ -835,7 +850,7 @@
         "title": "Measuring designers’ empathic understanding of users by a quick empathic accuracy (QEA)",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "YgYGk14AAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -856,7 +871,7 @@
         "title": "Modular product platform design",
         "pub_year": "2005",
         "citation": "Helsinki University of Technology, 2005",
-        "num_citations": 197,
+        "num_citations": 198,
         "author_pub_id": "YgYGk14AAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -884,14 +899,14 @@
         "title": "Multi-user virtual reality for remote collaboration in construction projects: A case study with high-rise elevator machine room planning",
         "pub_year": "2021",
         "citation": "Electronics 10 (22), 2806, 2021",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "YgYGk14AAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "Multidisciplinary education through faculty members’ conceptualisations of and experiences in engineering education",
         "pub_year": "2023",
         "citation": "European Journal of Engineering Education 48 (4), 707-723, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "YgYGk14AAAAJ:tuHXwOkdijsC"
     },
     {
@@ -925,7 +940,7 @@
         "title": "Predicting Empathic Accuracy from User-Designer Interviews",
         "pub_year": "2023",
         "citation": "Proceedings of the 21st Annual Workshop of the Australasian Language …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "YgYGk14AAAAJ:WZBGuue-350C"
     },
     {
@@ -966,7 +981,7 @@
         "title": "Reading the user’s mind: designers show high accuracy in inferring design-related thoughts and feelings",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "YgYGk14AAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -975,6 +990,13 @@
         "citation": "Journal of Engineering Design, 1-21, 2024",
         "num_citations": 0,
         "author_pub_id": "YgYGk14AAAAJ:Dip1O2bNi0gC"
+    },
+    {
+        "title": "Repurposing as a Decommissioning Strategy for Complex Systems: A Systematic Review",
+        "pub_year": "2024",
+        "citation": "Journal of Mechanical Design, 1-55, 2024",
+        "num_citations": 0,
+        "author_pub_id": "YgYGk14AAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "Risk and innovation balance in crowdfunding new products",
@@ -994,7 +1016,7 @@
         "title": "Seeing complex system through different lenses: impact of decomposition perspective on system architecture analysis",
         "pub_year": "2015",
         "citation": "Systems Engineering 18 (3), 229-240, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "YgYGk14AAAAJ:yD5IFk8b50cC"
     },
     {
@@ -1057,7 +1079,7 @@
         "title": "The characteristics of innovative, mechanical products",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "YgYGk14AAAAJ:BqipwSGYUEgC"
     },
     {
@@ -1092,14 +1114,14 @@
         "title": "The effects of the undergraduate curriculum and individual differences on student innovation capabilities",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "YgYGk14AAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "The influence of designers’ cultural differences on the empathic accuracy of user understanding",
         "pub_year": "2020",
         "citation": "The design journal 23 (5), 779-796, 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "YgYGk14AAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1141,42 +1163,42 @@
         "title": "Tradeoff between modularity and performance for engineered systems and products",
         "pub_year": "2005",
         "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
-        "num_citations": 140,
+        "num_citations": 141,
         "author_pub_id": "YgYGk14AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Under the umbrella: components of empathy in psychology and design",
         "pub_year": "2022",
         "citation": "Design Science 8, e20, 2022",
-        "num_citations": 16,
+        "num_citations": 19,
         "author_pub_id": "YgYGk14AAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Understanding customers across national cultures: the influence of national cultural differences on designers’ empathic accuracy",
         "pub_year": "2021",
         "citation": "Journal of Engineering Design 32 (10), 538-558, 2021",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "YgYGk14AAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Usability issues in the operating room–Towards contextual design guidelines for medical device design",
         "pub_year": "2021",
         "citation": "Applied Ergonomics 90, 103221, 2021",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "YgYGk14AAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "User and stakeholder perspective taking in novice design teams",
         "pub_year": "2022",
         "citation": "Design Science 8, e24, 2022",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "YgYGk14AAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "User extreme conditions to enhance designer empathy and creativity: applications using visual impairment",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "YgYGk14AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -1190,7 +1212,7 @@
         "title": "Using the Electrochemistry Designette to Visualize Students’ Competence and Misconceptions on Electrochemical Principles",
         "pub_year": "2022",
         "citation": "Journal of Chemical Education 99 (3), 1533-1538, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "YgYGk14AAAAJ:vDijr-p_gm4C"
     },
     {

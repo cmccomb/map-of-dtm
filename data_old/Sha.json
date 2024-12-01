@@ -9,7 +9,7 @@
     {
         "title": "A Cost-Aware Multi-Agent System for Black-Box Design Space Exploration",
         "pub_year": "2025",
-        "citation": "Journal of Mechanical Design 147 (1), 2025",
+        "citation": "Journal of Mechanical Design 147 (1), 011703, 2025",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:_OXeSy2IsFwC"
     },
@@ -34,6 +34,13 @@
         "author_pub_id": "mZBr2BEAAAAJ:gKiMpY-AVTkC"
     },
     {
+        "title": "A Multi-case Study of Traditional, Parametric, and Generative Design Thinking of Engineering Students",
+        "pub_year": "2024",
+        "citation": "International Conference on-Design Computing and Cognition, 89-104, 2024",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:Aul-kAQHnToC"
+    },
+    {
         "title": "A Network‐Based Approach to Modeling and Predicting Product Coconsideration Relations",
         "pub_year": "2018",
         "citation": "Complexity 2018 (1), 2753638, 2018",
@@ -44,14 +51,14 @@
         "title": "A Study on Generative Design Reasoning and Students' Divergent and Convergent Thinking",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "mZBr2BEAAAAJ:ODE9OILHJdcC"
     },
     {
         "title": "A computer-aided design based research platform for design thinking studies",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (12), 121102, 2019",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "mZBr2BEAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -72,14 +79,8 @@
         "title": "A heuristic scaling strategy for multi-robot cooperative three-dimensional printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041002, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "mZBr2BEAAAAJ:S16KYo8Pm5AC"
-    },
-    {
-        "title": "A multi-case study of traditional, parametric, and generative design thinking of engineering students",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "mZBr2BEAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "A network-based discrete choice model for decision-based design",
@@ -92,7 +93,7 @@
         "title": "A predictive and generative design approach for three-dimensional mesh shapes using target-embedding variational autoencoder",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (11), 114501, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "mZBr2BEAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -115,6 +116,12 @@
         "citation": "Complexity 2022 (1), 9417869, 2022",
         "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:4fGpz3EwCPoC"
+    },
+    {
+        "title": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:tH6gc1N1XXoC"
     },
     {
         "title": "AVR MCU-based Constant Tension Controller",
@@ -325,7 +332,8 @@
     },
     {
         "title": "Engineering Design Thinking in the Age of Generative Artificial Intelligence",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "American Society for Engineering Education, 2024",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:Ehil0879vHcC"
     },
@@ -409,7 +417,7 @@
         "title": "Human-centered generative design framework: an early design framework to support concept creation and evaluation",
         "pub_year": "2024",
         "citation": "International Journal of Human–Computer Interaction 40 (4), 933-944, 2024",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "mZBr2BEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -471,7 +479,7 @@
         "title": "Latent Crossover for Data-Driven Multifidelity Topology Design",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146, 051713-1, 2024",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "mZBr2BEAAAAJ:OcBU2YAGkTUC"
     },
     {
@@ -582,7 +590,7 @@
         "title": "Multi-robot path planning for cooperative 3d printing",
         "pub_year": "2020",
         "citation": "International Manufacturing Science and Engineering Conference 84256 …, 2020",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "mZBr2BEAAAAJ:FPJr55Dyh1AC"
     },
     {
@@ -610,7 +618,7 @@
         "title": "Optimum Design of Transverse Flux Machine for High Contribution of Permanent Magnet to Torque Using Response Surface Methodology",
         "pub_year": "2012",
         "citation": "Journal of Electrical Engineering & Technology 7 (5), 745-752, 2012",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "mZBr2BEAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -637,7 +645,7 @@
         "title": "Part-aware product design agent using deep generative network and local linear embedding",
         "pub_year": "2021",
         "citation": "",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "mZBr2BEAAAAJ:0N-VGjzr574C"
     },
     {
@@ -658,7 +666,7 @@
         "title": "Predicting human design decisions with deep recurrent neural network combining static and dynamic data",
         "pub_year": "2020",
         "citation": "Design Science 6, e15, 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "mZBr2BEAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -672,7 +680,7 @@
         "title": "Predicting sequential design decisions using the function-behavior-structure design process model and recurrent neural networks",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (8), 081706, 2021",
-        "num_citations": 35,
+        "num_citations": 38,
         "author_pub_id": "mZBr2BEAAAAJ:hCrLmN-GePgC"
     },
     {

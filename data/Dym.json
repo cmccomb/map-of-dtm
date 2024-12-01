@@ -155,7 +155,7 @@
         "title": "Artificial intelligence and geometric reasoning in manufacturing technology",
         "pub_year": "1986",
         "citation": "",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "VBCXRSIAAAAJ:CB2v5VPnA5kC"
     },
     {
@@ -217,7 +217,7 @@
         "title": "Bending behavior of cylindrical web panels",
         "pub_year": "1972",
         "citation": "Journal of the Structural Division 98 (10), 2291-2308, 1972",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "VBCXRSIAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -329,7 +329,7 @@
         "title": "Consistent derivations of spring rates for helical springs",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "VBCXRSIAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -412,7 +412,7 @@
         "title": "Design, systems, and engineering education",
         "pub_year": "2004",
         "citation": "International Journal of Engineering Education 20 (3), 305-312, 2004",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "VBCXRSIAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -514,6 +514,13 @@
         "author_pub_id": "VBCXRSIAAAAJ:d1gkVwhDpl0C"
     },
     {
+        "title": "Engineering Design: A Project-Based Introduction",
+        "pub_year": "2013",
+        "citation": "Wiley, 2013",
+        "num_citations": 1943,
+        "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
+    },
+    {
         "title": "Engineering Design: Framing the issues; 2. Engineering design; 3. Characterizing the design process; 4. Taxonomies of engineering design; 5. Representing designed artifacts; 6 …",
         "pub_year": "2012",
         "citation": "Cambridge University Press, 2012",
@@ -538,14 +545,14 @@
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2005",
         "citation": "Journal of engineering education 94 (1), 103-120, 2005",
-        "num_citations": 4169,
+        "num_citations": 4191,
         "author_pub_id": "VBCXRSIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2006",
         "citation": "IEEE Engineering Management Review 34 (1), 65-65, 2006",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "VBCXRSIAAAAJ:5icHVeHT4IsC"
     },
     {
@@ -561,13 +568,6 @@
         "citation": "NJ: Wiley, 2004",
         "num_citations": 8,
         "author_pub_id": "VBCXRSIAAAAJ:zCSUwVk65WsC"
-    },
-    {
-        "title": "Engineering design: A project-based introduction",
-        "pub_year": "2013",
-        "citation": "John Wiley & Sons, 2013",
-        "num_citations": 1937,
-        "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Engineering design: Representation and reasoning",
@@ -635,14 +635,14 @@
         "title": "Examples of freshman design education",
         "pub_year": "1997",
         "citation": "International Journal of Engineering Education 13 (4), 248-261, 1997",
-        "num_citations": 238,
+        "num_citations": 239,
         "author_pub_id": "VBCXRSIAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Expert systems: New approaches to computer-aided engineering",
         "pub_year": "1985",
         "citation": "Engineering with computers 1, 9-25, 1985",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "VBCXRSIAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -698,7 +698,7 @@
         "title": "Fundamentals of modeling and analyzing engineering systems",
         "pub_year": "2000",
         "citation": "Cambridge University Press, 2000",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "VBCXRSIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -837,7 +837,7 @@
         "title": "Introdução à Engenharia-: Uma Abordagem Baseada Em Projeto",
         "pub_year": "2009",
         "citation": "Bookman editora, 2009",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "VBCXRSIAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -858,7 +858,7 @@
         "title": "Knowledge acquisition from multiple experts",
         "pub_year": "1985",
         "citation": "AI magazine 6 (2), 32-32, 1985",
-        "num_citations": 199,
+        "num_citations": 198,
         "author_pub_id": "VBCXRSIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -879,7 +879,7 @@
         "title": "Knowledge-based systems in engineering",
         "pub_year": "1991",
         "citation": "McGraw-Hill Book Company, 1991",
-        "num_citations": 368,
+        "num_citations": 369,
         "author_pub_id": "VBCXRSIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -919,7 +919,7 @@
         "title": "Learning engineering: Design, languages, and experiences",
         "pub_year": "1999",
         "citation": "Journal of Engineering Education 88 (2), 145-148, 1999",
-        "num_citations": 232,
+        "num_citations": 233,
         "author_pub_id": "VBCXRSIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1212,21 +1212,21 @@
         "title": "Principles of mathematical modeling",
         "pub_year": "2004",
         "citation": "Elsevier, 2004",
-        "num_citations": 342,
+        "num_citations": 346,
         "author_pub_id": "VBCXRSIAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Principles of mathematical modeling",
         "pub_year": "1980",
         "citation": "American Journal of Physics 48 (11), 994-995, 1980",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "VBCXRSIAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "Propagation of ground vibration: a review",
         "pub_year": "1976",
         "citation": "Journal of Sound and Vibration 49 (2), 179-193, 1976",
-        "num_citations": 288,
+        "num_citations": 289,
         "author_pub_id": "VBCXRSIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1322,21 +1322,21 @@
         "title": "Social dimensions of engineering design",
         "pub_year": "2003",
         "citation": "International Journal of Engineering Education 19 (1), 2-2, 2003",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "VBCXRSIAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Social dimensions of engineering design: Observations from Mudd Design Workshop III",
         "pub_year": "2003",
         "citation": "Journal of Engineering Education 92 (1), 105-107, 2003",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "VBCXRSIAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Solid mechanics",
         "pub_year": "1973",
         "citation": "McGraw-Hill, 1973",
-        "num_citations": 921,
+        "num_citations": 917,
         "author_pub_id": "VBCXRSIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1482,7 +1482,7 @@
         "title": "The design process",
         "pub_year": "2009",
         "citation": "Engineering Design: A project-Based Introduction, 22, 2009",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "VBCXRSIAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -1587,7 +1587,7 @@
         "title": "Validation of design methods: lessons from medicine",
         "pub_year": "2006",
         "citation": "Research in Engineering Design 17, 45-57, 2006",
-        "num_citations": 166,
+        "num_citations": 167,
         "author_pub_id": "VBCXRSIAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1643,7 +1643,7 @@
         "title": "Web slenderness requirements for curved girders",
         "pub_year": "1973",
         "citation": "Journal of the Structural Division 99 (3), 417-430, 1973",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "VBCXRSIAAAAJ:L8Ckcad2t8MC"
     },
     {

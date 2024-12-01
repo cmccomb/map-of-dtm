@@ -23,7 +23,7 @@
         "title": "A Report on Mudd Design Workshop II: “Designing Design Education for the 21st Century”",
         "pub_year": "2001",
         "citation": "Journal of Engineering Education 90 (3), 291-294, 2001",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "VBCXRSIAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "A note on the Lyapunov stability analysis of a linear railway wheelset",
         "pub_year": "1980",
         "citation": "Vehicle System Dynamics 9 (2), 61-68, 1980",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "VBCXRSIAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -217,7 +217,7 @@
         "title": "Bending behavior of cylindrical web panels",
         "pub_year": "1972",
         "citation": "Journal of the Structural Division 98 (10), 2291-2308, 1972",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "VBCXRSIAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -231,7 +231,7 @@
         "title": "Bifurcation analyses for shallow arches",
         "pub_year": "1973",
         "citation": "Journal of the Engineering Mechanics Division 99 (2), 287-301, 1973",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "VBCXRSIAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -312,17 +312,10 @@
         "author_pub_id": "VBCXRSIAAAAJ:Wp0gIr-vW9MC"
     },
     {
-        "title": "Configuration Design",
-        "pub_year": "2019",
-        "citation": "The Handbook of Applied Expert Systems, 2019",
-        "num_citations": 3,
-        "author_pub_id": "VBCXRSIAAAAJ:Ade32sEp0pkC"
-    },
-    {
         "title": "Configuration design: An overview",
         "pub_year": "2019",
         "citation": "The Handbook of Applied Expert Systems, 21-1-21-16, 2019",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "VBCXRSIAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -517,7 +510,7 @@
         "title": "Energy and Finite Element Methods In Structural Mechanics: SI Units",
         "pub_year": "2017",
         "citation": "Routledge, 2017",
-        "num_citations": 907,
+        "num_citations": 909,
         "author_pub_id": "VBCXRSIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -545,7 +538,7 @@
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2005",
         "citation": "Journal of engineering education 94 (1), 103-120, 2005",
-        "num_citations": 4151,
+        "num_citations": 4169,
         "author_pub_id": "VBCXRSIAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -566,21 +559,21 @@
         "title": "Engineering design: A project based approach . Hoboken",
         "pub_year": "2004",
         "citation": "NJ: Wiley, 2004",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "VBCXRSIAAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "Engineering design: A project-based introduction",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, 2013",
-        "num_citations": 1905,
+        "num_citations": 1937,
         "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Engineering design: Representation and reasoning",
         "pub_year": "2012",
         "citation": "Cambridge University Press, 2012",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "VBCXRSIAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -705,7 +698,7 @@
         "title": "Fundamentals of modeling and analyzing engineering systems",
         "pub_year": "2000",
         "citation": "Cambridge University Press, 2000",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "VBCXRSIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -816,7 +809,7 @@
         "title": "Introduction to engineering mechanics: a continuum approach",
         "pub_year": "2008",
         "citation": "CRC Press, 2008",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "VBCXRSIAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -886,7 +879,7 @@
         "title": "Knowledge-based systems in engineering",
         "pub_year": "1991",
         "citation": "McGraw-Hill Book Company, 1991",
-        "num_citations": 365,
+        "num_citations": 368,
         "author_pub_id": "VBCXRSIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -926,7 +919,7 @@
         "title": "Learning engineering: Design, languages, and experiences",
         "pub_year": "1999",
         "citation": "Journal of Engineering Education 88 (2), 145-148, 1999",
-        "num_citations": 231,
+        "num_citations": 232,
         "author_pub_id": "VBCXRSIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1149,7 +1142,7 @@
         "title": "PRIDE: An expert system for the design of paper handling systems",
         "pub_year": "1986",
         "citation": "Computer 19 (07), 102-114, 1986",
-        "num_citations": 322,
+        "num_citations": 323,
         "author_pub_id": "VBCXRSIAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1219,7 +1212,7 @@
         "title": "Principles of mathematical modeling",
         "pub_year": "2004",
         "citation": "Elsevier, 2004",
-        "num_citations": 341,
+        "num_citations": 342,
         "author_pub_id": "VBCXRSIAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1233,7 +1226,7 @@
         "title": "Propagation of ground vibration: a review",
         "pub_year": "1976",
         "citation": "Journal of Sound and Vibration 49 (2), 179-193, 1976",
-        "num_citations": 285,
+        "num_citations": 288,
         "author_pub_id": "VBCXRSIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1246,7 +1239,7 @@
         "title": "Rank ordering engineering designs: pairwise comparison charts and Borda counts",
         "pub_year": "2002",
         "citation": "Research in Engineering Design 13, 236-242, 2002",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "VBCXRSIAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1343,7 +1336,7 @@
         "title": "Solid mechanics",
         "pub_year": "1973",
         "citation": "McGraw-Hill, 1973",
-        "num_citations": 914,
+        "num_citations": 921,
         "author_pub_id": "VBCXRSIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1364,7 +1357,7 @@
         "title": "Some new results for the vibrations of circular cylinders",
         "pub_year": "1973",
         "citation": "Journal of sound and Vibration 29 (2), 189-205, 1973",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "VBCXRSIAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1406,7 +1399,7 @@
         "title": "Stability theory and its applications to structural mechanics",
         "pub_year": "2002",
         "citation": "Dover Publications, 2002",
-        "num_citations": 241,
+        "num_citations": 242,
         "author_pub_id": "VBCXRSIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1566,7 +1559,7 @@
         "title": "Transmission of sound through sandwich panels",
         "pub_year": "1974",
         "citation": "The Journal of the Acoustical Society of America 56 (5), 1523-1532, 1974",
-        "num_citations": 198,
+        "num_citations": 199,
         "author_pub_id": "VBCXRSIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1580,7 +1573,7 @@
         "title": "Transverse stiffener requirements for curved webs",
         "pub_year": "1973",
         "citation": "Journal of the Structural Division 99 (4), 757-771, 1973",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "VBCXRSIAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -1650,7 +1643,7 @@
         "title": "Web slenderness requirements for curved girders",
         "pub_year": "1973",
         "citation": "Journal of the Structural Division 99 (3), 417-430, 1973",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "VBCXRSIAAAAJ:L8Ckcad2t8MC"
     },
     {

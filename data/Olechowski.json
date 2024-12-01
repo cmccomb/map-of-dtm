@@ -2,8 +2,8 @@
     {
         "title": "\" A Lot of Moving Parts\": A Case Study of Open-Source Hardware Design Collaboration in the Thingiverse Community",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2406.12801, 2024",
-        "num_citations": 0,
+        "citation": "Proceedings of the ACM on Human-Computer Interaction 8 (CSCW2), 1-29, 2024",
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "A Pilot Study On The Prevalence Of Artificial Intelligence In Canadian Engineering Design Curricula",
         "pub_year": "2021",
         "citation": "Proceedings of the Canadian Engineering Education Association (CEEA), 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -94,28 +94,28 @@
         "title": "An exploratory study comparing CAD tools and working styles for implementing design changes",
         "pub_year": "2019",
         "citation": "Proceedings of the Design Society: International Conference on Engineering …, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Analysis of Collaborative Assembly in Multi-User Computer-Aided Design",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Analysis of designer emotions in collaborative and traditional computer-aided design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (2), 021401, 2021",
-        "num_citations": 54,
+        "num_citations": 56,
         "author_pub_id": "P5yUQ-IAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 192,
+        "num_citations": 194,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -129,15 +129,22 @@
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 31,
+        "num_citations": 34,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-29, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:70eg2SAEIzsC"
+    },
+    {
+        "title": "Assessing the Prevalence of Artificial Intelligence in Mechanical Engineering and Design Curricula",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Assessment of back-up plan, delay, and waiver options at project gate reviews",
@@ -164,21 +171,28 @@
         "title": "Communication patterns in engineering enterprise social networks: an exploratory analysis using short text topic modelling",
         "pub_year": "2022",
         "citation": "Design Science 8, e18, 2022",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "P5yUQ-IAAAAJ:4JMBOYKVnBMC"
+    },
+    {
+        "title": "Computer-aided design as a research instrument for engineering design: supporting multiple methods by observing artifacts, actors, and actions",
+        "pub_year": "2024",
+        "citation": "Journal of Engineering Design, 1-32, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Connecting Design Iterations To Performance In Engineering Design",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 1067-1076, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Connecting creative product design processes to creative product design outcomes: A scoping review",
         "pub_year": "2022",
         "citation": "DRS2022: Bilbao, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -192,14 +206,14 @@
         "title": "Designing Together: Exploring Collaborative Dynamics of Multi-Objective Design Problems in Virtual Environments",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 0,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Does Synchronous Collaboration Improve Collaborative Computer-Aided Design Output: Results From a Large-Scale Competition",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -269,7 +283,7 @@
         "title": "Identifying Computer-Aided Design Action Types From Professional User Analytics Data",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "P5yUQ-IAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -297,14 +311,14 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Integrating Safety Analysis into Model-Based Systems Engineering for Aircraft Systems: A Literature Review and Methodology Proposal",
         "pub_year": "2021",
         "citation": "International Council on SystemsEngineering (INCOSE) International Symposium …, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "P5yUQ-IAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -322,10 +336,17 @@
         "author_pub_id": "P5yUQ-IAAAAJ:qUcmZB5y_30C"
     },
     {
+        "title": "Journal of Computing and Information Science in Engineering",
+        "pub_year": "2022",
+        "citation": "Journal of Computing and Information Science in Engineering 22, 060201-1, 2022",
+        "num_citations": 1,
+        "author_pub_id": "P5yUQ-IAAAAJ:f2IySw72cVMC"
+    },
+    {
         "title": "Let's Take This Offline: A Thematic Analysis of Virtual Conflict in Hybrid Collaborative Design Teams",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 2435-2444, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -352,7 +373,7 @@
         "title": "Mapping artificial intelligence-based methods to engineering design stages: a focused literature review",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e25, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -387,7 +408,7 @@
         "title": "Paired computer-aided design: The effect of collaboration mode on differences in model quality",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P5yUQ-IAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -415,7 +436,7 @@
         "title": "Prominence of Conceptual Design with Computer-Aided Design Tools for Junior and Senior Product Designers",
         "pub_year": "2020",
         "citation": "2020 ASEE Annual Conference and Exposition, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "P5yUQ-IAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -423,6 +444,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "P5yUQ-IAAAAJ:pyW8ca7W8N0C"
+    },
+    {
+        "title": "Quantitative CAD Archetype Framework Evaluation With Professional User Data",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Social Capital and Persistence in Computer Science of Google's Computer Science Summer Institute (CSSI) Students",
@@ -435,26 +463,26 @@
         "title": "Some (Team) Assembly Required: An Analysis of Collaborative Computer-Aided Design Assembly",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Synchronous Computer-Aided Design (CAD): A Mid-level Technology Affordance Perspective",
         "pub_year": "2022",
         "citation": "Academy of Management Proceedings 2022 (1), 11794, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Team and communication impacts of remote work for complex aerospace system development",
         "pub_year": "2024",
         "citation": "Systems Engineering 27 (1), 199-213, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "P5yUQ-IAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Teams: A Case Study",
-        "citation": "Design Computing and Cognition’24: Volume 1, 182, 0",
+        "citation": "Design Computing and Cognition'24: Volume 1 1, 182, 0",
         "num_citations": 0,
         "author_pub_id": "P5yUQ-IAAAAJ:a0OBvERweLwC"
     },
@@ -462,28 +490,28 @@
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 200,
+        "num_citations": 203,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 113,
+        "num_citations": 117,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Technology-based design and sustainable economic growth",
         "pub_year": "2014",
         "citation": "Technovation 34 (11), 663-677, 2014",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "P5yUQ-IAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "The Personas of Cloud CAD Collaboration: A Case Study of a Team of CAD Professionals",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Engineering Management, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -497,14 +525,14 @@
         "title": "The multi-user computer-aided design collaborative learning framework",
         "pub_year": "2022",
         "citation": "Advanced Engineering Informatics 51, 101446, 2022",
-        "num_citations": 33,
+        "num_citations": 36,
         "author_pub_id": "P5yUQ-IAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "P5yUQ-IAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -545,7 +573,7 @@
         "title": "User Perspectives on Branching in Computer-Aided Design",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-30, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -566,7 +594,7 @@
         "title": "“Why couldn’t we do this more often?”: exploring the feasibility of virtual and distributed work in product design engineering",
         "pub_year": "2022",
         "citation": "Research in engineering design 33 (4), 413-436, 2022",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "P5yUQ-IAAAAJ:r0BpntZqJG4C"
     }
 ]
