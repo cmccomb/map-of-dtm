@@ -52,7 +52,7 @@
         "title": "A Step Beyond to Overcome Design Fixation: A Design-by-Analogy Approach",
         "pub_year": "2014",
         "citation": "Design Computing and Cognition DCC 14, 23-25, 2014",
-        "num_citations": 69,
+        "num_citations": 68,
         "author_pub_id": "n2kdLOsAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "A methodology for engineering ontology acquisition and validation",
         "pub_year": "2009",
         "citation": "AI EDAM (Artificial Intelligence for Engineering Design, Analysis and …, 2009",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "n2kdLOsAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "A study of prototypes, design activity, and design outcome",
         "pub_year": "2005",
         "citation": "Design Studies 26 (6), 649-669, 2005",
-        "num_citations": 400,
+        "num_citations": 401,
         "author_pub_id": "n2kdLOsAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "AI for design: Virtual design assistant",
         "pub_year": "2019",
         "citation": "CIRP Annals, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "n2kdLOsAAAAJ:W5xh706n7nkC"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Additive Manufacturing of Optically Transparent Glass",
         "pub_year": "2015",
         "citation": "3D Printing and Additive Manufacturing 2 (3), 92-105, 2015",
-        "num_citations": 355,
+        "num_citations": 359,
         "author_pub_id": "n2kdLOsAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "An Examination of Team Effectiveness in Distributed and Co-located Engineering Teams",
         "pub_year": "2007",
         "citation": "Mudd Design Workshop VI, 2007",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "n2kdLOsAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -275,7 +275,7 @@
         "title": "An analysis of sketching skill and its role in early stage engineering design",
         "pub_year": "2007",
         "citation": "Journal of Mechanical Design 129 (5), 476-482, 2007",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "n2kdLOsAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "An examination of team effectiveness in distributed and co-located engineering teams",
         "pub_year": "2008",
         "citation": "International Journal of Engineering Education 24 (2), 400-408, 2008",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "n2kdLOsAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Antecedents and Outcomes of Designer Empathy: A Retrospective Interview Study",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "n2kdLOsAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Assessing Early Stage Design Sketches and Reflections on Prototyping",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (4), 041403, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "n2kdLOsAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -387,7 +387,7 @@
         "title": "Automating Design Requirement Extraction from Text with Deep Learning",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "n2kdLOsAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -421,7 +421,7 @@
         "title": "Bio-Inspired Design: An Overview Investigating Open Questions From the Broader Field of Design-by-Analogy",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (11), 111102, 2014",
-        "num_citations": 195,
+        "num_citations": 198,
         "author_pub_id": "n2kdLOsAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -438,17 +438,24 @@
         "author_pub_id": "n2kdLOsAAAAJ:vbGhcppDl1QC"
     },
     {
+        "title": "Building Spaces for Design Justice: A Case Study on the Design Justice Pedagogy Summit",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:ruyezt5ZtCIC"
+    },
+    {
         "title": "Building a Path to Elegant Design",
         "pub_year": "2014",
         "citation": "Proceedings of the International Annual Conference of the American Society …, 2014",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "n2kdLOsAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Building fast to think faster: exploiting rapid prototyping to accelerate ideation during early stage design",
         "pub_year": "2013",
         "citation": "ASME 2013 International Design Engineering Technical Conferences and …, 2013",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "n2kdLOsAAAAJ:f2IySw72cVMC"
     },
     {
@@ -462,7 +469,7 @@
         "title": "CO-CREATE FINANCIAL PLANNING SERVICES FOR AN AGING POPULATION: DESIGNERS'PERSPECTIVES",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 947-956, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "n2kdLOsAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -490,7 +497,7 @@
         "title": "Co-design in Zambia-an examination of design outcomes",
         "pub_year": "2017",
         "citation": "DS 87-1 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "n2kdLOsAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -515,11 +522,25 @@
         "author_pub_id": "n2kdLOsAAAAJ:uLbwQdceFCQC"
     },
     {
+        "title": "Concept Chaining Patterns During Ideation Using Digital Tablets",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:xtoqd-5pKcoC"
+    },
+    {
         "title": "Concept generation and sketching: Correlations with design outcome",
         "pub_year": "2003",
         "citation": "ASME International Design Engineering Technical Conferences., 2003",
         "num_citations": 99,
         "author_pub_id": "n2kdLOsAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "ConceptVis: Generating and Exploring Design Concepts for Early-Stage Ideation Using Large Language Model",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:Dip1O2bNi0gC"
     },
     {
         "title": "Connections Between the Design Tool, Design Attributes, and User Preferences in Early Stage Design",
@@ -546,7 +567,7 @@
         "title": "Consensus and single leader decision-making in teams using structured design methods",
         "pub_year": "2010",
         "citation": "Design Studies 31 (4), 345-362, 2010",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "n2kdLOsAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -615,7 +636,7 @@
         "title": "Design Principles: Literature Review, Analysis, and Future Directions",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101103, 2016",
-        "num_citations": 186,
+        "num_citations": 191,
         "author_pub_id": "n2kdLOsAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -629,7 +650,7 @@
         "title": "Design Principles: The Foundation of Design",
         "pub_year": "2015",
         "citation": "ASME International Design Engineering Technical Conferences, Paper Number …, 2015",
-        "num_citations": 80,
+        "num_citations": 83,
         "author_pub_id": "n2kdLOsAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -692,7 +713,7 @@
         "title": "Design-by-analogy: experimental evaluation of a functional analogy search methodology for concept generation improvement",
         "pub_year": "2015",
         "citation": "Research in Engineering Design 26 (1), 77-95, 2015",
-        "num_citations": 138,
+        "num_citations": 140,
         "author_pub_id": "n2kdLOsAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -720,7 +741,7 @@
         "title": "Designing linked journey maps to understand the complexities of the residential solar energy market",
         "pub_year": "2020",
         "citation": "Renewable Energy 145, 1910-1922, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "n2kdLOsAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -803,7 +824,7 @@
         "title": "Eliciting user preference for quantitative vs. emotional information display in eco-feedback designs",
         "pub_year": "2022",
         "citation": "Research in Engineering Design 33 (1), 53-68, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "n2kdLOsAAAAJ:yB1At4FlUx8C"
     },
     {
@@ -816,7 +837,7 @@
         "title": "Ethics, Equity, & Justice in Human-Robot Interaction: A Review and Future Directions",
         "pub_year": "2022",
         "citation": "2022 31st IEEE International Conference on Robot and Human Interactive …, 2022",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "n2kdLOsAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -926,21 +947,21 @@
         "title": "Function Based Design-by-Analogy: A Functional Vector Approach to Analogical Search",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (10), 101102, 2014",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "n2kdLOsAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Fundamental studies in Design-by-Analogy: A focus on domain-knowledge experts and applications to transactional design problems",
         "pub_year": "2014",
         "citation": "Design Studies 35 (3), 232-272, 2014",
-        "num_citations": 195,
+        "num_citations": 196,
         "author_pub_id": "n2kdLOsAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Generative Design: Reframing the Role of the Designer in Early-Stage Design Process",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 041411, 2023",
-        "num_citations": 42,
+        "num_citations": 47,
         "author_pub_id": "n2kdLOsAAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -1034,6 +1055,13 @@
         "author_pub_id": "n2kdLOsAAAAJ:hMod-77fHWUC"
     },
     {
+        "title": "Investigating Pro-Environmental Attitude for Designing Affective Eco-Feedback",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:HbR8gkJAVGIC"
+    },
+    {
         "title": "Investigating User Emotional Responses to Eco-Feedback Designs",
         "pub_year": "2018",
         "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018",
@@ -1078,7 +1106,7 @@
         "title": "Macro-Trend Study Under Service System: Preliminary Research in Service Innovation and Emerging Technology",
         "pub_year": "2023",
         "citation": "Service Design for Emerging Technologies Product Development: Bridging the …, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "n2kdLOsAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1092,7 +1120,7 @@
         "title": "Mining and representing the concept space of existing ideas for directed ideation",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (12), 2019",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "n2kdLOsAAAAJ:35r97b3x0nAC"
     },
     {
@@ -1141,7 +1169,7 @@
         "title": "OBSERVATIONS ON THE IMPLICATIONS OF GENERATIVE DESIGN TOOLS ON DESIGN PROCESS AND DESIGNER BEHAVIOUR",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 2805-2814, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "n2kdLOsAAAAJ:p__nRnzSRKYC"
     },
     {
@@ -1175,7 +1203,7 @@
         "title": "Observations on concept generation and sketching in engineering design",
         "pub_year": "2009",
         "citation": "Research in Engineering Design 20 (1), 1-11, 2009",
-        "num_citations": 313,
+        "num_citations": 318,
         "author_pub_id": "n2kdLOsAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1189,7 +1217,7 @@
         "title": "Overcoming design fixation: Design by analogy studies and nonintuitive findings",
         "pub_year": "2016",
         "citation": "AI EDAM 30 (2), 185-199, 2016",
-        "num_citations": 84,
+        "num_citations": 87,
         "author_pub_id": "n2kdLOsAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -1210,7 +1238,7 @@
         "title": "Parameter Design Strategies: A Comparison Between Human Designers and the Simulated Annealing Algorithm",
         "pub_year": "2015",
         "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "n2kdLOsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -1256,6 +1284,13 @@
         "author_pub_id": "n2kdLOsAAAAJ:kzcrU_BdoSEC"
     },
     {
+        "title": "Product design and development. International student edition",
+        "pub_year": "2020",
+        "citation": "McGraw-Hill, 2020",
+        "num_citations": 22,
+        "author_pub_id": "n2kdLOsAAAAJ:q3CdL3IzO_QC"
+    },
+    {
         "title": "Product design for the classroom: case study of a multi-use whiteboard",
         "pub_year": "2012",
         "citation": "Massachusetts Institute of Technology, 2012",
@@ -1294,7 +1329,7 @@
         "title": "Prototyping styles accelerate hardware development",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "n2kdLOsAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -1308,7 +1343,7 @@
         "title": "Reading Users' Minds from What They Say: An Investigation into LLM-based Empathic Mental Inference",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.13301, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "n2kdLOsAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -1336,7 +1371,7 @@
         "title": "SERVICE DESIGN IN ACTION: TRANSFORMATION, CONSIDERATION, AND SYSTEM THINKING",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 3145-3154, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "n2kdLOsAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -1356,7 +1391,7 @@
         "title": "Sketch-based interfaces for modeling and users' needs: Redefining connections",
         "pub_year": "2012",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2012",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "n2kdLOsAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -1437,17 +1472,24 @@
         "author_pub_id": "n2kdLOsAAAAJ:e5wmG9Sq2KIC"
     },
     {
+        "title": "The Carbon Intensity of Generative Design: Emissions Analysis of Training and Sampling From Generative Models",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:PoWvk5oyLR8C"
+    },
+    {
         "title": "The Economies and Dimensionality of Design Prototyping: Value, Time, Cost, and Fidelity",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031105, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "n2kdLOsAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "The Economies and Dimensionality of Design Prototyping: Value, Time, Cost, and Fidelity",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031105, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "n2kdLOsAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -1481,7 +1523,7 @@
         "title": "The Inspiration Design Toolkit: A Human-Centered Design Tool for a System Engineering Course",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "n2kdLOsAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -1495,14 +1537,14 @@
         "title": "The Role of Sketch Finish and Style in User Responses to Early Stage Design Concepts",
         "pub_year": "2011",
         "citation": "ASME International Design Engineering Technical Conferences., 2011",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "n2kdLOsAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "The Role of Spatial-Visual Skills in a Project-Based Engineering Design Course",
         "pub_year": "2011",
         "citation": "American Society for Engineering Education, 2011",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "n2kdLOsAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -1529,7 +1571,7 @@
         "title": "The influence of immersion and presence in early stage engineering designing and building",
         "pub_year": "2014",
         "citation": "AI EDAM 28 (2), 139-151, 2014",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "n2kdLOsAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1578,7 +1620,7 @@
         "title": "Understanding innovation in student design projects",
         "pub_year": "2010",
         "citation": "ASME 2010 International Design Engineering Technical Conferences and …, 2010",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "n2kdLOsAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1592,14 +1634,14 @@
         "title": "Understanding the motivations for open-source hardware entrepreneurship",
         "pub_year": "2021",
         "citation": "Design Science 7, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "n2kdLOsAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Understanding the role of visual appeal in consumer preference for residential solar panels",
         "pub_year": "2017",
         "citation": "Renewable Energy 113, 1569-1579, 2017",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "n2kdLOsAAAAJ:HE397vMXCloC"
     },
     {
@@ -1620,7 +1662,7 @@
         "title": "What Do We Mean When We Write About Ethics, Equity, and Justice in Engineering Design?",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "n2kdLOsAAAAJ:BUYA1_V_uYcC"
     },
     {

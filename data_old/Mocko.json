@@ -10,7 +10,7 @@
         "title": "A Combined Multi‐Material Euler/Lagrange Computational Analysis of Blast Loading Resulting from Detonation of Buried Landmines",
         "pub_year": "2008",
         "citation": "Multidiscipline Modeling in Materials and Structures 4 (2), 105-124, 2008",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "a0IJVCQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -51,7 +51,7 @@
         "title": "A formal representation of function structure graphs for physics-based reasoning",
         "pub_year": "2013",
         "citation": "Journal of Computing and Information Science in Engineering 13 (2), 021001, 2013",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "a0IJVCQAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -79,7 +79,7 @@
         "title": "A knowledge repository for behavioral models in engineering design",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "a0IJVCQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -114,7 +114,7 @@
         "title": "A protocol to formalise function verbs to support conservation-based model checking",
         "pub_year": "2011",
         "citation": "Journal of Engineering Design 22 (11-12), 765-788, 2011",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "a0IJVCQAAAAJ:dhFuZR0502QC"
     },
     {
@@ -170,14 +170,14 @@
         "title": "Approaches for simulation model reuse in systems design—A review",
         "pub_year": "2022",
         "citation": "SAE International Journal of Advances and Current Practices in Mobility 4 …, 2022",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "a0IJVCQAAAAJ:2u1QkWOsl3MC"
     },
     {
         "title": "Assessing the use of function models and interaction models through concept sketching",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "a0IJVCQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -223,10 +223,17 @@
         "author_pub_id": "a0IJVCQAAAAJ:URGbnSt0D2cC"
     },
     {
+        "title": "Case Study in Agile for Hardware: Aerospace Systems",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:xEMdJR0kL_sC"
+    },
+    {
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
         "citation": "International design engineering technical conferences and computers and …, 2008",
-        "num_citations": 322,
+        "num_citations": 327,
         "author_pub_id": "a0IJVCQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -235,6 +242,20 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
         "num_citations": 6,
         "author_pub_id": "a0IJVCQAAAAJ:P2d6BWbXU0IC"
+    },
+    {
+        "title": "Challenges in the Development and Integration of the Ground Vehicle Simulation Modeling Ontology",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:6LV2YwJzdtgC"
+    },
+    {
+        "title": "Characterizing Model Fidelity Through a Set-Based Approach",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:YanO1q2l3soC"
     },
     {
         "title": "Characterizing and Managing Knowledge about Behavioral Models",
@@ -248,6 +269,13 @@
         "citation": "Impact of Design Research on Industrial Practice: Tools, Technology, and …, 2015",
         "num_citations": 2,
         "author_pub_id": "a0IJVCQAAAAJ:mnAcAzq93VMC"
+    },
+    {
+        "title": "Collaborative CAD in Support of Engineering Design Reviews",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:gxb_f1p9zx4C"
     },
     {
         "title": "Comparison Of Ventilatory Thresholds Via V-slope Method To Lactate Thresholds With NIRS: 395 Board# 232 June 1, 11: 00 AM-12: 30 PM",
@@ -372,7 +400,7 @@
         "title": "Developing Domain Ontologies and an Integration Ontology to Support Modeling and Simulation of Next-Generation Ground Vehicle Systems",
         "pub_year": "2022",
         "citation": "SAE Technical Paper, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "a0IJVCQAAAAJ:KYgttONoxcsC"
     },
     {
@@ -390,11 +418,25 @@
         "author_pub_id": "a0IJVCQAAAAJ:n8FNryW2AHIC"
     },
     {
+        "title": "Effects of Intentional Group Framing on Tradespace Exploration",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:3wLP7v6BnpwC"
+    },
+    {
         "title": "Empirical examination of the functional basis and design repository",
         "pub_year": "2008",
         "citation": "Design Computing and Cognition'08: Proceedings of the Third International …, 2008",
         "num_citations": 29,
         "author_pub_id": "a0IJVCQAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "Engineering Design Education: Assessing Student Learning in Cornerstone Through Capstone Programs",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:fc7zyzPI2QAC"
     },
     {
         "title": "Engineering design complexity: an investigation of methods and measures",
@@ -414,7 +456,7 @@
         "title": "Evaluation of the functional basis using an information theoretic approach",
         "pub_year": "2010",
         "citation": "AI EDAM 24 (1), 87-105, 2010",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "a0IJVCQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -484,7 +526,7 @@
         "title": "Generating design structure matrices and domain mapping matrices using SysML",
         "pub_year": "2009",
         "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "a0IJVCQAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -543,6 +585,13 @@
         "author_pub_id": "a0IJVCQAAAAJ:Qh5Z_vBjo80C"
     },
     {
+        "title": "Integration of Vehicle Dynamics with Finite Element Composite Structure Simulation",
+        "pub_year": "2024",
+        "citation": "SAE Technical Paper, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:5N-NJrZHaHcC"
+    },
+    {
         "title": "Investigation of the interpretability of three function structure representations: a user study",
         "pub_year": "2009",
         "citation": "International design engineering technical conferences and computers and …, 2009",
@@ -595,14 +644,14 @@
         "title": "Linguistic analysis of natural language engineering requirements",
         "pub_year": "2009",
         "citation": "Clemson University, 2009",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "a0IJVCQAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Manufacturing assembly time estimation using structural complexity metric trained artificial neural networks",
         "pub_year": "2014",
         "citation": "Journal of computing and information science in engineering 14 (1), 011005, 2014",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "a0IJVCQAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -658,7 +707,7 @@
         "title": "Natural language processing applications in requirements engineering",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "a0IJVCQAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -718,7 +767,7 @@
         "title": "Physics-based reasoning in conceptual design using a formal representation of function structure graphs",
         "pub_year": "2013",
         "citation": "Journal of Computing and Information Science in Engineering 13 (1), 011008, 2013",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "a0IJVCQAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -760,21 +809,21 @@
         "title": "Reasoning: Source of variability in the Boothroyd and Dewhurst assembly time estimation method",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "a0IJVCQAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Repeatability and variability of the 3-Min all-out test at the subject level",
         "pub_year": "2023",
         "citation": "Journal of Science in Sport and Exercise 5 (1), 77-86, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "a0IJVCQAAAAJ:FKYJxdYMdFIC"
     },
     {
         "title": "Representation: structural complexity of assemblies to create neural network based assembly time estimation models",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "a0IJVCQAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -813,6 +862,13 @@
         "author_pub_id": "a0IJVCQAAAAJ:aqlVkmm33-oC"
     },
     {
+        "title": "SRL 264 Research–Part I. Methodology and Technology Supporting Multifunctional Multiscale Design",
+        "pub_year": "2005",
+        "citation": "Georgia Institute of Technology, 2005",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:9fRKRCJz75UC"
+    },
+    {
         "title": "SYSTEMATIC DESIGN METHOD FOR INFORMATION MODELING IN CAD/CAE",
         "pub_year": "2003",
         "citation": "Proceedings of the... ASME Design Engineering Technical Conferences 1, 657, 2003",
@@ -848,6 +904,13 @@
         "author_pub_id": "a0IJVCQAAAAJ:3jqAvCjcdfEC"
     },
     {
+        "title": "The Beginning of IDIVE: Interactive Design in Immersive Virtual Environments",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "a0IJVCQAAAAJ:ve7iT2ZEuL4C"
+    },
+    {
         "title": "The Effects of Language and Pruning on Function Structure Interpretability",
         "citation": "",
         "num_citations": 0,
@@ -857,7 +920,7 @@
         "title": "The Use of Virtual Reality to Support Engineering Design Reviews",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 Ground Vehicle Systems Engineering and Technology …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "a0IJVCQAAAAJ:rAN7mHg6NlYC"
     },
     {
@@ -871,7 +934,7 @@
         "title": "Topological information content and expressiveness of function models in mechanical design",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "a0IJVCQAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -892,7 +955,7 @@
         "title": "Towards reusable knowledge-based idealizations for rapid design and analysis",
         "pub_year": "2004",
         "citation": "45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics & Materials …, 2004",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "a0IJVCQAAAAJ:TQgYirikUcIC"
     },
     {

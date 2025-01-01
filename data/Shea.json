@@ -30,7 +30,7 @@
         "title": "3D-printing textiles: Multi-stage mechanical characterization of additively manufactured biaxial weaves",
         "pub_year": "2023",
         "citation": "Materials & Design 225, 111449, 2023",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "T3ZCB1oAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -46,6 +46,13 @@
         "citation": "Dagstuhl Seminar 18431: Computational Aspects of Fabrication, 2018",
         "num_citations": 0,
         "author_pub_id": "T3ZCB1oAAAAJ:HtEfBTGE9r8C"
+    },
+    {
+        "title": "5-Axis, Direct, 4D Printed Human-Machine Interfaces",
+        "pub_year": "2024",
+        "citation": "4DMDA Conference, 2024",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:kw52XkFRtyQC"
     },
     {
         "title": "A 3D Spatial Grammar Interpreter Applet",
@@ -117,6 +124,13 @@
         "author_pub_id": "T3ZCB1oAAAAJ:43bX7VzcjpAC"
     },
     {
+        "title": "A Two-Step Approach to Computational Design of 4D Printed Shape Morphing Structures",
+        "pub_year": "2023",
+        "citation": "WCSMO 2023, 2023",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:7wO8s98CvbsC"
+    },
+    {
         "title": "A clock grammar: the use of a parallel grammar in performance-based mechanical synthesis",
         "pub_year": "2002",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2002",
@@ -183,7 +197,7 @@
         "title": "A framework for computational design synthesis based on graph-grammars and function-behavior-structure",
         "pub_year": "2009",
         "citation": "International design engineering technical conferences and computers and …, 2009",
-        "num_citations": 93,
+        "num_citations": 92,
         "author_pub_id": "T3ZCB1oAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -218,7 +232,7 @@
         "title": "A method and software tool for automated gearbox synthesis",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 68,
+        "num_citations": 71,
         "author_pub_id": "T3ZCB1oAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -239,7 +253,7 @@
         "title": "A model-based functional modeling and library approach for mechatronic systems in SysML",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "T3ZCB1oAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -260,7 +274,7 @@
         "title": "A nonlinear optimization method for large shape morphing in 3D printed pneumatic lattice structures",
         "pub_year": "2022",
         "citation": "Smart Materials and Structures 31 (6), 065016, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "T3ZCB1oAAAAJ:LgRImbQfgY4C"
     },
     {
@@ -344,7 +358,7 @@
         "title": "A template design and automated parametric model for sustainable corbel dwellings with interlocking blocks",
         "pub_year": "2023",
         "citation": "Developments in the Built Environment 14, 100148, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "T3ZCB1oAAAAJ:CaZNVDsoPx4C"
     },
     {
@@ -407,7 +421,7 @@
         "title": "Actuator placement optimization in an active lattice structure using generalized pattern search and verification",
         "pub_year": "2021",
         "citation": "Smart Materials and Structures 30 (11), 115007, 2021",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "T3ZCB1oAAAAJ:nVrZBo8bIpAC"
     },
     {
@@ -463,7 +477,7 @@
         "title": "An autonomous programmable actuator and shape reconfigurable structures using bistability and shape memory polymers",
         "pub_year": "2018",
         "citation": "3D Printing and Additive Manufacturing 5 (2), 91-101, 2018",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "T3ZCB1oAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -477,7 +491,7 @@
         "title": "An interactive, visual approach to developing and applying parametric three-dimensional spatial grammars",
         "pub_year": "2011",
         "citation": "AI EDAM 25 (4), 333-356, 2011",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "T3ZCB1oAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -505,28 +519,28 @@
         "title": "Applying shape annealing to full-scale transmission tower re-design",
         "pub_year": "1999",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "T3ZCB1oAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Architected lattices with high stiffness and toughness via multicore–shell 3D printing",
         "pub_year": "2018",
         "citation": "Advanced Materials 30 (12), 1705001, 2018",
-        "num_citations": 181,
+        "num_citations": 182,
         "author_pub_id": "T3ZCB1oAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "Artificial cognition in production systems",
         "pub_year": "2010",
         "citation": "IEEE Transactions on automation science and engineering 8 (1), 148-174, 2010",
-        "num_citations": 164,
+        "num_citations": 170,
         "author_pub_id": "T3ZCB1oAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors",
         "pub_year": "2023",
         "citation": "Computers in Biology and Medicine 152, 106475, 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "T3ZCB1oAAAAJ:uDGL6kOW6j0C"
     },
     {
@@ -575,7 +589,7 @@
         "title": "Autonomous deployment of a solar panel using elastic origami and distributed shape-memory-polymer actuators",
         "pub_year": "2019",
         "citation": "Physical Review Applied 11 (6), 064069, 2019",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "T3ZCB1oAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -596,14 +610,14 @@
         "title": "Buckling, build orientation, and scaling effects in 3D printed lattices",
         "pub_year": "2018",
         "citation": "Materials Today Communications 17, 69-75, 2018",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "T3ZCB1oAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "CDO: Computational design+ optimisation in building practice",
         "pub_year": "2005",
         "citation": "The Arup Journal 40 (3), 17-21, 2005",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "T3ZCB1oAAAAJ:QD3KBmkZPeQC"
     },
     {
@@ -698,6 +712,13 @@
         "author_pub_id": "T3ZCB1oAAAAJ:0izLItjtcgwC"
     },
     {
+        "title": "Computational Design of 4D Printed Tunable Pneumatic Valves",
+        "pub_year": "2022",
+        "citation": "2022 MRS Spring Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:MhiOAD_qIWkC"
+    },
+    {
         "title": "Computational Design of Active 3D-Printed Multi-State Structures for Shape Morphing",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2108.13526, 2021",
@@ -708,7 +729,7 @@
         "title": "Computational Design of Multi-State Lattice Structures With Finite Mechanisms for Shape Morphing",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (7), 071701, 2023",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "T3ZCB1oAAAAJ:otzGkya1bYkC"
     },
     {
@@ -750,7 +771,7 @@
         "title": "Computational design of 3D-printed active lattice structures for reversible shape morphing",
         "pub_year": "2021",
         "citation": "Journal of Materials Research 36 (18), 3642-3655, 2021",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "T3ZCB1oAAAAJ:8xutWZnSdmoC"
     },
     {
@@ -778,7 +799,7 @@
         "title": "Computational design of multi-stable, reconfigurable surfaces",
         "pub_year": "2021",
         "citation": "Materials & Design 205, 109688, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "T3ZCB1oAAAAJ:P7Ujq4OLJYoC"
     },
     {
@@ -813,14 +834,14 @@
         "title": "Computational synthesis of product architectures based on object-oriented graph grammars",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "T3ZCB1oAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Computationally designed lattices with tuned properties for tissue engineering using 3D printing",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0182902, 2017",
-        "num_citations": 185,
+        "num_citations": 189,
         "author_pub_id": "T3ZCB1oAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -841,7 +862,7 @@
         "title": "Computer-based design synthesis research: an overview",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 330,
+        "num_citations": 334,
         "author_pub_id": "T3ZCB1oAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -862,7 +883,7 @@
         "title": "Conditions for Rigid and Flat Foldability of Degree-n Vertices in Origami",
         "pub_year": "2020",
         "citation": "Journal of Mechanisms and Robotics 12 (1), 011020, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "T3ZCB1oAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -951,7 +972,7 @@
         "title": "Design and computational modeling of a 3D printed pneumatic toolkit for soft robotics",
         "pub_year": "2019",
         "citation": "Soft robotics 6 (5), 657-663, 2019",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "T3ZCB1oAAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -1000,7 +1021,7 @@
         "title": "Design library solution patterns in SysML for concept design and simulation",
         "pub_year": "2016",
         "citation": "Procedia CIRP 50, 695-700, 2016",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "T3ZCB1oAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -1035,7 +1056,7 @@
         "title": "Designing passive dynamic walking robots for additive manufacture",
         "pub_year": "2016",
         "citation": "Rapid Prototyping Journal 22 (5), 842-847, 2016",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "T3ZCB1oAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -1049,8 +1070,15 @@
         "title": "Developing intelligent tensegrity structures with stochastic search",
         "pub_year": "2002",
         "citation": "Advanced engineering informatics 16 (1), 21-40, 2002",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "T3ZCB1oAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "Development and Preliminary Verification of 37 Design Heuristics for the Design of Medical Devices for Low-Resource Settings",
+        "pub_year": "2024",
+        "citation": "ASME IDETC-CIE conference, 2024",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:IaI1MmNe2tcC"
     },
     {
         "title": "Development of an Ontology for the Automatic Reconfiguration of a Vise-Type Fixture Device",
@@ -1088,6 +1116,13 @@
         "author_pub_id": "T3ZCB1oAAAAJ:hMod-77fHWUC"
     },
     {
+        "title": "Efficient Design Space Exploration of 4D Printed, Architected, Active Composites Using Discrete Structural Models",
+        "pub_year": "2024",
+        "citation": "4DMDA Conference, 2024",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:1taIhTC69MYC"
+    },
+    {
         "title": "Efficient size and shape optimization of truss structures subject to stress and local buckling constraints using sequential linear programming",
         "pub_year": "2018",
         "citation": "Structural and Multidisciplinary Optimization 58, 171-184, 2018",
@@ -1105,7 +1140,7 @@
         "title": "Energy absorption properties of periodic and stochastic 3D lattice materials",
         "pub_year": "2019",
         "citation": "Advanced Theory and Simulations 2 (10), 1900081, 2019",
-        "num_citations": 109,
+        "num_citations": 113,
         "author_pub_id": "T3ZCB1oAAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -1171,10 +1206,17 @@
         "author_pub_id": "T3ZCB1oAAAAJ:0EnyYjriUFMC"
     },
     {
+        "title": "Experimental Validation of Computationally Designed, 4D Printed Shape-Morphing Structures",
+        "pub_year": "2023",
+        "citation": "SIM-AM 2023, 2023",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:WHdLCjDvYFkC"
+    },
+    {
         "title": "Exploration of the influence of different biomimetic designs of 3D printed multi-material artificial spinal disc on the natural mechanics restoration",
         "pub_year": "2021",
         "citation": "Materials & design 210, 110046, 2021",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "T3ZCB1oAAAAJ:5MTHONV0fEkC"
     },
     {
@@ -1258,7 +1300,7 @@
         "title": "Fully Constrained Design: A general and scalable method for discrete member sizing optimization of steel truss structures",
         "pub_year": "2014",
         "citation": "Computers & Structures 140, 55-65, 2014",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "T3ZCB1oAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -1267,6 +1309,13 @@
         "citation": "CIFE Technical Report, 2011",
         "num_citations": 8,
         "author_pub_id": "T3ZCB1oAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+        "title": "Generalized Data-Driven Material Model of 3D-Printed Biaxial Weaves Using Transfer Learning",
+        "pub_year": "2024",
+        "citation": "16th World Congress on Computational Mechanics and 4th Pan American Congress …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:FiytvqdAVhgC"
     },
     {
         "title": "Generating rational free-form structures",
@@ -1335,7 +1384,7 @@
         "title": "Harnessing bistability for directional propulsion of soft, untethered robots",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (22), 5698-5702, 2018",
-        "num_citations": 397,
+        "num_citations": 400,
         "author_pub_id": "T3ZCB1oAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1377,7 +1426,7 @@
         "title": "Improving full-scale transmission tower design through topology and shape optimization",
         "pub_year": "2006",
         "citation": "Journal of structural engineering 132 (5), 781-790, 2006",
-        "num_citations": 128,
+        "num_citations": 129,
         "author_pub_id": "T3ZCB1oAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1398,7 +1447,7 @@
         "title": "Industrial evaluation of design heuristics for additive manufacturing",
         "pub_year": "2022",
         "citation": "Design Science 8, e13, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "T3ZCB1oAAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -1433,7 +1482,7 @@
         "title": "Integrative design, build, test approach for biomedical devices with lattice structures",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "T3ZCB1oAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -1461,7 +1510,7 @@
         "title": "Investigation of a Voronoi diagram representation for the computational design of additively manufactured discrete lattice structures",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (11), 111704, 2020",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "T3ZCB1oAAAAJ:OR75R8vi5nAC"
     },
     {
@@ -1537,28 +1586,28 @@
         "title": "Mechanical and biological characterization of 3D printed lattices",
         "pub_year": "2019",
         "citation": "3D Printing and Additive Manufacturing 6 (2), 73-81, 2019",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "T3ZCB1oAAAAJ:XvxMoLDsR5gC"
     },
     {
         "title": "Mechanical properties of interfaces in inkjet 3D printed single-and multi-material parts",
         "pub_year": "2017",
         "citation": "3D Printing and Additive Manufacturing 4 (4), 193-199, 2017",
-        "num_citations": 68,
+        "num_citations": 67,
         "author_pub_id": "T3ZCB1oAAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "Mechanical properties of parts fabricated with inkjet 3D printing through efficient experimental design",
         "pub_year": "2015",
         "citation": "Materials & Design 86, 902-912, 2015",
-        "num_citations": 213,
+        "num_citations": 214,
         "author_pub_id": "T3ZCB1oAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Mechanical properties of topological metamaterials",
         "pub_year": "2022",
         "citation": "Extreme Mechanics Letters 55, 101835, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "T3ZCB1oAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -1572,7 +1621,7 @@
         "title": "Mechanics of three-dimensional printed lattices for biomedical devices",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031703, 2019",
-        "num_citations": 69,
+        "num_citations": 71,
         "author_pub_id": "T3ZCB1oAAAAJ:YohjEiUPhakC"
     },
     {
@@ -1607,7 +1656,7 @@
         "title": "Mortarless Compressed Earth Block Dwellings: A Low-Cost Sustainable Design and Fabrication Process",
         "pub_year": "2022",
         "citation": "ACADIA 2021: Realignments: Toward Critical Computation. Proceedings of the …, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "T3ZCB1oAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -1663,28 +1712,28 @@
         "title": "Perspectives on multi-material additive manufacturing",
         "pub_year": "2021",
         "citation": "Journal of Materials Research 36, 3549-3557, 2021",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "T3ZCB1oAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "Preliminary User Study on Design Heuristics for Additive Manufacturing",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "T3ZCB1oAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Printed silicone pneumatic actuators for soft robotics",
         "pub_year": "2021",
         "citation": "Additive Manufacturing 40, 101860, 2021",
-        "num_citations": 69,
+        "num_citations": 73,
         "author_pub_id": "T3ZCB1oAAAAJ:F9fV5C73w3QC"
     },
     {
         "title": "Programmable, active lattice structures: Unifying stretch-dominated and bending-dominated topologies",
         "pub_year": "2019",
         "citation": "Extreme Mechanics Letters 29, 100461, 2019",
-        "num_citations": 81,
+        "num_citations": 85,
         "author_pub_id": "T3ZCB1oAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -1719,7 +1768,7 @@
         "title": "Rotational 3D printing of damage-tolerant composites with programmable mechanics",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (6), 1198-1203, 2018",
-        "num_citations": 297,
+        "num_citations": 301,
         "author_pub_id": "T3ZCB1oAAAAJ:tYavs44e6CUC"
     },
     {
@@ -1754,7 +1803,7 @@
         "title": "Simulated tissue growth for 3D printed scaffolds",
         "pub_year": "2018",
         "citation": "Biomechanics and modeling in mechanobiology 17, 1481-1495, 2018",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "T3ZCB1oAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -1767,7 +1816,7 @@
     {
         "title": "Solar-powered thermo-pneumatic actuators for passively controlled adaptive shading",
         "pub_year": "2024",
-        "citation": "Smart Materials and Structures, 2024",
+        "citation": "Smart Materials and Structures 33 (12), 125034, 2024",
         "num_citations": 0,
         "author_pub_id": "T3ZCB1oAAAAJ:j7_hQOaDUrUC"
     },
@@ -1796,8 +1845,15 @@
         "title": "Spatial grammar implementation: From theory to useable software",
         "pub_year": "2012",
         "citation": "AI EDAM 26 (2), 143-159, 2012",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "T3ZCB1oAAAAJ:RGFaLdJalmkC"
+    },
+    {
+        "title": "Spinodal Metamaterials as Pneumatic Actuators for Complex Shape Morphing",
+        "pub_year": "2022",
+        "citation": "2022 MRS Spring Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:7H_MAutzIkAC"
     },
     {
         "title": "Steps in transforming shapes generated with generative design into simulation models",
@@ -1928,7 +1984,7 @@
         "title": "Tensile properties of multi-material interfaces in 3D printed parts",
         "pub_year": "2019",
         "citation": "Materials & Design 162, 1-9, 2019",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "T3ZCB1oAAAAJ:rmuvC79q63oC"
     },
     {
@@ -1983,7 +2039,7 @@
         "title": "The design of novel roof trusses with shape annealing: assessing the ability of a computational method in aiding structural designers with varying design intent",
         "pub_year": "1999",
         "citation": "Design Studies 20 (1), 3-23, 1999",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "T3ZCB1oAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -2013,6 +2069,13 @@
         "citation": "Workshop on Computational Making, International Conference on Design …, 2014",
         "num_citations": 2,
         "author_pub_id": "T3ZCB1oAAAAJ:eflP2zaiRacC"
+    },
+    {
+        "title": "Thermo-Viscoelastic Laminate-Based FE Modelling of Fused Filament Fabrication Direct 4D Printing",
+        "pub_year": "2023",
+        "citation": "SIM-AM 2023, 2023",
+        "num_citations": 0,
+        "author_pub_id": "T3ZCB1oAAAAJ:WC23djZS0W4C"
     },
     {
         "title": "Three-dimensional labels: a unified approach to labels for a general spatial grammar interpreter",
@@ -2053,14 +2116,14 @@
         "title": "Towards integrated performance-based generative design tools",
         "pub_year": "2003",
         "citation": "Digital Design, ECAADE, 253-264, 2003",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "T3ZCB1oAAAAJ:LdasjJ6CEcoC"
     },
     {
         "title": "Towards integrated performance-driven generative design tools",
         "pub_year": "2005",
         "citation": "Automation in Construction 14 (2), 253-264, 2005",
-        "num_citations": 468,
+        "num_citations": 475,
         "author_pub_id": "T3ZCB1oAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -2095,7 +2158,7 @@
         "title": "Validation of a nonlinear force method for large deformations in shape-morphing structures",
         "pub_year": "2022",
         "citation": "Structural and Multidisciplinary Optimization 65 (3), 87, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "T3ZCB1oAAAAJ:artPoR2Yc-kC"
     },
     {

@@ -329,7 +329,7 @@
         "title": "Consistent derivations of spring rates for helical springs",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "VBCXRSIAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -412,7 +412,7 @@
         "title": "Design, systems, and engineering education",
         "pub_year": "2004",
         "citation": "International Journal of Engineering Education 20 (3), 305-312, 2004",
-        "num_citations": 122,
+        "num_citations": 124,
         "author_pub_id": "VBCXRSIAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -510,15 +510,8 @@
         "title": "Energy and Finite Element Methods In Structural Mechanics: SI Units",
         "pub_year": "2017",
         "citation": "Routledge, 2017",
-        "num_citations": 909,
+        "num_citations": 912,
         "author_pub_id": "VBCXRSIAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-        "title": "Engineering Design: A Project-Based Introduction",
-        "pub_year": "2013",
-        "citation": "Wiley, 2013",
-        "num_citations": 1943,
-        "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Engineering Design: Framing the issues; 2. Engineering design; 3. Characterizing the design process; 4. Taxonomies of engineering design; 5. Representing designed artifacts; 6 …",
@@ -545,14 +538,14 @@
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2005",
         "citation": "Journal of engineering education 94 (1), 103-120, 2005",
-        "num_citations": 4191,
+        "num_citations": 4229,
         "author_pub_id": "VBCXRSIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Engineering design thinking, teaching, and learning",
         "pub_year": "2006",
         "citation": "IEEE Engineering Management Review 34 (1), 65-65, 2006",
-        "num_citations": 164,
+        "num_citations": 166,
         "author_pub_id": "VBCXRSIAAAAJ:5icHVeHT4IsC"
     },
     {
@@ -568,6 +561,13 @@
         "citation": "NJ: Wiley, 2004",
         "num_citations": 8,
         "author_pub_id": "VBCXRSIAAAAJ:zCSUwVk65WsC"
+    },
+    {
+        "title": "Engineering design: A project-based introduction",
+        "pub_year": "2013",
+        "citation": "John Wiley & Sons, 2013",
+        "num_citations": 1950,
+        "author_pub_id": "VBCXRSIAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Engineering design: Representation and reasoning",
@@ -698,7 +698,7 @@
         "title": "Fundamentals of modeling and analyzing engineering systems",
         "pub_year": "2000",
         "citation": "Cambridge University Press, 2000",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "VBCXRSIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -746,7 +746,7 @@
         "title": "Identifying nodes and anti-nodes of complex structures with virtual elements",
         "pub_year": "1998",
         "citation": "Journal of sound and vibration 211 (2), 249-264, 1998",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "VBCXRSIAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -919,7 +919,7 @@
         "title": "Learning engineering: Design, languages, and experiences",
         "pub_year": "1999",
         "citation": "Journal of Engineering Education 88 (2), 145-148, 1999",
-        "num_citations": 233,
+        "num_citations": 234,
         "author_pub_id": "VBCXRSIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1100,7 +1100,7 @@
         "title": "On the time-dependent heat conduction and thermoelastic problems",
         "pub_year": "1969",
         "citation": "Quarterly of Applied Mathematics 27 (1), 121-124, 1969",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "VBCXRSIAAAAJ:t6usbXjVLHcC"
     },
     {
@@ -1142,7 +1142,7 @@
         "title": "PRIDE: An expert system for the design of paper handling systems",
         "pub_year": "1986",
         "citation": "Computer 19 (07), 102-114, 1986",
-        "num_citations": 323,
+        "num_citations": 324,
         "author_pub_id": "VBCXRSIAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1212,7 +1212,7 @@
         "title": "Principles of mathematical modeling",
         "pub_year": "2004",
         "citation": "Elsevier, 2004",
-        "num_citations": 346,
+        "num_citations": 347,
         "author_pub_id": "VBCXRSIAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1239,14 +1239,14 @@
         "title": "Rank ordering engineering designs: pairwise comparison charts and Borda counts",
         "pub_year": "2002",
         "citation": "Research in Engineering Design 13, 236-242, 2002",
-        "num_citations": 181,
+        "num_citations": 182,
         "author_pub_id": "VBCXRSIAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Representation and problem-solving: the foundations of engineering design",
         "pub_year": "1992",
         "citation": "Environment and Planning B: Planning and Design 19 (1), 97-105, 1992",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "VBCXRSIAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "Solid mechanics",
         "pub_year": "1973",
         "citation": "McGraw-Hill, 1973",
-        "num_citations": 917,
+        "num_citations": 921,
         "author_pub_id": "VBCXRSIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1399,7 +1399,7 @@
         "title": "Stability theory and its applications to structural mechanics",
         "pub_year": "2002",
         "citation": "Dover Publications, 2002",
-        "num_citations": 242,
+        "num_citations": 244,
         "author_pub_id": "VBCXRSIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1441,7 +1441,7 @@
         "title": "Structural modeling and analysis",
         "pub_year": "1997",
         "citation": "Cambridge University Press, 1997",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "VBCXRSIAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -1468,7 +1468,7 @@
         "title": "Teaching design to freshmen: Style and content",
         "pub_year": "1994",
         "citation": "Journal of Engineering Education 83 (4), 303-310, 1994",
-        "num_citations": 191,
+        "num_citations": 194,
         "author_pub_id": "VBCXRSIAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1552,14 +1552,14 @@
         "title": "Transmission loss optimization in acoustic sandwich panels",
         "pub_year": "1986",
         "citation": "The Journal of the Acoustical Society of America 79 (6), 1833-1843, 1986",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "VBCXRSIAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Transmission of sound through sandwich panels",
         "pub_year": "1974",
         "citation": "The Journal of the Acoustical Society of America 56 (5), 1523-1532, 1974",
-        "num_citations": 199,
+        "num_citations": 201,
         "author_pub_id": "VBCXRSIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1587,7 +1587,7 @@
         "title": "Validation of design methods: lessons from medicine",
         "pub_year": "2006",
         "citation": "Research in Engineering Design 17, 45-57, 2006",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "VBCXRSIAAAAJ:Se3iqnhoufwC"
     },
     {

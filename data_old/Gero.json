@@ -14,13 +14,6 @@
         "author_pub_id": "3jv77YgAAAAJ:X4-KO54GjGYC"
     },
     {
-        "title": "16. Mutation and analogy to support creativity in computer-aided design",
-        "pub_year": "1992",
-        "citation": "CAAD Futures, 91: Computer Aided Architectural Design Futures: Education …, 1992",
-        "num_citations": 89,
-        "author_pub_id": "3jv77YgAAAAJ:IWHjjKOFINEC"
-    },
-    {
         "title": "18. What’s in a case: the use of case bases, knowledge bases and databases in design",
         "pub_year": "1992",
         "citation": "CAAD Futures' 91: Computer Aided Architectural Design Futures Education …, 1992",
@@ -145,7 +138,7 @@
         "title": "A Problem Decomposition Method for Conceptual Design",
         "pub_year": "2009",
         "citation": "ICORD 09: Proceedings of the 2nd International Conference on Research into …, 2009",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "3jv77YgAAAAJ:YlPif8NxrbYC"
     },
     {
@@ -207,7 +200,7 @@
         "title": "A cognitive method to measure potential creativity in designing",
         "pub_year": "2002",
         "citation": "Workshop 17, 47-54, 2002",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "3jv77YgAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -277,7 +270,7 @@
         "title": "A computational study of the effect of experience on problem/solution space exploration in teams",
         "pub_year": "2019",
         "citation": "Proceedings of the design society: international conference on engineering …, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "3jv77YgAAAAJ:DrOLxFoABAwC"
     },
     {
@@ -305,14 +298,14 @@
         "title": "A design support system using analogy",
         "pub_year": "1992",
         "citation": "Artificial Intelligence in Design’92, 795-813, 1992",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "3jv77YgAAAAJ:v_tt_AnqfNMC"
     },
     {
         "title": "A design thinker's mind: insights on the neurocognitive processes of ideation",
         "pub_year": "2023",
         "citation": "Research Handbook on Design Thinking, 7-24, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "3jv77YgAAAAJ:OA9cGvo6324C"
     },
     {
@@ -354,7 +347,7 @@
         "title": "A framework for situated design agents",
         "pub_year": "2005",
         "citation": "CAADRIA, 2005",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "3jv77YgAAAAJ:R8TPKZP7usQC"
     },
     {
@@ -368,7 +361,7 @@
         "title": "A framework for studying design thinking through measuring designers’ minds, bodies and brains",
         "pub_year": "2020",
         "citation": "Design Science 6, e19, 2020",
-        "num_citations": 150,
+        "num_citations": 157,
         "author_pub_id": "3jv77YgAAAAJ:x8G803Bi31IC"
     },
     {
@@ -382,7 +375,7 @@
         "title": "A function–behavior–structure ontology of processes",
         "pub_year": "2007",
         "citation": "Ai Edam 21 (4), 379-391, 2007",
-        "num_citations": 190,
+        "num_citations": 192,
         "author_pub_id": "3jv77YgAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -410,7 +403,7 @@
         "title": "A genetic programming approach to the space layout planning problem",
         "pub_year": "1997",
         "citation": "CAAD futures 1997: Proceedings of the 7th International Conference on …, 1997",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "3jv77YgAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -529,7 +522,7 @@
         "title": "A process framework of affordances in design",
         "pub_year": "2012",
         "citation": "Design Issues 28 (1), 50-62, 2012",
-        "num_citations": 117,
+        "num_citations": 120,
         "author_pub_id": "3jv77YgAAAAJ:QVtou7C4vgoC"
     },
     {
@@ -712,7 +705,7 @@
         "title": "Accidental resource: A fable of design research through storytelling",
         "pub_year": "2005",
         "citation": "International Workshop on Understanding Designers, 343-349, 2005",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "3jv77YgAAAAJ:5thYEm8kiqcC"
     },
     {
@@ -733,7 +726,7 @@
         "title": "Acquiring information from linkography in protocol studies of designing",
         "pub_year": "2008",
         "citation": "Design studies 29 (4), 315-337, 2008",
-        "num_citations": 194,
+        "num_citations": 196,
         "author_pub_id": "3jv77YgAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -780,7 +773,7 @@
         "title": "Advances in IT for building design",
         "pub_year": "2002",
         "citation": "Advances in Building Technology, 47-54, 2002",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "3jv77YgAAAAJ:4e5Qn2KL_jwC"
     },
     {
@@ -904,14 +897,14 @@
         "title": "An approach to the analysis of design protocols",
         "pub_year": "1998",
         "citation": "Design studies 19 (1), 21-61, 1998",
-        "num_citations": 791,
+        "num_citations": 795,
         "author_pub_id": "3jv77YgAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "An empirical basis for the use of design patterns by architects in parametric design",
         "pub_year": "2016",
         "citation": "International Journal of Architectural Computing 14 (3), 289-302, 2016",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "3jv77YgAAAAJ:E2bRg1zSkIsC"
     },
     {
@@ -939,7 +932,7 @@
         "title": "An exploration‐based evolutionary model of a generative design process",
         "pub_year": "1996",
         "citation": "Computer‐Aided Civil and Infrastructure Engineering 11 (3), 211-218, 1996",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "3jv77YgAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -967,7 +960,7 @@
         "title": "An ontology of computer-aided design",
         "pub_year": "2009",
         "citation": "Computer-Aided Design Research and Development, 2009",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "3jv77YgAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -1043,7 +1036,7 @@
         "title": "Analyzing cognitive processes of a product/service-system design session using protocol analysis",
         "pub_year": "2020",
         "citation": "AI EDAM 34 (4), 515-530, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "3jv77YgAAAAJ:Agc8PWtS8JkC"
     },
     {
@@ -1092,7 +1085,7 @@
         "title": "Architects' cognitive behaviour in parametric design",
         "pub_year": "2015",
         "citation": "International Journal of Architectural Computing 13 (1), 83-101, 2015",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "3jv77YgAAAAJ:x2hKVfJWtf0C"
     },
     {
@@ -1139,7 +1132,7 @@
         "title": "Artificial Intelligence in Design’96",
         "pub_year": "2012",
         "citation": "Springer Science & Business Media, 2012",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "3jv77YgAAAAJ:RZBefGmQYygC"
     },
     {
@@ -1201,7 +1194,7 @@
         "title": "Automated code checking",
         "pub_year": "2004",
         "citation": "CRC CI International Conference 2004, 2004",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "3jv77YgAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -1229,7 +1222,7 @@
         "title": "Automating code checking for building designs-DesignCheck",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 155,
+        "num_citations": 156,
         "author_pub_id": "3jv77YgAAAAJ:x21FZCSn4ZoC"
     },
     {
@@ -1320,14 +1313,14 @@
         "title": "Brain activity in constrained and open design: the effect of gender on frequency bands",
         "pub_year": "2022",
         "citation": "AI EDAM 36, e6, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "3jv77YgAAAAJ:96M4k3P_OWMC"
     },
     {
         "title": "Brain activity of industrial designers in constrained and open design: The effect of gender on frequency bands",
         "pub_year": "2021",
         "citation": "Proceedings of the Design Society 1, 571-580, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "3jv77YgAAAAJ:OC7j4ufeY2cC"
     },
     {
@@ -1496,7 +1489,7 @@
         "title": "Can Pahl and Beitz’systematic approach be a predictive model of designing?",
         "pub_year": "2017",
         "citation": "Design Science 3, e24, 2017",
-        "num_citations": 52,
+        "num_citations": 55,
         "author_pub_id": "3jv77YgAAAAJ:jPVjDSAV6m0C"
     },
     {
@@ -1559,7 +1552,7 @@
         "title": "Characterizing innovative processes in design spaces through measuring the information entropy of empirical data from protocol studies",
         "pub_year": "2018",
         "citation": "AI EDAM 32 (1), 32-43, 2018",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "3jv77YgAAAAJ:Oo_WeVVXg5wC"
     },
     {
@@ -1615,7 +1608,7 @@
         "title": "Cognition-based CAAD: How CAAD systems can support conceptual design",
         "pub_year": "2001",
         "citation": "Computer Aided Architectural Design Futures 2001: Proceedings of the Ninth …, 2001",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "3jv77YgAAAAJ:Ej9njvOgR2oC"
     },
     {
@@ -1670,7 +1663,7 @@
         "title": "Commonalities across designing: Empirical results",
         "pub_year": "2014",
         "citation": "Design computing and cognition'12, 265-281, 2014",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "3jv77YgAAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -1684,7 +1677,7 @@
         "title": "Comparing collaborative co-located and distributed design processes in digital and traditional sketching environments: A protocol study using the function–behaviour–structure …",
         "pub_year": "2011",
         "citation": "Design Studies 32 (1), 1-29, 2011",
-        "num_citations": 200,
+        "num_citations": 201,
         "author_pub_id": "3jv77YgAAAAJ:CaZNVDsoPx4C"
     },
     {
@@ -1712,7 +1705,7 @@
         "title": "Comparing entropy measures of idea links in design protocols: Linkography entropy measurement and analysis of differently conditioned design sessions",
         "pub_year": "2007",
         "citation": "AI EDAM 21 (4), 367-377, 2007",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "3jv77YgAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1733,14 +1726,14 @@
         "title": "Comparing the design neurocognition of mechanical engineers and architects: a study of the effect of designer’s domain",
         "pub_year": "2019",
         "citation": "Proceedings of the Design Society: International Conference on Engineering …, 2019",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "3jv77YgAAAAJ:0iM-huCvmk0C"
     },
     {
         "title": "Comparing two approaches to studying communications in team design",
         "pub_year": "2017",
         "citation": "Design Computing and Cognition'16, 301-319, 2017",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "3jv77YgAAAAJ:eIKNFFVQvJAC"
     },
     {
@@ -1837,7 +1830,7 @@
         "title": "Computational models of creative design processes",
         "pub_year": "1994",
         "citation": "Artificial intelligence and creativity: An interdisciplinary approach, 269-281, 1994",
-        "num_citations": 138,
+        "num_citations": 139,
         "author_pub_id": "3jv77YgAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1865,7 +1858,7 @@
         "title": "Computational models of innovative and creative design processes",
         "pub_year": "2000",
         "citation": "Technological forecasting and social change 64 (2-3), 183-196, 2000",
-        "num_citations": 357,
+        "num_citations": 362,
         "author_pub_id": "3jv77YgAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1885,7 +1878,7 @@
         "title": "Computational study on design space expansion during teamwork",
         "pub_year": "2021",
         "citation": "Proceedings of the Design Society 1, 691-700, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "3jv77YgAAAAJ:tFyepMjQr3wC"
     },
     {
@@ -1899,7 +1892,7 @@
         "title": "Computer applications in architecture",
         "pub_year": "1977",
         "citation": "(No Title), 1977",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "3jv77YgAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -2018,7 +2011,7 @@
         "title": "Concept generation techniques change patterns of brain activation during engineering design",
         "pub_year": "2020",
         "citation": "Design Science 6, e31, 2020",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "3jv77YgAAAAJ:f-E_jMG6T4AC"
     },
     {
@@ -2143,7 +2136,7 @@
         "title": "Creation and characterization of design spaces",
         "pub_year": "2022",
         "citation": "Proceedings of DRS, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "3jv77YgAAAAJ:BzPC9jo9PWgC"
     },
     {
@@ -2220,7 +2213,7 @@
         "title": "Creativity in design using a prototype approach",
         "pub_year": "1989",
         "citation": "Preprints Modelling Creativity and Knowledge-based Creative Design, 207-232, 1989",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "3jv77YgAAAAJ:lOG7zRu2uA8C"
     },
     {
@@ -2234,7 +2227,7 @@
         "title": "Creativity, emergence and evolution in design",
         "pub_year": "1996",
         "citation": "Knowledge-Based Systems 9 (7), 435-448, 1996",
-        "num_citations": 542,
+        "num_citations": 544,
         "author_pub_id": "3jv77YgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -2369,7 +2362,7 @@
         "title": "Design Computing and Cognition'08: Proceedings of the Third International Conference on Design Computing and Cognition",
         "pub_year": "2008",
         "citation": "Springer Science & Business Media, 2008",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "3jv77YgAAAAJ:ybfzIt2tCtgC"
     },
     {
@@ -2439,14 +2432,14 @@
         "title": "Design and other types of fixation",
         "pub_year": "1996",
         "citation": "Design studies 17 (4), 363-383, 1996",
-        "num_citations": 794,
+        "num_citations": 798,
         "author_pub_id": "3jv77YgAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Design behaviour measurement by quantifying linkography in protocol studies of designing",
         "pub_year": "2005",
         "citation": "Human behaviour in designing 5, 47-58, 2005",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "3jv77YgAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -2579,14 +2572,14 @@
         "title": "Design prototypes: a knowledge representation schema for design",
         "pub_year": "1990",
         "citation": "AI magazine 11 (4), 26-26, 1990",
-        "num_citations": 3014,
+        "num_citations": 3028,
         "author_pub_id": "3jv77YgAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Design spaces and EEG frequency band power in constrained and open design",
         "pub_year": "2022",
         "citation": "International Journal of Design Creativity and Innovation 10 (4), 193-221, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "3jv77YgAAAAJ:Sw8WaQuuSIgC"
     },
     {
@@ -2600,14 +2593,14 @@
         "title": "Design thinking and computational thinking: A dual process model for addressing design problems",
         "pub_year": "2021",
         "citation": "Design Science 7, e8, 2021",
-        "num_citations": 62,
+        "num_citations": 66,
         "author_pub_id": "3jv77YgAAAAJ:ipvhVhH6zQ8C"
     },
     {
         "title": "Design thinking, fast and slow: a framework for Kahneman’s dual-system theory in design",
         "pub_year": "2019",
         "citation": "Design Science 5, e10, 2019",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "3jv77YgAAAAJ:qOpkhvVCMvUC"
     },
     {
@@ -2677,7 +2670,7 @@
         "title": "Designing-related neural processes: higher alpha, theta and beta bands’ key roles in distinguishing designing from problem-solving",
         "pub_year": "2022",
         "citation": "Design Computing and Cognition’20, 535-553, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "3jv77YgAAAAJ:3AIi9tQMIrsC"
     },
     {
@@ -2747,7 +2740,7 @@
         "title": "Discovering the influence of sarcasm in social media responses",
         "pub_year": "2019",
         "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 9 (6 …, 2019",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "3jv77YgAAAAJ:qwOXE0mbtu4C"
     },
     {
@@ -2817,7 +2810,7 @@
         "title": "Does sketching off-load visuo-spatial working memory",
         "pub_year": "2005",
         "citation": "Studying designers 5 (2005), 145-160, 2005",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "3jv77YgAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -2844,7 +2837,7 @@
         "title": "Drawings and the design process: A review of protocol studies in design and other disciplines and related research in cognitive psychology",
         "pub_year": "1998",
         "citation": "Design studies 19 (4), 389-430, 1998",
-        "num_citations": 896,
+        "num_citations": 900,
         "author_pub_id": "3jv77YgAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -3030,7 +3023,7 @@
         "title": "Empirical evidence for Kahneman's System 1 and System 2 thinking in design",
         "pub_year": "2019",
         "citation": "Human behavior in design, 2019",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "3jv77YgAAAAJ:rUnQDpM0TEQC"
     },
     {
@@ -3205,7 +3198,7 @@
         "title": "Expanding design spaces through new design variables",
         "pub_year": "1993",
         "citation": "Design Studies 14 (2), 210-221, 1993",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "3jv77YgAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -3274,7 +3267,7 @@
         "title": "Exploration of gender diversity effects on design team dynamics",
         "pub_year": "2019",
         "citation": "Human Behavior in Design, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "3jv77YgAAAAJ:4WewbtJKmRkC"
     },
     {
@@ -3309,7 +3302,7 @@
         "title": "Exploring designers’ cognitive load when viewing different digital representations of spaces: A pilot study",
         "pub_year": "2017",
         "citation": "Research into Design for Communities, Volume 1: Proceedings of ICoRD 2017 …, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "3jv77YgAAAAJ:j6V8Syvup0UC"
     },
     {
@@ -3421,14 +3414,14 @@
         "title": "Exploring the effect of immersive VR on student-tutor communication in architecture design crits",
         "pub_year": "2022",
         "citation": "International Conference for The Association for Computer-Aided …, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "3jv77YgAAAAJ:YXeC4bxG7-IC"
     },
     {
         "title": "Exploring the effects of the design prompt on students’ design cognition",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "3jv77YgAAAAJ:8RAEygVn5_EC"
     },
     {
@@ -3449,7 +3442,7 @@
         "title": "Exploring tutor-student interactions in a novel virtual design studio",
         "pub_year": "2021",
         "citation": "Design Studies 75, 101019, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "3jv77YgAAAAJ:dgXhHFWAKKUC"
     },
     {
@@ -3532,7 +3525,7 @@
         "title": "Fixation and commitment while designing and its measurement",
         "pub_year": "2011",
         "citation": "The Journal of Creative Behavior 45 (2), 108-115, 2011",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "3jv77YgAAAAJ:v1_lew4L6wgC"
     },
     {
@@ -3630,7 +3623,7 @@
         "title": "From design cognition to design neurocognition",
         "pub_year": "2019",
         "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 41, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "3jv77YgAAAAJ:n8FNryW2AHIC"
     },
     {
@@ -3651,7 +3644,7 @@
         "title": "Function–behavior–structure paths and their role in analogy-based design",
         "pub_year": "1996",
         "citation": "AI EDAM 10 (4), 289-312, 1996",
-        "num_citations": 523,
+        "num_citations": 524,
         "author_pub_id": "3jv77YgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -3788,7 +3781,7 @@
         "title": "How Do Designers Think in Systems?–Empirical Insights from Protocol Studies of Experienced Practitioners Designing Product-Service Systems",
         "pub_year": "2022",
         "citation": "Design Computing and Cognition’20, 455-472, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "3jv77YgAAAAJ:DGpvO1n63MYC"
     },
     {
@@ -3830,7 +3823,7 @@
         "title": "How the use of concept maps changes students’ minds and brains.",
         "pub_year": "2022",
         "citation": "ASEE Annual Conference & Exposition, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "3jv77YgAAAAJ:LZ55yeyZZb4C"
     },
     {
@@ -3987,7 +3980,7 @@
         "title": "Innovation policy and design thinking",
         "pub_year": "2010",
         "citation": "Design thinking research symposium, 175-186, 2010",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "3jv77YgAAAAJ:SnGPuo6Feq8C"
     },
     {
@@ -4071,7 +4064,7 @@
         "title": "Interpretation in design: modelling how the situation changes during design activity",
         "pub_year": "2014",
         "citation": "Research in Engineering Design 25, 109-124, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "3jv77YgAAAAJ:NtCmTCuxid4C"
     },
     {
@@ -4099,7 +4092,7 @@
         "title": "Introduction: Creativity and design",
         "pub_year": "1994",
         "citation": "Artificial Intelligence and Creativity: an interdisciplinary approach, 259-267, 1994",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "3jv77YgAAAAJ:EBV337fEn3EC"
     },
     {
@@ -4283,7 +4276,7 @@
         "title": "Knowledge-based design systems",
         "pub_year": "1990",
         "citation": "Addison Wesley, 1990",
-        "num_citations": 748,
+        "num_citations": 749,
         "author_pub_id": "3jv77YgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -4345,7 +4338,7 @@
         "title": "Learning and re-using information in space layout planning problems using genetic engineering",
         "pub_year": "1997",
         "citation": "Artificial Intelligence in Engineering 11 (3), 329-334, 1997",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "3jv77YgAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -4524,7 +4517,7 @@
         "title": "Macroscopic analysis of design processes based on a scheme for coding designers' cognitive actions",
         "pub_year": "1998",
         "citation": "Design studies 19 (4), 455-483, 1998",
-        "num_citations": 711,
+        "num_citations": 714,
         "author_pub_id": "3jv77YgAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -4607,14 +4600,14 @@
         "title": "Modelling multiple views of design objects in a collaborative CAD environment",
         "pub_year": "1996",
         "citation": "Computer-aided design 28 (3), 193-205, 1996",
-        "num_citations": 234,
+        "num_citations": 233,
         "author_pub_id": "3jv77YgAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Modelling the design of models: an example using CRISP-DM",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 2705-2714, 2023",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "3jv77YgAAAAJ:JQPmwQThujIC"
     },
     {
@@ -4675,6 +4668,13 @@
     {
         "title": "Multimodal design: An overview",
         "pub_year": "2008",
+        "citation": "Georgia Institute of Technology, Cambridge University Press, 2008",
+        "num_citations": 5,
+        "author_pub_id": "3jv77YgAAAAJ:ZVmBtQ9RJaQC"
+    },
+    {
+        "title": "Multimodal design: An overview",
+        "pub_year": "2008",
         "citation": "AI EDAM 22 (2), 83-84, 2008",
         "num_citations": 2,
         "author_pub_id": "3jv77YgAAAAJ:-95Q15plzcUC"
@@ -4694,6 +4694,13 @@
         "author_pub_id": "3jv77YgAAAAJ:evX43VCCuoAC"
     },
     {
+        "title": "Mutation and analogy to support creativity in computer-aided design",
+        "pub_year": "1991",
+        "citation": "CAAD futures 91, 241-249, 1991",
+        "num_citations": 90,
+        "author_pub_id": "3jv77YgAAAAJ:IWHjjKOFINEC"
+    },
+    {
         "title": "Nascent directions for design creativity research",
         "pub_year": "2020",
         "citation": "International Journal of Design Creativity and Innovation 8 (3), 144-146, 2020",
@@ -4709,7 +4716,8 @@
     },
     {
         "title": "Neuro-Cognitive Feedback as a Tool for Improving Cognitive Endurance",
-        "citation": "Design Computing and Cognition’24: Volume 2, 176, 0",
+        "pub_year": "2024",
+        "citation": "Design Computing and Cognition'24: Volume 2, 176, 2024",
         "num_citations": 0,
         "author_pub_id": "3jv77YgAAAAJ:Xtec1x7NZGAC"
     },
@@ -4745,14 +4753,14 @@
         "title": "Neurocognitive feedback: a prospective approach to sustain idea generation during design brainstorming",
         "pub_year": "2022",
         "citation": "International Journal of Design Creativity and Innovation 10 (1), 31-50, 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "3jv77YgAAAAJ:QndmRo8phpgC"
     },
     {
         "title": "Neurophysiological responses to biophilic design: A pilot experiment using VR and EEG",
         "pub_year": "2022",
         "citation": "International conference on-design computing and cognition, 235-253, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "3jv77YgAAAAJ:54SpJiyHbzwC"
     },
     {
@@ -4773,7 +4781,7 @@
         "title": "Note on “Synthesis and Optimization of Small Rectangular Floor Plans” of Mitchell, Steadman, and Liggett¶",
         "pub_year": "1977",
         "citation": "Environment and Planning B: Planning and Design 4 (1), 81-88, 1977",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "3jv77YgAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -4938,7 +4946,7 @@
         "title": "Perspectives on design creativity and innovation research: 10 years later",
         "pub_year": "2022",
         "citation": "International Journal of Design Creativity and Innovation 10 (1), 1-30, 2022",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "3jv77YgAAAAJ:W8gSVh4kTHQC"
     },
     {
@@ -5028,7 +5036,7 @@
         "title": "Prestressed Masonry-reinforced Concrete Space Structure",
         "pub_year": "1967",
         "citation": "University of Sydney, 1967",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "3jv77YgAAAAJ:9NZAP19TdFAC"
     },
     {
@@ -5158,15 +5166,15 @@
     {
         "title": "Quantifying differences between professional expert engineers and engineering students designing: Empirical foundations for improved engineering education",
         "pub_year": "2018",
-        "citation": "ASEE Annual Conference & Exposition, Salt Lake City, Utah: ASEE2018 Paper ID …, 2018",
-        "num_citations": 9,
+        "citation": "2018 ASEE Annual Conference & Exposition, 2018",
+        "num_citations": 10,
         "author_pub_id": "3jv77YgAAAAJ:MvIMIWP2nqIC"
     },
     {
         "title": "Quantitative methods for studying design protocols",
         "pub_year": "2017",
         "citation": "Springer, 2017",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "3jv77YgAAAAJ:t9Ks5LMjN0QC"
     },
     {
@@ -5213,7 +5221,7 @@
         "title": "Recent design science research: Constructive memory in design thinking",
         "pub_year": "1999",
         "citation": "Architectural Science Review 42 (2), 97-99, 1999",
-        "num_citations": 119,
+        "num_citations": 121,
         "author_pub_id": "3jv77YgAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -5227,7 +5235,7 @@
         "title": "Representation and reasoning about shapes: cognitive and computational studies in visual reasoning in design",
         "pub_year": "1999",
         "citation": "Spatial Information Theory. Cognitive and Computational Foundations of …, 1999",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "3jv77YgAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -5262,7 +5270,7 @@
         "title": "Representational affordances in design, with examples from analogy making and optimization",
         "pub_year": "2012",
         "citation": "Research in Engineering Design 23, 235-249, 2012",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "3jv77YgAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -5303,7 +5311,7 @@
         "title": "Reviewing the concept of design frames towards a cognitive model",
         "pub_year": "2022",
         "citation": "Design Science 8, e30, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "3jv77YgAAAAJ:MaiMEk8tZqMC"
     },
     {
@@ -5400,7 +5408,7 @@
         "title": "Seeing into sketches: Regrouping parts encourages new interpretations",
         "pub_year": "2001",
         "citation": "Visual and spatial reasoning in design, 207-219, 2001",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "3jv77YgAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -5588,7 +5596,7 @@
         "title": "Sketching as mental imagery processing",
         "pub_year": "2001",
         "citation": "Design studies 22 (4), 347-364, 2001",
-        "num_citations": 294,
+        "num_citations": 296,
         "author_pub_id": "3jv77YgAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -5670,7 +5678,7 @@
         "title": "Space layout planning using an evolutionary approach",
         "pub_year": "1998",
         "citation": "Artificial intelligence in Engineering 12 (3), 149-162, 1998",
-        "num_citations": 265,
+        "num_citations": 269,
         "author_pub_id": "3jv77YgAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -5684,7 +5692,7 @@
         "title": "Spatial abilities, working memory and mechanical reasoning",
         "pub_year": "1999",
         "citation": "Visual and spatial reasoning in design 99, 1999",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "3jv77YgAAAAJ:KI9T_ytC6pkC"
     },
     {
@@ -5705,7 +5713,7 @@
         "title": "Springer: Dordrecht",
         "pub_year": "1996",
         "citation": "The Netherlands, 151-170, 1996",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "3jv77YgAAAAJ:wyoMR1qFDH8C"
     },
     {
@@ -5726,7 +5734,7 @@
         "title": "Strategic knowledge differences between an expert and a novice designer",
         "pub_year": "2003",
         "citation": "Human behaviour in design: Individuals, teams, tools, 42-52, 2003",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "3jv77YgAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -5807,7 +5815,7 @@
         "title": "Studying engineering design creativity",
         "pub_year": "2008",
         "citation": "Workshop on Studying Design Creativity, 2008",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "3jv77YgAAAAJ:djcsc3XHdKAC"
     },
     {
@@ -5842,7 +5850,7 @@
         "title": "Synchronous support and emergence in collaborative CAAD",
         "pub_year": "1993",
         "citation": "CAAD futures 93, 455-470, 1993",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "3jv77YgAAAAJ:maZDTaKrznsC"
     },
     {
@@ -6102,7 +6110,7 @@
         "title": "The differences between retrospective and concurrent protocols in revealing the process-oriented aspects of the design process",
         "pub_year": "2001",
         "citation": "Design studies 22 (3), 283-295, 2001",
-        "num_citations": 202,
+        "num_citations": 204,
         "author_pub_id": "3jv77YgAAAAJ:mB3voiENLucC"
     },
     {
@@ -6130,14 +6138,14 @@
         "title": "The effect of digital design representation on designers’ visual attention",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "3jv77YgAAAAJ:rwEhk56xNqMC"
     },
     {
         "title": "The effects of examples on the results of a design activity",
         "pub_year": "1991",
         "citation": "Artificial Intelligence in Design'91, 525-542, 1991",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "3jv77YgAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -6164,7 +6172,7 @@
         "title": "The function-behaviour-structure ontology of design",
         "pub_year": "2014",
         "citation": "An anthology of theories and models of design: philosophy, approaches and …, 2014",
-        "num_citations": 285,
+        "num_citations": 288,
         "author_pub_id": "3jv77YgAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -6206,14 +6214,14 @@
         "title": "The neurophysiological activations of mechanical engineers and industrial designers while designing and problem-solving",
         "pub_year": "2020",
         "citation": "Design Science 6, e26, 2020",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "3jv77YgAAAAJ:NObE97JSLecC"
     },
     {
         "title": "The neurophysiological activations of novice and experienced professionals when designing and problem-solving",
         "pub_year": "2020",
         "citation": "Proceedings of the Design Society: DESIGN Conference 1, 1569-1578, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "3jv77YgAAAAJ:C-SEpTPhZ1wC"
     },
     {
@@ -6269,7 +6277,7 @@
         "title": "The roles of sketches in early conceptual design processes",
         "pub_year": "2022",
         "citation": "Proceedings of the twentieth annual conference of the Cognitive Science …, 2022",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "3jv77YgAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -6290,21 +6298,21 @@
         "title": "The situated function–behaviour–structure framework",
         "pub_year": "2004",
         "citation": "Design studies 25 (4), 373-391, 2004",
-        "num_citations": 1806,
+        "num_citations": 1815,
         "author_pub_id": "3jv77YgAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "The situatedness of design concepts: empirical evidence from design teams in engineering",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 3503-3512, 2023",
-        "num_citations": 5,
+        "num_citations": 8,
         "author_pub_id": "3jv77YgAAAAJ:BHd7YmozNHgC"
     },
     {
         "title": "The structure of concurrent cognitive actions: a case study on novice and expert designers",
         "pub_year": "2002",
         "citation": "Design studies 23 (1), 25-40, 2002",
-        "num_citations": 320,
+        "num_citations": 321,
         "author_pub_id": "3jv77YgAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -6332,7 +6340,7 @@
         "title": "The what, the how, and the why in design",
         "pub_year": "1994",
         "citation": "Applied Artificial Intelligence an International Journal 8 (2), 199-218, 1994",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "3jv77YgAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -6365,7 +6373,7 @@
         "title": "To sketch or not to sketch? That is the question",
         "pub_year": "2006",
         "citation": "Design studies 27 (5), 587-613, 2006",
-        "num_citations": 408,
+        "num_citations": 411,
         "author_pub_id": "3jv77YgAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -6407,7 +6415,7 @@
         "title": "Towards a model of exploration in computer-aided design.",
         "pub_year": "1994",
         "citation": "Formal design methods for CAD, 315-336, 1994",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "3jv77YgAAAAJ:TQgYirikUcIC"
     },
     {
@@ -6538,7 +6546,7 @@
         "title": "Understanding conceptual electronic design using protocol analysis",
         "pub_year": "1998",
         "citation": "Research in Engineering Design 10, 129-140, 1998",
-        "num_citations": 223,
+        "num_citations": 225,
         "author_pub_id": "3jv77YgAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -6580,7 +6588,7 @@
         "title": "Unexpected discoveries and S-invention of design requirements: important vehicles for a design process",
         "pub_year": "2000",
         "citation": "Design studies 21 (6), 539-567, 2000",
-        "num_citations": 598,
+        "num_citations": 600,
         "author_pub_id": "3jv77YgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -6692,7 +6700,7 @@
         "title": "Using eye-tracking to study designers’ cognitive behaviour when designing with CAAD",
         "pub_year": "2018",
         "citation": "52nd International Conference of the Architectural Science Association 2018 …, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "3jv77YgAAAAJ:bFuYayV9R1gC"
     },
     {
@@ -6706,14 +6714,14 @@
         "title": "Using neuroscience techniques to understand and improve design cognition",
         "pub_year": "2020",
         "citation": "AIMS neuroscience 7 (3), 319, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "3jv77YgAAAAJ:wUCFpcnEedwC"
     },
     {
         "title": "Using the FBS ontology to capture semantic design information in design protocol studies",
         "pub_year": "2022",
         "citation": "About Designing, 213-229, 2022",
-        "num_citations": 119,
+        "num_citations": 121,
         "author_pub_id": "3jv77YgAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -6721,6 +6729,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "3jv77YgAAAAJ:OBSaB-F7qqsC"
+    },
+    {
+        "title": "Validation of a procedure for examining the neurocognitive characteristics of design for sustainability activities",
+        "pub_year": "2024",
+        "citation": "Linköping University Electronic Press, 2024",
+        "num_citations": 0,
+        "author_pub_id": "3jv77YgAAAAJ:r655XaDZu5IC"
     },
     {
         "title": "Visual Attention to Biophilic Elements in Virtual Classroom Design: A VR Eye-Tracking Study",
@@ -6823,7 +6838,7 @@
         "title": "What does an artificial design agent mean by being ‘situated’?",
         "pub_year": "2005",
         "citation": "Design studies 26 (5), 535-561, 2005",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "3jv77YgAAAAJ:pqnbT2bcN3wC"
     },
     {

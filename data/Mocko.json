@@ -51,7 +51,7 @@
         "title": "A formal representation of function structure graphs for physics-based reasoning",
         "pub_year": "2013",
         "citation": "Journal of Computing and Information Science in Engineering 13 (2), 021001, 2013",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "a0IJVCQAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -114,7 +114,7 @@
         "title": "A protocol to formalise function verbs to support conservation-based model checking",
         "pub_year": "2011",
         "citation": "Journal of Engineering Design 22 (11-12), 765-788, 2011",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "a0IJVCQAAAAJ:dhFuZR0502QC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Automated Navigation of Method Time Measurement Tables for Automotive Assembly Line Planning",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "a0IJVCQAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
         "citation": "International design engineering technical conferences and computers and …, 2008",
-        "num_citations": 327,
+        "num_citations": 328,
         "author_pub_id": "a0IJVCQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -316,28 +316,28 @@
         "title": "Computing similarity of text-based assembly processes for knowledge retrieval and reuse",
         "pub_year": "2016",
         "citation": "Journal of Manufacturing Systems 39, 101-110, 2016",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "a0IJVCQAAAAJ:pe4chHNxNLUC"
     },
     {
         "title": "Concept exploration through morphological charts: an experimental study",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "a0IJVCQAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Concept generation through morphological and options matrices",
         "pub_year": "2013",
         "citation": "ICoRD'13: Global Product Development, 199-210, 2013",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "a0IJVCQAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Concept generation using morphological and options matrices",
         "pub_year": "2012",
         "citation": "Clemson University, 2012",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "a0IJVCQAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Design method development: A case study and survey",
         "pub_year": "2008",
         "citation": "Tools and Methods of Competitive Engineering, 2008",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "a0IJVCQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Generating design structure matrices and domain mapping matrices using SysML",
         "pub_year": "2009",
         "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "a0IJVCQAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -651,7 +651,7 @@
         "title": "Manufacturing assembly time estimation using structural complexity metric trained artificial neural networks",
         "pub_year": "2014",
         "citation": "Journal of computing and information science in engineering 14 (1), 011005, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "a0IJVCQAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -686,7 +686,7 @@
         "title": "Modeling and analysis of an ontology of engineering design activities using the design structure matrix",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "a0IJVCQAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -747,7 +747,7 @@
         "title": "Optimal pacing in a cycling time-trial considering cyclist's fatigue dynamics",
         "pub_year": "2013",
         "citation": "2013 American Control Conference, 6442-6447, 2013",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "a0IJVCQAAAAJ:o0eFlWRwRSUC"
     },
     {
@@ -767,7 +767,7 @@
         "title": "Physics-based reasoning in conceptual design using a formal representation of function structure graphs",
         "pub_year": "2013",
         "citation": "Journal of Computing and Information Science in Engineering 13 (1), 011008, 2013",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "a0IJVCQAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -830,7 +830,7 @@
         "title": "Requirement modeling systems for mechanical design: a systematic method for evaluating requirement management tools and languages",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "a0IJVCQAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -862,7 +862,7 @@
         "author_pub_id": "a0IJVCQAAAAJ:aqlVkmm33-oC"
     },
     {
-        "title": "SRL 264 Research–Part I. Methodology and Technology Supporting Multifunctional Multiscale Design",
+        "title": "SRL 264 Research–Part II. Leftovers",
         "pub_year": "2005",
         "citation": "Georgia Institute of Technology, 2005",
         "num_citations": 0,
@@ -900,7 +900,7 @@
         "title": "Text analysis of assembly work instructions",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "a0IJVCQAAAAJ:3jqAvCjcdfEC"
     },
     {
@@ -990,7 +990,7 @@
         "title": "Using rule based design in engineer to order industry: an SME case study",
         "pub_year": "2008",
         "citation": "Computer-Aided Design and Applications 5 (1-4), 178-193, 2008",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "a0IJVCQAAAAJ:KlAtU1dfN6UC"
     },
     {
