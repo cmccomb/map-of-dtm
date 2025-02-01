@@ -24,7 +24,7 @@
         "title": "A neuroimaging investigation of design ideation with and without inspirational stimuli—understanding the meaning of near and far stimuli",
         "pub_year": "2019",
         "citation": "Design Studies 60, 1-38, 2019",
-        "num_citations": 128,
+        "num_citations": 129,
         "author_pub_id": "yA7xpsIAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Adaptive inspirational design stimuli: using design output to computationally search for stimuli that impact concept generation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 091401, 2020",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "yA7xpsIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -64,7 +64,8 @@
     },
     {
         "title": "Automating Analogical Reasoning: A Wizard of Oz Study on the Benefits and Pitfalls",
-        "citation": "Design Computing and Cognition'24: Volume 1 1, 21, 0",
+        "pub_year": "2024",
+        "citation": "Design Computing and Cognition’24: Volume 1 1, 21, 2024",
         "num_citations": 0,
         "author_pub_id": "yA7xpsIAAAAJ:70eg2SAEIzsC"
     },
@@ -93,14 +94,14 @@
         "title": "Collaborative design decision-making with artificial intelligence: Exploring the evolution and impact of human confidence in AI and in themselves",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "yA7xpsIAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Comparing and evaluating human and computationally derived representations of non-semantic design information",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 031401, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:blknAaTinKkC"
     },
     {
@@ -114,7 +115,7 @@
         "title": "Conceptual design generation using large language models",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 50,
+        "num_citations": 53,
         "author_pub_id": "yA7xpsIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -128,7 +129,7 @@
         "title": "Crowdsourcing inspiration: Using crowd generated inspirational stimuli to support designer ideation",
         "pub_year": "2019",
         "citation": "Design Studies 61, 1-29, 2019",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "yA7xpsIAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -170,7 +171,7 @@
         "title": "Designing dialogue: Human-AI collaboration in design processes",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "yA7xpsIAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -205,7 +206,7 @@
         "title": "Enabling multi-modal search for inspirational design stimuli using deep learning",
         "pub_year": "2022",
         "citation": "AI EDAM 36, e22, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "yA7xpsIAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -233,7 +234,7 @@
         "title": "Examining the Boundary Between Near and Far Design Stimuli",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 1725-1734, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "yA7xpsIAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -303,7 +304,7 @@
         "title": "How Being Outvoted by AI Teammates Impacts Human-AI Collaboration",
         "pub_year": "2024",
         "citation": "International Journal of Human–Computer Interaction, 1-18, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -324,7 +325,7 @@
         "title": "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice",
         "pub_year": "2022",
         "citation": "Computers in Human Behavior 127, 107018, 2022",
-        "num_citations": 190,
+        "num_citations": 200,
         "author_pub_id": "yA7xpsIAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -338,7 +339,7 @@
         "title": "Impossible by design? Fairness, strategy, and Arrow’s impossibility theorem",
         "pub_year": "2017",
         "citation": "Design Science 3, e2, 2017",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "yA7xpsIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -443,7 +444,7 @@
         "title": "ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 411, 116051, 2023",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "yA7xpsIAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -471,7 +472,7 @@
         "title": "The Impact of Sustainability on Consumer Preference Judgements of Product Attributes",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 11, 2015",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "yA7xpsIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -506,7 +507,7 @@
         "title": "Uncovering hidden patterns of design ideation using hidden Markov modeling and neuroimaging",
         "pub_year": "2023",
         "citation": "AI EDAM 37, e8, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yA7xpsIAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -520,7 +521,7 @@
         "title": "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform",
         "pub_year": "2023",
         "citation": "Design Studies 88, 101202, 2023",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "yA7xpsIAAAAJ:maZDTaKrznsC"
     },
     {

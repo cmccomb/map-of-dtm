@@ -10,14 +10,14 @@
         "title": "3D Interactive Model of HERA to support ECLSS anomaly resolution using a Virtual Assistant",
         "pub_year": "2021",
         "citation": "2021 IEEE Aerospace Conference (50100), 1-10, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:2l5NCbZemmgC"
     },
     {
         "title": "3D-CHESS: Decentralized, Distributed, Dynamic, and Context-aware Heterogeneous Sensor Systems",
         "pub_year": "2022",
         "citation": "Pasadena, CA: Jet Propulsion Laboratory, National Aeronautics and Space …, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Hq9WqBwAAAAJ:qwy9JoKyICEC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "A survey and assessment of the capabilities of Cubesats for Earth observation",
         "pub_year": "2012",
         "citation": "Acta Astronautica 74, 50-68, 2012",
-        "num_citations": 583,
+        "num_citations": 592,
         "author_pub_id": "Hq9WqBwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -115,21 +115,21 @@
         "title": "Agent‐based simulation framework and consensus algorithm for observing systems with adaptive modularity",
         "pub_year": "2018",
         "citation": "Systems Engineering 21 (5), 432-454, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "Hq9WqBwAAAAJ:Ade32sEp0pkC"
     },
     {
         "title": "An intelligent spacecraft configuration tool for mission architecture space exploration",
         "pub_year": "2015",
         "citation": "AIAA SPACE 2015 Conference and Exposition, 4439, 2015",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Hq9WqBwAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Analysis of navigation performance with lunar GNSS evolution",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 International Technical Meeting of The Institute of …, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "Hq9WqBwAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -189,6 +189,12 @@
         "author_pub_id": "Hq9WqBwAAAAJ:EPG8bYD4jVwC"
     },
     {
+        "title": "BAYESIAN NETWORK APPROACH TO COLLABORATIVE ANOMALY DIAGNOSIS IN HUMAN-AGENT ENVIRONMENTS",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:zwpXiJ37cpgC"
+    },
+    {
         "title": "COGNITIVE TRAINING ASSISTANT FOR COST ESTIMATORS",
         "citation": "",
         "num_citations": 0,
@@ -240,7 +246,7 @@
         "title": "Constellation optimization using an evolutionary algorithm with a variable-length chromosome",
         "pub_year": "2018",
         "citation": "2018 IEEE aerospace conference, 1-12, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "Hq9WqBwAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -257,6 +263,12 @@
         "author_pub_id": "Hq9WqBwAAAAJ:KNjnJ3z-R6IC"
     },
     {
+        "title": "DEVELOPMENT OF A PHYSICS-BASED DIAGNOSIS MODEL AND DIGITAL TWIN SIMULATION OF A SPACE HABITAT FOR END-TO-END AUTONOMOUS ANOMALY RESOLUTION",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:NxmKEeNBbOMC"
+    },
+    {
         "title": "Daphne: A virtual assistant for designing earth observation distributed spacecraft missions",
         "pub_year": "2019",
         "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote …, 2019",
@@ -271,6 +283,13 @@
         "author_pub_id": "Hq9WqBwAAAAJ:1yWc8FF-_SYC"
     },
     {
+        "title": "Decentralized Consensus-Based Algorithms for Satellite Observation Reactive Planning With Complex Dependencies",
+        "pub_year": "2025",
+        "citation": "AIAA SCITECH 2025 Forum, 1148, 2025",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:c1e4I3QdEKYC"
+    },
+    {
         "title": "Decentralized Market-Based Observation Assignment Strategy for Dynamic Networks in Sensor Web Mission Concepts",
         "pub_year": "2023",
         "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium …, 2023",
@@ -278,10 +297,17 @@
         "author_pub_id": "Hq9WqBwAAAAJ:isU91gLudPYC"
     },
     {
+        "title": "Decentralized Satellite Constellation Replanning for Event Observation",
+        "pub_year": "2025",
+        "citation": "Journal of Spacecraft and Rockets, 1-19, 2025",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:-yGd096yOn8C"
+    },
+    {
         "title": "Decentralized context-based on-board planning for earth observation missions",
         "pub_year": "2021",
         "citation": "AIAA Scitech 2021 Forum, 1469, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Hq9WqBwAAAAJ:WAzi4Gm8nLoC"
     },
     {
@@ -344,7 +370,7 @@
         "title": "Distributed earth satellite systems: What is needed to move forward?",
         "pub_year": "2017",
         "citation": "Journal of Aerospace Information Systems 14 (8), 412-438, 2017",
-        "num_citations": 133,
+        "num_citations": 136,
         "author_pub_id": "Hq9WqBwAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -363,7 +389,7 @@
         "title": "Effect of Explanations in AI-Assisted Anomaly Treatment for Human Spaceﬂight Missions",
         "pub_year": "2022",
         "citation": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 66 (1 …, 2022",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "Hq9WqBwAAAAJ:Xz60mAmATU4C"
     },
     {
@@ -391,14 +417,14 @@
         "title": "Examining the impact of asymmetry in lattice-based mechanical metamaterials",
         "pub_year": "2022",
         "citation": "Mechanics of Materials 172, 104386, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:TlpoogIpr_IC"
     },
     {
         "title": "Experimental design & pilot testing for ECLSS anomaly resolution using daphne-AT virtual assistant",
         "pub_year": "2021",
         "citation": "2021 IEEE Aerospace Conference (50100), 1-13, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "Hq9WqBwAAAAJ:SGW5VrABaM0C"
     },
     {
@@ -474,7 +500,7 @@
         "title": "Exploring the design space of lunar GNSS in frozen orbit conditions",
         "pub_year": "2020",
         "citation": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 444-451, 2020",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "Hq9WqBwAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -516,7 +542,7 @@
         "title": "Forecasting soil moisture using a deep learning model integrated with passive microwave retrieval",
         "pub_year": "2022",
         "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium …, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Hq9WqBwAAAAJ:CYCckWUYoCcC"
     },
     {
@@ -628,7 +654,7 @@
         "title": "Learning Comes from Experience: The Effects on Human Learning and Performance of a Virtual Assistant for Design Space Exploration",
         "pub_year": "2022",
         "citation": "Design Computing and Cognition’20, 655-665, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Hq9WqBwAAAAJ:aIdbFUkbNIkC"
     },
     {
@@ -697,7 +723,7 @@
         "title": "Multi-objective design of a lunar GNSS",
         "pub_year": "2022",
         "citation": "NAVIGATION: Journal of the Institute of Navigation 69 (1), 2022",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "Hq9WqBwAAAAJ:silx2ntsSuwC"
     },
     {
@@ -736,6 +762,13 @@
         "author_pub_id": "Hq9WqBwAAAAJ:SnGPuo6Feq8C"
     },
     {
+        "title": "Optimizing Monitoring Routes for Electric Vehicles With Access to Multiple Charging Stations Using Mixed Integer Programming: Case Study With Non-Perennial Rivers",
+        "pub_year": "2025",
+        "citation": "AIAA SCITECH 2025 Forum, 2284, 2025",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:unp9ATQDT5gC"
+    },
+    {
         "title": "Optimizing commonality and performance in platform-based earth observing smallsat architectures",
         "pub_year": "2017",
         "citation": "2017 IEEE Aerospace Conference, 1-13, 2017",
@@ -746,7 +779,7 @@
         "title": "Optimizing satellite mission requirements to measure total suspended solids in rivers",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-9, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Hq9WqBwAAAAJ:L_l9e5I586QC"
     },
     {
@@ -814,14 +847,14 @@
         "title": "Rule-based system architecting of Earth observation satellite systems",
         "pub_year": "2012",
         "citation": "Massachusetts Institute of Technology, Department of Aeronautics and …, 2012",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "Hq9WqBwAAAAJ:eO3_k5sD8BwC"
     },
     {
         "title": "Rule-based system architecting of earth observing systems: earth science decadal survey",
         "pub_year": "2014",
         "citation": "Journal of Spacecraft and Rockets 51 (5), 1505-1521, 2014",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "Hq9WqBwAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -892,6 +925,13 @@
         "author_pub_id": "Hq9WqBwAAAAJ:69ZgNCALVd0C"
     },
     {
+        "title": "Spacecraft Configuration Design Exploration Through Transformer-Based Reinforcement Learning",
+        "pub_year": "2025",
+        "citation": "AIAA SCITECH 2025 Forum, 0894, 2025",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:EsEWqaRxkBgC"
+    },
+    {
         "title": "Spacecraft and constellation design for a continuous responsive imaging system in space",
         "pub_year": "2009",
         "citation": "AIAA SPACE 2009 Conference & Exposition, 6773, 2009",
@@ -916,7 +956,7 @@
         "title": "System architecture: strategy and product development for complex systems",
         "pub_year": "2015",
         "citation": "Prentice Hall Press, 2015",
-        "num_citations": 641,
+        "num_citations": 647,
         "author_pub_id": "Hq9WqBwAAAAJ:FiytvqdAVhgC"
     },
     {
@@ -930,7 +970,7 @@
         "title": "Task Planning Strategies for a Remote Sensing Water Quality Mission",
         "pub_year": "2024",
         "citation": "AIAA SCITECH 2024 Forum, 2893, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "Hq9WqBwAAAAJ:tHtfpZlB6tUC"
     },
     {
@@ -951,7 +991,7 @@
         "title": "The impact of technical complexity on the decision to collaborate and combine",
         "pub_year": "2013",
         "citation": "2013 IEEE Aerospace Conference, 1-11, 2013",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Hq9WqBwAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1000,7 +1040,7 @@
         "title": "VASSAR: Value assessment of system architectures using rules",
         "pub_year": "2013",
         "citation": "2013 IEEE Aerospace Conference, 1-21, 2013",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "Hq9WqBwAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1022,10 +1062,17 @@
         "author_pub_id": "Hq9WqBwAAAAJ:Hck25ST_3aIC"
     },
     {
+        "title": "Virtual Assistant for Spacecraft Anomaly Resolution: Effects on Human Performance Metrics",
+        "pub_year": "2024",
+        "citation": "Journal of Aerospace Information Systems, 1-11, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:__bU50VfleQC"
+    },
+    {
         "title": "Virtual assistant for anomaly treatment in long duration exploration missions",
         "pub_year": "2020",
         "citation": "AIAA Scitech 2020 Forum, 2255, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "Hq9WqBwAAAAJ:ce2CqMG-AY4C"
     },
     {
