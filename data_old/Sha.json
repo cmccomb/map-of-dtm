@@ -38,7 +38,7 @@
         "title": "A Multi-case Study of Traditional, Parametric, and Generative Design Thinking of Engineering Students",
         "pub_year": "2024",
         "citation": "International Conference on-Design Computing and Cognition, 89-104, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mZBr2BEAAAAJ:Aul-kAQHnToC"
     },
     {
@@ -56,8 +56,9 @@
         "author_pub_id": "mZBr2BEAAAAJ:b1wdh0AR-JQC"
     },
     {
-        "title": "A REAL-TIME MONITORING FRAMEWORK FOR COOPERATIVE 3D PRINTING",
-        "citation": "",
+        "title": "A Real-Time Monitoring Framework for Cooperative 3D Printing",
+        "pub_year": "2024",
+        "citation": "University of Texas at Austin, 2024",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:artPoR2Yc-kC"
     },
@@ -65,7 +66,7 @@
         "title": "A Study on Generative Design Reasoning and Students' Divergent and Convergent Thinking",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -86,14 +87,14 @@
         "title": "A generative approach for scheduling multi-robot cooperative three-dimensional printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (6), 061011, 2020",
-        "num_citations": 20,
+        "num_citations": 23,
         "author_pub_id": "mZBr2BEAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "A heuristic scaling strategy for multi-robot cooperative three-dimensional printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041002, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "mZBr2BEAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -107,7 +108,7 @@
         "title": "A predictive and generative design approach for three-dimensional mesh shapes using target-embedding variational autoencoder",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (11), 114501, 2022",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mZBr2BEAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -177,7 +178,7 @@
         "title": "Architecting the cooperative 3d printing system",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "mZBr2BEAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -212,7 +213,7 @@
         "title": "Computational design of scheduling strategies for multi-robot cooperative 3D printing",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -246,7 +247,7 @@
         "title": "Data-driven predictive modeling of tensile behavior of parts fabricated by cooperative 3d printing",
         "pub_year": "2020",
         "citation": "Journal of Computing and Information Science in Engineering 20 (2), 021002, 2020",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "mZBr2BEAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -260,7 +261,7 @@
         "title": "Decentralized and centralized planning for multi-robot additive manufacturing",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (1), 012003, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "mZBr2BEAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -274,14 +275,14 @@
         "title": "Deep learning methods of cross-modal tasks for conceptual design of product shapes: A review",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 2023",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "mZBr2BEAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "Deep learning of cross-modal tasks for conceptual design of engineered products: A review",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -308,7 +309,7 @@
         "title": "Design representation for performance evaluation of 3D shapes in structure-aware generative design",
         "pub_year": "2023",
         "citation": "Design Science 9, e27, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "mZBr2BEAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -440,7 +441,7 @@
         "title": "Human-centered generative design framework: an early design framework to support concept creation and evaluation",
         "pub_year": "2024",
         "citation": "International Journal of Human–Computer Interaction 40 (4), 933-944, 2024",
-        "num_citations": 47,
+        "num_citations": 53,
         "author_pub_id": "mZBr2BEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -449,6 +450,13 @@
         "citation": "Communication Systems and Information Technology: Selected Papers from the …, 2011",
         "num_citations": 1,
         "author_pub_id": "mZBr2BEAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Image2CADSeq: Computer-Aided Design Sequence and Knowledge Inference from Product Images",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.04928, 2025",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:F1b5ZUV5XREC"
     },
     {
         "title": "Industrial knowledge graph-enabled cognitive intelligence-driven mass personalization",
@@ -496,7 +504,7 @@
         "title": "LLM4CAD: Multi-Modal Large Language Models for 3D Computer-Aided Design Generation",
         "pub_year": "2024",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "mZBr2BEAAAAJ:fbc8zXXH2BUC"
     },
     {
@@ -507,17 +515,24 @@
         "author_pub_id": "mZBr2BEAAAAJ:BJbdYPG6LGMC"
     },
     {
-        "title": "Latent Crossover for Data-Driven Multifidelity Topology Design",
+        "title": "Large Language Models for Computer-Aided Design (LLM4CAD) Fine-Tuned: Dataset and Experiments",
+        "pub_year": "2025",
+        "citation": "Journal of Mechanical Design, 1-19, 2025",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:2tRrZ1ZAMYUC"
+    },
+    {
+        "title": "Latent crossover for data-driven multifidelity topology design",
         "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146, 051713-1, 2024",
-        "num_citations": 11,
+        "citation": "Journal of Mechanical Design 146 (5), 2024",
+        "num_citations": 13,
         "author_pub_id": "mZBr2BEAAAAJ:OcBU2YAGkTUC"
     },
     {
         "title": "LayerLock: Layer-wise collision-free multi-robot additive manufacturing using topologically interlocked space-filling shapes",
         "pub_year": "2022",
         "citation": "Computer-Aided Design 152, 103392, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "mZBr2BEAAAAJ:umqufdRvDiIC"
     },
     {
@@ -538,14 +553,14 @@
         "title": "Mechanical strength of chunk-based printed parts for cooperative 3D printing",
         "pub_year": "2018",
         "citation": "Procedia Manufacturing 26, 962-972, 2018",
-        "num_citations": 31,
+        "num_citations": 34,
         "author_pub_id": "mZBr2BEAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Modeling Airline Decisions on Route Planning Using Discrete Choice Models",
         "pub_year": "2015",
         "citation": "15th AIAA Aviation Technology, Integration, and Operations Conference …, 2015",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "mZBr2BEAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -586,7 +601,7 @@
         "title": "Modeling airlines’ decisions on city-pair route selection using discrete choice models",
         "pub_year": "2016",
         "citation": "Journal of Air Transportation 24 (3), 63-73, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "mZBr2BEAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -600,7 +615,7 @@
         "title": "Modeling participation behaviors in design crowdsourcing using a bipartite network-based approach",
         "pub_year": "2019",
         "citation": "Journal of Computing and Information Science in Engineering 19 (3), 031010, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "mZBr2BEAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -619,7 +634,8 @@
     },
     {
         "title": "Multi-Nozzle Cooperation for Micro-Cold Spray",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "University of Texas at Austin, 2024",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:vDZJ-YLwNdEC"
     },
@@ -627,7 +643,7 @@
         "title": "Multi-robot path planning for cooperative 3d printing",
         "pub_year": "2020",
         "citation": "International Manufacturing Science and Engineering Conference 84256 …, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "mZBr2BEAAAAJ:FPJr55Dyh1AC"
     },
     {
@@ -643,6 +659,13 @@
         "citation": "Conference on Systems Engineering Research, 523-538, 2023",
         "num_citations": 0,
         "author_pub_id": "mZBr2BEAAAAJ:KbBQZpvPDL4C"
+    },
+    {
+        "title": "NoodlePrint: Cooperative Multi-Robot Additive Manufacturing with Helically Interlocked Tiles",
+        "pub_year": "2025",
+        "citation": "Journal of Manufacturing Science and Engineering, 1-21, 2025",
+        "num_citations": 0,
+        "author_pub_id": "mZBr2BEAAAAJ:AHdEip9mkN0C"
     },
     {
         "title": "Optimum Design of Toggle Transmission System in Double Toggle Mechanical Press Using Response Surface Methodology Combined with Experimental Design",
@@ -682,7 +705,7 @@
         "title": "Part-aware product design agent using deep generative network and local linear embedding",
         "pub_year": "2021",
         "citation": "",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "mZBr2BEAAAAJ:0N-VGjzr574C"
     },
     {
@@ -703,7 +726,7 @@
         "title": "Predicting human design decisions with deep recurrent neural network combining static and dynamic data",
         "pub_year": "2020",
         "citation": "Design Science 6, e15, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "mZBr2BEAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -717,14 +740,14 @@
         "title": "Predicting sequential design decisions using the function-behavior-structure design process model and recurrent neural networks",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (8), 081706, 2021",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "mZBr2BEAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "Print As a Dance Duet: Communication Strategies for Collision-Free Arm-Arm Coordination in Cooperative 3D Printing",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "mZBr2BEAAAAJ:HIFyuExEbWQC"
     },
     {
@@ -868,7 +891,7 @@
         "title": "Toward swarm manufacturing: architecting a cooperative 3D printing system",
         "pub_year": "2022",
         "citation": "Journal of Manufacturing Science and Engineering 144 (8), 081004, 2022",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mZBr2BEAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -930,7 +953,7 @@
         "title": "Z-chunking for cooperative 3d printing of large and tall objects",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mZBr2BEAAAAJ:WJVC3Jt7v1AC"
     }
 ]

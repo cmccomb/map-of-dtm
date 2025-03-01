@@ -21,6 +21,13 @@
         "author_pub_id": "Hq9WqBwAAAAJ:qwy9JoKyICEC"
     },
     {
+        "title": "A Comparative Case Study of Decision Support Systems",
+        "pub_year": "2019",
+        "citation": "Design Computing and Cognition'18, 341, 2019",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:AzKEL7Gb_04C"
+    },
+    {
         "title": "A CubeSat catalog design tool for a multi-agent architecture development framework",
         "pub_year": "2015",
         "citation": "2015 IEEE Aerospace Conference, 1-10, 2015",
@@ -38,7 +45,7 @@
         "title": "A classification and comparison of credit assignment strategies in multiobjective adaptive operator selection",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Evolutionary Computation 21 (2), 294-314, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "Hq9WqBwAAAAJ:7H_MAutzIkAC"
     },
     {
@@ -59,7 +66,7 @@
         "title": "A framework to study Human-AI collaborative design space exploration",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Hq9WqBwAAAAJ:HJSXoJQnj-YC"
     },
     {
@@ -101,7 +108,7 @@
         "title": "A survey and assessment of the capabilities of Cubesats for Earth observation",
         "pub_year": "2012",
         "citation": "Acta Astronautica 74, 50-68, 2012",
-        "num_citations": 592,
+        "num_citations": 597,
         "author_pub_id": "Hq9WqBwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -129,7 +136,7 @@
         "title": "Analysis of navigation performance with lunar GNSS evolution",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 International Technical Meeting of The Institute of …, 2022",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "Hq9WqBwAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -143,7 +150,7 @@
         "title": "Artificial intelligence and engineering design",
         "pub_year": "2022",
         "citation": "Journal of mechanical design 144 (2), 020301, 2022",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "Hq9WqBwAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -171,7 +178,7 @@
         "title": "Assessment of constellation designs for earth observation: Application to the TROPICS mission",
         "pub_year": "2019",
         "citation": "Acta Astronautica 161, 166-182, 2019",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "Hq9WqBwAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -182,7 +189,7 @@
         "author_pub_id": "Hq9WqBwAAAAJ:wvYxNZNCP7wC"
     },
     {
-        "title": "Autonomous Delay Tolerant Network Management Using Reinforcement Learning",
+        "title": "Autonomous delay tolerant network management using reinforcement learning",
         "pub_year": "2021",
         "citation": "Journal of Aerospace Information Systems 18 (7), 404-416, 2021",
         "num_citations": 6,
@@ -193,6 +200,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "Hq9WqBwAAAAJ:zwpXiJ37cpgC"
+    },
+    {
+        "title": "COGNITIVE ASSISTANT FOR TRAINING COST ESTIMATORS",
+        "pub_year": "2023",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:qE4H1tSSYIIC"
     },
     {
         "title": "COGNITIVE TRAINING ASSISTANT FOR COST ESTIMATORS",
@@ -206,20 +220,6 @@
         "citation": "Journal of Mechanical Design 138 (9), 091403, 2016",
         "num_citations": 27,
         "author_pub_id": "Hq9WqBwAAAAJ:MhiOAD_qIWkC"
-    },
-    {
-        "title": "Cognitive Assistant for Training Cost Estimators",
-        "pub_year": "2023",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "Hq9WqBwAAAAJ:qE4H1tSSYIIC"
-    },
-    {
-        "title": "Cognitive Training Assistants for Cost Estimators (Incubate Phase I, WRT-1049.8. 1)",
-        "pub_year": "2022",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "Hq9WqBwAAAAJ:eGYfIraVYiQC"
     },
     {
         "title": "Cognitive style and field knowledge in complex design problem-solving: A comparative case study of decision support systems",
@@ -246,7 +246,7 @@
         "title": "Constellation optimization using an evolutionary algorithm with a variable-length chromosome",
         "pub_year": "2018",
         "citation": "2018 IEEE aerospace conference, 1-12, 2018",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "Hq9WqBwAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -259,7 +259,7 @@
         "title": "D-shield: Distributed spacecraft with heuristic intelligence to enable logistical decisions",
         "pub_year": "2020",
         "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium …, 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "Hq9WqBwAAAAJ:KNjnJ3z-R6IC"
     },
     {
@@ -272,14 +272,14 @@
         "title": "Daphne: A virtual assistant for designing earth observation distributed spacecraft missions",
         "pub_year": "2019",
         "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote …, 2019",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "Hq9WqBwAAAAJ:sszUF3NjhM4C"
     },
     {
         "title": "Daphne: An intelligent assistant for architecting earth observing satellite systems",
         "pub_year": "2018",
         "citation": "2018 AIAA Information Systems-AIAA Infotech@ Aerospace, 1366, 2018",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Hq9WqBwAAAAJ:1yWc8FF-_SYC"
     },
     {
@@ -323,6 +323,12 @@
         "citation": "Journal of aerospace information systems 15 (3), 107-119, 2018",
         "num_citations": 20,
         "author_pub_id": "Hq9WqBwAAAAJ:CdxZDUztZiMC"
+    },
+    {
+        "title": "Design guidelines for general-purpose payload-oriented nanosatellite software architectures",
+        "citation": "American Institute of Aeronautics and Astronautics (AIAA), 0",
+        "num_citations": 0,
+        "author_pub_id": "Hq9WqBwAAAAJ:CNPyR2KL9-0C"
     },
     {
         "title": "Design of a satellite constellation for monitoring inland water quality",
@@ -370,7 +376,7 @@
         "title": "Distributed earth satellite systems: What is needed to move forward?",
         "pub_year": "2017",
         "citation": "Journal of Aerospace Information Systems 14 (8), 412-438, 2017",
-        "num_citations": 136,
+        "num_citations": 140,
         "author_pub_id": "Hq9WqBwAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -403,7 +409,7 @@
         "title": "Evaluating designer learning and performance in interactive deep generative design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (5), 051403, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "Hq9WqBwAAAAJ:2v_ZtQDX9iAC"
     },
     {
@@ -450,16 +456,9 @@
     {
         "title": "Explanation approaches for the Daphne virtual assistant",
         "pub_year": "2020",
-        "citation": "AIAA Scitech 2020 Forum, 2254, 2020",
-        "num_citations": 13,
+        "citation": "AIAA Scitech 2020 forum, 2254, 2020",
+        "num_citations": 12,
         "author_pub_id": "Hq9WqBwAAAAJ:kWvqk_afx_IC"
-    },
-    {
-        "title": "Exploring Reinforcement Learning for Autonomous Delay Tolerant Network Management",
-        "pub_year": "2020",
-        "citation": "ASCEND 2020, 4007, 2020",
-        "num_citations": 4,
-        "author_pub_id": "Hq9WqBwAAAAJ:mUJArPsKIAAC"
     },
     {
         "title": "Exploring classification algorithms for early mission formulation cost estimation",
@@ -476,10 +475,17 @@
         "author_pub_id": "Hq9WqBwAAAAJ:9yKSN-GCB0IC"
     },
     {
+        "title": "Exploring reinforcement learning for autonomous delay tolerant network management",
+        "pub_year": "2020",
+        "citation": "ASCEND 2020, 4007, 2020",
+        "num_citations": 5,
+        "author_pub_id": "Hq9WqBwAAAAJ:mUJArPsKIAAC"
+    },
+    {
         "title": "Exploring the architectural trade space of nasas space communication and navigation program",
         "pub_year": "2013",
         "citation": "2013 IEEE Aerospace Conference, 1-16, 2013",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Hq9WqBwAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -500,7 +506,7 @@
         "title": "Exploring the design space of lunar GNSS in frozen orbit conditions",
         "pub_year": "2020",
         "citation": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 444-451, 2020",
-        "num_citations": 20,
+        "num_citations": 25,
         "author_pub_id": "Hq9WqBwAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -570,15 +576,8 @@
         "title": "Identifying and Leveraging Promising Design Heuristics for Multi-Objective Combinatorial Design Optimization",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (12), 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "Hq9WqBwAAAAJ:RJOyoaXV5v8C"
-    },
-    {
-        "title": "Improving Designer Learning in Design Space Exploration by Adapting to the Designer’s Learning Goals",
-        "pub_year": "2022",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 5,
-        "author_pub_id": "Hq9WqBwAAAAJ:g5Ck-dwhA_QC"
     },
     {
         "title": "Improving Rule Mining for Entry, Descent, and Landing Simulations Using Knowledge Graphs",
@@ -588,10 +587,17 @@
         "author_pub_id": "Hq9WqBwAAAAJ:DyXnQzXoVgIC"
     },
     {
+        "title": "Improving designer learning in design space exploration by adapting to the designer’s learning goals",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
+        "num_citations": 6,
+        "author_pub_id": "Hq9WqBwAAAAJ:g5Ck-dwhA_QC"
+    },
+    {
         "title": "Incorporating expert knowledge into evolutionary algorithms with operators and constraints to design satellite systems",
         "pub_year": "2018",
         "citation": "Applied Soft Computing 66, 330-345, 2018",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "Hq9WqBwAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -660,8 +666,8 @@
     {
         "title": "Leveraging Large Language Models for Tradespace Exploration",
         "pub_year": "2024",
-        "citation": "Journal of Spacecraft and Rockets, 1-19, 2024",
-        "num_citations": 1,
+        "citation": "Journal of Spacecraft and Rockets 61 (5), 1165-1183, 2024",
+        "num_citations": 2,
         "author_pub_id": "Hq9WqBwAAAAJ:z6xuaG2dYH0C"
     },
     {
@@ -723,7 +729,7 @@
         "title": "Multi-objective design of a lunar GNSS",
         "pub_year": "2022",
         "citation": "NAVIGATION: Journal of the Institute of Navigation 69 (1), 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "Hq9WqBwAAAAJ:silx2ntsSuwC"
     },
     {
@@ -779,7 +785,7 @@
         "title": "Optimizing satellite mission requirements to measure total suspended solids in rivers",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-9, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "Hq9WqBwAAAAJ:L_l9e5I586QC"
     },
     {
@@ -793,7 +799,7 @@
         "title": "Patterns in system architecture decisions",
         "pub_year": "2016",
         "citation": "Systems Engineering 19 (6), 477-497, 2016",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "Hq9WqBwAAAAJ:jU7OWUQzBzMC"
     },
     {
@@ -840,7 +846,7 @@
         "title": "Results of the MIT space communication and navigation architecture study",
         "pub_year": "2014",
         "citation": "2014 IEEE Aerospace Conference, 1-14, 2014",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "Hq9WqBwAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -883,7 +889,7 @@
         "author_pub_id": "Hq9WqBwAAAAJ:HhcuHIWmDEUC"
     },
     {
-        "title": "Scheduling Mission Reconfiguration for an Interferometry Synthetic Aperture Radar Using Deep Reinforcement Learning",
+        "title": "Scheduling mission reconfiguration for an interferometry synthetic aperture radar using deep reinforcement learning",
         "pub_year": "2020",
         "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium …, 2020",
         "num_citations": 2,
@@ -893,7 +899,7 @@
         "title": "Setting priorities: Demonstrating stakeholder value networks in SysML",
         "pub_year": "2018",
         "citation": "INCOSE International Symposium 28 (1), 1207-1220, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "Hq9WqBwAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -949,14 +955,14 @@
         "title": "System Architecture",
         "pub_year": "2007",
         "citation": "",
-        "num_citations": 67,
+        "num_citations": 65,
         "author_pub_id": "Hq9WqBwAAAAJ:YlPif8NxrbYC"
     },
     {
         "title": "System architecture: strategy and product development for complex systems",
         "pub_year": "2015",
         "citation": "Prentice Hall Press, 2015",
-        "num_citations": 647,
+        "num_citations": 654,
         "author_pub_id": "Hq9WqBwAAAAJ:FiytvqdAVhgC"
     },
     {
@@ -998,7 +1004,7 @@
         "title": "Tradespace analysis of GNSS space segment architectures",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Aerospace and Electronic Systems 57 (1), 155-174, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Hq9WqBwAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -1039,8 +1045,8 @@
     {
         "title": "VASSAR: Value assessment of system architectures using rules",
         "pub_year": "2013",
-        "citation": "2013 IEEE Aerospace Conference, 1-21, 2013",
-        "num_citations": 55,
+        "citation": "2013 IEEE Aerospace conference, 1-21, 2013",
+        "num_citations": 56,
         "author_pub_id": "Hq9WqBwAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1086,7 +1092,7 @@
         "title": "iFEED: Interactive feature extraction for engineering design",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "Hq9WqBwAAAAJ:IaI1MmNe2tcC"
     }
 ]

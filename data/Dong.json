@@ -13,11 +13,11 @@
         "author_pub_id": "0O2bnZoAAAAJ:YOwf2qJgpHMC"
     },
     {
-        "title": "5 inquirycoaching",
-        "pub_year": "2016",
-        "citation": "Analyzing Design Review Conversations, 77, 2016",
-        "num_citations": 0,
-        "author_pub_id": "0O2bnZoAAAAJ:hMod-77fHWUC"
+        "title": "29 On the Evolution of Imagination and Design",
+        "pub_year": "2013",
+        "citation": "The Oxford handbook of the development of imagination, 453, 2013",
+        "num_citations": 22,
+        "author_pub_id": "0O2bnZoAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "9 Beyond participation",
@@ -48,13 +48,6 @@
         "author_pub_id": "0O2bnZoAAAAJ:ClCfbGk0d_YC"
     },
     {
-        "title": "A Problem Decomposition Method for Conceptual Design",
-        "pub_year": "2009",
-        "citation": "ICORD 09: Proceedings of the 2nd International Conference on Research into …, 2009",
-        "num_citations": 5,
-        "author_pub_id": "0O2bnZoAAAAJ:tkaPQYYpVKoC"
-    },
-    {
         "title": "A Spectral Optimization Algorithm for Multi-Objective Prototype Selection",
         "pub_year": "1995",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1995",
@@ -65,7 +58,7 @@
         "title": "A case study of computing appraisals in design text",
         "pub_year": "2008",
         "citation": "Design Computing and Cognition'08: Proceedings of the Third International …, 2008",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0O2bnZoAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -121,7 +114,7 @@
         "title": "A document analysis method for characterizing design team performance",
         "pub_year": "2004",
         "citation": "J. Mech. Des. 126 (3), 378-385, 2004",
-        "num_citations": 195,
+        "num_citations": 198,
         "author_pub_id": "0O2bnZoAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -144,6 +137,13 @@
         "citation": "DS 85-1: Proceedings of NordDesign 2016, Volume 1, Trondheim, Norway, 10th …, 2016",
         "num_citations": 4,
         "author_pub_id": "0O2bnZoAAAAJ:XiVPGOgt02cC"
+    },
+    {
+        "title": "A problem decomposition method for conceptual design",
+        "pub_year": "2009",
+        "citation": "ICORD 09: Proceedings of the 2nd International Conference on Research into …, 2009",
+        "num_citations": 5,
+        "author_pub_id": "0O2bnZoAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "A spectral analysis software to detect modules in a DSM",
@@ -226,7 +226,7 @@
         "title": "Affordances: Bringing them out of the woods",
         "pub_year": "2016",
         "citation": "interactions 23 (4), 80-82, 2016",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "0O2bnZoAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "Building blocks of human design thinking in animals",
         "pub_year": "2017",
         "citation": "International Journal of Design Creativity and Innovation 5 (1-2), 1-15, 2017",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "0O2bnZoAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -344,14 +344,14 @@
         "title": "Community detection in graphs using singular value decomposition",
         "pub_year": "2011",
         "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 83 (4 …, 2011",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "0O2bnZoAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Computational studies to understand the role of social learning in team familiarity and its effects on team performance",
         "pub_year": "2012",
         "citation": "CoDesign 8 (1), 25-41, 2012",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "0O2bnZoAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -378,14 +378,14 @@
         "title": "Concept formation as knowledge accumulation: A computational linguistics study",
         "pub_year": "2006",
         "citation": "AI EDAM 20 (1), 35-53, 2006",
-        "num_citations": 91,
+        "num_citations": 90,
         "author_pub_id": "0O2bnZoAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Construction defect management using a telematic digital workbench",
         "pub_year": "2009",
         "citation": "Automation in Construction 18 (6), 814-824, 2009",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "0O2bnZoAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -406,7 +406,7 @@
         "title": "Creativity and successful product concept selection for innovation",
         "pub_year": "2021",
         "citation": "International Journal of Design Creativity and Innovation 9 (1), 3-19, 2021",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "0O2bnZoAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -452,14 +452,14 @@
         "title": "Data clustering and visualization using cellular automata ants",
         "pub_year": "2006",
         "citation": "AI 2006: Advances in Artificial Intelligence: 19th Australian Joint …, 2006",
-        "num_citations": 21,
+        "num_citations": 18,
         "author_pub_id": "0O2bnZoAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Demystifying the genius of entrepreneurship: How design cognition can help create the next generation of entrepreneurs",
         "pub_year": "2018",
         "citation": "Academy of Management Learning & Education 17 (1), 41-61, 2018",
-        "num_citations": 172,
+        "num_citations": 176,
         "author_pub_id": "0O2bnZoAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -487,8 +487,15 @@
         "title": "Design as a socio-cultural cognitive system",
         "pub_year": "2004",
         "citation": "DS 32: Proceedings of DESIGN 2004, the 8th International Design Conference …, 2004",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "0O2bnZoAAAAJ:t7zJ5fGR-2UC"
+    },
+    {
+        "title": "Design computing and cognition",
+        "pub_year": "2005",
+        "citation": "AI EDAM 19 (4), 227-228, 2005",
+        "num_citations": 1,
+        "author_pub_id": "0O2bnZoAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Design computing and cognition",
@@ -496,13 +503,6 @@
         "citation": "AI EDAM 21 (4), 315-316, 2007",
         "num_citations": 0,
         "author_pub_id": "0O2bnZoAAAAJ:dhFuZR0502QC"
-    },
-    {
-        "title": "Design computing and cognition",
-        "pub_year": "2005",
-        "citation": "AI EDAM 19 (4), 227-228, 2005",
-        "num_citations": 0,
-        "author_pub_id": "0O2bnZoAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Design for pedagogy patterns for e-learning",
@@ -515,14 +515,14 @@
         "title": "Design optimization problem reformulation using singular value decomposition",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "0O2bnZoAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Design principles for the information architecture of a SMET education digital library",
         "pub_year": "2001",
         "citation": "Proceedings of the 1st ACM/IEEE-CS joint conference on Digital libraries …, 2001",
-        "num_citations": 71,
+        "num_citations": 70,
         "author_pub_id": "0O2bnZoAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -536,14 +536,14 @@
         "title": "Design x Innovation",
         "pub_year": "2013",
         "citation": "Proceedings of Consilience and Innovation in Design, 5th IASDR, 0234-0245, 2013",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "0O2bnZoAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Design × innovation: perspective or evidence-based practices†",
         "pub_year": "2015",
         "citation": "International Journal of Design Creativity and Innovation 3 (3-4), 148-163, 2015",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "0O2bnZoAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -564,7 +564,7 @@
         "title": "Designing an untethered educational digital library",
         "pub_year": "2004",
         "citation": "The 2nd IEEE International Workshop on Wireless and Mobile Technologies in …, 2004",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "0O2bnZoAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -599,7 +599,7 @@
         "title": "Development of design collaboration skills",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (7), 485-506, 2012",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "0O2bnZoAAAAJ:f2IySw72cVMC"
     },
     {
@@ -615,6 +615,13 @@
         "citation": "International Conference New Constellations: Art, Science and Society, 2006",
         "num_citations": 1,
         "author_pub_id": "0O2bnZoAAAAJ:yB1At4FlUx8C"
+    },
+    {
+        "title": "Ecologies of Invention",
+        "pub_year": "2018",
+        "citation": "Sydney University Press, 2018",
+        "num_citations": 0,
+        "author_pub_id": "0O2bnZoAAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Ecologies of invention",
@@ -662,15 +669,8 @@
         "title": "Embracing relational agency in design process",
         "pub_year": "2012",
         "citation": "Design and semantics of form and movement, 99, 2012",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "0O2bnZoAAAAJ:M05iB0D1s5AC"
-    },
-    {
-        "title": "Enabling Team Collaboration with Pervasive and Mobile Computing: A Review of Existing Mobile Computing Technologies",
-        "pub_year": "2006",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "0O2bnZoAAAAJ:uWiczbcajpAC"
     },
     {
         "title": "Enabling Team Collaboration with Pervasive and Mobile Computing: Cost Benefit Analysis Methodology",
@@ -687,7 +687,7 @@
     },
     {
         "title": "Energy Reports",
-        "pub_year": "2017",
+        "pub_year": "2022",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "0O2bnZoAAAAJ:i2xiXl-TujoC"
@@ -709,21 +709,21 @@
         "title": "Evaluating quantitative measures for assessing functional similarity in engineering design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (3), 031401, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "0O2bnZoAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Exploring empathy in student design teams",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "0O2bnZoAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Exploring the relationship between lexical behavior and concept formation in design conversations",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "0O2bnZoAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -764,7 +764,7 @@
         "title": "Foregrounding knowledge in e-learning design: An illustration in a museum setting",
         "pub_year": "2015",
         "citation": "Australasian Journal of Educational Technology 31 (3), 2015",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "0O2bnZoAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -785,14 +785,14 @@
         "title": "Functional lock-in and the problem of design transformation",
         "pub_year": "2017",
         "citation": "Research in Engineering Design 28, 203-221, 2017",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "0O2bnZoAAAAJ:KlAtU1dfN6UC"
     },
     {
-        "title": "Future thinking and managers’ innovative behavior: an experimental study",
+        "title": "Future thinking and managers’ innovative behavior: An experimental study",
         "pub_year": "2023",
         "citation": "Journal of Knowledge Management 27 (6), 1660-1679, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "0O2bnZoAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -808,6 +808,13 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
         "num_citations": 1,
         "author_pub_id": "0O2bnZoAAAAJ:hCrLmN-GePgC"
+    },
+    {
+        "title": "Generalized Design Knowledge and the Higher-Order Singular Value Decomposition Andy Dong and Somwrita Sarkar",
+        "pub_year": "2014",
+        "citation": "Design Computing and Cognition'12, 415, 2014",
+        "num_citations": 0,
+        "author_pub_id": "0O2bnZoAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "Generalized design knowledge and the higher-order singular value decomposition",
@@ -827,22 +834,15 @@
         "title": "Generative sensing: A design perspective on the microfoundations of sensing capabilities",
         "pub_year": "2016",
         "citation": "California Management Review 58 (4), 97-117, 2016",
-        "num_citations": 168,
+        "num_citations": 170,
         "author_pub_id": "0O2bnZoAAAAJ:uc_IGeMz5qoC"
     },
     {
         "title": "Geo-Located Augmented Reality as a Platform for Citizen Engagement",
         "pub_year": "2011",
         "citation": "International reports on socio-informatics 8 (2), 32-36, 2011",
-        "num_citations": 4,
-        "author_pub_id": "0O2bnZoAAAAJ:nb7KW1ujOQ8C"
-    },
-    {
-        "title": "HOW AMI DOING? THE LANGUAGE OF APPRAISAL IN DESIGN",
-        "pub_year": "2006",
-        "citation": "Design Computing and Cognition’06, 385-404, 2006",
         "num_citations": 3,
-        "author_pub_id": "0O2bnZoAAAAJ:roLk4NBRz8UC"
+        "author_pub_id": "0O2bnZoAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "How Cities Think-Underlying principles for creativity and innovation in cities",
@@ -861,14 +861,21 @@
         "title": "How am I doing? The language of appraisal in design",
         "pub_year": "2006",
         "citation": "Design Computing and Cognition 6, 385-404, 2006",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "0O2bnZoAAAAJ:_axFR9aDTf0C"
+    },
+    {
+        "title": "How ami doing? the language of appraisal in design",
+        "pub_year": "2006",
+        "citation": "Design Computing and Cognition’06, 385-404, 2006",
+        "num_citations": 3,
+        "author_pub_id": "0O2bnZoAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "How important is team structure to team performance?",
         "pub_year": "2011",
         "citation": "DS 68-7: Proceedings of the 18th International Conference on Engineering …, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0O2bnZoAAAAJ:a0OBvERweLwC"
     },
     {
@@ -909,14 +916,14 @@
         "title": "Investigating design cognition in the construction and enactment of team mental models",
         "pub_year": "2013",
         "citation": "Design studies 34 (1), 1-33, 2013",
-        "num_citations": 131,
+        "num_citations": 130,
         "author_pub_id": "0O2bnZoAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Investigating the affective force on creating shared understanding",
         "pub_year": "2007",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2007",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "0O2bnZoAAAAJ:maZDTaKrznsC"
     },
     {
@@ -936,7 +943,7 @@
         "title": "Knowledge and identity in the design field",
         "pub_year": "2007",
         "citation": "Proceedings of ConnectED International Conference on Design Education, ISBN …, 2007",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0O2bnZoAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -978,21 +985,21 @@
         "title": "Learning symbolic formulations in design: Syntax, semantics, and knowledge reification",
         "pub_year": "2010",
         "citation": "AI EDAM 24 (1), 63-85, 2010",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "0O2bnZoAAAAJ:5nxA0vEk-isC"
     },
     {
-        "title": "Legitimating design: A sociology of knowledge account of the field",
+        "title": "Legitimating design: a sociology of knowledge account of the field",
         "pub_year": "2009",
         "citation": "Design Studies 30 (5), 483-502, 2009",
-        "num_citations": 158,
+        "num_citations": 156,
         "author_pub_id": "0O2bnZoAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Looking Back, Looking Forward",
         "pub_year": "2009",
         "citation": "The Language of Design: Theory and Computation, 169-180, 2009",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "0O2bnZoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1006,14 +1013,14 @@
         "title": "Managing design information in enterprise-wide CAD usingsmart drawings'",
         "pub_year": "1998",
         "citation": "Computer-Aided Design 30 (6), 425-435, 1998",
-        "num_citations": 77,
+        "num_citations": 75,
         "author_pub_id": "0O2bnZoAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Managing design knowledge in enterprise-wide CAD",
         "pub_year": "1995",
         "citation": "Preprints Advances in Formal Design Methods for CAD, 330-347, 1995",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0O2bnZoAAAAJ:dshw04ExmUIC"
     },
     {
@@ -1068,22 +1075,15 @@
         "title": "On measuring engineering risk attitudes",
         "pub_year": "2013",
         "citation": "Journal of Mechanical Design 135 (12), 121001, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "0O2bnZoAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "On measuring engineering risk attitudes",
         "pub_year": "2011",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0O2bnZoAAAAJ:zLWjf1WUPmwC"
-    },
-    {
-        "title": "On the Evolution of Imagination",
-        "pub_year": "2013",
-        "citation": "The Oxford handbook of the development of imagination, 453, 2013",
-        "num_citations": 23,
-        "author_pub_id": "0O2bnZoAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Organizing and managing personal electronic files: A mechanical engineer's perspective",
@@ -1091,6 +1091,13 @@
         "citation": "ACM Transactions on Information Systems (TOIS) 26 (4), 1-40, 2008",
         "num_citations": 76,
         "author_pub_id": "0O2bnZoAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+        "title": "Part II: System Architecture and Product Modularity",
+        "pub_year": "2014",
+        "citation": "Risk and change management in complex systems: Proceedings of the 16th …, 2014",
+        "num_citations": 0,
+        "author_pub_id": "0O2bnZoAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "Permeable and Elastic Terrains",
@@ -1106,9 +1113,9 @@
         "author_pub_id": "0O2bnZoAAAAJ:WA5NYHcadZ8C"
     },
     {
-        "title": "Proceedings of the 18th International Conference on Engineering Design (ICED11), Vol. 1: Design Processes. Vol. 1.",
+        "title": "Proceedings of the 18th International Conference on Engineering Design: Vol. 1 Design Processes",
         "pub_year": "2011",
-        "citation": "The Design Society, 2011",
+        "citation": "Design Society, 2011",
         "num_citations": 0,
         "author_pub_id": "0O2bnZoAAAAJ:XD-gHx7UXLsC"
     },
@@ -1123,7 +1130,7 @@
         "title": "Quantifying coherent thinking in design: a computational linguistics approach",
         "pub_year": "2004",
         "citation": "Design computing and cognition’04, 521-540, 2004",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "0O2bnZoAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1150,7 +1157,7 @@
         "title": "Resiliency analysis for complex engineered system design",
         "pub_year": "2015",
         "citation": "AI EDAM 29 (1), 93-108, 2015",
-        "num_citations": 49,
+        "num_citations": 47,
         "author_pub_id": "0O2bnZoAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -1178,7 +1185,7 @@
         "title": "Rethinking timber: investigation into the use of waste macadamia nut shells for additive manufacturing",
         "pub_year": "2017",
         "citation": "Jom 69, 575-579, 2017",
-        "num_citations": 70,
+        "num_citations": 73,
         "author_pub_id": "0O2bnZoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1190,9 +1197,9 @@
     },
     {
         "title": "Robust design review conversations",
-        "pub_year": "2014",
-        "citation": "",
-        "num_citations": 16,
+        "pub_year": "2015",
+        "citation": "Analyzing design review conversations, 77-95, 2015",
+        "num_citations": 17,
         "author_pub_id": "0O2bnZoAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -1227,20 +1234,20 @@
         "title": "Spectral Characterization of Hierarchical Modularity in Product Architectures1",
         "pub_year": "2014",
         "citation": "Journal of mechanical design 136 (1), 011006, 2014",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "0O2bnZoAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Speech acts and peer learning in product development case-study discussions",
         "pub_year": "2001",
         "citation": "International Conference on Engineering Education, Oslo, Norway, 18-23, 2001",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "0O2bnZoAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Supporting collaboration and multiple views of building models in virtual worlds",
         "pub_year": "2005",
-        "citation": "",
+        "citation": "University of Wollongong, 2005",
         "num_citations": 2,
         "author_pub_id": "0O2bnZoAAAAJ:ZHo1McVdvXMC"
     },
@@ -1311,7 +1318,7 @@
         "title": "The effect of abductive reasoning on concept selection decisions",
         "pub_year": "2015",
         "citation": "Design studies 37, 37-58, 2015",
-        "num_citations": 99,
+        "num_citations": 96,
         "author_pub_id": "0O2bnZoAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -1325,7 +1332,7 @@
         "title": "The enactment of design through language",
         "pub_year": "2007",
         "citation": "Design studies 28 (1), 5-21, 2007",
-        "num_citations": 124,
+        "num_citations": 125,
         "author_pub_id": "0O2bnZoAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -1346,7 +1353,7 @@
         "title": "The issues and benefits of an intelligent design observatory",
         "pub_year": "2008",
         "citation": "International Design Conference: 19/05/2008-22/05/2008, 2008",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "0O2bnZoAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1367,14 +1374,14 @@
         "title": "The language of design: Theory and computation",
         "pub_year": "2008",
         "citation": "Springer Science & Business Media, 2008",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "0O2bnZoAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "The latent semantic approach to studying design team communication",
         "pub_year": "2005",
         "citation": "Design studies 26 (5), 445-461, 2005",
-        "num_citations": 352,
+        "num_citations": 357,
         "author_pub_id": "0O2bnZoAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -1395,7 +1402,7 @@
         "title": "The policy of design: A capabilities approach",
         "pub_year": "2008",
         "citation": "Design issues 24 (4), 76-87, 2008",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "0O2bnZoAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -1437,21 +1444,21 @@
         "title": "The structuring of design knowledge",
         "pub_year": "2014",
         "citation": "The Routledge companion to design research, 38-49, 2014",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "0O2bnZoAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "The use and misuse of the concept of affordance",
         "pub_year": "2015",
         "citation": "Design computing and cognition'14, 295-311, 2015",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "0O2bnZoAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Time variation of design “story telling” in engineering design teams",
         "pub_year": "2003",
         "citation": "DS 31: Proceedings of ICED 03, the 14th International Conference on …, 2003",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "0O2bnZoAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -1465,11 +1472,11 @@
         "title": "To empathise or not to empathise? Empathy and its limits in design",
         "pub_year": "2019",
         "citation": "Design Studies 65, 107-124, 2019",
-        "num_citations": 140,
+        "num_citations": 137,
         "author_pub_id": "0O2bnZoAAAAJ:k_IJM867U9cC"
     },
     {
-        "title": "Toward an Early-Phase Conceptual System Design Risk-Informed Decision Making Framework",
+        "title": "Toward an early-phase conceptual system design risk-informed decision making framework",
         "pub_year": "2012",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 45196 …, 2012",
         "num_citations": 1,
@@ -1479,7 +1486,7 @@
         "title": "Toward considering risk attitudes in engineering organizations using utility theory",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "0O2bnZoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1506,8 +1513,8 @@
     {
         "title": "Towards computational tools for supporting the reflective team",
         "pub_year": "2002",
-        "citation": "Artificial Intelligence in Design’02, 305-325, 2002",
-        "num_citations": 49,
+        "citation": "Artificial intelligence in design’02, 305-325, 2002",
+        "num_citations": 50,
         "author_pub_id": "0O2bnZoAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -1542,14 +1549,14 @@
         "title": "Understanding engineering email: the development of a taxonomy for identifying and classifying engineering work",
         "pub_year": "2010",
         "citation": "Research in engineering design 21, 43-64, 2010",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "0O2bnZoAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Unfixing design fixation: from cause to computer simulation",
         "pub_year": "2011",
         "citation": "The Journal of Creative Behavior 45 (2), 147-159, 2011",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "0O2bnZoAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -1577,28 +1584,28 @@
         "title": "Valuation of energy harvesting technologies—Insights for technology managers",
         "pub_year": "2022",
         "citation": "Energy Reports 8, 6987-6998, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "0O2bnZoAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Visualising collaboration in very large design teams",
         "pub_year": "2005",
         "citation": "DS 35: Proceedings ICED 05, the 15th International Conference on Engineering …, 2005",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "0O2bnZoAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Visualising the social dynamics of team collaboration",
         "pub_year": "2008",
         "citation": "Co-Design 4 (3), 151-171, 2008",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "0O2bnZoAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Web-based tool for engineering design",
         "pub_year": "1996",
-        "citation": "Proceedings of AID’96 workshop on agents and web-based design environments, 1996",
-        "num_citations": 22,
+        "citation": "Proceedings of AID’96 workshop on agents and Web-based design environments, 1996",
+        "num_citations": 21,
         "author_pub_id": "0O2bnZoAAAAJ:wbdj-CoPYUoC"
     },
     {

@@ -73,7 +73,7 @@
         "title": "A survey of technology readiness level users",
         "pub_year": "2016",
         "citation": "INCOSE International Symposium 26 (1), 2101-2117, 2016",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "P5yUQ-IAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -82,6 +82,13 @@
         "citation": "arXiv preprint arXiv:2311.10744, 2023",
         "num_citations": 2,
         "author_pub_id": "P5yUQ-IAAAAJ:isC4tDSrTZIC"
+    },
+    {
+        "title": "All’s not Fair in CAD: an investigation of equity of contributions to collaborative cloud-based design projects",
+        "pub_year": "2023",
+        "citation": "Comput. Aided Des. Appl 20 (3), 574-583, 2023",
+        "num_citations": 2,
+        "author_pub_id": "P5yUQ-IAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "An Analytical Framework For Collaborative Cloud-Based Cad Platform Affordances",
@@ -115,7 +122,7 @@
         "title": "Analysis of the effect of risk management practices on the performance of new product development programs",
         "pub_year": "2014",
         "citation": "Technovation 34 (8), 441-453, 2014",
-        "num_citations": 197,
+        "num_citations": 199,
         "author_pub_id": "P5yUQ-IAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -129,14 +136,14 @@
         "title": "Are Two Heads Better Than One for Computer-Aided Design?",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (7), 071401, 2021",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "P5yUQ-IAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-29, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -152,6 +159,13 @@
         "citation": "DS 87-2 Proceedings of the 21st International Conference on Engineering …, 2017",
         "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Benchmarking the Current State of Lattice Design Software for Additive Manufacturing",
+        "pub_year": "2024",
+        "citation": "University of Texas at Austin, 2024",
+        "num_citations": 0,
+        "author_pub_id": "P5yUQ-IAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Characteristics and Enablers of Transparency in Product Development Risk Management",
@@ -213,7 +227,7 @@
         "title": "Does Synchronous Collaboration Improve Collaborative Computer-Aided Design Output: Results From a Large-Scale Competition",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "P5yUQ-IAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -269,7 +283,7 @@
         "title": "From theory to practice: a roadmap for applying dual-process theory in design cognition research",
         "pub_year": "2024",
         "citation": "Journal of Engineering Design, 1-21, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "P5yUQ-IAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -297,7 +311,7 @@
         "title": "Improving the Systems Engineering Process with Multilevel Analysis of Interactions",
         "pub_year": "2014",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2014",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "P5yUQ-IAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -311,14 +325,14 @@
         "title": "In the age of collaboration, the computer-aided design ecosystem is behind: An interview study of distributed cad practice",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1), 1-29, 2023",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "P5yUQ-IAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Integrating Safety Analysis into Model-Based Systems Engineering for Aircraft Systems: A Literature Review and Methodology Proposal",
         "pub_year": "2021",
         "citation": "International Council on SystemsEngineering (INCOSE) International Symposium …, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "P5yUQ-IAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -387,7 +401,7 @@
         "title": "Medical aspiration apparatus",
         "pub_year": "2014",
         "citation": "US Patent App. 13/983,789, 2014",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "P5yUQ-IAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -482,7 +496,8 @@
     },
     {
         "title": "Teams: A Case Study",
-        "citation": "Design Computing and Cognition'24: Volume 1 1, 182, 0",
+        "pub_year": "2024",
+        "citation": "Design Computing and Cognition’24: Volume 1 1, 182, 2024",
         "num_citations": 0,
         "author_pub_id": "P5yUQ-IAAAAJ:a0OBvERweLwC"
     },
@@ -490,21 +505,21 @@
         "title": "Technology readiness levels at 40: A study of state-of-the-art use, challenges, and opportunities",
         "pub_year": "2015",
         "citation": "2015 Portland international conference on management of engineering and …, 2015",
-        "num_citations": 206,
+        "num_citations": 209,
         "author_pub_id": "P5yUQ-IAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Technology readiness levels: Shortcomings and improvement opportunities",
         "pub_year": "2020",
         "citation": "Systems Engineering 23 (4), 395-408, 2020",
-        "num_citations": 121,
+        "num_citations": 127,
         "author_pub_id": "P5yUQ-IAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Technology-based design and sustainable economic growth",
         "pub_year": "2014",
         "citation": "Technovation 34 (11), 663-677, 2014",
-        "num_citations": 65,
+        "num_citations": 67,
         "author_pub_id": "P5yUQ-IAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -525,14 +540,14 @@
         "title": "The multi-user computer-aided design collaborative learning framework",
         "pub_year": "2022",
         "citation": "Advanced Engineering Informatics 51, 101446, 2022",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "P5yUQ-IAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "The professionalization of risk management: What role can the ISO 31000 risk management principles play?",
         "pub_year": "2016",
         "citation": "International Journal of Project Management 34 (8), 1568-1578, 2016",
-        "num_citations": 222,
+        "num_citations": 223,
         "author_pub_id": "P5yUQ-IAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -553,11 +568,12 @@
         "title": "Towards SysML v2 as a Variability Modeling Language",
         "pub_year": "2023",
         "citation": "2023 ACM/IEEE International Conference on Model Driven Engineering Languages …, 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "P5yUQ-IAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Towards a Modern Canadian Engineering Design Curriculum: Balancing Artificial Intelligence and Human Cognition",
+        "pub_year": "2022",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "P5yUQ-IAAAAJ:e5wmG9Sq2KIC"
@@ -587,7 +603,7 @@
         "title": "What sets proficient and expert users apart? Results of a Computer-Aided Design experiment",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146, 011401-1, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "P5yUQ-IAAAAJ:vV6vV6tmYwMC"
     },
     {

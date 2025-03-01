@@ -17,7 +17,7 @@
         "title": "& Wood, K",
         "pub_year": "2017",
         "citation": "Design prototyping methods: State of the art in strategies, techniques, and …, 2017",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "6MDhY24AAAAJ:6DS7WFnF4J4C"
     },
     {
@@ -33,6 +33,13 @@
         "citation": "Fundamental Studies in Design-by-Anal-1007 ogy: A Focus on Domain-Knowledge …, 2014",
         "num_citations": 6,
         "author_pub_id": "6MDhY24AAAAJ:6lhY8CtEloYC"
+    },
+    {
+        "title": "2000 ASME Design Engineering Technical Conferences",
+        "pub_year": "2000",
+        "citation": "Proceedings of the... ASME Design Engineering Technical Conferences 4, 191, 2000",
+        "num_citations": 0,
+        "author_pub_id": "6MDhY24AAAAJ:n0_S8QYMK-AC"
     },
     {
         "title": "2006-1332: METHODOLOGY AND TOOLS FOR DEVELOPING HANDS-ON ACTIVE LEARNING ACTIVITIES",
@@ -59,14 +66,14 @@
         "title": "A Bio-Inspired Miniature Climbing Robot with Bilayer Dry Adhesives: Design, Modeling, and Experimentation",
         "pub_year": "2018",
         "citation": "ASME IDETC, 2018",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:Z98IfIjqAwMC"
     },
     {
-        "title": "A Case Study on Smart Energy Innovation",
+        "title": "A CASE STUDY ON SMART ENERGY INNOVATION",
         "pub_year": "2017",
-        "citation": "The Singapore Engineer, 18-25, 2017",
-        "num_citations": 1,
+        "citation": "",
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:4LC-jEhLaRQC"
     },
     {
@@ -115,7 +122,7 @@
         "title": "A Functional Basis for Engineering Design: Reconciling and Evolving Previous Efforts, National Institute of Standards and Technology",
         "pub_year": "2002",
         "citation": "NIST Technical Note 1447, 2002",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "6MDhY24AAAAJ:5ScXqYzV9GEC"
     },
     {
@@ -129,7 +136,7 @@
         "title": "A Method for Representing and Manipulating Uncertainties in Preliminary Engineering Design",
         "pub_year": "1989",
         "citation": "PhD thesis, California Institute of Technology, Pasadena, CA, 1989",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "6MDhY24AAAAJ:I96H1Mlar6gC"
     },
     {
@@ -185,7 +192,7 @@
         "title": "A Symphony of Designiettes- Exploring the Boundaries of Design Thinking in Engineering Education",
         "pub_year": "2012",
         "citation": "American Society for Engineering Education, 2012",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "6MDhY24AAAAJ:3ssty3PwuTgC"
     },
     {
@@ -205,14 +212,14 @@
         "title": "A compact magnetic directional proximity sensor for spherical robots",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM …, 2016",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "6MDhY24AAAAJ:4p3FJGzxjgAC"
     },
     {
         "title": "A comparison of creativity and innovation metrics and sample validation through in-class design projects",
         "pub_year": "2013",
         "citation": "Research in engineering design 24, 65-92, 2013",
-        "num_citations": 271,
+        "num_citations": 268,
         "author_pub_id": "6MDhY24AAAAJ:yZoBfgUKqwcC"
     },
     {
@@ -261,7 +268,7 @@
         "title": "A framework for taxonomy and evaluation of self-reconfigurable robotic systems",
         "pub_year": "2020",
         "citation": "IEEE Access 8, 13969-13986, 2020",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "6MDhY24AAAAJ:sAujV351FBYC"
     },
     {
@@ -275,7 +282,7 @@
         "title": "A functional basis for engineering design: Reconciling and evolving previous efforts",
         "pub_year": "2002",
         "citation": "Research in Engineering Design 13 (2), 65-82, 2002",
-        "num_citations": 1669,
+        "num_citations": 1666,
         "author_pub_id": "6MDhY24AAAAJ:v6i8RKmR8ToC"
     },
     {
@@ -289,28 +296,28 @@
         "title": "A heuristic method for identifying modules for product architectures",
         "pub_year": "2000",
         "citation": "Design studies 21 (1), 5-31, 2000",
-        "num_citations": 854,
+        "num_citations": 857,
         "author_pub_id": "6MDhY24AAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "A heuristic method to identify modules from a functional description of a product",
         "pub_year": "1998",
         "citation": "Proceedings of DETC98, 1-11, 1998",
-        "num_citations": 221,
+        "num_citations": 217,
         "author_pub_id": "6MDhY24AAAAJ:eK4aujBuqBIC"
     },
     {
         "title": "A high-definition design structure matrix (HDDSM) for the quantitative assessment of product architecture",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (10-11), 767-789, 2012",
-        "num_citations": 90,
+        "num_citations": 87,
         "author_pub_id": "6MDhY24AAAAJ:zzCxg_vo7cAC"
     },
     {
         "title": "A holistic design approach for residential net-zero energy buildings: A case study in Singapore",
         "pub_year": "2019",
         "citation": "Sustainable Cities and Society 50, 101672, 2019",
-        "num_citations": 81,
+        "num_citations": 87,
         "author_pub_id": "6MDhY24AAAAJ:53uzXsUip0wC"
     },
     {
@@ -338,7 +345,7 @@
         "title": "A metaheuristic approach to optimal morphology in reconfigurable tiling robots",
         "pub_year": "2023",
         "citation": "Complex & Intelligent Systems 9 (5), 5831-5850, 2023",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "6MDhY24AAAAJ:9u2w3wkYHSMC"
     },
     {
@@ -352,7 +359,7 @@
         "title": "A motivational game-theoretic approach for peer-to-peer energy trading in the smart grid",
         "pub_year": "2019",
         "citation": "Applied energy 243, 10-20, 2019",
-        "num_citations": 413,
+        "num_citations": 419,
         "author_pub_id": "6MDhY24AAAAJ:bQkGhl1z2hUC"
     },
     {
@@ -366,14 +373,14 @@
         "title": "A novel exploration into gust resistant operation of mavs/uavs through transformation",
         "pub_year": "2006",
         "citation": "Proceedings of Second US-European Conference on Micro Air Vehicles, Destin, 2006",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "6MDhY24AAAAJ:MNNNGtAgD4EC"
     },
     {
         "title": "A quantitative similarity metric for design-by-analogy",
         "pub_year": "2002",
         "citation": "J. Mech. Des. 124 (2), 173-182, 2002",
-        "num_citations": 228,
+        "num_citations": 229,
         "author_pub_id": "6MDhY24AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -394,7 +401,7 @@
         "title": "A reverse engineering and redesign methodology for product evolution",
         "pub_year": "1996",
         "citation": "Proceedings of the 1996 ASME Design Theory and Methodology Conference 96, 1996",
-        "num_citations": 141,
+        "num_citations": 142,
         "author_pub_id": "6MDhY24AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -408,7 +415,7 @@
         "title": "A state-of-the-art review and analysis on the design of dry adhesion materials for applications such as climbing micro-robots",
         "pub_year": "2015",
         "citation": "Rsc Advances 5 (63), 50821-50832, 2015",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "6MDhY24AAAAJ:CB6W3GmKGOEC"
     },
     {
@@ -429,7 +436,7 @@
         "title": "A study of design fixation, its mitigation and perception in engineering design faculty",
         "pub_year": "2010",
         "citation": "Journal of Mechanical Design 132 (4), 041003, 2010",
-        "num_citations": 524,
+        "num_citations": 527,
         "author_pub_id": "6MDhY24AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -443,7 +450,7 @@
         "title": "A survey of computational intelligence techniques for air-conditioners energy management",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Emerging Topics in Computational Intelligence 4 (4 …, 2020",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "6MDhY24AAAAJ:7_FrD3gH8REC"
     },
     {
@@ -457,7 +464,7 @@
         "title": "A systematic method for design prototyping",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 081102, 2015",
-        "num_citations": 158,
+        "num_citations": 157,
         "author_pub_id": "6MDhY24AAAAJ:WsFh9Szeq2wC"
     },
     {
@@ -471,7 +478,7 @@
         "title": "A tether-less legged piezoelectric miniature robot using bounding gait locomotion for bidirectional motion",
         "pub_year": "2016",
         "citation": "International Conference on Robotics and Automation (ICRA), 2016",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "6MDhY24AAAAJ:3AIi9tQMIrsC"
     },
     {
@@ -480,13 +487,6 @@
         "citation": "",
         "num_citations": 5,
         "author_pub_id": "6MDhY24AAAAJ:-R_Z4shfoosC"
-    },
-    {
-        "title": "AC 2008-1669: WORDTREES: A METHOD FOR DESIGN-BY-ANALOGY",
-        "pub_year": "2008",
-        "citation": "age 13, 1, 2008",
-        "num_citations": 0,
-        "author_pub_id": "6MDhY24AAAAJ:oHSet2Z0r48C"
     },
     {
         "title": "AC 2008-1680: PHLIPS FOR ACTIVE LEARNING",
@@ -562,14 +562,14 @@
         "title": "Active Learning, Design Education, Learning Modules - Aggregated",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "6MDhY24AAAAJ:Kv9jytqXTosC"
     },
     {
         "title": "Active learning approaches in engineering design courses",
         "pub_year": "2003",
         "citation": "age 8, 1, 2003",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "6MDhY24AAAAJ:Wu2CBzYYpfQC"
     },
     {
@@ -583,7 +583,7 @@
         "title": "Adapted concept generation and computational techniques for the application of a transformer design theory",
         "pub_year": "2008",
         "citation": "ASME 2006 International Design Engineering Technical Conferences and …, 2008",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "6MDhY24AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -597,7 +597,7 @@
         "title": "Additive - Digital Mfg - Aggregated",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "6MDhY24AAAAJ:aXwx4OqTWR4C"
     },
     {
@@ -625,7 +625,7 @@
         "title": "Advancing design research: a “Big-D” design perspective",
         "pub_year": "2013",
         "citation": "ICoRD'13: Global Product Development, 41-60, 2013",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "6MDhY24AAAAJ:lBZ7XAAYe3oC"
     },
     {
@@ -660,14 +660,14 @@
         "title": "An Inductive, Design-Centric Approach to Control Engineering Education With a Competitive Atmosphere",
         "pub_year": "2017",
         "citation": "Dynamic Systems and Control Conference 58295, V003T31A004, 2017",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "6MDhY24AAAAJ:OVe_t5h5bhEC"
     },
     {
         "title": "An advanced method to correlate scale models with distorted configurations",
         "pub_year": "2005",
         "citation": "Journal of Mechanical Design 127, 78, 2005",
-        "num_citations": 52,
+        "num_citations": 51,
         "author_pub_id": "6MDhY24AAAAJ:E7VqQtBCVmcC"
     },
     {
@@ -688,7 +688,7 @@
         "title": "An empirical foundation for product flexibility",
         "pub_year": "2005",
         "citation": "Design Studies 26 (4), 405-438, 2005",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "6MDhY24AAAAJ:UebtZRa9Y70C"
     },
     {
@@ -702,14 +702,14 @@
         "title": "An enhanced change modes and effects analysis (CMEA) tool for measuring product flexibility with applications to consumer products",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "6MDhY24AAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "An experimental study of group idea generation techniques: understanding the roles of idea representation and viewing methods",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 401,
+        "num_citations": 403,
         "author_pub_id": "6MDhY24AAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -730,7 +730,7 @@
         "title": "Analogies and metaphors in creative design",
         "pub_year": "2008",
         "citation": "International Journal of Engineering Education 24 (2), 283, 2008",
-        "num_citations": 318,
+        "num_citations": 317,
         "author_pub_id": "6MDhY24AAAAJ:4DMP91E08xMC"
     },
     {
@@ -744,7 +744,7 @@
         "title": "Analogy Retrieval Through Textual Inference",
         "pub_year": "2017",
         "citation": "ASME 2017 International Design Engineering Technical Conferences and …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "6MDhY24AAAAJ:oQQVFBP0nzwC"
     },
     {
@@ -772,7 +772,7 @@
         "title": "Analysis of product flexibility for future evolution based on design guidelines and a high-definition design structure matrix",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "6MDhY24AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -807,7 +807,7 @@
         "title": "Assessing creativity and innovation at the concept generation stage in engineering design: a classroom experiment",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "6MDhY24AAAAJ:_09KEOFGu60C"
     },
     {
@@ -821,28 +821,28 @@
         "title": "Assessing the Novelty of Design Outcomes: Using a Perceptual Kernel in a Crowd-sourced Setting",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "6MDhY24AAAAJ:gDB6RRZydyMC"
     },
     {
         "title": "Automated recognition of volumetric form features from solid models using surface extension",
         "pub_year": "1993",
         "citation": "University of Texas at Austin, 1993",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "6MDhY24AAAAJ:rlwtDmSc194C"
     },
     {
-        "title": "Benefits of team-teaching for doctoral students preparing for academic careers",
+        "title": "Benefits Of Team Teaching For Doctoral Students Preparing For Academic Careers",
         "pub_year": "1998",
-        "citation": "Proceedings of the 1998 American Society for Engineering Education Annual …, 1998",
-        "num_citations": 6,
+        "citation": "1998 Annual Conference, 3.121. 1-3.121. 12, 1998",
+        "num_citations": 7,
         "author_pub_id": "6MDhY24AAAAJ:CKf5m1HYVjMC"
     },
     {
         "title": "Beyond blackboards: Engaging underserved middle school students in engineering",
         "pub_year": "2015",
-        "citation": "Journal of pre-college engineering education research 5 (1), 2015",
-        "num_citations": 42,
+        "citation": "Journal of pre-college engineering education research 5 (1), 2, 2015",
+        "num_citations": 39,
         "author_pub_id": "6MDhY24AAAAJ:GO5CT2y9xrEC"
     },
     {
@@ -856,14 +856,14 @@
         "title": "Bio-inspired design: an overview investigating open questions from the broader field of design-by-analogy",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (11), 111102, 2014",
-        "num_citations": 199,
+        "num_citations": 200,
         "author_pub_id": "6MDhY24AAAAJ:TNEldfgDb5MC"
     },
     {
         "title": "Bio-inspired hierarchical topography for texture driven fog harvesting",
         "pub_year": "2019",
         "citation": "Applied Surface Science 465, 362-368, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "6MDhY24AAAAJ:SFOYbPikdlgC"
     },
     {
@@ -891,7 +891,7 @@
         "title": "Building better mousetrap builders: Courses to incrementally and systematically teach design",
         "pub_year": "1998",
         "citation": "Proceedings of the ASEE Annual Conference and Exposition, 1998",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "6MDhY24AAAAJ:Rc-B-9qnGaUC"
     },
     {
@@ -912,7 +912,7 @@
         "title": "COMPUTER-AIDED DESIGN IDEATION USING INNOGPS",
         "pub_year": "2019",
         "citation": "ASME 2019 International Design Engineering Technical Conferences & Computers …, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "6MDhY24AAAAJ:5qu0sgD3nvwC"
     },
     {
@@ -926,7 +926,7 @@
         "title": "Changing Conversations and Perceptions: The Research and Practice of Design Science",
         "pub_year": "2014",
         "citation": "Impact of Design Research on Practice (IDRP), 2014",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "6MDhY24AAAAJ:RJujIP1NYNUC"
     },
     {
@@ -940,14 +940,14 @@
         "title": "Characterization of surface fault patterns with application to a layered manufacturing process",
         "pub_year": "1998",
         "citation": "Journal of Manufacturing Systems 17 (1), 23-36, 1998",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "6MDhY24AAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Comparative analysis of utilisation of open space at neighbourhood level in three Asian cities: Singapore, Delhi and Kuala Lumpur",
         "pub_year": "2013",
         "citation": "Urban Design International 18, 145-164, 2013",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "6MDhY24AAAAJ:0xcHesCNKywC"
     },
     {
@@ -982,8 +982,15 @@
         "title": "Complex Systems Design & Management Asia",
         "pub_year": "2015",
         "citation": "",
-        "num_citations": 293,
+        "num_citations": 298,
         "author_pub_id": "6MDhY24AAAAJ:bxPAEoiBajcC"
+    },
+    {
+        "title": "Complex Systems Design & Management Asia: Designing Smart Cities: Proceedings of the First Asia-Pacific Conference on Complex Systems Design & Management, CSD&M Asia 2014",
+        "pub_year": "2014",
+        "citation": "Springer, 2014",
+        "num_citations": 2,
+        "author_pub_id": "6MDhY24AAAAJ:Ecsxi449JjsC"
     },
     {
         "title": "Complexity in Metal Cutting and Fractality of Machined Surfaces",
@@ -996,14 +1003,14 @@
         "title": "Computational quality measures for evaluation of part orientation in freeform fabrication",
         "pub_year": "1997",
         "citation": "Journal of Manufacturing Systems 16 (4), 273-289, 1997",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "6MDhY24AAAAJ:JhbybO29vGQC"
     },
     {
         "title": "Computations with Imprecise Parameters in Engineering Design",
         "pub_year": "1989",
         "citation": "ASME J. Mech. Transm. Automn Des, 1989",
-        "num_citations": 273,
+        "num_citations": 274,
         "author_pub_id": "6MDhY24AAAAJ:iUf_yyxph5wC"
     },
     {
@@ -1017,7 +1024,7 @@
         "title": "Computer-Aided Design, Engineering, and Manufacturing: Systems Techniques and Applications, Volume VII, Artificial Intelligence and Robotics in Manufacturing",
         "pub_year": "2000",
         "citation": "CRC Press, 2000",
-        "num_citations": 47,
+        "num_citations": 44,
         "author_pub_id": "6MDhY24AAAAJ:2VmNxfDIOWgC"
     },
     {
@@ -1031,7 +1038,7 @@
         "title": "Computer-based design synthesis research: an overview",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 334,
+        "num_citations": 337,
         "author_pub_id": "6MDhY24AAAAJ:dshw04ExmUIC"
     },
     {
@@ -1052,14 +1059,14 @@
         "title": "Concept opportunity diagrams: a visual modeling method to find multifunctional design concepts",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "6MDhY24AAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Conceptual and configuration design of products and assemblies",
         "pub_year": "1997",
         "citation": "Materials Selection and Design, 15-32, 1997",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "6MDhY24AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1087,7 +1094,7 @@
         "title": "Creating a Culture of Innovation",
         "pub_year": "2018",
         "citation": "Advances in Culturally-Aware Intelligent Systems and in Cross-Cultural …, 2018",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "6MDhY24AAAAJ:L8oS6_awjPoC"
     },
     {
@@ -1115,7 +1122,7 @@
         "title": "Crisisbert: a robust transformer for crisis classification and contextual crisis embedding",
         "pub_year": "2021",
         "citation": "Proceedings of the 32nd ACM conference on hypertext and social media, 133-141, 2021",
-        "num_citations": 80,
+        "num_citations": 84,
         "author_pub_id": "6MDhY24AAAAJ:czIYXmO0riYC"
     },
     {
@@ -1143,7 +1150,7 @@
         "title": "Customer integrated systematic design",
         "pub_year": "1999",
         "citation": "Journal of Integrated Design and Process Science 3 (4), 61-74, 1999",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "6MDhY24AAAAJ:7H_MAutzIkAC"
     },
     {
@@ -1199,7 +1206,7 @@
         "title": "Data driven electricity management for residential air conditioning systems: An experimental approach",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Emerging Topics in Computing 7 (3), 380-391, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "6MDhY24AAAAJ:2hlgnPHlchoC"
     },
     {
@@ -1220,7 +1227,7 @@
         "title": "Data-driven design-by-analogy: state-of-the-art and future directions",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (2), 020801, 2022",
-        "num_citations": 78,
+        "num_citations": 81,
         "author_pub_id": "6MDhY24AAAAJ:3z7foVzkq2cC"
     },
     {
@@ -1241,11 +1248,11 @@
         "title": "Decentralized multi-floor exploration by a swarm of miniature robots teaming with wall-climbing units",
         "pub_year": "2019",
         "citation": "2019 international symposium on multi-robot and multi-agent systems (MRS …, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "6MDhY24AAAAJ:K5ggCqHMkpcC"
     },
     {
-        "title": "Deep Learning Based Fall Recognition and Forecasting for Reconfigurable Stair-Accessing Service Robots",
+        "title": "Deep learning based fall recognition and forecasting for reconfigurable stair-accessing service robots",
         "pub_year": "2024",
         "citation": "Mathematics 12 (9), 1312, 2024",
         "num_citations": 1,
@@ -1262,7 +1269,7 @@
         "title": "Demographic Factors and Their Influence on Designer Creativity and Empathy Evoked Through User Extreme Conditions",
         "pub_year": "2017",
         "citation": "ASME 2017 International Design Engineering Technical Conferences and …, 2017",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "6MDhY24AAAAJ:Y20HiHuZk70C"
     },
     {
@@ -1332,7 +1339,7 @@
         "title": "Design Innovation - Data-Driven - Design Automation - AI-ML - Aggregated",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "6MDhY24AAAAJ:SrsqWtBqNIQC"
     },
     {
@@ -1381,7 +1388,7 @@
         "title": "Design Innovation: A Study of Integrated Practice",
         "pub_year": "2017",
         "citation": "ASME 2017 International Design Engineering Technical Conferences and …, 2017",
-        "num_citations": 79,
+        "num_citations": 76,
         "author_pub_id": "6MDhY24AAAAJ:lonyfjS0l_UC"
     },
     {
@@ -1418,13 +1425,6 @@
         "citation": "ASME 2020 International Design Engineering Technical Conferences & Computers …, 2020",
         "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:8Fucociq1QoC"
-    },
-    {
-        "title": "Design Optimization of a Magnetic Field Based Localization Device for Enhanced Ventriculostomy",
-        "pub_year": "2016",
-        "citation": "The American Society of Mechanical Engineers (ASME), 2016",
-        "num_citations": 0,
-        "author_pub_id": "6MDhY24AAAAJ:KG521SxztIwC"
     },
     {
         "title": "Design Patents - Aggregated",
@@ -1535,14 +1535,14 @@
         "title": "Design assessment of micro-electro-mechanical systems, with application to a microbiology cell injector",
         "pub_year": "1993",
         "citation": "University of Texas at Austin, 1993",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "6MDhY24AAAAJ:a2necdfpwlEC"
     },
     {
         "title": "Design by analogy: A study of the WordTree method for problem re-representation",
         "pub_year": "2012",
         "citation": "Journal of Mechanical Design 134 (4), 2012",
-        "num_citations": 263,
+        "num_citations": 264,
         "author_pub_id": "6MDhY24AAAAJ:tswL-GKFg8UC"
     },
     {
@@ -1598,7 +1598,7 @@
         "title": "Design for Transformation: Design Principles and Approach with Concept Generation Tools and Techniques",
         "pub_year": "2007",
         "citation": "University of Texas at Austin, 2007",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:z-B63o8J19IC"
     },
     {
@@ -1626,14 +1626,14 @@
         "title": "Design for sustainable use of appliances: A framework based on user behavior observations",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101102, 2016",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "6MDhY24AAAAJ:Fx13dKtzC7kC"
     },
     {
         "title": "Design for the Environment, Product Design; Techniques in Reverse Engineering and New Product Development",
         "pub_year": "2001",
         "citation": "Prentice-Hall, New Jersey, 2001",
-        "num_citations": 6,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:vuU-T12QLgwC"
     },
     {
@@ -1656,6 +1656,13 @@
         "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018",
         "num_citations": 4,
         "author_pub_id": "6MDhY24AAAAJ:oR5SthnA400C"
+    },
+    {
+        "title": "Design innovation for a smarter Singapore: a case study on smart energy innovation",
+        "pub_year": "2017",
+        "citation": "The Singapore Engineer Magazine, 18-25, 2017",
+        "num_citations": 1,
+        "author_pub_id": "6MDhY24AAAAJ:_9cyEV96HHsC"
     },
     {
         "title": "Design innovation of mesoscale robotic swarms: applications to cooperative urban sensing and mapping",
@@ -1682,7 +1689,7 @@
         "title": "Design knowledge representation with technology semantic network",
         "pub_year": "2021",
         "citation": "Proceedings of the Design Society 1, 1043-1052, 2021",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "6MDhY24AAAAJ:2pCWc5Tf3J4C"
     },
     {
@@ -1717,14 +1724,14 @@
         "title": "Design of a Mobile Charging Service for Electric Vehicles in an Urban Environment",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 16 (2), 787-798, 2014",
-        "num_citations": 158,
+        "num_citations": 155,
         "author_pub_id": "6MDhY24AAAAJ:Amrzk_ktLr0C"
     },
     {
         "title": "Design of a Passive Self-Regulating Gravity Compensator for Variable Payloads",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design, 2019",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "6MDhY24AAAAJ:qNJvDq80yDAC"
     },
     {
@@ -1752,28 +1759,28 @@
         "title": "Design of cloud-connected IoT system for smart buildings on energy management",
         "pub_year": "2016",
         "citation": "EAI Endorsed Transactions on Industrial Networks and Intelligent Systems 3 (6), 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "6MDhY24AAAAJ:52neCvzbxIwC"
     },
     {
         "title": "Design of energy harvesting technology: Feasibility for low-power wireless sensor networks",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "6MDhY24AAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Design opportunity conception using the total technology space map",
         "pub_year": "2018",
         "citation": "Ai Edam 32 (4), 449-461, 2018",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "6MDhY24AAAAJ:KtrhGiDecpEC"
     },
     {
         "title": "Design optimization of a magnetic field-based localization device for enhanced ventriculostomy",
         "pub_year": "2016",
         "citation": "Journal of Medical Devices 10 (1), 011006, 2016",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "6MDhY24AAAAJ:djcsc3XHdKAC"
     },
     {
@@ -1787,7 +1794,7 @@
         "title": "Design principle-based stimuli for improving creativity during ideation",
         "pub_year": "2018",
         "citation": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of …, 2018",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "6MDhY24AAAAJ:FSHXWovK7t4C"
     },
     {
@@ -1801,28 +1808,28 @@
         "title": "Design principles: Literature review, analysis, and future directions",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 2016",
-        "num_citations": 199,
+        "num_citations": 202,
         "author_pub_id": "6MDhY24AAAAJ:9mnZQYLiiboC"
     },
     {
         "title": "Design principles: The foundation of design",
         "pub_year": "2015",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2015",
-        "num_citations": 83,
+        "num_citations": 82,
         "author_pub_id": "6MDhY24AAAAJ:YifW7xAlWS4C"
     },
     {
         "title": "Design prototyping methods: state of the art in strategies, techniques, and guidelines",
         "pub_year": "2017",
         "citation": "Design Science 3, 2017",
-        "num_citations": 507,
+        "num_citations": 515,
         "author_pub_id": "6MDhY24AAAAJ:RW1BPcyHXiwC"
     },
     {
         "title": "Design prototyping methods: state of the art in strategies, techniques, and guidelines. Des. Sci. 3, e13",
         "pub_year": "2017",
         "citation": "",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "6MDhY24AAAAJ:GGgVawPscysC"
     },
     {
@@ -1857,7 +1864,7 @@
         "title": "Design science: why, what and how",
         "pub_year": "2015",
         "citation": "Design Science 1, 2015",
-        "num_citations": 129,
+        "num_citations": 133,
         "author_pub_id": "6MDhY24AAAAJ:vkDViGfkvYEC"
     },
     {
@@ -1871,7 +1878,7 @@
         "title": "Design theory’88: proceedings of the 1988 NSF Grantee Workshop on Design Theory and Methodology",
         "pub_year": "2013",
         "citation": "Springer Science & Business Media, 2013",
-        "num_citations": 43,
+        "num_citations": 41,
         "author_pub_id": "6MDhY24AAAAJ:8moDcb_GFzgC"
     },
     {
@@ -1896,12 +1903,6 @@
         "author_pub_id": "6MDhY24AAAAJ:WzbvD7BMtBoC"
     },
     {
-        "title": "Design, Modeling, and Experimentation of a Bio-Inspired Miniature Climbing Robot With Bilayer Dry Adhesives",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "6MDhY24AAAAJ:i9zlNfTiRXIC"
-    },
-    {
         "title": "Design-and maker-based learning: from known knowledge to creating new knowledge",
         "pub_year": "2016",
         "citation": "The Exchange: The Gifted Education Newsletter, 2. x, 2016",
@@ -1919,7 +1920,7 @@
         "title": "Design-by-analogy: experimental evaluation of a functional analogy search methodology for concept generation improvement",
         "pub_year": "2014",
         "citation": "Research in Engineering Design, 1-19, 2014",
-        "num_citations": 143,
+        "num_citations": 146,
         "author_pub_id": "6MDhY24AAAAJ:G7txJ4jiatkC"
     },
     {
@@ -1954,7 +1955,7 @@
         "title": "Designettes: an approach to multidisciplinary engineering design education",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (2), 022001, 2016",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "6MDhY24AAAAJ:dBzKUGQurMsC"
     },
     {
@@ -1989,14 +1990,14 @@
         "title": "Developing innovative energy harvesting approaches for infrastructure health monitoring systems",
         "pub_year": "2011",
         "citation": "ASME 2011 International Design Engineering Technical Conferences and …, 2011",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "6MDhY24AAAAJ:x21FZCSn4ZoC"
     },
     {
         "title": "Development And Assessment Of Hands On And Visualization Modules For Enhancement Of Learning In Mechanics",
         "pub_year": "1999",
         "citation": "1999 Annual Conference, 4.186. 1-4.186. 27, 1999",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "6MDhY24AAAAJ:XdYaqolBBq8C"
     },
     {
@@ -2010,21 +2011,21 @@
         "title": "Development of SLS fuel cell current collectors",
         "pub_year": "2006",
         "citation": "Rapid Prototyping Journal 12 (5), 275-282, 2006",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "6MDhY24AAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Development of a Miniature Robot for Multi-robot Occupancy Grid Mapping",
         "pub_year": "2018",
         "citation": "2018 3rd International Conference on Advanced Robotics and Mechatronics …, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "6MDhY24AAAAJ:_5pobawY6TYC"
     },
     {
         "title": "Development of a changeable airfoil optimization model for use in the multidisciplinary design of unmanned aerial vehicles",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 19,
+        "num_citations": 17,
         "author_pub_id": "6MDhY24AAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -2045,7 +2046,7 @@
         "title": "Development of a functional basis for design",
         "pub_year": "1999",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999",
-        "num_citations": 1448,
+        "num_citations": 1453,
         "author_pub_id": "6MDhY24AAAAJ:SZzxPo9m4nkC"
     },
     {
@@ -2066,7 +2067,7 @@
         "title": "Development of principles and facilitators for transformational product design",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "6MDhY24AAAAJ:H0nRGT7Dr7IC"
     },
     {
@@ -2080,7 +2081,7 @@
         "title": "Discovering structure in design databases through functional and surface based mapping",
         "pub_year": "2013",
         "citation": "Journal of mechanical Design 135 (3), 031006, 2013",
-        "num_citations": 136,
+        "num_citations": 135,
         "author_pub_id": "6MDhY24AAAAJ:EaFouW7jFu4C"
     },
     {
@@ -2091,7 +2092,7 @@
         "author_pub_id": "6MDhY24AAAAJ:GzlcqhCAosUC"
     },
     {
-        "title": "Discrete Multi-Material Selective Laser Sintering (M2 SLS): Development for an Application in Complex Sand Casting Core Arrays",
+        "title": "Discrete multi-material selective laser sintering (M2 SLS): Development for an application in complex sand casting core arrays",
         "pub_year": "2000",
         "citation": "",
         "num_citations": 17,
@@ -2114,8 +2115,8 @@
     {
         "title": "Distributed modeling of component DSM",
         "pub_year": "2009",
-        "citation": "Proceedings of the 11th International Design Structure Matrix Conference …, 2009",
-        "num_citations": 8,
+        "citation": "DSM 2009: Proceedings of the 11th International DSM Conference, Greenville …, 2009",
+        "num_citations": 9,
         "author_pub_id": "6MDhY24AAAAJ:bnK-pcrLprsC"
     },
     {
@@ -2136,7 +2137,7 @@
         "title": "Does Analogical Distance Affect Performance of Ideation?",
         "pub_year": "2018",
         "citation": "Journal of Mechanical Design, 2018",
-        "num_citations": 58,
+        "num_citations": 57,
         "author_pub_id": "6MDhY24AAAAJ:KUazKHuGu6AC"
     },
     {
@@ -2164,14 +2165,14 @@
         "title": "Effects of analogous product representation on design-by-analogy",
         "pub_year": "2007",
         "citation": "ICED, 2007",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "6MDhY24AAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Effects of product usage context on consumer product preferences",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 54,
+        "num_citations": 56,
         "author_pub_id": "6MDhY24AAAAJ:Pptk7XUfJl0C"
     },
     {
@@ -2220,7 +2221,7 @@
         "title": "Empirical analysis of transformers in the development of a storyboarding methodology",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "6MDhY24AAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -2234,7 +2235,7 @@
         "title": "Energy Harvesting - Smart Energy - Aggregated",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:WGv8Og3F3KgC"
     },
     {
@@ -2262,14 +2263,14 @@
         "title": "Energy storage sharing in smart grid: A modified auction-based approach",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Smart Grid 7 (3), 1462-1475, 2016",
-        "num_citations": 430,
+        "num_citations": 429,
         "author_pub_id": "6MDhY24AAAAJ:de6HPdfwrHoC"
     },
     {
         "title": "Engineering design calculations with fuzzy parameters",
         "pub_year": "1992",
         "citation": "Fuzzy sets and systems 52 (1), 1-20, 1992",
-        "num_citations": 192,
+        "num_citations": 189,
         "author_pub_id": "6MDhY24AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -2283,14 +2284,14 @@
         "title": "Engineering design-computational tools in the SYNTHESIS domain",
         "pub_year": "1987",
         "citation": "The Study of the Design Process, 8-10, 1987",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "6MDhY24AAAAJ:H7nrzBkawXsC"
     },
     {
         "title": "Engineering knowledge graph for keyword discovery in patent search",
         "pub_year": "2019",
         "citation": "Proceedings of the design society: international conference on engineering …, 2019",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "6MDhY24AAAAJ:Rh7tE70epTYC"
     },
     {
@@ -2311,28 +2312,28 @@
         "title": "Enhancing Machine Design Courses Through Use of a Multimedia-Based Review of Mechanics of Materials",
         "pub_year": "2005",
         "citation": "Proceedings of the 2005 American Society for Engineering Education Annual …, 2005",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "6MDhY24AAAAJ:9AucIJLffosC"
     },
     {
         "title": "Enhancing the teaching of machine design by creating a basic hands-on environment with mechanical'breadboards'",
         "pub_year": "2005",
         "citation": "International Journal of Mechanical Engineering Education 33 (1), 1-25, 2005",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "6MDhY24AAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Enumerating the component space: First steps toward a design naming convention for mechanical parts",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 172,
+        "num_citations": 171,
         "author_pub_id": "6MDhY24AAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Epic30m: An epidemics corpus of over 30 million relevant tweets",
         "pub_year": "2020",
         "citation": "2020 IEEE International Conference on Big Data (Big Data), 1206-1215, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "6MDhY24AAAAJ:VHymtrwLyIYC"
     },
     {
@@ -2346,7 +2347,7 @@
         "title": "Estimating errors in concept selection",
         "pub_year": "1995",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1995",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "6MDhY24AAAAJ:k_IJM867U9cC"
     },
     {
@@ -2357,7 +2358,7 @@
         "author_pub_id": "6MDhY24AAAAJ:gFrPXmx1TSsC"
     },
     {
-        "title": "Evaluating Robust Trajectory Control of a Miniature Rolling and Spinning Robot in Outdoor Conditions",
+        "title": "Evaluating robust trajectory control of a miniature rolling and spinning robot in outdoor conditions",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Robotics and Automation (ICRA), 5553-5560, 2018",
         "num_citations": 2,
@@ -2381,7 +2382,7 @@
         "title": "Evolving a functional basis for engineering design",
         "pub_year": "2001",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "6MDhY24AAAAJ:-DxkuPiZhfEC"
     },
     {
@@ -2395,7 +2396,7 @@
         "title": "Experimental studies assessing the repeatability of a functional modeling derivation method",
         "pub_year": "2003",
         "citation": "J. Mech. Des. 125 (4), 682-693, 2003",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "6MDhY24AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -2416,7 +2417,7 @@
         "title": "Experiments in Second Order Sliding Mode Control of a CPG based Spherical Robot",
         "pub_year": "2017",
         "citation": "IFAC-PapersOnLine 50 (1), 2365-2372, 2017",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:7gse_HdimRUC"
     },
     {
@@ -2430,28 +2431,28 @@
         "title": "Exploiting design thinking to improve energy efficiency of buildings",
         "pub_year": "2020",
         "citation": "Energy 197, 117141, 2020",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "6MDhY24AAAAJ:uQrt9rju91QC"
     },
     {
         "title": "Exploring Innovation Opportunities in Energy Harvesting Using Functional Modeling Approaches",
         "pub_year": "2011",
         "citation": "ASME 2011 International Design Engineering Technical Conferences, 2011",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "6MDhY24AAAAJ:cBPnxVikjH8C"
     },
     {
         "title": "Exploring nudging approaches for growing a culture of diversity and inclusion with engineering faculty",
         "pub_year": "2022",
         "citation": "Annual Conference, American Society for Engineering Education, Minneapolis …, 2022",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "6MDhY24AAAAJ:w_Qt3Pluy5YC"
     },
     {
         "title": "Extracting Product Performance by Embedding Sensors in SFF Prototypes",
         "pub_year": "2002",
         "citation": "SFF Smpoisum, 2002",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "6MDhY24AAAAJ:rKYHOwt5kWwC"
     },
     {
@@ -2472,7 +2473,7 @@
         "title": "Fabrication of PEM fuel cell bipolar plates by indirect SLS",
         "pub_year": "2004",
         "citation": "",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "6MDhY24AAAAJ:k8to_Y4Q4_EC"
     },
     {
@@ -2486,14 +2487,14 @@
         "title": "Fault Diagnosis of a Reconfigurable Crawling–Rolling Robot Based on Support Vector Machines",
         "pub_year": "2017",
         "citation": "Applied Sciences 7 (10), 1025, 2017",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "6MDhY24AAAAJ:zuN7wi50mysC"
     },
     {
         "title": "Feasibility of micro power supplies for MEMS",
         "pub_year": "1997",
         "citation": "Microelectromechanical Systems, Journal of 6 (4), 355-362, 1997",
-        "num_citations": 256,
+        "num_citations": 261,
         "author_pub_id": "6MDhY24AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -2507,7 +2508,7 @@
         "title": "Final report from the NSF innovation and discovery workshop: The scientific basis of individual and team innovation and discovery",
         "pub_year": "2006",
         "citation": "Washington (DC): National Science Foundation, 2006",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "6MDhY24AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -2570,7 +2571,7 @@
         "title": "Foundations of condition monitoring for manufacturing and design",
         "pub_year": "1998",
         "citation": "The University of Texas at Austin, 1998",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "6MDhY24AAAAJ:2Q0AJrNhS-QC"
     },
     {
@@ -2584,7 +2585,7 @@
         "title": "Fractal-based Geometric Tolerancing for Mechanical Design≫",
         "pub_year": "1992",
         "citation": "Proceedings of the 1992 ASME DTM Conference, 107-115, 1992",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "6MDhY24AAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -2619,7 +2620,7 @@
         "title": "From Brainstorming to C-Sketch to Principles of Historical Innovators: Ideation Techniques to Enhance Student Creativity",
         "pub_year": "2012",
         "citation": "Journal of STEM Education 13 (5), 12, 2012",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "6MDhY24AAAAJ:cF7EPgIk0B4C"
     },
     {
@@ -2668,28 +2669,28 @@
         "title": "Functional Representations in Conceptual Design: A First Study in Experimental Design and Evaluation",
         "pub_year": "2005",
         "citation": "Proceedings of 2005 American Society for Engineering Education Annual Conference, 2005",
-        "num_citations": 161,
+        "num_citations": 160,
         "author_pub_id": "6MDhY24AAAAJ:XAp-VaTZjjwC"
     },
     {
         "title": "Functional analysis: A fundamental empirical study for reverse engineering, benchmarking and redesign",
         "pub_year": "1997",
         "citation": "Proceedings of the 1997 Design Engineering Technical Conferences 97, 1997",
-        "num_citations": 183,
+        "num_citations": 184,
         "author_pub_id": "6MDhY24AAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Functional interdependence and product similarity based on customer needs",
         "pub_year": "1999",
         "citation": "Research in Engineering Design 11, 1-19, 1999",
-        "num_citations": 246,
+        "num_citations": 248,
         "author_pub_id": "6MDhY24AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Functional modeling experimental studies",
         "pub_year": "2001",
         "citation": "Proceedings of DETC2001, DETC2001/DTM-21709, Pittsburgh, PA, 2001",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "6MDhY24AAAAJ:Zph67rFs4hoC"
     },
     {
@@ -2703,7 +2704,7 @@
         "title": "Functional performance characteristics of ball milling",
         "pub_year": "1990",
         "citation": "Proc. Canadian Mineral Processors, Ottawa, 100-126, 1990",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:SP6oXDckpogC"
     },
     {
@@ -2731,14 +2732,14 @@
         "title": "Fundamental studies in Design-by-Analogy: A focus on domain-knowledge experts and applications to transactional design problems",
         "pub_year": "2014",
         "citation": "Design Studies 35 (3), 232-272, 2014",
-        "num_citations": 199,
+        "num_citations": 202,
         "author_pub_id": "6MDhY24AAAAJ:R6EwkKsDylYC"
     },
     {
         "title": "Fundamentals of Engineering Design, Product Design: Techniques on Reverse Engineering and New",
         "pub_year": "2003",
         "citation": "Prentice Hall, Year, 2003",
-        "num_citations": 365,
+        "num_citations": 359,
         "author_pub_id": "6MDhY24AAAAJ:I8ubwoE7ciMC"
     },
     {
@@ -2759,7 +2760,7 @@
         "title": "Gecko-Inspired Dry Adhesive Based on Micro–Nanoscale Hierarchical Arrays for Application in Climbing Devices",
         "pub_year": "2018",
         "citation": "ACS applied materials & interfaces 10 (1), 1288-1296, 2018",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "6MDhY24AAAAJ:A5aiAONn640C"
     },
     {
@@ -2773,7 +2774,7 @@
         "title": "Grid influenced peer-to-peer energy trading",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Smart Grid 11 (2), 1407-1418, 2019",
-        "num_citations": 340,
+        "num_citations": 347,
         "author_pub_id": "6MDhY24AAAAJ:M8Ejg5y-C14C"
     },
     {
@@ -2787,14 +2788,14 @@
         "title": "Guiding data-driven design ideation by knowledge distance",
         "pub_year": "2021",
         "citation": "Knowledge-Based Systems 218, 106873, 2021",
-        "num_citations": 104,
+        "num_citations": 106,
         "author_pub_id": "6MDhY24AAAAJ:_q7R20eJROoC"
     },
     {
         "title": "Hands-on activities, interactive multimedia and improved team dynamics for enhancing mechanical engineering curricula",
         "pub_year": "2003",
         "citation": "International Journal of Engineering Education 19 (6), 874-884, 2003",
-        "num_citations": 109,
+        "num_citations": 108,
         "author_pub_id": "6MDhY24AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -2815,7 +2816,7 @@
         "title": "Hybrid quantum-classical convolutional neural networks",
         "pub_year": "2021",
         "citation": "Science China Physics, Mechanics & Astronomy 64 (9), 290311, 2021",
-        "num_citations": 228,
+        "num_citations": 233,
         "author_pub_id": "6MDhY24AAAAJ:mqGkWRiPAHEC"
     },
     {
@@ -2836,42 +2837,35 @@
         "title": "IPOD: a large-scale industrial and professional occupation dataset",
         "pub_year": "2020",
         "citation": "Companion Publication of the 2020 Conference on Computer Supported …, 2020",
-        "num_citations": 31,
+        "num_citations": 29,
         "author_pub_id": "6MDhY24AAAAJ:pPdjnrZQtPEC"
     },
     {
         "title": "Idea generation with technology semantic network",
         "pub_year": "2021",
         "citation": "AI EDAM 35 (3), 265-283, 2021",
-        "num_citations": 72,
+        "num_citations": 78,
         "author_pub_id": "6MDhY24AAAAJ:HPvNdXBGwkEC"
     },
     {
         "title": "Ideation Methods: A First Study on Measured Outcomes with Personality Type",
         "pub_year": "2014",
         "citation": "ASME IDETC, 2014",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "6MDhY24AAAAJ:nj26e0utjpAC"
     },
     {
         "title": "Identifying Opportunities for the Design of Innovative Reconfigurable Robots",
         "pub_year": "2014",
         "citation": "ASME IDETC Design Theory and Methodology Conference, 2014",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:eLRq4zTgah0C"
-    },
-    {
-        "title": "Impacts of grazing on watersheds: a state of knowledge» show extra info.",
-        "pub_year": "2014",
-        "citation": "Miscellaneous publication/Texas Agricultural Experiment Station (, 2014",
-        "num_citations": 0,
-        "author_pub_id": "6MDhY24AAAAJ:k4O5U3vRA4YC"
     },
     {
         "title": "Implementation of caterpillar inspired rolling gait and nonlinear control strategy in a spherical robot",
         "pub_year": "2018",
         "citation": "Journal of Bionic Engineering 15, 313-328, 2018",
-        "num_citations": 22,
+        "num_citations": 20,
         "author_pub_id": "6MDhY24AAAAJ:yCEqH1SBpFUC"
     },
     {
@@ -2906,7 +2900,7 @@
         "title": "Improving manufacturing precision using the Karhunen-Loeve transform",
         "pub_year": "1997",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1997",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "6MDhY24AAAAJ:r0BpntZqJG4C"
     },
     {
@@ -2931,13 +2925,6 @@
         "author_pub_id": "6MDhY24AAAAJ:LvS0yHEg1QsC"
     },
     {
-        "title": "In: Proceedings of the ASME 2008 international design engineering technical conferences & computers and information in engineering conferences",
-        "pub_year": "2007",
-        "citation": "",
-        "num_citations": 2,
-        "author_pub_id": "6MDhY24AAAAJ:RIrVDUe1hjoC"
-    },
-    {
         "title": "Incorporating Constraints in System Modularization by Interactive Clustering of Design Structure Matrices",
         "pub_year": "2016",
         "citation": "ASME 2016 International Design Engineering Technical Conferences and …, 2016",
@@ -2948,28 +2935,28 @@
         "title": "Incorporating field effects into functional product-system architecting methods",
         "pub_year": "2020",
         "citation": "Journal of mechanical design 142 (4), 041402, 2020",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:zPkyA21Y468C"
     },
     {
         "title": "Increasing innovation in multi-function systems: evaluation and experimentation of two ideation methods for design",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "6MDhY24AAAAJ:LYDvBi7O6RsC"
     },
     {
         "title": "Increasing innovation: A trilogy of experiments towards a design-by-analogy method",
         "pub_year": "2007",
         "citation": "ASME 2007 International Design Engineering Technical Conferences and …, 2007",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "6MDhY24AAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Increasing innovation: presentation and evaluation of the wordtree design-by-analogy method",
         "pub_year": "2008",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "6MDhY24AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -2990,7 +2977,7 @@
         "title": "Influence of process parameters on part shrinkage in SLS",
         "pub_year": "2007",
         "citation": "The International Journal of Advanced Manufacturing Technology 33, 498-504, 2007",
-        "num_citations": 193,
+        "num_citations": 192,
         "author_pub_id": "6MDhY24AAAAJ:w9ZB08sdvuUC"
     },
     {
@@ -3011,7 +2998,7 @@
         "title": "Innovations in Software Engineering Education: An Experimental Study of Integrating Active Learning and Design-based Leaming",
         "pub_year": "2013",
         "citation": "AIR FORCE ACADEMY COLORADO SPRINGS CO COLORADO SPRINGS United States, 2013",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "6MDhY24AAAAJ:cDbf6tmpeSoC"
     },
     {
@@ -3032,7 +3019,7 @@
         "title": "Innovative Manufacturing Programme-Overall Mid-Term Review of the Innovative Manufacturing Research Centres",
         "pub_year": "2007",
         "citation": "University of Paisley, Paisley, 2007",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "6MDhY24AAAAJ:txeM2kYbVNMC"
     },
     {
@@ -3060,7 +3047,7 @@
         "title": "Integrating Service Oriented Design Projects In The Engineering Curriculum",
         "pub_year": "2002",
         "citation": "2002 Annual Conference, 7.703. 1-7.703. 13, 2002",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "6MDhY24AAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -3081,7 +3068,7 @@
         "title": "Interacting and Interfeature Relationships in Engineering Design for Manufacture",
         "pub_year": "1991",
         "citation": "International Journal of Systems Automation: Research and Applications 1 …, 1991",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "6MDhY24AAAAJ:YPNY0knpFBYC"
     },
     {
@@ -3102,21 +3089,21 @@
         "title": "Interfaces and Product Architecture",
         "pub_year": "2001",
         "citation": "Proceedings of the DETC, 2001",
-        "num_citations": 93,
+        "num_citations": 92,
         "author_pub_id": "6MDhY24AAAAJ:yqZeyBDMhiUC"
     },
     {
         "title": "Internet of things for green building management: Disruptive innovations through low-cost sensor technology and artificial intelligence",
         "pub_year": "2018",
         "citation": "IEEE Signal Processing Magazine 35 (5), 100-110, 2018",
-        "num_citations": 148,
+        "num_citations": 147,
         "author_pub_id": "6MDhY24AAAAJ:04dtUmz_MT0C"
     },
     {
         "title": "Internet of things for green building management: disruptive innovations through low-cost sensor technology and artificial intelligence. IEEE Signal Process Mag. 2018; 35 (5 …",
         "pub_year": "2018",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:CXI6bF9CpJ4C"
     },
     {
@@ -3137,7 +3124,7 @@
         "title": "Investigation of characteristic measures for the analysis and synthesis of precision-machined surfaces",
         "pub_year": "1995",
         "citation": "Journal of Manufacturing Systems 14 (5), 378-392, 1995",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "6MDhY24AAAAJ:YXeC4bxG7-IC"
     },
     {
@@ -3228,7 +3215,7 @@
         "title": "Learning style preference and student aptitude for concept maps",
         "pub_year": "2007",
         "citation": "Journal of Nursing Education 46 (5), 225, 2007",
-        "num_citations": 130,
+        "num_citations": 134,
         "author_pub_id": "6MDhY24AAAAJ:_n8fIOMweQoC"
     },
     {
@@ -3249,7 +3236,7 @@
         "title": "Locomotion Study of a Standing Wave Driven Piezoelectric Miniature Robot for Bi-Directional Motion",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Robotics (T-RO) 99 (99), 11, 2017",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "6MDhY24AAAAJ:D_YRMw8gybsC"
     },
     {
@@ -3258,6 +3245,13 @@
         "citation": "2011 ASEE Annual Conference & Exposition, 22.1024. 1-22.1024. 18, 2011",
         "num_citations": 2,
         "author_pub_id": "6MDhY24AAAAJ:he8YCnfqqkoC"
+    },
+    {
+        "title": "ME 472: Product Design",
+        "pub_year": "2001",
+        "citation": "Pearson Education, 2001",
+        "num_citations": 0,
+        "author_pub_id": "6MDhY24AAAAJ:rywEMSoAiS0C"
     },
     {
         "title": "MEASURING DESIGN IMPACT ACROSS DISCIPLINES, INDUSTRIES AND SCALE",
@@ -3277,14 +3271,14 @@
         "title": "Machine learning-based design concept evaluation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (3), 031113, 2020",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "6MDhY24AAAAJ:h7-KW5G1enMC"
     },
     {
         "title": "Managing energy consumption in buildings through offline and online control of HVAC systems",
         "pub_year": "2016",
         "citation": "2016 IEEE Region 10 Conference (TENCON), 3368-3373, 2016",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:_3zdsQPSqRAC"
     },
     {
@@ -3354,7 +3348,7 @@
         "title": "Methods for prototyping strategies in conceptual phases of design: framework and experimental assessment",
         "pub_year": "2013",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2013",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "6MDhY24AAAAJ:5p9vMBpPSXYC"
     },
     {
@@ -3375,7 +3369,7 @@
         "title": "Miniature piezoelectric mobile robot driven by standing wave",
         "pub_year": "2015",
         "citation": "Proceedings of the 14th IFToMM World Congress, 325-330, 2015",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "6MDhY24AAAAJ:ocbgtyEEUOwC"
     },
     {
@@ -3389,7 +3383,7 @@
         "title": "Modality and representation in analogy",
         "pub_year": "2008",
         "citation": "Ai Edam 22 (2), 85-100, 2008",
-        "num_citations": 254,
+        "num_citations": 258,
         "author_pub_id": "6MDhY24AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -3410,14 +3404,14 @@
         "title": "Modeling and fabrication of prosthetic sockets using selective laser sintering",
         "pub_year": "2004",
         "citation": "",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "6MDhY24AAAAJ:yeL6HyUMUGUC"
     },
     {
         "title": "Modeling imprecision and uncertainty in preliminary engineering design",
         "pub_year": "1990",
         "citation": "Mechanism and Machine Theory 25 (3), 305-324, 1990",
-        "num_citations": 101,
+        "num_citations": 100,
         "author_pub_id": "6MDhY24AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -3487,14 +3481,14 @@
         "title": "N. and Wood, Kristin L. Product Design",
         "pub_year": "2001",
         "citation": "Englewood Cliffs, New Jersey: Prentice Hall, 2001",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:sWz8iI0ruhYC"
     },
     {
         "title": "Networks via Peer-to-Peer",
         "pub_year": "2018",
         "citation": "IEEE Signal Process 35, 90-111, 2018",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "6MDhY24AAAAJ:NN0YOz9s3UgC"
     },
     {
@@ -3543,7 +3537,7 @@
         "title": "On the benefits and pitfalls of analogies for innovative design: Ideation performance based on analogical distance, commonness, and modality of examples",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 386,
+        "num_citations": 388,
         "author_pub_id": "6MDhY24AAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -3568,18 +3562,18 @@
         "author_pub_id": "6MDhY24AAAAJ:GnPB-g6toBAC"
     },
     {
-        "title": "Optimal Morphologies of n-Omino-Based Reconfigurable Robot for Area Coverage Task Using Metaheuristic Optimization",
-        "pub_year": "2023",
-        "citation": "Mathematics 11 (4), 948, 2023",
-        "num_citations": 5,
-        "author_pub_id": "6MDhY24AAAAJ:-1RNHcZo4Y8C"
-    },
-    {
         "title": "Optimal Re-Design of an Electric Wok",
         "pub_year": "1995",
         "citation": "EDRL Technical Report 95-5, Massachusetts Institute of Technology, 1995 …, 1995",
         "num_citations": 3,
         "author_pub_id": "6MDhY24AAAAJ:fGgrif5g-LMC"
+    },
+    {
+        "title": "Optimal morphologies of n-omino-based reconfigurable robot for area coverage task using metaheuristic optimization",
+        "pub_year": "2023",
+        "citation": "Mathematics 11 (4), 948, 2023",
+        "num_citations": 5,
+        "author_pub_id": "6MDhY24AAAAJ:-1RNHcZo4Y8C"
     },
     {
         "title": "Optimal spatial design of non-invasive magnetic field-based localization systems",
@@ -3655,14 +3649,14 @@
         "title": "Peer-to-Peer Energy Trading With Sustainable User Participation: A Game Theoretic Approach",
         "pub_year": "2018",
         "citation": "IEEE Access 6, 62932-62943, 2018",
-        "num_citations": 240,
+        "num_citations": 241,
         "author_pub_id": "6MDhY24AAAAJ:Xc-mKOjpdrwC"
     },
     {
         "title": "Peer-to-peer energy systems for connected communities: A review of recent advances and emerging challenges",
         "pub_year": "2021",
         "citation": "Applied energy 282, 116131, 2021",
-        "num_citations": 480,
+        "num_citations": 484,
         "author_pub_id": "6MDhY24AAAAJ:4p5LGG1h9z0C"
     },
     {
@@ -3697,14 +3691,14 @@
         "title": "Principles for designing products with flexibility for future evolution",
         "pub_year": "2015",
         "citation": "International Journal of Mass Customisation 5 (1), 22-54, 2015",
-        "num_citations": 101,
+        "num_citations": 100,
         "author_pub_id": "6MDhY24AAAAJ:n8FNryW2AHIC"
     },
     {
         "title": "Principles of maker and DIY fabrication: Enabling design prototypes at low cost",
         "pub_year": "2018",
         "citation": "Design Studies 58, 63-88, 2018",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "6MDhY24AAAAJ:jenZ_en7QtoC"
     },
     {
@@ -3722,6 +3716,13 @@
         "author_pub_id": "6MDhY24AAAAJ:pqufTfZDgs0C"
     },
     {
+        "title": "Proceedings of the ASME 2007 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference",
+        "pub_year": "2007",
+        "citation": "American Society of Mechanical Engineers, 2007",
+        "num_citations": 2,
+        "author_pub_id": "6MDhY24AAAAJ:RIrVDUe1hjoC"
+    },
+    {
         "title": "Product Architecture and Modularity - Aggregated",
         "pub_year": "2019",
         "citation": "",
@@ -3732,28 +3733,28 @@
         "title": "Product Design",
         "pub_year": "1998",
         "citation": "Techniques in Reverse Engineering and Product Development, Printed USA, 1998",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "6MDhY24AAAAJ:AOeXN74AWYwC"
     },
     {
         "title": "Product Design Techniques in Reverse Engineering and New Product Development",
         "pub_year": "2001",
         "citation": "Revision Book. Prentice-Hall, 2001",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "6MDhY24AAAAJ:CtYknXOfbFEC"
     },
     {
         "title": "Product Design, Chapter 5: Establishing Product Function",
         "pub_year": "2001",
         "citation": "Prentice Hall, Upper Saddle River, NJ, 2001",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:9kZNi-u_WhAC"
     },
     {
         "title": "Product Design: Techniques in Reverse Engineering and New Product Development, 2001 Prentice Hall",
         "pub_year": "2001",
         "citation": "Inc, Upper Saddle River, NJ, 2001",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "6MDhY24AAAAJ:1yhUMift6wIC"
     },
     {
@@ -3764,21 +3765,28 @@
         "author_pub_id": "6MDhY24AAAAJ:rv4tAfkFLVgC"
     },
     {
+        "title": "Product Similarity Based on Customer Needs",
+        "pub_year": "1998",
+        "citation": "Proceedings of DETC98, 1998",
+        "num_citations": 5,
+        "author_pub_id": "6MDhY24AAAAJ:ca9ekAySLm4C"
+    },
+    {
         "title": "Product architecture development with quantitative functional models",
         "pub_year": "1999",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 1999",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "6MDhY24AAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Product design",
         "pub_year": "2001",
         "citation": "Prentice hall, 2001",
-        "num_citations": 2938,
+        "num_citations": 2941,
         "author_pub_id": "6MDhY24AAAAJ:u5HHmVD_uO8C"
     },
     {
-        "title": "Product design: Techniques in reverse engineering and new product development Prentice Hall",
+        "title": "Product design: techniques in reverse engineering and new product development Prentice Hall",
         "pub_year": "2001",
         "citation": "Upper Saddle River, NJ, 2001",
         "num_citations": 6,
@@ -3788,7 +3796,7 @@
         "title": "Product evolution: a reverse engineering and redesign methodology",
         "pub_year": "1998",
         "citation": "Research in engineering design 10, 226-243, 1998",
-        "num_citations": 443,
+        "num_citations": 429,
         "author_pub_id": "6MDhY24AAAAJ:kVKjLOQJbwAC"
     },
     {
@@ -3802,7 +3810,7 @@
         "title": "Product usage context: improving customer needs gathering and design target setting",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "6MDhY24AAAAJ:TXgqPU86QykC"
     },
     {
@@ -3816,14 +3824,14 @@
         "title": "Prototyping Strategies: Literature Review and Identification of Critical Variables",
         "pub_year": "2012",
         "citation": "Proceedings of the ASEE Annual Conference, 2012",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "6MDhY24AAAAJ:s1ouQE5r0WUC"
     },
     {
         "title": "Prototyping canvas: Design tool for planning purposeful prototypes",
         "pub_year": "2019",
         "citation": "Proceedings of the design society: international conference on engineering …, 2019",
-        "num_citations": 82,
+        "num_citations": 81,
         "author_pub_id": "6MDhY24AAAAJ:eTOb990cMygC"
     },
     {
@@ -3844,7 +3852,7 @@
         "title": "Quantitative measures for design by analogy",
         "pub_year": "2000",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2000",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "6MDhY24AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -3862,7 +3870,7 @@
         "author_pub_id": "6MDhY24AAAAJ:mS4qin7VKjkC"
     },
     {
-        "title": "Reconfigurable Robot Design Aided with Design Cards",
+        "title": "Reconfigurable robot design aided with design cards",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
         "num_citations": 5,
@@ -3872,7 +3880,7 @@
         "title": "Reconfigurable robotic system design with application to cleaning and maintenance",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (6), 063305, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "6MDhY24AAAAJ:4Q5OFK1iulkC"
     },
     {
@@ -3907,7 +3915,7 @@
         "title": "Representing analogies: Increasing the probability of innovation",
         "pub_year": "2006",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2006",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "6MDhY24AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -3928,7 +3936,7 @@
         "title": "Representing imprecision in engineering design: comparing fuzzy and probability calculus",
         "pub_year": "1990",
         "citation": "Research in Engineering Design 1 (3-4), 187-203, 1990",
-        "num_citations": 121,
+        "num_citations": 123,
         "author_pub_id": "6MDhY24AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -3941,7 +3949,7 @@
     {
         "title": "Representing product architecture",
         "pub_year": "2003",
-        "citation": "Proceedings of Design Engineering Technical Conferences and Computers and …, 2003",
+        "citation": "ASME DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION …, 2003",
         "num_citations": 2,
         "author_pub_id": "6MDhY24AAAAJ:8NHCvSvNRCIC"
     },
@@ -3963,14 +3971,14 @@
         "title": "Reverse engineering and redesign: courses to incrementally and systematically teach design",
         "pub_year": "2001",
         "citation": "Journal of Engineering Education 90 (3), 363-374, 2001",
-        "num_citations": 247,
+        "num_citations": 246,
         "author_pub_id": "6MDhY24AAAAJ:43bX7VzcjpAC"
     },
     {
         "title": "Robot and method for localizing a robot",
         "pub_year": "2018",
         "citation": "US Patent App. 15/655,451, 2018",
-        "num_citations": 52,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:fh7vmlWxvT0C"
     },
     {
@@ -3984,7 +3992,7 @@
         "title": "Rotman on design: The best on design thinking from Rotman magazine",
         "pub_year": "2013",
         "citation": "University of Toronto Press, 2013",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "6MDhY24AAAAJ:5s9rAH04UEoC"
     },
     {
@@ -3998,7 +4006,7 @@
         "title": "SLS Processing of Functionally Gradient Materials",
         "pub_year": "1997",
         "citation": "Proceedings of the 8th Annual SFF Symposium, 67-79, 1997",
-        "num_citations": 96,
+        "num_citations": 99,
         "author_pub_id": "6MDhY24AAAAJ:SpPTWFSNUtQC"
     },
     {
@@ -4030,17 +4038,17 @@
         "author_pub_id": "6MDhY24AAAAJ:tz746QTLzJkC"
     },
     {
-        "title": "Service-Learning Approaches to International Humanitarian Design Projects: Assessment of Spiritual Impact",
+        "title": "Service-learning approaches to international humanitarian design projects: Assessment of spiritual impact",
         "pub_year": "2004",
         "citation": "Proceedings of the 2004 Christian Engineering Education Conference, 2004",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "6MDhY24AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Signal analysis using Karhunen-Loeve transformation: application to hydrodynamic forces",
         "pub_year": "2000",
         "citation": "J. Offshore Mech. Arct. Eng. 122 (3), 208-213, 2000",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "6MDhY24AAAAJ:LpHykl0McycC"
     },
     {
@@ -4054,7 +4062,7 @@
         "title": "Single-layer Deposits of Nickel Base Superalloy by means of Selective Laser Melting",
         "pub_year": "2001",
         "citation": "Proceedings of the Solid Freeform Fabrication Symposium, 2001",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "6MDhY24AAAAJ:ye4kPcJQO24C"
     },
     {
@@ -4082,14 +4090,14 @@
         "title": "Smart mechanical bearings using MEMS technology",
         "pub_year": "1995",
         "citation": "Proc. ASME Tribology Symp, 1-10, 1995",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "6MDhY24AAAAJ:M_lZXyI38BkC"
     },
     {
         "title": "Solar energy harvesting for wireless sensor networks",
         "pub_year": "2009",
         "citation": "2009 First international conference on computational intelligence …, 2009",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "6MDhY24AAAAJ:38eRAUXPO10C"
     },
     {
@@ -4117,14 +4125,14 @@
         "title": "Steerable miniature legged robot driven by a single piezoelectric bending unimorph actuator",
         "pub_year": "2017",
         "citation": "Robotics and Automation (ICRA), 2017 IEEE International Conference on, 6008-6013, 2017",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "6MDhY24AAAAJ:Es-9c2L5hKwC"
     },
     {
         "title": "Steering of magnetic devices with a magnetic particle imaging system",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (11), 2286-2293, 2016",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "6MDhY24AAAAJ:SgTKrLvt1DcC"
     },
     {
@@ -4152,7 +4160,7 @@
         "title": "Supporting innovation by promoting analogical reasoning",
         "pub_year": "2009",
         "citation": "Tools for innovation 1 (9), 85-104, 2009",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "6MDhY24AAAAJ:0t1ZDozeHsAC"
     },
     {
@@ -4173,7 +4181,7 @@
         "title": "Surface roughness enhancement of indirect-SLS metal parts by laser surface polishing",
         "pub_year": "2001",
         "citation": "",
-        "num_citations": 282,
+        "num_citations": 285,
         "author_pub_id": "6MDhY24AAAAJ:hC7cP41nSMkC"
     },
     {
@@ -4236,7 +4244,7 @@
         "title": "TechNet: Technology semantic network based on patent data",
         "pub_year": "2020",
         "citation": "Expert Systems with Applications 142, 112995, 2020",
-        "num_citations": 189,
+        "num_citations": 196,
         "author_pub_id": "6MDhY24AAAAJ:KVD38NuK74kC"
     },
     {
@@ -4250,14 +4258,14 @@
         "title": "Techniques in reverse engineering and new product development product design",
         "pub_year": "2003",
         "citation": "Beijing, China: Tsinghua University Press, 2003",
-        "num_citations": 24,
+        "num_citations": 19,
         "author_pub_id": "6MDhY24AAAAJ:lxZgYf9FOvoC"
     },
     {
         "title": "Techniques to enhance concept generation and develop creativity",
         "pub_year": "2009",
         "citation": "2009 Annual Conference & Exposition, 14.1167. 1-14.1167. 23, 2009",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "6MDhY24AAAAJ:LiF7i2gyBHwC"
     },
     {
@@ -4270,7 +4278,7 @@
     {
         "title": "Technology knowledge graph based on patent data",
         "pub_year": "2019",
-        "citation": "arXiv: 1906.00411, 2019",
+        "citation": "arXiv preprint arXiv:1906.00411, 2019",
         "num_citations": 4,
         "author_pub_id": "6MDhY24AAAAJ:LAaCg2gyLagC"
     },
@@ -4278,7 +4286,7 @@
         "title": "Technology knowledge graph for design exploration: Application to designing the future of flying cars",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "6MDhY24AAAAJ:nvAonm6-wpUC"
     },
     {
@@ -4306,7 +4314,7 @@
         "title": "The economies and dimensionality of design prototyping: Value, time, cost, and fidelity",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031105, 2019",
-        "num_citations": 62,
+        "num_citations": 64,
         "author_pub_id": "6MDhY24AAAAJ:Vu1dURnyNv8C"
     },
     {
@@ -4327,28 +4335,28 @@
         "title": "The growing complexity in invention process",
         "pub_year": "2017",
         "citation": "Research in Engineering Design 28, 421-435, 2017",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "6MDhY24AAAAJ:Y1W0x10ZrwMC"
     },
     {
         "title": "The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output",
         "pub_year": "2013",
         "citation": "Journal of Mechanical Design 135 (2), 021007, 2013",
-        "num_citations": 346,
+        "num_citations": 347,
         "author_pub_id": "6MDhY24AAAAJ:96M4k3P_OWMC"
     },
     {
         "title": "The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 33,
+        "num_citations": 31,
         "author_pub_id": "6MDhY24AAAAJ:_8B_re9sV0EC"
     },
     {
         "title": "The potential of creativity metrics for mechanical engineering concept design",
         "pub_year": "2009",
         "citation": "DS 58-2: Proceedings of ICED 09, the 17th International Conference on …, 2009",
-        "num_citations": 33,
+        "num_citations": 31,
         "author_pub_id": "6MDhY24AAAAJ:lu5AzqVF4qYC"
     },
     {
@@ -4369,7 +4377,7 @@
         "title": "The status, barriers, challenges, and future in design for 4D printing",
         "pub_year": "2021",
         "citation": "Materials & Design 212, 110193, 2021",
-        "num_citations": 97,
+        "num_citations": 100,
         "author_pub_id": "6MDhY24AAAAJ:6fs0NoO7GbkC"
     },
     {
@@ -4404,14 +4412,14 @@
         "title": "Three-party energy management with distributed energy resources in smart grid",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Industrial Electronics 62 (4), 2487-2498, 2014",
-        "num_citations": 408,
+        "num_citations": 411,
         "author_pub_id": "6MDhY24AAAAJ:-BKJ5vZJwzMC"
     },
     {
         "title": "Title2Vec: A contextual job title embedding for occupational named entity recognition and other applications",
         "pub_year": "2022",
         "citation": "Journal of Big Data 9 (1), 99, 2022",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "6MDhY24AAAAJ:3yMDF_cvnR8C"
     },
     {
@@ -4425,14 +4433,14 @@
         "title": "Tools for Innovation: The Science Behind the Practical Methods That Drive New Ideas",
         "pub_year": "2009",
         "citation": "Oxford University Press, 2009",
-        "num_citations": 1069,
+        "num_citations": 1075,
         "author_pub_id": "6MDhY24AAAAJ:cAUKuAERoUMC"
     },
     {
         "title": "Tools for innovation: The science behind the practical methods that drive new ideas",
         "pub_year": "2009",
         "citation": "Oxford University Press, 2009",
-        "num_citations": 88,
+        "num_citations": 86,
         "author_pub_id": "6MDhY24AAAAJ:qKtbcrzMvwAC"
     },
     {
@@ -4452,7 +4460,7 @@
     {
         "title": "Trade-off of fuzzy set-based design parameters",
         "pub_year": "2010",
-        "citation": "Proceedings of the IIE Annual Conference and Expo, 2010",
+        "citation": "IIE Annual Conference and Expo 2010 Proceedings, 2010",
         "num_citations": 10,
         "author_pub_id": "6MDhY24AAAAJ:JjPkQosUWiAC"
     },
@@ -4467,7 +4475,7 @@
         "title": "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics",
         "pub_year": "2008",
         "citation": "ASME International Design Engineering Technical Conference and Computers and …, 2008",
-        "num_citations": 64,
+        "num_citations": 67,
         "author_pub_id": "6MDhY24AAAAJ:yTLRzDEmwhEC"
     },
     {
@@ -4481,7 +4489,7 @@
         "title": "Transformation design theory: a meta-analogical framework",
         "pub_year": "2010",
         "citation": "Journal of Computing and Information Science in Engineering 10 (3), 031012, 2010",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "6MDhY24AAAAJ:5awf1xo2G04C"
     },
     {
@@ -4495,14 +4503,14 @@
         "title": "Transformer Design: Empirical Studies of Transformation Principles, Facilitators, and Functions",
         "pub_year": "2008",
         "citation": "University of Texas at Austin, 2008",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:eCFM_hdDfssC"
     },
     {
         "title": "Transforming Energy Networks via Peer to Peer Energy Trading: Potential of Game Theoretic Approaches",
         "pub_year": "2018",
         "citation": "IEEE Signal Processing Magazine, 2018",
-        "num_citations": 509,
+        "num_citations": 514,
         "author_pub_id": "6MDhY24AAAAJ:JG67p0iyyesC"
     },
     {
@@ -4513,18 +4521,18 @@
         "author_pub_id": "6MDhY24AAAAJ:IZcclEPD2KUC"
     },
     {
-        "title": "Transforming energy networks via peer to peer energy trading: potential of game theoretic approaches. IEEE Signal Process. Mag. 35 (4), 90–111 (2018)",
-        "pub_year": "2018",
-        "citation": "",
-        "num_citations": 5,
-        "author_pub_id": "6MDhY24AAAAJ:Yb2T6HvJONwC"
-    },
-    {
         "title": "Transforming energy networks via peer-to-peer energy trading: The potential of game-theoretic approaches. IEEE Signal Process Mag 2018; 35 (4): 90–111",
         "pub_year": "2018",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:XOE35tnTnDYC"
+    },
+    {
+        "title": "Transforming energy networks via peer‐to‐peer energy trading: the potential of game‐theoretic approaches. IEEE Signal Process. Mag. 35 (4), 90–111 (2018)",
+        "pub_year": "2018",
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "6MDhY24AAAAJ:Yb2T6HvJONwC"
     },
     {
         "title": "Tuning parameter tolerance design: Foundations, methods, and measures",
@@ -4558,14 +4566,14 @@
         "title": "Understanding product similarity using customer needs",
         "pub_year": "1999",
         "citation": "In 1999, ASME Design Engineering Technical Conferences, DETC 99/DTM-5660 …, 1999",
-        "num_citations": 62,
+        "num_citations": 57,
         "author_pub_id": "6MDhY24AAAAJ:hHIA4WEVY-EC"
     },
     {
         "title": "Understanding the art of design: tools for the next Edisonian innovators",
         "pub_year": "2006",
         "citation": "Psychology of Learning and Motivation 47, 65-122, 2006",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6MDhY24AAAAJ:P5F9QuxV20EC"
     },
     {
@@ -4593,7 +4601,7 @@
         "title": "User extreme conditions to enhance designer empathy and creativity: applications using visual impairment",
         "pub_year": "2016",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2016",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "6MDhY24AAAAJ:xXdmTUQ9lisC"
     },
     {
@@ -4621,7 +4629,7 @@
         "title": "Using elderly as lead users for universal engineering design",
         "pub_year": "2014",
         "citation": "Universal Design 2014: Three Days of Creativity and Diversity, 366-375, 2014",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "6MDhY24AAAAJ:9LrdxYebArsC"
     },
     {
@@ -4635,7 +4643,7 @@
         "title": "Using rapid prototypes for functional evaluation of evolutionary product designs",
         "pub_year": "2005",
         "citation": "Rapid Prototyping Journal 11 (3), 125-131, 2005",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "6MDhY24AAAAJ:9UF2BbDYXHIC"
     },
     {
@@ -4670,7 +4678,7 @@
         "title": "Wearable environmental sensors and infrastructure for mobile large-scale urban deployment",
         "pub_year": "2016",
         "citation": "IEEE Sensors Journal 16 (22), 8111-8123, 2016",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "6MDhY24AAAAJ:esGtpfCv0y8C"
     },
     {
@@ -4691,14 +4699,14 @@
         "title": "Wiley encyclopedia of operations research and management science",
         "pub_year": "2011",
         "citation": "John Wiley & Sons, 2011",
-        "num_citations": 118,
+        "num_citations": 164,
         "author_pub_id": "6MDhY24AAAAJ:5Y1KH4bkPm0C"
     },
     {
         "title": "Wind energy harvesting for bridge health monitoring",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "6MDhY24AAAAJ:EmjvLWWcsQIC"
     },
     {
@@ -4719,7 +4727,7 @@
         "title": "Wood,(Translator) Qi Chunping, Gong Xiaodong, Product Design",
         "pub_year": "2005",
         "citation": "Beijing: China Electronic Industry Press, 2005",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "6MDhY24AAAAJ:JzGFD3-rS6kC"
     },
     {
@@ -4761,7 +4769,7 @@
         "title": "“Collaborating to success”: An experimental study of group idea generation techniques",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 148,
+        "num_citations": 147,
         "author_pub_id": "6MDhY24AAAAJ:qxL8FJ1GzNcC"
     },
     {

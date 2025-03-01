@@ -1,5 +1,12 @@
 [
     {
+        "title": "2024 Index IEEE Open Journal of Systems Engineering Vol. 2",
+        "pub_year": "2024",
+        "citation": "Artificial intelligence 135, 147, 2024",
+        "num_citations": 0,
+        "author_pub_id": "kgxiHNUAAAAJ:pyW8ca7W8N0C"
+    },
+    {
         "title": "A Correlation Between Thermal Efficiency and Biological Network Cyclicity",
         "pub_year": "2011",
         "citation": "ASME 2011 5th International Conference on Energy Sustainability, 1871-1877, 2011",
@@ -10,7 +17,7 @@
         "title": "A Survey of Graph-Theoretic Approaches for Resilient System of Systems Design",
         "pub_year": "2023",
         "citation": "Journal of Computing and Information Science in Engineering, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "kgxiHNUAAAAJ:k_IJM867U9cC"
     },
     {
@@ -38,7 +45,7 @@
         "title": "A multigraph modeling approach to enable ecological network analysis of cyber physical power networks",
         "pub_year": "2021",
         "citation": "2021 IEEE International Conference on Communications, Control, and Computing …, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "kgxiHNUAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -80,14 +87,14 @@
         "title": "An Ecological Robustness Oriented Optimal Power Flow for Power Systems' Survivability",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Power Systems, 2022",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "kgxiHNUAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "An ecological robustness-oriented approach for power system network expansion",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2107.06178, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "kgxiHNUAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -101,7 +108,7 @@
         "title": "An investigation into ecological network analysis for cyber-physical power systems",
         "pub_year": "2021",
         "citation": "2021 IEEE International Conference on Communications, Control, and Computing …, 2021",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "kgxiHNUAAAAJ:mB3voiENLucC"
     },
     {
@@ -122,7 +129,7 @@
         "title": "Bio-Inspired Design for Robust Power Grid Networks",
         "pub_year": "2019",
         "citation": "Applied Energy 251, 2019",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "kgxiHNUAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -136,7 +143,7 @@
         "title": "Bio-Inspired Human Network Design: A Multi-Currency Robustness Metric Inspired by Ecological Network Analysis",
         "pub_year": "2019",
         "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "kgxiHNUAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -150,7 +157,7 @@
         "title": "Bio-inspired Design for Sustainable and Resilient Supply Chains",
         "pub_year": "2020",
         "citation": "Procedia CIRP, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "kgxiHNUAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -178,7 +185,7 @@
         "title": "Bio-inspired design for robust power networks",
         "pub_year": "2019",
         "citation": "IEEE 2019 Texas Power and Energy Conference, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "kgxiHNUAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Correlation between thermodynamic efficiency and ecological cyclicity for thermodynamic power cycles",
         "pub_year": "2012",
         "citation": "PLoS One 7 (12), e51841, 2012",
-        "num_citations": 55,
+        "num_citations": 54,
         "author_pub_id": "kgxiHNUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -255,7 +262,7 @@
         "title": "Designing ecologically-inspired robustness into a water distribution network",
         "pub_year": "2020",
         "citation": "Journal of Cleaner Production 254, 120057, 2020",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "kgxiHNUAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -296,21 +303,21 @@
         "title": "Ecological Principles and Metrics for Improving Material Cycling Structures in Manufacturing Networks",
         "pub_year": "2016",
         "citation": "Journal of Manufacturing Science and Engineering, 2016",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "kgxiHNUAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Ecological Robustness as a Design Principle for Sustainable Industrial Systems",
         "pub_year": "2015",
         "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "kgxiHNUAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Ecological RobustnessOriented Grid Network Design for Resilience Against Multiple Hazards",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Power Systems, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "kgxiHNUAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -324,7 +331,7 @@
         "title": "Ecology-inspired resilient and affordable system of systems using degree of system order",
         "pub_year": "2021",
         "citation": "Systems Engineering, 1-16, 2021",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "kgxiHNUAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -345,14 +352,14 @@
         "title": "Evaluating benefits of ecologically-inspired nested architectures for industrial symbiosis",
         "pub_year": "2021",
         "citation": "Resources, Conservation and Recycling 167, 105423, 2021",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "kgxiHNUAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Exploring System of Systems Resilience Versus Affordability Trade-Space Using a Bio-Inspired Metric",
         "pub_year": "2021",
         "citation": "Journal of Computing and Information Science in Engineering 21 (5), 1-13, 2021",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "kgxiHNUAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -373,7 +380,7 @@
         "title": "Exploring the Effects of Partnership and Inventory for Supply Chain Resilience using an Ecological Network Analysis",
         "pub_year": "2022",
         "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "kgxiHNUAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -415,7 +422,7 @@
         "title": "Improving performance of eco-industrial parks",
         "pub_year": "2017",
         "citation": "International Journal of Sustainable Engineering 10 (4-5), 250-259, 2017",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "kgxiHNUAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -436,7 +443,7 @@
         "title": "Industrial Ecosystems and Food Webs: An Expansion and Update of Existing Data for Eco‐Industrial Parks and Understanding the Ecological Food Webs They Wish to Mimic",
         "pub_year": "2015",
         "citation": "Journal of Industrial Ecology 20 (1), 85-98, 2015",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "kgxiHNUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -512,21 +519,21 @@
         "title": "Mimicking Nature for Resilient Resource and Infrastructure Network Design",
         "pub_year": "2020",
         "citation": "Reliability Engineering and System Safety, 2020",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "kgxiHNUAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Mimicking the nested structures of ecosystems in the design of industrial water networks",
         "pub_year": "2020",
         "citation": "Procedia CIRP, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "kgxiHNUAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Mixed-integer optimization for bio-inspired robust power network design",
         "pub_year": "2021",
         "citation": "2020 52nd North American Power Symposium (NAPS), 1-6, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "kgxiHNUAAAAJ:4DMP91E08xMC"
     },
     {
@@ -547,7 +554,7 @@
         "title": "Nestedness in eco-industrial networks: exploring linkage distribution to promote sustainable industrial growth",
         "pub_year": "2020",
         "citation": "Journal of Industrial Ecology, 1-14, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "kgxiHNUAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -622,7 +629,7 @@
         "title": "Toward Resilient Modern Power Systems: From Single-Domain to Cross-Domain Resilience Enhancement",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE 112 (4), 365-398, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "kgxiHNUAAAAJ:g5m5HwL7SMYC"
     },
     {
