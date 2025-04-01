@@ -38,7 +38,7 @@
         "title": "Adaptive inspirational design stimuli: using design output to computationally search for stimuli that impact concept generation",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (9), 091401, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "yA7xpsIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -49,10 +49,17 @@
         "author_pub_id": "yA7xpsIAAAAJ:hMod-77fHWUC"
     },
     {
+        "title": "Adopting “blackbox” engineering advice: the influence of imperfect suggestions during AI-assisted decision-making with multiple objectives",
+        "pub_year": "2025",
+        "citation": "AI EDAM 39, e7, 2025",
+        "num_citations": 0,
+        "author_pub_id": "yA7xpsIAAAAJ:pqnbT2bcN3wC"
+    },
+    {
         "title": "Aligning human and computational evaluations of functional design similarity",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "yA7xpsIAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -87,7 +94,7 @@
         "title": "Capturing designers’ experiential knowledge in scalable representation systems: a case study of knowledge graphs for product teardowns",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "yA7xpsIAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -108,7 +115,7 @@
         "title": "Comparing and Evaluating Human and Computationally Derived Representations of Non-Semantic Design Information",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 031401, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "yA7xpsIAAAAJ:blknAaTinKkC"
     },
     {
@@ -122,7 +129,7 @@
         "title": "Conceptual design generation using large language models",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "yA7xpsIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -136,14 +143,14 @@
         "title": "Crowdsourcing inspiration: Using crowd generated inspirational stimuli to support designer ideation",
         "pub_year": "2019",
         "citation": "Design studies 61, 1-29, 2019",
-        "num_citations": 140,
+        "num_citations": 143,
         "author_pub_id": "yA7xpsIAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Data on human decision, feedback, and confidence during an artificial intelligence-assisted decision-making task",
         "pub_year": "2023",
         "citation": "Data in Brief 46, 108884, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "yA7xpsIAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -192,7 +199,7 @@
         "title": "Do human and computational evaluations of similarity align? An empirical study of product function",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (4), 041404, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "yA7xpsIAAAAJ:4DMP91E08xMC"
     },
     {
@@ -213,7 +220,7 @@
         "title": "Enabling multi-modal search for inspirational design stimuli using deep learning",
         "pub_year": "2022",
         "citation": "AI EDAM 36, e22, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "yA7xpsIAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -227,14 +234,14 @@
         "title": "Evaluating quantitative measures for assessing functional similarity in engineering design",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (3), 031401, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "yA7xpsIAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Examining Goal Congruence on Engineering Design and Innovation Student Teams",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "yA7xpsIAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -309,8 +316,8 @@
     },
     {
         "title": "How Being Outvoted by AI Teammates Impacts Human-AI Collaboration",
-        "pub_year": "2024",
-        "citation": "International Journal of Human–Computer Interaction, 1-18, 2024",
+        "pub_year": "2025",
+        "citation": "International Journal of Human–Computer Interaction, 1-18, 2025",
         "num_citations": 1,
         "author_pub_id": "yA7xpsIAAAAJ:RGFaLdJalmkC"
     },
@@ -325,14 +332,14 @@
         "title": "How does machine advice influence design choice? The effect of error on design decision making",
         "pub_year": "2022",
         "citation": "International Conference on-Design Computing and Cognition, 801-818, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "yA7xpsIAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice",
         "pub_year": "2022",
         "citation": "Computers in Human Behavior 127, 107018, 2022",
-        "num_citations": 209,
+        "num_citations": 218,
         "author_pub_id": "yA7xpsIAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -465,7 +472,7 @@
         "title": "StoryDiffusion: How to Support UX Storyboarding with Generative-AI",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.07672, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "yA7xpsIAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -479,7 +486,7 @@
         "title": "The Impact of Sustainability on Consumer Preference Judgements of Product Attributes",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (8), 11, 2015",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "yA7xpsIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -493,7 +500,7 @@
         "title": "The evolution and impact of human confidence in artificial intelligence and in themselves on AI-assisted decision-making in design",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (3), 031401, 2023",
-        "num_citations": 33,
+        "num_citations": 37,
         "author_pub_id": "yA7xpsIAAAAJ:dhFuZR0502QC"
     },
     {
@@ -528,7 +535,7 @@
         "title": "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform",
         "pub_year": "2023",
         "citation": "Design Studies 88, 101202, 2023",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "yA7xpsIAAAAJ:maZDTaKrznsC"
     },
     {

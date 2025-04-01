@@ -23,7 +23,7 @@
         "title": "A Case Study in the use of Design Exemplar as a Search and Retrieval Tool",
         "pub_year": "2008",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2008",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "PXClXlsAAAAJ:k_IJM867U9cC"
     },
     {
@@ -152,13 +152,6 @@
         "author_pub_id": "PXClXlsAAAAJ:RDd164uRGEsC"
     },
     {
-        "title": "A Topological Formalism for quantitative analysis of design spaces",
-        "pub_year": "2021",
-        "citation": "Proceedings of the Design Society 1, 293-302, 2021",
-        "num_citations": 3,
-        "author_pub_id": "PXClXlsAAAAJ:QuPaituDtm8C"
-    },
-    {
         "title": "A USER STUDY OF DESIGN REQUIREMENT FIXATION IN SENIOR MECHANICAL ENGINEERING STUDENTS",
         "citation": "",
         "num_citations": 0,
@@ -175,7 +168,7 @@
         "title": "A case study in line balancing and simulation",
         "pub_year": "2020",
         "citation": "Procedia Manufacturing 48, 71-81, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:pQthLKZIaNQC"
     },
     {
@@ -189,7 +182,7 @@
         "title": "A case study of the development of a design enabler tool to support frame analysis for Wright Metal Products, a US SME",
         "pub_year": "2012",
         "citation": "International Journal of Computer Aided Engineering and Technology 4 (4 …, 2012",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -280,21 +273,21 @@
         "title": "A hierarchical requirements modeling scheme to support engineering innovation",
         "pub_year": "2007",
         "citation": "International Conference for Engineering Design, Paris, France, 2007",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "PXClXlsAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "A knowledge based FMEA to support identification and management of vehicle flexible component issues",
         "pub_year": "2016",
         "citation": "Procedia Cirp 44, 157-162, 2016",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "PXClXlsAAAAJ:7fE6T6CK6bcC"
     },
     {
         "title": "A methodology for the study of the effects of communication styles on design review effectiveness",
         "pub_year": "2003",
         "citation": "Design Engineering Technical Conferences, Chicago, Ill., p. DAC–48742, 2003",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -308,7 +301,7 @@
         "title": "A modelling scheme for capturing and analyzing multi-domain design information: a hair dryer design example",
         "pub_year": "2007",
         "citation": "Proceedings of the 16th International Conference on Engineering Design …, 2007",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "PXClXlsAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -378,14 +371,14 @@
         "title": "A review of computer-aided fixture design with respect to information support requirements",
         "pub_year": "2008",
         "citation": "International Journal of Production Research 46 (4), 929-947, 2008",
-        "num_citations": 92,
+        "num_citations": 91,
         "author_pub_id": "PXClXlsAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "A review of cost estimation models for determining assembly automation level",
         "pub_year": "2016",
         "citation": "Computers & Industrial Engineering 98, 246-259, 2016",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "PXClXlsAAAAJ:KjnAay3C9J8C"
     },
     {
@@ -441,14 +434,14 @@
         "title": "A taxonomic classification of collaborative design",
         "pub_year": "2003",
         "citation": "DS 31: Proceedings of ICED 03, the 14th International Conference on …, 2003",
-        "num_citations": 41,
+        "num_citations": 0,
         "author_pub_id": "PXClXlsAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "A taxonomy for collaborative design",
         "pub_year": "2003",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2003",
-        "num_citations": 17,
+        "num_citations": 31,
         "author_pub_id": "PXClXlsAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -469,8 +462,15 @@
         "title": "A tool for selection of design for manufacturing and assembly rules during product design stage while considering end of life conditions",
         "pub_year": "2012",
         "citation": "Clemson University, 2012",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:uXirmJe02n4C"
+    },
+    {
+        "title": "A topological formalism for quantitative analysis of design spaces",
+        "pub_year": "2021",
+        "citation": "Proceedings of the Design Society 1, 293-302, 2021",
+        "num_citations": 3,
+        "author_pub_id": "PXClXlsAAAAJ:QuPaituDtm8C"
     },
     {
         "title": "A unit cell design guideline development method for meso-scaled periodic cellular material structures",
@@ -483,21 +483,21 @@
         "title": "A user study of interpretability of engineering design representations",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (6), 443-468, 2012",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "PXClXlsAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "A user study on exploring the sequencing of unit cell design guidelines",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:t3SSBJTuMXcC"
     },
     {
         "title": "A verification and validation planning method to address change propagation effects in engineering design",
         "pub_year": "2014",
         "citation": "Proc. Proceedings of TMCE, 635-648, 2014",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "PXClXlsAAAAJ:WrvHtiK_1SgC"
     },
     {
@@ -543,6 +543,13 @@
         "author_pub_id": "PXClXlsAAAAJ:VBbLNo9YSJgC"
     },
     {
+        "title": "APMS 2019. IAICT, vol. 566",
+        "pub_year": "2019",
+        "citation": "Springer, Cham, 2019",
+        "num_citations": 8,
+        "author_pub_id": "PXClXlsAAAAJ:n3sXDxCj2GoC"
+    },
+    {
         "title": "Accuracy and precision analysis of the graph complexity connectivity method",
         "pub_year": "2016",
         "citation": "Procedia CIRP 44, 163-168, 2016",
@@ -555,13 +562,6 @@
         "citation": "Journal of Japan Gas Turbine Society 50 (2), 2022",
         "num_citations": 0,
         "author_pub_id": "PXClXlsAAAAJ:DPnopAH2kssC"
-    },
-    {
-        "title": "Advances in Production Management Systems. Production Management for the Factory of the Future: IFIP WG 5.7 International Conference, APMS 2019, Austin, TX, USA, September 1–5 …",
-        "pub_year": "2019",
-        "citation": "Springer Nature, 2019",
-        "num_citations": 18,
-        "author_pub_id": "PXClXlsAAAAJ:n3sXDxCj2GoC"
     },
     {
         "title": "Aide à la Décision pour l’Optimisation du Niveau d’Automatisation lors de la Conception des Systèmes d’Assemblage Industriels.",
@@ -587,7 +587,7 @@
         "title": "Alignment of a Collaborative Resistance Model With a Change Management Process in Industry: A Case Study on Production Automation",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:2yHMXrjStuAC"
     },
     {
@@ -685,7 +685,7 @@
         "title": "An experimental methodology for investigating communication in collaborative design review meetings",
         "pub_year": "2005",
         "citation": "Co-Design 1 (3), 169-185, 2005",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "PXClXlsAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -747,7 +747,7 @@
         "title": "Analysis of the impact of requirement-sketch sequencing on requirement generation in conceptual design",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (12), 121402, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PXClXlsAAAAJ:w1G5vK4DiEkC"
     },
     {
@@ -803,7 +803,7 @@
         "title": "Application of the modified compaction material model to the analysis of landmine detonation in soil with various degrees of water saturation",
         "pub_year": "2008",
         "citation": "Shock and Vibration 15 (1), 79-99, 2008",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "PXClXlsAAAAJ:oOKmA6HlCLsC"
     },
     {
@@ -845,7 +845,7 @@
         "title": "Assessing design research quality: Investigating verification and validation criteria",
         "pub_year": "2013",
         "citation": "DS 75-2: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "PXClXlsAAAAJ:IMJZBBnUFLgC"
     },
     {
@@ -942,7 +942,7 @@
         "title": "Can design evaluation tools predict/prevent change propagation",
         "pub_year": "2012",
         "citation": "Proceedings of Tools and Methods of Competitive Engineering, Karlsruhe, Germany, 2012",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "PXClXlsAAAAJ:ZzlSgRqYykMC"
     },
     {
@@ -956,14 +956,14 @@
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
         "citation": "International design engineering technical conferences and computers and …, 2008",
-        "num_citations": 334,
+        "num_citations": 335,
         "author_pub_id": "PXClXlsAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
-        "citation": "Proceedings of the ASME 2008 International Design Engineering Technical …, 2008",
-        "num_citations": 11,
+        "citation": "Design Engineering Technical Conferences, 2008",
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:zZdEpRDacf4C"
     },
     {
@@ -991,14 +991,14 @@
         "title": "Case study: evidence of prototyping roles in conceptual design. InDS 75-1: Proceedings of the 19th International Conference on Engineering Design (ICED13), Design for Harmonies …",
         "pub_year": "2013",
         "citation": "Korea, 19-22.08, 2013",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:uwohsRgU7yoC"
     },
     {
         "title": "Case-Based Design Facilitated by the Design Exemplar: Retrieval and archival of 3D mechanical engineering knowledge",
         "pub_year": "2002",
         "citation": "Artificial Intelligence in Design’02, 453-476, 2002",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "PXClXlsAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -1040,7 +1040,7 @@
         "title": "Collaborative Mechanical Engineering Design--Representation and Decision Issues",
         "pub_year": "2001",
         "citation": "",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "PXClXlsAAAAJ:tH6gc1N1XXoC"
     },
     {
@@ -1075,7 +1075,7 @@
         "title": "Comparative analysis of requirements change prediction models: manual, linguistic, and neural network",
         "pub_year": "2014",
         "citation": "Research in Engineering Design 25, 139-156, 2014",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "PXClXlsAAAAJ:WQTnNU6cpycC"
     },
     {
@@ -1096,7 +1096,7 @@
         "title": "Comparative study of representation structures for modeling function and behavior of mechanical devices",
         "pub_year": "2001",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
-        "num_citations": 55,
+        "num_citations": 54,
         "author_pub_id": "PXClXlsAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1116,7 +1116,7 @@
     {
         "title": "Comparison of graph generation methods for structural complexity based assembly time estimation",
         "pub_year": "2014",
-        "citation": "Journal of computing and information science in engineering 14 (2), 021003, 2014",
+        "citation": "Journal of Computing and Information Science in Engineering 14 (2), 021003, 2014",
         "num_citations": 28,
         "author_pub_id": "PXClXlsAAAAJ:CaZNVDsoPx4C"
     },
@@ -1131,7 +1131,7 @@
         "title": "Complexity Connectivity Metrics:  Predicting Assembly Times with Abstract Assembly Models",
         "pub_year": "2013",
         "citation": "23rd CIRP Design Conference 23, 122, 2013",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "PXClXlsAAAAJ:ic8hN12bw4QC"
     },
     {
@@ -1187,14 +1187,14 @@
         "title": "Concept exploration through morphological charts: An experimental study",
         "pub_year": "2006",
         "citation": "ASME 2006 International Design Engineering Technical Conferences and …, 2006",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "PXClXlsAAAAJ:As9-p0eyQpQC"
     },
     {
         "title": "Concept exploration through morphological charts: an experimental study",
         "pub_year": "2012",
         "citation": "Journal of mechanical design 134 (5), 051004, 2012",
-        "num_citations": 68,
+        "num_citations": 66,
         "author_pub_id": "PXClXlsAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -1292,7 +1292,7 @@
         "title": "DEVELOPMENT OF A DESIGN FOR MANUFACTURING RULES DATABASE FOR USE IN INSTRUCTION OF DFM PRACTICES",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014",
-        "num_citations": 13,
+        "num_citations": 17,
         "author_pub_id": "PXClXlsAAAAJ:IsfZ5sDDKYkC"
     },
     {
@@ -1333,7 +1333,7 @@
         "title": "Deciding the level of automation for the design of assembly manufacturing systems",
         "pub_year": "2013",
         "citation": "< bound method Organization. get_name_with_acronym of< Organization: DUMAS …, 2013",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:UbXTy9l1WKIC"
     },
     {
@@ -1347,7 +1347,7 @@
         "title": "Design Computing and Cognition'08: Proceedings of the Third International Conference on Design Computing and Cognition",
         "pub_year": "2008",
         "citation": "Springer Science & Business Media, 2008",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "PXClXlsAAAAJ:w2v21TepJGQC"
     },
     {
@@ -1368,7 +1368,7 @@
         "title": "Design computing and cognition'06",
         "pub_year": "2006",
         "citation": "Springer, 2006",
-        "num_citations": 45,
+        "num_citations": 48,
         "author_pub_id": "PXClXlsAAAAJ:yIh087D13zsC"
     },
     {
@@ -1402,7 +1402,7 @@
         "title": "Design method development: A case study and survey",
         "pub_year": "2008",
         "citation": "in proceedings of the TMCE, 21-25, 2008",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "PXClXlsAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -1450,7 +1450,7 @@
         "title": "Design of cellular shear bands of a non-pneumatic tire-investigation of contact pressure",
         "pub_year": "2010",
         "citation": "SAE International Journal of Passenger Cars-Mechanical Systems 3 (2010-01 …, 2010",
-        "num_citations": 115,
+        "num_citations": 117,
         "author_pub_id": "PXClXlsAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -1464,14 +1464,14 @@
         "title": "Design of honeycomb meta-materials for high shear flexure",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "PXClXlsAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Design of honeycombs for modulus and yield strain in shear",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "PXClXlsAAAAJ:W5xh706n7nkC"
     },
     {
@@ -1618,7 +1618,7 @@
         "title": "Development of a systematic classification and taxonomy of collaborative design activities",
         "pub_year": "2009",
         "citation": "Journal of Engineering Design 20 (1), 57-81, 2009",
-        "num_citations": 118,
+        "num_citations": 146,
         "author_pub_id": "PXClXlsAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1681,14 +1681,14 @@
         "title": "Dynamic exemplar networks: Towards a mechanical design visual programming language",
         "pub_year": "2006",
         "citation": "ASME Design Engineering Technical Conferences and Computers in Engineering …, 2006",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:FAceZFleit8C"
     },
     {
         "title": "Dynamic networking of design exemplars: Towards a mechanical design visual programming language",
         "pub_year": "2007",
         "citation": "Clemson University, 2007",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:8d8msizDQcsC"
     },
     {
@@ -1714,8 +1714,8 @@
     {
         "title": "Early Phase Assembly Systems Design, Automation Alternatives Description, and Optimization: A Support to Automation Decision",
         "pub_year": "2016",
-        "citation": "Clemson university, 2016",
-        "num_citations": 1,
+        "citation": "Université Grenoble Alpes; Clemson university, 2016",
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:VoowTMkWmDwC"
     },
     {
@@ -1768,13 +1768,6 @@
         "author_pub_id": "PXClXlsAAAAJ:8k81kl-MbHgC"
     },
     {
-        "title": "Engineering Change Management—Verification, Validation and Testing Planning Tool Development",
-        "pub_year": "2014",
-        "citation": "Proc. Proceedings of TMCE 2014, 587-598, 2014",
-        "num_citations": 7,
-        "author_pub_id": "PXClXlsAAAAJ:6E5OHDUOeTQC"
-    },
-    {
         "title": "Engineering Design Education: Assessing Student Learning in Cornerstone Through Capstone Programs",
         "pub_year": "2024",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
@@ -1802,17 +1795,24 @@
         "author_pub_id": "PXClXlsAAAAJ:43bX7VzcjpAC"
     },
     {
+        "title": "Engineering change management-Verification, validation, and testing planning tool development",
+        "pub_year": "2014",
+        "citation": "Proc. Proceedings of TMCE 2014, 587-598, 2014",
+        "num_citations": 8,
+        "author_pub_id": "PXClXlsAAAAJ:6E5OHDUOeTQC"
+    },
+    {
         "title": "Engineering design complexity: An experimental study of methods and measures. Res",
         "pub_year": "2008",
         "citation": "Eng. Des 19 (2-3), 161-179, 2008",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "PXClXlsAAAAJ:Uwzdpet-joYC"
     },
     {
         "title": "Engineering design complexity: an investigation of methods and measures",
         "pub_year": "2008",
         "citation": "Research in Engineering Design 19, 161-179, 2008",
-        "num_citations": 207,
+        "num_citations": 208,
         "author_pub_id": "PXClXlsAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1882,7 +1882,7 @@
         "title": "Evaluation and Comparison of Two Design for Assembly Methods:  Subjectivity of Information",
         "pub_year": "2011",
         "citation": "ASME International Design Engineering Technical Conferences and Computers …, 2011",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "PXClXlsAAAAJ:5awf1xo2G04C"
     },
     {
@@ -1903,7 +1903,7 @@
         "title": "Evaluation of empirical design studies and metrics",
         "pub_year": "2016",
         "citation": "Experimental design research: Approaches, perspectives, applications, 13-39, 2016",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "PXClXlsAAAAJ:t3sMychFT9UC"
     },
     {
@@ -1931,7 +1931,7 @@
         "title": "Exemplar Networks: Extensions of the Design Exemplar",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "PXClXlsAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1980,14 +1980,14 @@
         "title": "Experimental design research",
         "pub_year": "2016",
         "citation": "Cham: Springer International Publishing, 2016",
-        "num_citations": 129,
+        "num_citations": 126,
         "author_pub_id": "PXClXlsAAAAJ:kVZqXsXrJl0C"
     },
     {
         "title": "Experimental study of influence of group familiarity and information sharing on design review effectiveness",
         "pub_year": "2010",
         "citation": "Journal of Engineering Design 21 (1), 111-126, 2010",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "PXClXlsAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -2020,7 +2020,7 @@
     {
         "title": "Exploring the Influence of Requirement Representation on Idea Generation",
         "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146 (11), 2024",
+        "citation": "Journal of Mechanical Design 146 (11), 114501, 2024",
         "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:jLZKTOxUWNYC"
     },
@@ -2098,7 +2098,7 @@
         "title": "Finite element modeling and design of honeycomb sandwich panels for acoustic performance",
         "pub_year": "2012",
         "citation": "CLEMSON UNIVERSITY, 2012",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PXClXlsAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -2216,7 +2216,7 @@
         "title": "Geometric Examplars: a Bridge between CAD and AI",
         "pub_year": "2000",
         "citation": "The Fourth IFIP Working Group 5.2 Workshop on Knowledge Intensive CAD (KIC-4 …, 2000",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:oFWWKr2Zb18C"
     },
     {
@@ -2261,18 +2261,18 @@
         "author_pub_id": "PXClXlsAAAAJ:jtusTj6o6osC"
     },
     {
-        "title": "Honeycomb Structures for High Shear Flexure",
+        "title": "Honeycomb structures for high shear flexure",
         "pub_year": "2014",
-        "citation": "",
-        "num_citations": 1,
-        "author_pub_id": "PXClXlsAAAAJ:KUekCDWCRvQC"
+        "citation": "US Patent 8,651,156, 2014",
+        "num_citations": 38,
+        "author_pub_id": "PXClXlsAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Honeycomb structures for high shear flexure",
         "pub_year": "2014",
-        "citation": "US Patent 8,651,156, 2014",
-        "num_citations": 39,
-        "author_pub_id": "PXClXlsAAAAJ:ZHo1McVdvXMC"
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "PXClXlsAAAAJ:KUekCDWCRvQC"
     },
     {
         "title": "How function ordering within morphological charts influence exploration",
@@ -2289,10 +2289,10 @@
         "author_pub_id": "PXClXlsAAAAJ:TFP_iSt0sucC"
     },
     {
-        "title": "ICoRD’15–Research into Design Across Boundaries Volume 2: Creativity, Sustainability, DfX, Enabling Technologies, Management and Applications",
+        "title": "ICoRD’15–Research into Design Across Boundaries Volume 2",
         "pub_year": "2014",
-        "citation": "Springer, 2014",
-        "num_citations": 1,
+        "citation": "",
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:6gD0efnhv6MC"
     },
     {
@@ -2320,7 +2320,7 @@
         "title": "Impact of design research on industrial practice",
         "pub_year": "2016",
         "citation": "Impact of Design Research on Industrial Practice, 2016",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "PXClXlsAAAAJ:jmwITWCuk8IC"
     },
     {
@@ -2383,14 +2383,14 @@
         "title": "Influence of design representation on effectiveness of idea generation",
         "pub_year": "2001",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
-        "num_citations": 137,
+        "num_citations": 131,
         "author_pub_id": "PXClXlsAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Influence of group cohesion and information sharing on effectiveness of design review",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "PXClXlsAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -2404,7 +2404,7 @@
         "title": "Information modeling for fixture design",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -2418,7 +2418,7 @@
         "title": "Integrating graduate design coaches in undergraduate design project teams",
         "pub_year": "2009",
         "citation": "International Journal of Mechanical Engineering Education 37 (1), 3-20, 2009",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "PXClXlsAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -2523,7 +2523,7 @@
         "title": "Investigating the use of design methods by capstone design students at Clemson University",
         "pub_year": "2013",
         "citation": "International Journal of Technology and Design Education 23, 1079-1091, 2013",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "PXClXlsAAAAJ:F1b5ZUV5XREC"
     },
     {
@@ -2551,21 +2551,21 @@
         "title": "Investigation of prototype roles in conceptual design using case study and protocol study methods",
         "pub_year": "2012",
         "citation": "Clemson University, 2012",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "PXClXlsAAAAJ:U4n9YNQMCAIC"
     },
     {
         "title": "Investigation of resistance to information flow in the collaborative design process",
         "pub_year": "2002",
         "citation": "Clemson University, 2002",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "PXClXlsAAAAJ:NXb4pA-qfm4C"
     },
     {
         "title": "Investigation of the Design Exemplar as a CAD Query Language",
         "pub_year": "2003",
         "citation": "International Conference on Engineering Design, Stockholm, Sweden, ICED03-1349, 2003",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PXClXlsAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -2725,7 +2725,7 @@
         "title": "Mechanical engineering design complexity metrics: size, coupling, and solvability",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 230,
+        "num_citations": 233,
         "author_pub_id": "PXClXlsAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2802,7 +2802,7 @@
         "title": "Morphological charts: a systematic exploration of qualitative design space",
         "pub_year": "2007",
         "citation": "Clemson University, 2007",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PXClXlsAAAAJ:J2Md-p1DcKkC"
     },
     {
@@ -2889,7 +2889,7 @@
         "author_pub_id": "PXClXlsAAAAJ:VyewGSb6xwwC"
     },
     {
-        "title": "Nsf Sponsored Engineering Design and Systems Engineering Foundations Workshop Final Report",
+        "title": "Nsf sponsored engineering design and systems engineering foundations workshop final report",
         "pub_year": "2015",
         "citation": "Technical Report, Clemson University, 2015",
         "num_citations": 2,
@@ -2899,7 +2899,7 @@
         "title": "Numerical Investigation of Effect of Membrane Thickness on the performance of Cellular Shear band based Non-pneumatic Tire",
         "pub_year": "2011",
         "citation": "ASME International Design Engineering Technical Conferences and Computers …, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -2920,7 +2920,7 @@
         "title": "Numerical simulation of new generation non-pneumatic tire (TWEEL) and sand",
         "pub_year": "2009",
         "citation": "Proceedings of the ASME 2009 International Design Engineering Technical …, 2009",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:V0QqM0Py3VsC"
     },
     {
@@ -2948,7 +2948,7 @@
         "title": "Optimisation of geometry and material properties of a non-pneumatic tyre for reducing rolling resistance",
         "pub_year": "2014",
         "citation": "International Journal of Vehicle Design 66 (2), 193-216, 2014",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "PXClXlsAAAAJ:iKmOvsfbmGkC"
     },
     {
@@ -2983,7 +2983,7 @@
         "title": "PRSM, Proper Review Selection Matrix",
         "pub_year": "2004",
         "citation": "Clemson University, 2004",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:0izLItjtcgwC"
     },
     {
@@ -3025,7 +3025,7 @@
         "title": "Physics-based reasoning in conceptual design using a formal representation of function structure graphs",
         "pub_year": "2013",
         "citation": "Journal of Computing and Information Science in Engineering 13 (1), 011008, 2013",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PXClXlsAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -3039,7 +3039,7 @@
         "title": "Predicting requirement change propagation, using higher order design structure matrices: an industry case study",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (12), 905-926, 2012",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "PXClXlsAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -3095,7 +3095,7 @@
         "title": "Reasoning in engineering design",
         "pub_year": "2005",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2005",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PXClXlsAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -3109,7 +3109,7 @@
         "title": "Reasons for change propagation: a case study in an automotive OEM",
         "pub_year": "2012",
         "citation": "Research in Engineering Design, 1-13, 2012",
-        "num_citations": 123,
+        "num_citations": 121,
         "author_pub_id": "PXClXlsAAAAJ:5MTHONV0fEkC"
     },
     {
@@ -3137,7 +3137,7 @@
         "title": "Representation for integration of computer aided fixture design systems",
         "pub_year": "2007",
         "citation": "Clemson University, 2007",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PXClXlsAAAAJ:HbR8gkJAVGIC"
     },
     {
@@ -3151,14 +3151,14 @@
         "title": "Representation requirements for supporting intelligent fixture design retrieval and reuse",
         "pub_year": "2004",
         "citation": "Intelligent Systems in Design and Manufacturing V 5605, 87-96, 2004",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Representation:  Extracting Mate Complexity from Assembly Models to Automatically Predict Assembly Times",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "PXClXlsAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -3193,7 +3193,7 @@
         "title": "Representation:  Structural Complexity of Assemblies to Create Neural Network Based Assembly Time Estimation Models",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "PXClXlsAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -3207,7 +3207,7 @@
         "title": "Representations:  Reconciling Design for Disassembly Rules with Design for Manufacturing Rules",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "PXClXlsAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -3276,7 +3276,7 @@
         "title": "Requirements change: Understanding the type of changes in the requirements document of novice designers",
         "pub_year": "2015",
         "citation": "International Journal of Mechanical Engineering Education 43 (4), 286-304, 2015",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:EUsVPkoNztoC"
     },
     {
@@ -3295,8 +3295,8 @@
     },
     {
         "title": "Requirements evolution: Understanding the type of changes in the requirement document of novice designers",
-        "pub_year": "2015",
-        "citation": "ICoRD’15–Research into Design Across Boundaries Volume 2: Creativity …, 2015",
+        "pub_year": "2014",
+        "citation": "ICoRD’15–Research into Design Across Boundaries Volume 2: Creativity …, 2014",
         "num_citations": 20,
         "author_pub_id": "PXClXlsAAAAJ:RGp4dj-Wy-oC"
     },
@@ -3367,7 +3367,7 @@
         "title": "Rolling resistance of a nonpneumatic tire having a porous elastomer composite shear band",
         "pub_year": "2013",
         "citation": "Tire Science and Technology 41 (3), 154-173, 2013",
-        "num_citations": 91,
+        "num_citations": 89,
         "author_pub_id": "PXClXlsAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -3394,7 +3394,7 @@
         "title": "Sampling in design research: Eight key considerations",
         "pub_year": "2022",
         "citation": "Design studies 78, 101077, 2022",
-        "num_citations": 236,
+        "num_citations": 240,
         "author_pub_id": "PXClXlsAAAAJ:sduUCncrepAC"
     },
     {
@@ -3405,7 +3405,7 @@
         "author_pub_id": "PXClXlsAAAAJ:Lbh3VFZM3akC"
     },
     {
-        "title": "Sensitivity Analysis of Boothroyd and Dewhurst Assembly Time Estimates",
+        "title": "Sensitivity Analysis of Boothroyd and Dewhurst Assembly Time Estimates'",
         "pub_year": "2011",
         "citation": "Proceedings of the ASME 2011 IDETC/CIE, 2011",
         "num_citations": 2,
@@ -3485,7 +3485,7 @@
         "title": "Size effects in lattice-structured cellular materials: edge softening effects",
         "pub_year": "2019",
         "citation": "Journal of Materials Science 54, 3942-3959, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:tXsImmCREicC"
     },
     {
@@ -3499,21 +3499,21 @@
         "title": "Smart Product Engineering: Proceedings of the 23rd CIRP Design Conference, Bochum, Germany, March 11th-13th, 2013",
         "pub_year": "2013",
         "citation": "Springer Science & Business Media, 2013",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "PXClXlsAAAAJ:0765WKWsAZMC"
     },
     {
         "title": "Smart designing of smart systems",
         "pub_year": "2021",
         "citation": "AI EDAM 35 (2), 129-131, 2021",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "PXClXlsAAAAJ:B_SudGh4-BUC"
     },
     {
         "title": "Sound reduction of air compressors using a systematic approach",
         "pub_year": "2015",
         "citation": "Clemson University, 2015",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:RzXy5zvoWjEC"
     },
     {
@@ -3545,7 +3545,7 @@
         "author_pub_id": "PXClXlsAAAAJ:12oLulcdP1kC"
     },
     {
-        "title": "Supporting Vehicle Option Change Management Through a Graph-Based Visualization Tool",
+        "title": "Supporting vehicle option change management through a graph-based visualization tool",
         "pub_year": "2017",
         "citation": "Journal of Computing and Information Science in Engineering 17 (1), 011004, 2017",
         "num_citations": 4,
@@ -3610,7 +3610,7 @@
     {
         "title": "Teaching requirements: Can a short lecture make a real difference?",
         "pub_year": "2024",
-        "citation": "International Journal of Technology and Design Education, 1-31, 2024",
+        "citation": "International Journal of Technology and Design Education 34 (5), 1955-1985, 2024",
         "num_citations": 0,
         "author_pub_id": "PXClXlsAAAAJ:YW75zINC-7AC"
     },
@@ -3622,7 +3622,7 @@
         "author_pub_id": "PXClXlsAAAAJ:WWyA8FEaYkEC"
     },
     {
-        "title": "Testing in Engineering Design: What are we teaching",
+        "title": "Testing in engineering design: What are we teaching",
         "pub_year": "2022",
         "citation": "Proceedings of the Design Society 2, 2363-2372, 2022",
         "num_citations": 2,
@@ -3646,7 +3646,7 @@
         "title": "The Design Exemplar: Foundation for a CAD Query Language",
         "pub_year": "2004",
         "citation": "Clemson University, 2004",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -3687,14 +3687,14 @@
         "title": "The design exemplar: a new data structure for embodiment design automation",
         "pub_year": "2004",
         "citation": "J. Mech. Des. 126 (5), 775-787, 2004",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "PXClXlsAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "The effect of honeycomb core geometry on the sound transmission performance of sandwich panels",
         "pub_year": "2015",
         "citation": "Journal of Vibration and Acoustics 137 (2), 021011, 2015",
-        "num_citations": 82,
+        "num_citations": 85,
         "author_pub_id": "PXClXlsAAAAJ:4b-LE5UluQcC"
     },
     {
@@ -3736,7 +3736,7 @@
         "title": "Tool and Information Centric Design Process Modeling:  Three Case Studies",
         "pub_year": "2011",
         "citation": "Handbook of Research on Trends in Product Design and Development, ISBN: 1 …, 2011",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "PXClXlsAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -3750,7 +3750,7 @@
         "title": "Tools for innovation: The science behind the practical methods that drive new ideas",
         "pub_year": "2009",
         "citation": "Oxford University Press, 2009",
-        "num_citations": 88,
+        "num_citations": 86,
         "author_pub_id": "PXClXlsAAAAJ:0CzhzZyukY4C"
     },
     {
@@ -3785,7 +3785,7 @@
         "title": "Towards the formalization of non-functional requirements in conceptual design",
         "pub_year": "2020",
         "citation": "Research in engineering design 31, 449-469, 2020",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "PXClXlsAAAAJ:0nST21YUXoUC"
     },
     {
@@ -3799,7 +3799,7 @@
         "title": "Understanding team personality evolution in student engineering design teams using the five factor model",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "PXClXlsAAAAJ:IOahUoDOFMsC"
     },
     {
@@ -3848,14 +3848,14 @@
         "title": "Using rule based design in engineer to order industry: an SME case study",
         "pub_year": "2008",
         "citation": "Computer-Aided Design and Applications 5 (1-4), 178-193, 2008",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "PXClXlsAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Using the five factor model to study personality convergence on student engineering design teams",
         "pub_year": "2018",
         "citation": "DS 92: Proceedings of the DESIGN 2018 15th International Design Conference …, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PXClXlsAAAAJ:O3beMyW4PBMC"
     },
     {

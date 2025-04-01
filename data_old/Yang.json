@@ -38,7 +38,7 @@
         "title": "A Human-Centered Design Approach to Evaluating Factors in Residential Solar PV Adoption: A Survey of Homeowners in California and Massachusetts",
         "pub_year": "2019",
         "citation": "Renewable Energy, 2019",
-        "num_citations": 56,
+        "num_citations": 60,
         "author_pub_id": "n2kdLOsAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A Study of Student Design Team Behaviors in Complex System Design",
         "pub_year": "2012",
         "citation": "Journal of Mechanical Design 134 (12), 124504, 2012",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "n2kdLOsAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "A methodology for engineering ontology acquisition and validation",
         "pub_year": "2009",
         "citation": "AI EDAM (Artificial Intelligence for Engineering Design, Analysis and …, 2009",
-        "num_citations": 121,
+        "num_citations": 119,
         "author_pub_id": "n2kdLOsAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "A probabilistic approach for extracting design preferences from design team discussion",
         "pub_year": "2007",
         "citation": "ASME International Design Engineering Technical Conferences., 2007",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "n2kdLOsAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "A study of prototypes, design activity, and design outcome",
         "pub_year": "2005",
         "citation": "Design Studies 26 (6), 649-669, 2005",
-        "num_citations": 403,
+        "num_citations": 409,
         "author_pub_id": "n2kdLOsAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "A study of the role of user-centered design methods in design team projects",
         "pub_year": "2010",
         "citation": "AI EDAM 24 (3), 303-316, 2010",
-        "num_citations": 85,
+        "num_citations": 84,
         "author_pub_id": "n2kdLOsAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "AI VS. HUMAN: THE PUBLIC'S PERCEPTIONS OF THE DESIGN ABILITIES OF ARTIFICIAL INTELLIGENCE",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 495-504, 2023",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "n2kdLOsAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "An Approach for Revealed Consumer Preferences for Technology Products: A Case Study of Residential Solar Panels",
         "pub_year": "2012",
         "citation": "ASME International Design Engineering Technical Conferences., 2012",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "n2kdLOsAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -275,7 +275,7 @@
         "title": "An analysis of sketching skill and its role in early stage engineering design",
         "pub_year": "2007",
         "citation": "Journal of Mechanical Design 129 (5), 476-482, 2007",
-        "num_citations": 168,
+        "num_citations": 166,
         "author_pub_id": "n2kdLOsAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "An information-passing strategy for achieving Pareto optimality in the design of complex systems",
         "pub_year": "2012",
         "citation": "Research in Engineering Design 23 (1), 71-83, 2012",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "n2kdLOsAAAAJ:mB3voiENLucC"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Assessing Early Stage Design Sketches and Reflections on Prototyping",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (4), 041403, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "n2kdLOsAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -401,7 +401,7 @@
         "title": "Biased Information Passing Between Subsystems Over Time in Complex System Design",
         "pub_year": "2014",
         "citation": "ASME 2014 International Design Engineering Technical Conferences and …, 2014",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "n2kdLOsAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -421,7 +421,7 @@
         "title": "Bio-Inspired Design: An Overview Investigating Open Questions From the Broader Field of Design-by-Analogy",
         "pub_year": "2014",
         "citation": "Journal of Mechanical Design 136 (11), 111102, 2014",
-        "num_citations": 199,
+        "num_citations": 200,
         "author_pub_id": "n2kdLOsAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -455,7 +455,7 @@
         "title": "Building fast to think faster: exploiting rapid prototyping to accelerate ideation during early stage design",
         "pub_year": "2013",
         "citation": "ASME 2013 International Design Engineering Technical Conferences and …, 2013",
-        "num_citations": 92,
+        "num_citations": 94,
         "author_pub_id": "n2kdLOsAAAAJ:f2IySw72cVMC"
     },
     {
@@ -469,7 +469,7 @@
         "title": "CO-CREATE FINANCIAL PLANNING SERVICES FOR AN AGING POPULATION: DESIGNERS'PERSPECTIVES",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 947-956, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "n2kdLOsAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -529,6 +529,12 @@
         "author_pub_id": "n2kdLOsAAAAJ:xtoqd-5pKcoC"
     },
     {
+        "title": "Concept Generation",
+        "citation": "Product Design and Development, 122-131, 0",
+        "num_citations": 3,
+        "author_pub_id": "n2kdLOsAAAAJ:edDO8Oi4QzsC"
+    },
+    {
         "title": "Concept generation and sketching: Correlations with design outcome",
         "pub_year": "2003",
         "citation": "ASME International Design Engineering Technical Conferences., 2003",
@@ -539,14 +545,14 @@
         "title": "ConceptVis: Generating and Exploring Design Concepts for Early-Stage Ideation Using Large Language Model",
         "pub_year": "2024",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "n2kdLOsAAAAJ:Dip1O2bNi0gC"
     },
     {
         "title": "Connections Between the Design Tool, Design Attributes, and User Preferences in Early Stage Design",
         "pub_year": "2015",
         "citation": "ASME Journal of Mechanical Design 137 (7), 071408, 2015",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "n2kdLOsAAAAJ:D_sINldO8mEC"
     },
     {
@@ -560,14 +566,14 @@
         "title": "Connections between the design tool, design attributes, and user preferences in early stage design",
         "pub_year": "2015",
         "citation": "Journal of Mechanical Design 137 (7), 071408, 2015",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "n2kdLOsAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Consensus and single leader decision-making in teams using structured design methods",
         "pub_year": "2010",
         "citation": "Design Studies 31 (4), 345-362, 2010",
-        "num_citations": 85,
+        "num_citations": 82,
         "author_pub_id": "n2kdLOsAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -601,8 +607,15 @@
         "title": "Data mining for thesaurus generation in informal design information retrieval",
         "pub_year": "1998",
         "citation": "ASCE International Congress on Computing in Civil Engineering, 1998",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "n2kdLOsAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Design Attributes for Tech-or Touch-Based Longevity Services: AI-Empowered Analysis",
+        "pub_year": "2024",
+        "citation": "Design & Innovation at a Crossroad 675, 2024",
+        "num_citations": 2,
+        "author_pub_id": "n2kdLOsAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Design Creativity for Every Design Problem: A Design-by-Analogy Approach",
@@ -615,28 +628,28 @@
         "title": "Design Experiences as Pathways for Embracing Failure",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "n2kdLOsAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "Design Practitioners' Perspectives on Methods for Ideation and Prototyping",
         "pub_year": "2015",
         "citation": "Mudd Design Workshop IX, 2015",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "n2kdLOsAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "Design Practitioners’ Perspectives on Methods for Ideation and Prototyping",
         "pub_year": "2016",
         "citation": "INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION 32 (3), 1428-1437, 2016",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "n2kdLOsAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Design Principles: Literature Review, Analysis, and Future Directions",
         "pub_year": "2016",
         "citation": "Journal of Mechanical Design 138 (10), 101103, 2016",
-        "num_citations": 199,
+        "num_citations": 202,
         "author_pub_id": "n2kdLOsAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -650,7 +663,7 @@
         "title": "Design Principles: The Foundation of Design",
         "pub_year": "2015",
         "citation": "ASME International Design Engineering Technical Conferences, Paper Number …, 2015",
-        "num_citations": 83,
+        "num_citations": 82,
         "author_pub_id": "n2kdLOsAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -664,7 +677,7 @@
         "title": "Design for Micro-Enterprise: An Approach to Product Design for Emerging Markets",
         "pub_year": "2013",
         "citation": "ASME 2013 International Design Engineering Technical Conferences and …, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "n2kdLOsAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -685,7 +698,7 @@
         "title": "Design information retrieval: a thesauri-based approach for reuse of informal design information",
         "pub_year": "2005",
         "citation": "Engineering with computers 21 (2), 177-192, 2005",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "n2kdLOsAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -699,7 +712,7 @@
         "title": "Design methods, tools, and outcome measures: a survey of practitioners",
         "pub_year": "2007",
         "citation": "ASME International Design Engineering Technical Conferences. 47, 2007",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "n2kdLOsAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -713,14 +726,14 @@
         "title": "Design-by-analogy: experimental evaluation of a functional analogy search methodology for concept generation improvement",
         "pub_year": "2015",
         "citation": "Research in Engineering Design 26 (1), 77-95, 2015",
-        "num_citations": 143,
+        "num_citations": 146,
         "author_pub_id": "n2kdLOsAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Designing Longevity Planning Blocks through experimental participatory observation and interviews",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "n2kdLOsAAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -824,7 +837,7 @@
         "title": "Eliciting user preference for quantitative vs. emotional information display in eco-feedback designs",
         "pub_year": "2022",
         "citation": "Research in Engineering Design 33 (1), 53-68, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "n2kdLOsAAAAJ:yB1At4FlUx8C"
     },
     {
@@ -837,20 +850,20 @@
         "title": "Ethics, Equity, & Justice in Human-Robot Interaction: A Review and Future Directions",
         "pub_year": "2022",
         "citation": "2022 31st IEEE International Conference on Robot and Human Interactive …, 2022",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "n2kdLOsAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "Evaluating Wikis as a communicative medium for collaboration within colocated and distributed engineering design teams",
         "pub_year": "2011",
         "citation": "Journal of Mechanical Design 133, 071001, 2011",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "n2kdLOsAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Evaluation of Digital Volunteers using a Design Approach: Preferences and Motivations in Disaster Response",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "n2kdLOsAAAAJ:evX43VCCuoAC"
     },
     {
@@ -870,7 +883,7 @@
         "title": "Exploration of the Use of Design Methods with the Design Structure Matrix for Integrating New Technologies into Large Complex Systems",
         "pub_year": "2012",
         "citation": "ASME International Design Engineering Technical Conferences., 2012",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "n2kdLOsAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -954,14 +967,14 @@
         "title": "Fundamental studies in Design-by-Analogy: A focus on domain-knowledge experts and applications to transactional design problems",
         "pub_year": "2014",
         "citation": "Design Studies 35 (3), 232-272, 2014",
-        "num_citations": 197,
+        "num_citations": 200,
         "author_pub_id": "n2kdLOsAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Generative Design: Reframing the Role of the Designer in Early-Stage Design Process",
         "pub_year": "2023",
         "citation": "Journal of Mechanical Design 145 (4), 041411, 2023",
-        "num_citations": 55,
+        "num_citations": 62,
         "author_pub_id": "n2kdLOsAAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -989,14 +1002,14 @@
         "title": "How It Is Made Matters: Distinguishing Traits of Designs Created by Sketches, Prototypes, and CAD",
         "pub_year": "2017",
         "citation": "ASME 2017 International Design Engineering Technical Conferences and …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "n2kdLOsAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Human behavior and domain knowledge in parameter design of complex systems",
         "pub_year": "2016",
         "citation": "Design Studies 45, 242-267, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "n2kdLOsAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -1009,7 +1022,7 @@
         "title": "Impact of prototyping resource environments and timing of awareness of constraints on idea generation in product design",
         "pub_year": "2014",
         "citation": "Technovation 34 (4), 223-231, 2014",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "n2kdLOsAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -1034,17 +1047,23 @@
         "author_pub_id": "n2kdLOsAAAAJ:Y5dfb0dijaUC"
     },
     {
+        "title": "International Design Engineering Technical Conferences and Computers and Information in Engineering Conference",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:5qfkUJPXOUwC"
+    },
+    {
         "title": "Interplay Of Sketching & Prototyping In Early Stage Product Design",
         "pub_year": "2016",
         "citation": "International Conference on Design Creativity, 2016",
-        "num_citations": 72,
+        "num_citations": 71,
         "author_pub_id": "n2kdLOsAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Interplay of sketching & prototyping in early stage product design",
         "pub_year": "2018",
         "citation": "International Journal of Design Creativity and Innovation 6 (3-4), 146-168, 2018",
-        "num_citations": 72,
+        "num_citations": 71,
         "author_pub_id": "n2kdLOsAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -1065,13 +1084,13 @@
         "title": "Investigating User Emotional Responses to Eco-Feedback Designs",
         "pub_year": "2018",
         "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "n2kdLOsAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Investigating User Emotional Responses to Eco-Feedback Designs",
         "citation": "",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "n2kdLOsAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -1106,7 +1125,7 @@
         "title": "Macro-Trend Study Under Service System: Preliminary Research in Service Innovation and Emerging Technology",
         "pub_year": "2023",
         "citation": "Service Design for Emerging Technologies Product Development: Bridging the …, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "n2kdLOsAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -1238,7 +1257,7 @@
         "title": "Parameter Design Strategies: A Comparison Between Human Designers and the Simulated Annealing Algorithm",
         "pub_year": "2015",
         "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "n2kdLOsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -1272,6 +1291,13 @@
     {
         "title": "Product Design and Development",
         "pub_year": "2020",
+        "citation": "McGraw-Hill Companies, Incorporated, 2020",
+        "num_citations": 8,
+        "author_pub_id": "n2kdLOsAAAAJ:0N-VGjzr574C"
+    },
+    {
+        "title": "Product Design and Development",
+        "pub_year": "2020",
         "citation": "McGraw-Hill Education, 7th Edition, 2020",
         "num_citations": 0,
         "author_pub_id": "n2kdLOsAAAAJ:NJ774b8OgUMC"
@@ -1284,10 +1310,24 @@
         "author_pub_id": "n2kdLOsAAAAJ:kzcrU_BdoSEC"
     },
     {
+        "title": "Product Specifications",
+        "pub_year": "2012",
+        "citation": "Product design and development, 98, 2012",
+        "num_citations": 2,
+        "author_pub_id": "n2kdLOsAAAAJ:FPJr55Dyh1AC"
+    },
+    {
+        "title": "Product design and development. 2 Penn Plaza",
+        "pub_year": "2016",
+        "citation": "New York, NY 10121, 2016",
+        "num_citations": 7,
+        "author_pub_id": "n2kdLOsAAAAJ:PVjk1bu6vJQC"
+    },
+    {
         "title": "Product design and development. International student edition",
         "pub_year": "2020",
         "citation": "McGraw-Hill, 2020",
-        "num_citations": 25,
+        "num_citations": 22,
         "author_pub_id": "n2kdLOsAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -1333,10 +1373,17 @@
         "author_pub_id": "n2kdLOsAAAAJ:Ug5p-4gJ2f0C"
     },
     {
+        "title": "Prototyping longevity services: Tech-driven or human-assiﬆed service?",
+        "pub_year": "2025",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "n2kdLOsAAAAJ:hCrLmN-GePgC"
+    },
+    {
         "title": "Prototyping styles accelerate hardware development",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "n2kdLOsAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -1350,7 +1397,7 @@
         "title": "Reading Users' Minds from What They Say: An Investigation into LLM-based Empathic Mental Inference",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.13301, 2024",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "n2kdLOsAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -1371,7 +1418,7 @@
         "title": "Representation in early stage design: An analysis of the influence of sketching and prototyping in design projects.",
         "pub_year": "2012",
         "citation": "ASME International Design Engineering Technical Conferences., 2012",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "n2kdLOsAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1385,7 +1432,7 @@
         "title": "SERVICE DESIGN IN ACTION: TRANSFORMATION, CONSIDERATION, AND SYSTEM THINKING",
         "pub_year": "2023",
         "citation": "Proceedings of the Design Society 3, 3145-3154, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "n2kdLOsAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -1405,7 +1452,7 @@
         "title": "Sketch-based interfaces for modeling and users' needs: Redefining connections",
         "pub_year": "2012",
         "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing …, 2012",
-        "num_citations": 32,
+        "num_citations": 30,
         "author_pub_id": "n2kdLOsAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -1516,14 +1563,14 @@
         "title": "The Economies and Dimensionality of Prototyping: Value, Time, Cost and Fidelity",
         "pub_year": "2018",
         "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "n2kdLOsAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "The Influence of Digital Sketching Tools on Concept Novelty and Evolution",
         "pub_year": "2024",
         "citation": "Journal of Mechanical Design 146 (3), 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "n2kdLOsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1558,7 +1605,7 @@
         "title": "The Role of Spatial-Visual Skills in a Project-Based Engineering Design Course",
         "pub_year": "2011",
         "citation": "American Society for Engineering Education, 2011",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "n2kdLOsAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -1613,7 +1660,7 @@
         "title": "The transformation of design platform under system thinking",
         "pub_year": "2023",
         "citation": "International Journal of Performance Arts and Digital Media, 1-29, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "n2kdLOsAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -1655,7 +1702,7 @@
         "title": "Understanding the role of visual appeal in consumer preference for residential solar panels",
         "pub_year": "2017",
         "citation": "Renewable Energy 113, 1569-1579, 2017",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "n2kdLOsAAAAJ:HE397vMXCloC"
     },
     {
@@ -1676,7 +1723,7 @@
         "title": "What Do We Mean When We Write About Ethics, Equity, and Justice in Engineering Design?",
         "pub_year": "2022",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "n2kdLOsAAAAJ:BUYA1_V_uYcC"
     },
     {

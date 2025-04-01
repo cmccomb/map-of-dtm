@@ -2,7 +2,7 @@
     {
         "title": "A Query Conundrum: the mental challenges of using a cognitive assistant",
         "pub_year": "2021",
-        "citation": "SN Computer Science 2, 1-15, 2021",
+        "citation": "SN Computer Science 2 (3), 194, 2021",
         "num_citations": 9,
         "author_pub_id": "yAcbM2cAAAAJ:O3NaXMp0MMsC"
     },
@@ -31,7 +31,7 @@
         "title": "Are you feeling me? An exploration of empathy development in engineering design education",
         "pub_year": "2021",
         "citation": "Journal of Mechanical Design 143 (11), 112301, 2021",
-        "num_citations": 60,
+        "num_citations": 63,
         "author_pub_id": "yAcbM2cAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -56,18 +56,18 @@
         "author_pub_id": "yAcbM2cAAAAJ:0EnyYjriUFMC"
     },
     {
-        "title": "BEST PRACTICES IN SURVEY DEVELOPMENT FOR THE EVALUATION OF STUDENT GAINS FROM ENTREPRENEURSHIP PROGRAMS AND CLASSES",
-        "pub_year": "2015",
-        "citation": "VentureWell. Proceedings of Open, the Annual Conference, 1, 2015",
-        "num_citations": 5,
-        "author_pub_id": "yAcbM2cAAAAJ:IjCSPb-OGe4C"
-    },
-    {
         "title": "BUILDing a community of female makers through hands-on experiences in a university MakerSpace",
         "pub_year": "2019",
         "citation": "2019 IEEE Frontiers in Education Conference (FIE), 1-8, 2019",
         "num_citations": 6,
         "author_pub_id": "yAcbM2cAAAAJ:IWHjjKOFINEC"
+    },
+    {
+        "title": "Best practices in survey development for evaluation of student gains from entrepreneurship programs and classes",
+        "pub_year": "2015",
+        "citation": "VentureWell open, 1-10, 2015",
+        "num_citations": 5,
+        "author_pub_id": "yAcbM2cAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Between Worlds: Exploring the links between the tangible and intangible costs of prototypes",
@@ -80,7 +80,7 @@
         "title": "Broadening participation in learning factories through industry 4.0",
         "pub_year": "2020",
         "citation": "Procedia Manufacturing 45, 534-539, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "yAcbM2cAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Can design teams be empathically creative? A simulation-based investigation on the role of team empathy on concept generation and selection",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "yAcbM2cAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Comparing human and cognitive assistant facilitated brainstorming sessions",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design 33 (4), 259-283, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "yAcbM2cAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Creating a Design for Inspectability Framework: Investigating DfAM Heuristics for Inspection Technologies",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yAcbM2cAAAAJ:maZDTaKrznsC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Crossing cultural borders: A case study of conceptual design outcomes of US and Moroccan student samples",
         "pub_year": "2022",
         "citation": "Journal of Mechanical Design 144 (3), 032301, 2022",
-        "num_citations": 7,
+        "num_citations": 10,
         "author_pub_id": "yAcbM2cAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -192,11 +192,11 @@
         "title": "Deriving effective decision-making strategies of prosthetists: Using hidden Markov modeling and qualitative analysis to compare experts and novices",
         "pub_year": "2022",
         "citation": "Human Factors 64 (1), 188-206, 2022",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "yAcbM2cAAAAJ:RYcK_YlVTxYC"
     },
     {
-        "title": "Design Practica as Authentic Assessments in First-Year Engineering Design Courses",
+        "title": "Design Practica as Authentic Assessments in First-year Engineering Design Courses",
         "pub_year": "2018",
         "citation": "2018 FYEE Conference, 2018",
         "num_citations": 5,
@@ -212,7 +212,7 @@
     {
         "title": "Designing Together: Exploring Collaborative Dynamics of Multi-Objective Design Problems in Virtual Environments",
         "pub_year": "2024",
-        "citation": "Journal of Mechanical Design 146 (3), 2024",
+        "citation": "Journal of Mechanical Design 146 (3), 031702, 2024",
         "num_citations": 3,
         "author_pub_id": "yAcbM2cAAAAJ:a0OBvERweLwC"
     },
@@ -220,7 +220,7 @@
         "title": "Detection of system compromise in additive manufacturing using video motion magnification",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (3), 031109, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "yAcbM2cAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Exploring the effects of cognitive style diversity and self-efficacy beliefs on final design attributes in student design teams",
         "pub_year": "2019",
         "citation": "Design Studies 60, 71-102, 2019",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "yAcbM2cAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -351,7 +351,7 @@
     {
         "title": "Guided STEM Activity Kits for Parents With Preschool Children: Design, Frequency of Use, and Parent Evaluation",
         "pub_year": "2024",
-        "citation": "Journal of Research in Childhood Education, 1-19, 2024",
+        "citation": "Journal of Research in Childhood Education 38 (4), 540-558, 2024",
         "num_citations": 2,
         "author_pub_id": "yAcbM2cAAAAJ:NhqRSupF_l8C"
     },
@@ -372,7 +372,7 @@
     {
         "title": "Identifying Key Factors of Engineering Innovativeness",
         "pub_year": "2015",
-        "citation": "2015 ASEE Annual Conference & Exposition, 2015",
+        "citation": "2015 ASEE Annual Conference & Exposition, 26.875. 1-26.875. 8, 2015",
         "num_citations": 0,
         "author_pub_id": "yAcbM2cAAAAJ:Se3iqnhoufwC"
     },
@@ -386,8 +386,8 @@
     {
         "title": "If you build it, will they understand? Considerations for creating shared understanding through design artifacts",
         "pub_year": "2024",
-        "citation": "Journal of Mechanical Design, 1-45, 2024",
-        "num_citations": 2,
+        "citation": "Journal of Mechanical Design 146 (3), 031404, 2024",
+        "num_citations": 3,
         "author_pub_id": "yAcbM2cAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -440,7 +440,7 @@
         "author_pub_id": "yAcbM2cAAAAJ:_xSYboBqXhAC"
     },
     {
-        "title": "Mining Literature to Identify Factors Influencing Prosthetic Prescription and Rehabilitation of Persons With Lower-Limb Amputations",
+        "title": "Mining literature to identify factors influencing prosthetic prescription and rehabilitation of persons with lower-limb amputations",
         "pub_year": "2023",
         "citation": "JPO: Journal of Prosthetics and Orthotics 35 (3), 131-138, 2023",
         "num_citations": 1,
@@ -471,14 +471,14 @@
         "title": "On the Analysis of a Compromised Additive Manufacturing System Using Spatio-Temporal Decomposition",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yAcbM2cAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Opening the black box: Developing metrics to assess the cognitive processes of prototyping",
         "pub_year": "2020",
         "citation": "Design Studies 70, 100964, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "yAcbM2cAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -499,7 +499,7 @@
         "title": "Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design",
         "pub_year": "2017",
         "citation": "Design Studies 50, 70-112, 2017",
-        "num_citations": 177,
+        "num_citations": 179,
         "author_pub_id": "yAcbM2cAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -513,7 +513,7 @@
         "title": "Prototyping canvas: Design tool for planning purposeful prototypes",
         "pub_year": "2019",
         "citation": "Proceedings of the design society: international conference on engineering …, 2019",
-        "num_citations": 82,
+        "num_citations": 81,
         "author_pub_id": "yAcbM2cAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -541,7 +541,7 @@
         "title": "Roughing It: Evaluating a Novel Experiential Design Course on Resiliency, Self-Leadership, and Engineering Design Self-Efficacy",
         "pub_year": "2020",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yAcbM2cAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -568,7 +568,7 @@
         "title": "The Characteristics of Engineering Innovativeness: A Cognitive Mapping and Review of Instruments",
         "pub_year": "2016",
         "citation": "International Journal of Engineering Education 32 (1A), 64-83, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "yAcbM2cAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -577,13 +577,6 @@
         "citation": "Journal of Mechanical Design 145 (10), 101401, 2023",
         "num_citations": 3,
         "author_pub_id": "yAcbM2cAAAAJ:dfsIfKJdRG4C"
-    },
-    {
-        "title": "The Cognitive Costs of Design Tasks: The Evolution of Cognitive Load in Design and Its Relationship With Design Outcomes",
-        "pub_year": "2022",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
-        "num_citations": 2,
-        "author_pub_id": "yAcbM2cAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "The Effects of Incubation, Fixation Stimuli, and Working Memory Capacity on Design Fixation",
@@ -613,6 +606,20 @@
         "author_pub_id": "yAcbM2cAAAAJ:abG-DnoFyZgC"
     },
     {
+        "title": "The cognitive costs of design tasks: The evolution of cognitive load in design and its relationship with design outcomes",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022",
+        "num_citations": 3,
+        "author_pub_id": "yAcbM2cAAAAJ:HoB7MX3m0LUC"
+    },
+    {
+        "title": "The impact of visual fidelity on screen-based virtual reality food choices: A randomized pilot study",
+        "pub_year": "2025",
+        "citation": "PloS one 20 (1), e0312772, 2025",
+        "num_citations": 0,
+        "author_pub_id": "yAcbM2cAAAAJ:dshw04ExmUIC"
+    },
+    {
         "title": "The prototype for X framework: assessing impact on self-reported prototyping behavior of student designers",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (4), 042001, 2019",
@@ -623,21 +630,21 @@
         "title": "The prototype for X framework: exploring the effects of a structured prototyping framework on functional prototypes",
         "pub_year": "2018",
         "citation": "Research in Engineering Design, 2018",
-        "num_citations": 48,
+        "num_citations": 51,
         "author_pub_id": "yAcbM2cAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "The prototyping behaviors of startups: Exploring the relationship between prototyping behavior and the financial success of startups",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "yAcbM2cAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "The prototyping behaviors of startups: Exploring the relationship between prototyping behaviors and startup strategies",
         "pub_year": "2020",
         "citation": "Journal of Mechanical Design 142 (3), 031107, 2020",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "yAcbM2cAAAAJ:4DMP91E08xMC"
     },
     {
@@ -658,7 +665,7 @@
         "title": "The story novice designers tell: How rhetorical structures and prototyping shape communication with external audiences",
         "pub_year": "2022",
         "citation": "Design Studies 82, 101133, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "yAcbM2cAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -693,7 +700,7 @@
         "title": "Uncovering the Relationship between Perceptions of Psychological Safety, Entrepreneurial Self-Efficacy, and Entrepreneurial Bricolage Behaviors",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "yAcbM2cAAAAJ:rO6llkc54NcC"
     },
     {
@@ -706,21 +713,21 @@
     {
         "title": "Using an Instrument Blueprint to Support the Rigorous Development of New Surveys and Assessments in Engineering Education",
         "citation": "",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "yAcbM2cAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Using workplace thriving theory to investigate first‐year engineering students' abilities to thrive during the transition to online learning due to COVID‐19",
         "pub_year": "2022",
         "citation": "Journal of Engineering Education 111 (2), 474-493, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "yAcbM2cAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "When are designers willing to take risks? How concept creativity and prototype fidelity influence perceived risk",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Design 141 (3), 031104, 2019",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "yAcbM2cAAAAJ:kNdYIx-mwKoC"
     },
     {

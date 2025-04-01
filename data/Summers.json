@@ -168,7 +168,7 @@
         "title": "A case study in line balancing and simulation",
         "pub_year": "2020",
         "citation": "Procedia Manufacturing 48, 71-81, 2020",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:pQthLKZIaNQC"
     },
     {
@@ -189,7 +189,7 @@
         "title": "A case study of the effects of design project length on team collaboration and leadership in senior mechanical engineering projects",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PXClXlsAAAAJ:1u-ON_Kw9acC"
     },
     {
@@ -217,7 +217,7 @@
         "title": "A cost estimation model to support automation decision in assembly systems design",
         "pub_year": "2018",
         "citation": "International Journal of Production Research 56 (24), 7426-7443, 2018",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:dw2rCEx0FpQC"
     },
     {
@@ -273,14 +273,14 @@
         "title": "A hierarchical requirements modeling scheme to support engineering innovation",
         "pub_year": "2007",
         "citation": "International Conference for Engineering Design, Paris, France, 2007",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "PXClXlsAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "A knowledge based FMEA to support identification and management of vehicle flexible component issues",
         "pub_year": "2016",
         "citation": "Procedia Cirp 44, 157-162, 2016",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "PXClXlsAAAAJ:7fE6T6CK6bcC"
     },
     {
@@ -329,7 +329,7 @@
         "title": "A practical guide to interviewing as a method for data gathering in engineering design research",
         "pub_year": "2023",
         "citation": "Journal of Design Research 21 (2), 152-176, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:nazVBdFzvK0C"
     },
     {
@@ -364,7 +364,7 @@
         "title": "A retrospective study of the motivations and perceptions of industry sponsors and academia regarding mechanical engineering capstone design program",
         "pub_year": "2015",
         "citation": "Clemson University, 2015",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:q93lAJlLO_MC"
     },
     {
@@ -378,7 +378,7 @@
         "title": "A review of cost estimation models for determining assembly automation level",
         "pub_year": "2016",
         "citation": "Computers & Industrial Engineering 98, 246-259, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "PXClXlsAAAAJ:KjnAay3C9J8C"
     },
     {
@@ -399,7 +399,7 @@
         "title": "A study of project cost management based on requirements analysis",
         "pub_year": "2016",
         "citation": "International Journal of Biomedical Soft Computing and Human Sciences: the …, 2016",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "PXClXlsAAAAJ:wRp7bqO99tsC"
     },
     {
@@ -504,7 +504,7 @@
         "title": "A verification and validation planning method to address change propagation effects in engineering design and manufacturing",
         "pub_year": "2017",
         "citation": "Concurrent Engineering 25 (2), 151-162, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "PXClXlsAAAAJ:RTQXeVVbsVUC"
     },
     {
@@ -580,7 +580,7 @@
         "title": "Aligning a collaborative resistance model with a change management process: a case study in automation in industry",
         "pub_year": "2024",
         "citation": "Journal of Engineering Design 35 (12), 1550-1574, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:ihjKul7GT4YC"
     },
     {
@@ -842,10 +842,17 @@
         "author_pub_id": "PXClXlsAAAAJ:maZDTaKrznsC"
     },
     {
+        "title": "Assessing Teamwork Learning: A Heuristics Authoring Approach",
+        "pub_year": "2024",
+        "citation": "INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION 40 (6), 1390-1401, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PXClXlsAAAAJ:OJBCU0UFcNkC"
+    },
+    {
         "title": "Assessing design research quality: Investigating verification and validation criteria",
         "pub_year": "2013",
         "citation": "DS 75-2: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PXClXlsAAAAJ:IMJZBBnUFLgC"
     },
     {
@@ -956,7 +963,7 @@
         "title": "Case study method for design research: A justification",
         "pub_year": "2008",
         "citation": "International design engineering technical conferences and computers and …, 2008",
-        "num_citations": 335,
+        "num_citations": 340,
         "author_pub_id": "PXClXlsAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -984,7 +991,7 @@
         "title": "Case study: evidence of prototyping roles in conceptual design",
         "pub_year": "2013",
         "citation": "DS 75-1: Proceedings of the 19th International Conference on Engineering …, 2013",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "PXClXlsAAAAJ:CmeMDzcFUg4C"
     },
     {
@@ -1047,7 +1054,7 @@
         "title": "Collaborative Sketching (C‐Sketch)—An idea generation technique for engineering design",
         "pub_year": "2001",
         "citation": "The Journal of Creative Behavior 35 (3), 168-198, 2001",
-        "num_citations": 422,
+        "num_citations": 424,
         "author_pub_id": "PXClXlsAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1103,7 +1110,7 @@
         "title": "Comparing Change Management Processes for Requirements and Manufacturing: An Interview Based Study",
         "pub_year": "2021",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2021",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "PXClXlsAAAAJ:U5I91ptAnUUC"
     },
     {
@@ -1124,7 +1131,7 @@
         "title": "Comparison of motivations and perceptions of capstone benefits for industry sponsors: An interview-based study of faculty and industry",
         "pub_year": "2022",
         "citation": "International Journal of Mechanical Engineering Education 50 (2), 269-290, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PXClXlsAAAAJ:vQKLzKM0twkC"
     },
     {
@@ -1159,7 +1166,7 @@
         "title": "Compliant hexagonal periodic lattice structures having both high shear strength and high shear strain",
         "pub_year": "2011",
         "citation": "Materials & Design 32 (2), 512-524, 2011",
-        "num_citations": 207,
+        "num_citations": 212,
         "author_pub_id": "PXClXlsAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1180,7 +1187,7 @@
         "title": "Computer-aided design versus sketching: An exploratory case study",
         "pub_year": "2012",
         "citation": "AI EDAM 26 (3), 317-335, 2012",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "PXClXlsAAAAJ:Ehil0879vHcC"
     },
     {
@@ -1194,7 +1201,7 @@
         "title": "Concept exploration through morphological charts: an experimental study",
         "pub_year": "2012",
         "citation": "Journal of mechanical design 134 (5), 051004, 2012",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "PXClXlsAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -1215,7 +1222,7 @@
         "title": "Configuration and options management processes and tools: an automotive OEM case study",
         "pub_year": "2017",
         "citation": "Journal of Manufacturing Technology Management 28 (2), 146-168, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "PXClXlsAAAAJ:SxVRRePJDnEC"
     },
     {
@@ -1243,7 +1250,7 @@
         "title": "Corporate requirement culture in development of a large scale medical system: A case study",
         "pub_year": "2018",
         "citation": "DS 92: Proceedings of the DESIGN 2018 15th International Design Conference …, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "PXClXlsAAAAJ:rMJ1_5uPwdAC"
     },
     {
@@ -1257,7 +1264,7 @@
         "title": "Cost estimation model for polyacrylonitrile-based carbon fiber manufacturing process",
         "pub_year": "2017",
         "citation": "Journal of manufacturing science and engineering 139 (4), 041011, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "PXClXlsAAAAJ:nlKf13ul9_IC"
     },
     {
@@ -1402,14 +1409,14 @@
         "title": "Design method development: A case study and survey",
         "pub_year": "2008",
         "citation": "in proceedings of the TMCE, 21-25, 2008",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "PXClXlsAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Design of Honeycomb Mesostructures for Crushing Energy Absorption",
         "pub_year": "2012",
         "citation": "Journal of mechanical design 134 (7), 2012",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "PXClXlsAAAAJ:artPoR2Yc-kC"
     },
     {
@@ -1457,7 +1464,7 @@
         "title": "Design of chiral honeycomb meso-structures for high shear flexure",
         "pub_year": "2010",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2010",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "PXClXlsAAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -1618,7 +1625,7 @@
         "title": "Development of a systematic classification and taxonomy of collaborative design activities",
         "pub_year": "2009",
         "citation": "Journal of Engineering Design 20 (1), 57-81, 2009",
-        "num_citations": 146,
+        "num_citations": 149,
         "author_pub_id": "PXClXlsAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1660,7 +1667,7 @@
         "title": "Domain-Independent Design Theory and Methodology to Boost the Adoption of Design Methods",
         "pub_year": "2023",
         "citation": "Journal of Integrated Design and Process Science, 1-12, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:pGq6TLPqxssC"
     },
     {
@@ -1771,7 +1778,7 @@
         "title": "Engineering Design Education: Assessing Student Learning in Cornerstone Through Capstone Programs",
         "pub_year": "2024",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:sr8OKcTvXucC"
     },
     {
@@ -1980,7 +1987,7 @@
         "title": "Experimental design research",
         "pub_year": "2016",
         "citation": "Cham: Springer International Publishing, 2016",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "PXClXlsAAAAJ:kVZqXsXrJl0C"
     },
     {
@@ -2189,7 +2196,7 @@
         "title": "Function ordering within morphological charts: an experimental study",
         "pub_year": "2018",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2018",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "PXClXlsAAAAJ:xqLzqkGRDkQC"
     },
     {
@@ -2320,7 +2327,7 @@
         "title": "Impact of design research on industrial practice",
         "pub_year": "2016",
         "citation": "Impact of Design Research on Industrial Practice, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "PXClXlsAAAAJ:jmwITWCuk8IC"
     },
     {
@@ -2383,7 +2390,7 @@
         "title": "Influence of design representation on effectiveness of idea generation",
         "pub_year": "2001",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "PXClXlsAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -2509,7 +2516,7 @@
         "title": "Investigating the impact of requirements elicitation and evolution on course performance in a pre-capstone design course",
         "pub_year": "2019",
         "citation": "Journal of Engineering Design 30 (4-5), 155-179, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "PXClXlsAAAAJ:hL4nnw0dEwcC"
     },
     {
@@ -2655,7 +2662,7 @@
         "title": "Literature based review of a collaborative design taxonomy",
         "pub_year": "2017",
         "citation": "DS 87-8 Proceedings of the 21st International Conference on Engineering …, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "PXClXlsAAAAJ:wEOyVsangm4C"
     },
     {
@@ -2850,7 +2857,7 @@
         "title": "New design: opportunities for engineering design in an era of digital transformation",
         "pub_year": "2022",
         "citation": "Journal of Engineering Design 33 (10), 685-690, 2022",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "PXClXlsAAAAJ:4ZjPyBmb-CUC"
     },
     {
@@ -2927,7 +2934,7 @@
         "title": "Numerical simulation of new generation non-pneumatic tire (Tweel™) and sand",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "PXClXlsAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -2948,7 +2955,7 @@
         "title": "Optimisation of geometry and material properties of a non-pneumatic tyre for reducing rolling resistance",
         "pub_year": "2014",
         "citation": "International Journal of Vehicle Design 66 (2), 193-216, 2014",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "PXClXlsAAAAJ:iKmOvsfbmGkC"
     },
     {
@@ -2990,7 +2997,7 @@
         "title": "Part Change Management: A Case Study on Automotive Engineering and Production; Domestic and International Perspectives",
         "pub_year": "2023",
         "citation": "ASME Open Journal of Engineering 2, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "PXClXlsAAAAJ:uENYxwZKF5gC"
     },
     {
@@ -3039,7 +3046,7 @@
         "title": "Predicting requirement change propagation, using higher order design structure matrices: an industry case study",
         "pub_year": "2012",
         "citation": "Journal of Engineering Design 23 (12), 905-926, 2012",
-        "num_citations": 160,
+        "num_citations": 162,
         "author_pub_id": "PXClXlsAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -3109,7 +3116,7 @@
         "title": "Reasons for change propagation: a case study in an automotive OEM",
         "pub_year": "2012",
         "citation": "Research in Engineering Design, 1-13, 2012",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "PXClXlsAAAAJ:5MTHONV0fEkC"
     },
     {
@@ -3144,7 +3151,7 @@
         "title": "Representation in engineering design: a framework for classification",
         "pub_year": "2004",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2004",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "PXClXlsAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -3200,7 +3207,7 @@
         "title": "Representation: Formal Development and Computational Recognition of Localized Change Types",
         "pub_year": "2012",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2012",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "PXClXlsAAAAJ:IjbvboqL_eAC"
     },
     {
@@ -3235,7 +3242,7 @@
         "title": "Requirement generation: Lecture intervention impact on variety and novelty",
         "pub_year": "2019",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2019",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "PXClXlsAAAAJ:m7gEShFDljgC"
     },
     {
@@ -3249,7 +3256,7 @@
         "title": "Requirements Analysis: Case study with Capstone Design Project",
         "pub_year": "2012",
         "citation": "National Capstone Conference 2012, Champaign-Urbana, IL, No. 67, 2012",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "PXClXlsAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -3257,6 +3264,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "PXClXlsAAAAJ:PjKh-f16SfUC"
+    },
+    {
+        "title": "Requirements Culture in Industry: Contrasting Perspectives from a Startup and Global Company",
+        "pub_year": "2025",
+        "citation": "Journal of Mechanical Design, 1-26, 2025",
+        "num_citations": 0,
+        "author_pub_id": "PXClXlsAAAAJ:ChsjQIg5EFEC"
     },
     {
         "title": "Requirements Generation: Lecture Intervention Impact on Quantity",
@@ -3269,7 +3283,7 @@
         "title": "Requirements and data content evaluation of industry in-house data management system",
         "pub_year": "2010",
         "citation": "International design engineering technical conferences and computers and …, 2010",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PXClXlsAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -3290,14 +3304,14 @@
         "title": "Requirements evolution: Relating functional and non-functional requirement change on student project success",
         "pub_year": "2014",
         "citation": "International design engineering technical conferences and computers and …, 2014",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "PXClXlsAAAAJ:m5Mwo8ouzesC"
     },
     {
         "title": "Requirements evolution: Understanding the type of changes in the requirement document of novice designers",
         "pub_year": "2014",
         "citation": "ICoRD’15–Research into Design Across Boundaries Volume 2: Creativity …, 2014",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PXClXlsAAAAJ:RGp4dj-Wy-oC"
     },
     {
@@ -3394,7 +3408,7 @@
         "title": "Sampling in design research: Eight key considerations",
         "pub_year": "2022",
         "citation": "Design studies 78, 101077, 2022",
-        "num_citations": 240,
+        "num_citations": 251,
         "author_pub_id": "PXClXlsAAAAJ:sduUCncrepAC"
     },
     {
@@ -3492,14 +3506,14 @@
         "title": "Size effects in lattice-structured cellular materials: material distribution",
         "pub_year": "2019",
         "citation": "Journal of Materials Science 54 (18), 11858-11877, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "PXClXlsAAAAJ:Z1-ZXlhpk50C"
     },
     {
         "title": "Smart Product Engineering: Proceedings of the 23rd CIRP Design Conference, Bochum, Germany, March 11th-13th, 2013",
         "pub_year": "2013",
         "citation": "Springer Science & Business Media, 2013",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "PXClXlsAAAAJ:0765WKWsAZMC"
     },
     {
@@ -3639,7 +3653,7 @@
         "title": "The Change Management Process for Automation Implementations",
         "pub_year": "2020",
         "citation": "Clemson University, 2020",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "PXClXlsAAAAJ:v-tg9Wi2VGwC"
     },
     {
@@ -3736,7 +3750,7 @@
         "title": "Tool and Information Centric Design Process Modeling:  Three Case Studies",
         "pub_year": "2011",
         "citation": "Handbook of Research on Trends in Product Design and Development, ISBN: 1 …, 2011",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "PXClXlsAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -3785,7 +3799,7 @@
         "title": "Towards the formalization of non-functional requirements in conceptual design",
         "pub_year": "2020",
         "citation": "Research in engineering design 31, 449-469, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "PXClXlsAAAAJ:0nST21YUXoUC"
     },
     {
